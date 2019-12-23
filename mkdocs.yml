@@ -1,7 +1,7 @@
 site_name: Nick's Recipes
-# repo_url: https://github.com/vogt4nick/recipes.vogt4nick.com
 site_description: Nick's Recipes
-site_author: Nick Vogt
+# repo_url: https://github.com/vogt4nick/recipes.vogt4nick.com
+# site_author: Nick Vogt
 copyright: Nick Vogt, 2019
 docs_dir: recipes
 nav:

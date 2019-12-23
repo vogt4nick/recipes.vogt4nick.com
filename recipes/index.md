@@ -20,4 +20,3 @@ I use the metric system in these recipes for easier measurements. You can look u
 ## Measurements
 
 For the most part I measure liquids and fine solids (e.g. flour) by volume, and solids by mass. There are some exceptions; e.g. butter is measured as volume.
-
