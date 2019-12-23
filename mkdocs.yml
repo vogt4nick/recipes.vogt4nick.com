@@ -1,0 +1,19 @@
+site_name: Nick's Recipes
+# repo_url: https://github.com/vogt4nick/recipes.vogt4nick.com
+site_description: Nick's Recipes
+site_author: Nick Vogt
+copyright: Nick Vogt, 2019
+docs_dir: recipes
+nav:
+    - Home: index.md
+    - Main Dishes: main-dishes.md
+    - Sides: sides.md
+    - Desserts: desserts.md
+    - Potlucks: potlucks.md
+    - Food Lab: food-lab.md
+theme: mkdocs
+markdown_extensions:
+    - toc:
+        permalink: "#"
+        baselevel: 2
+        separator: "_"
