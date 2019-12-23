@@ -42,6 +42,10 @@
 
 ## Curried Pork
 
+Pairs very nicely with [yellow rice](sides.md#yellow_rice).
+
+Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/).
+
 |||
 |:--|:--|
 | 15 mL | Curry Powder
