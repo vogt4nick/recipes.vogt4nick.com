@@ -1,8 +1,8 @@
 # Main Dishes
 
-## Loaded French Onion Soup
+---
 
-**Ingredients**
+## Loaded French Onion Soup
 
 |||
 |:--|:--|
@@ -19,8 +19,6 @@
 | 5 mL  | Salt
 | 5 mL  | White Pepper
 | 15 mL | Sherry (optional)
-
-**Directions**
 
 1. Bake bacon at 425F (220C) for 15 minutes. Reserve bacon drippings as *bacon drippings*. Dice bacon. Reserve as bacon bits. 
 
@@ -40,10 +38,9 @@
 * Substitute a homemade vegetable broth with a mirepoix base for more vegetable flavor.  
 * Carmelize onions until they are deep brown for a very sweet soup.
 
+---
 
 ## Curried Pork
-
-**Ingredients**
 
 |||
 |:--|:--|
@@ -57,8 +54,6 @@
 | 110 g | Yellow Onion, finely chopped
 | 400 g | Tomatoes, diced
 | 360 g | Green Peas, frozen
-
-**Directions**
 
 1. Mix spices in a small bowl. Coat pork with spices (e.g. shake together in a ziplock bag). Set aside as *prepared pork*.
 2. Heat olive oil in a large pan over medium-high heat. Add onion to pan. Cook for 8 minutes, stirring every 3 minutes. Add tomatoes and *prepared pork*. Cook 15 minutes or until pork is cooked and tomatoes break down. Reduce heat to low. Cover. Simmer 20 minutes. 
