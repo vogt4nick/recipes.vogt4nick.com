@@ -9,7 +9,7 @@ nav:
     - Main Dishes: main-dishes.md
     - Sides: sides.md
     - Desserts: desserts.md
-    - Potlucks: potlucks.md
+    - Potluck Favorites: potlucks.md
     - Food Lab: food-lab.md
 theme: mkdocs
 markdown_extensions:
