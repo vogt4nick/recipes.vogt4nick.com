@@ -9,12 +9,12 @@ I use the metric system in these recipes for more consistent measurements. You c
 
 | Metric | Imperial |
 |:--|:--|
-| 5 mL | 1 Teaspoon |
-| 15 mL | 1 Tablespoon |
-| 30 mL | 1 Fluid Ounce |
-| 240 mL | 1 Cup |
-| 28 g | 1 Ounce |
-| 450 g | 1 Pound |
+| 5 mL   | 1 Teaspoon
+| 15 mL  | 1 Tablespoon
+| 30 mL  | 1 Fluid Ounce
+| 240 mL | 1 Cup
+| 28 g   | 1 Ounce
+| 450 g  | 1 Pound
 
 
 ## Measurements
