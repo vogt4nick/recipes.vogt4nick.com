@@ -8,7 +8,7 @@ nav:
     - Home: index.md
     - Main Dishes: main-dishes.md
     - Sides: sides.md
-    - Desserts: desserts.md
+    # - Desserts: desserts.md
     - Potluck Favorites: potlucks.md
     - Food Lab: food-lab.md
 theme: mkdocs
