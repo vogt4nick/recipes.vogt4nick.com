@@ -109,13 +109,15 @@ Servings: 2-3 servings; 1 Pasty
 | 60 mL   | Water, cold
 | 1000 mL | Salt Water
 | 50 g    | Turnip, finely chopped
-| 50 g    | Parsnip, finely chopped
+| 50 g    | Parsnip*, finely chopped
 | 50 g    | Potato, chopped
 | 50 g    | Onion, finely chopped
 | 50 g    | Celery, finely chopped
 | 100 g   | Beef, chopped
 | 15 mL   | Parsley
 | 1       | Egg
+
+*Substitute carrots for parsnips in a pinch
 
 1. Preheat oven to 350F (180C).
 2. Add flour baking powder, butter, 1 egg yolk, salt, water to food processor. Mix until mixture resembles bread crumbs. Gradually add water 15 mL at a time as necessary. Mix continuously until mixture resembles dough.
