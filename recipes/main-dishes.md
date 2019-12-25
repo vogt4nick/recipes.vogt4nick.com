@@ -90,3 +90,37 @@ Pronounced with a [voiced bilabial trill](https://www.youtube.com/watch?v=0uGL-k
 
 * This is a good recipe for trying different blends of your own, so get creative with the spices.
 * You can also brine the chicken by covering the bowl and refrigerating for up to 6 hours.
+
+---
+
+## Yooper Beef Wellington
+
+These make large pasties about the size of a loaf of bread. Serve them by slicing the "loaf" like some kind of yooper beef wellington (hence the name). If you prefer smaller, handheld pasties, reduce the meat mixture by half. Inspired by [Hairy Bikers' Cornish Pasties](https://www.hairybikers.com/recipes/view/cornish-pasty).
+
+Servings: 2-3 servings; 1 Pasty
+
+|||
+|:--|:--|
+| 225 g   | Flour
+| 5 mL    | Baking Powder
+| 120 mL  | Butter, unsalted, cold
+| 1       | Egg Yolk
+| 5 mL    | Salt
+| 60 mL   | Water, cold
+| 1000 mL | Salt Water
+| 50 g    | Turnip, finely chopped
+| 50 g    | Parsnip, finely chopped
+| 50 g    | Potato, chopped
+| 50 g    | Onion, finely chopped
+| 50 g    | Celery, finely chopped
+| 100 g   | Beef, chopped
+| 15 mL   | Parsley
+| 1       | Egg
+
+1. Preheat oven to 350F (180C).
+2. Add flour baking powder, butter, 1 egg yolk, salt, water to food processor. Mix until mixture resembles bread crumbs. Gradually add water 15 mL at a time as necessary. Mix continuously until mixture resembles dough.
+3. Roll dough into a ball. Wrap in cling film. Chill 10-20 minutes in freezer. Referenced later as *chilled pasty dough*.
+4. Boil salt water. Add turnip, parsnip, and potato. Blanch 4-5 minutes until tender. Drain. Rinse with cold water. Mix onion, celery, and beef. Mix evenly. Referenced later as *pasty filling*.
+5. Beat remaining egg in a small bowl. Set aside as *egg wash*.
+6. Lay dough on a clean, floured surface. Roll out as large disc 6 mm (1/4") thick. Add *pasty filling* in a line down the middle of the pasty disc. Brush the edge of pasty disc with some egg wash. Draw the edges of the pasty together. Crimp and seal so that the seal sits on top of the filling. Make a small hole in the top of the pasty. Brush with remaining egg wash.
+7. Arrange pasty on greased baking tray. Bake 30 minutes at 350F until golden-brown.
