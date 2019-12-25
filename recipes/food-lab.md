@@ -70,6 +70,37 @@ Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.com/r/Gif
 
 ---
 
+## Sweet Potato Tacos
+
+Inspired by [El Arboria Taqueria](https://goo.gl/maps/5rY1W9N4L1KLBRGN8) and [Sweet Potato Tacos](https://smittenkitchen.com/2018/03/sweet-potato-tacos/).
+
+|||
+|:--|:--|
+| 220 g | Refried Beans
+| 110 g | Mozzarella, shredded, optional
+| 450 g | Sweet Potatoes, peeled, cubed
+| 5 mL  | Salt
+| 15 mL | Olive Oil
+| 2 mL  | Salt
+| 2 mL  | Cumin
+| 2 mL  | Paprika
+| 2 mL  | Garlic, minced
+| 2 mL  | Cayenne Pepper Powder
+| 2 mL  | Hot Curry Powder, optional
+| 6     | Small Tortillas (about 15 cm or 6")
+| 15 mL | Lime Juice
+| 60 mL | Cilantro
+
+1. Preheat oven to 425F (220C).
+2. Add beans and mozzarella to saucepan. Cover. Warm over low heat. Referenced later as *warm refried beans*.
+3. Add sweet potatoes to stock pan. Add enough cold water to cover the potatoes. Add salt. Stir. Bring to boil. Reduce heat to low. Simmer 5 minutes until 3/4 cooked. Drain.
+4. Add boiled potatoes and olive oil to large bowl. Coat sweet potato evenly. Add spices. Coat sweet potatoes evenly.
+5. Transfer spiced sweet potatoes to a greased sheet pan. Roast at 425F for 15 minutes. Toss potatoes. Roast for 10 minutes. Remove from oven and set aside as roasted vegetables.
+6. Spread refried beans on tortillas. Add ~80 g of roasted vegetables to each tortilla. Garnish with lime juice and cilantro.
+
+
+---
+
 ## Yooper Beef Wellington
 
 These make large pasties about the size of a loaf of bread. Serve them by slicing the "loaf" like some kind of yooper beef wellington (hence the name). If you prefer smaller, handheld pasties, reduce the meat mixture by half. Inspired by [Hairy Bikers' Cornish Pasties](https://www.hairybikers.com/recipes/view/cornish-pasty).
