@@ -2,10 +2,9 @@
 
 I made this website because I didn't enjoy searching for recipes on my Google Drive.
 
-
 ## Metric Conversion Table
 
-I use the metric system in these recipes for easier measurements. You can look up the conversions, but here are the only ones I keep on top of my head:
+I use the metric system in these recipes for most consistent measurements. You can look up the conversions, but here are the only ones I keep on top of my head:
 
 | Metric | Imperial |
 |:--|:--|
