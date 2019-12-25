@@ -1,7 +1,3 @@
-# Main Dishes
-
-
----
 
 ## Curried Pork
 

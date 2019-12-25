@@ -1,6 +1,3 @@
-# Sides
-
----
 
 ## Yellow Rice
 

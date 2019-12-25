@@ -1,6 +1,3 @@
-# Potluck Favorites
-
----
 
 ## Mozzarella Stuffed Meatballs
 
