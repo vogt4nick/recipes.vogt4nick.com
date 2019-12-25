@@ -1,39 +1,11 @@
 # Main Dishes
 
----
-
-## BBRRR Chicken
-
-Pronounced with a [voiced bilabial trill](https://www.youtube.com/watch?v=0uGL-k_DyDY). BBRRR chicken is so named for the Brine-Brush-Rub-Roast-Rest method. Ideal for green leaf salad, chicken salad, sandwiches, and anywhere you may substitute rotisserie chicken.  Inspired by [Baked Chicken Breast](https://www.gimmesomeoven.com/baked-chicken-breast/).
-
-|||
-|:--|:--|
-| 1000 mL | Water, warm
-| 60 mL   | Salt
-| 2       | Chicken Breasts, boneless, skinless
-| 30 mL   | Butter, unsalted, melted
-| 20 mL   | Garlic, minced
-| 2 mL    | Paprika
-| 2 mL    | Salt
-| 2 mL    | Pepper
-
-1. Preheat oven to 450F (230C).
-2. Add water and salt to large bowl. Mix. Add chicken breasts. Brine for 15-30 minutes. Remove the chicken from brine. Pat dry with paper towels. Referenced later as *brined chicken*.
-3. Melt butter in small bowl. Add garlic. Mix. Set aside as *garlic butter*.
-4. Place *brined chicken* on greased sheet pan. Brush *garlic butter* evenly on both sides. Season with remaining spices. Roast 20 minutes at 450F until cooked.
-5. Transfer the chicken to a clean plate. Tent with aluminum foil. Rest 5-10 minutes.
-
-**Tips & Tricks**
-
-* This is a good recipe for trying different blends of your own, so get creative with the spices.
-* You can also brine the chicken by covering the bowl and refrigerating for up to 6 hours.
-
 
 ---
 
 ## Curried Pork
 
-Pairs very nicely with [yellow rice](sides.md#yellow_rice).
+Pairs very nicely with [yellow rice](sides.md#yellow-rice).
 
 Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/).
 
@@ -53,6 +25,37 @@ Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/2670
 1. Mix spices in a small bowl. Coat pork with spices (e.g. shake together in a ziplock bag). Set aside as *prepared pork*.
 2. Heat olive oil in a large pan over medium-high heat. Add onion to pan. Cook for 8 minutes, stirring every 3 minutes. Add tomatoes and *prepared pork*. Cook 15 minutes or until pork is cooked and tomatoes break down. Reduce heat to low. Cover. Simmer 20 minutes.
 3. Add frozen green peas. Mix well. Cook 10 minutes.
+
+
+---
+
+## Enchiladas
+
+Ideal with leftover [BBRRR chicken](retired-recipes.md#bbrrr-chicken). Inspired by [Creamy Chicken Enchiladas](https://www.tasteofhome.com/recipes/creamy-chicken-enchiladas/).
+
+|||
+|:--|:--|
+| 225 g  | Cream Cheese, softened
+| 8 mL   | Onion Powder
+| 8 mL   | Cumin
+| 2 mL   | Salt
+| 2 mL   | Pepper
+| 30 mL  | Water, cold
+| 450 g  | Refried Beans
+| 450 g  | Chicken, cooked, diced
+| 8      | Flour Tortilla
+| 300 g  | Cream of Chicken Soup
+| 240 mL | Sour Cream
+| 120 mL | Milk
+| 110 g  | Green Chiles, chopped
+| 225 g  | Cheddar Cheese, shredded
+
+
+1. Preheat oven to 350F (175C).
+2. Add cream of chicken, sour cream, milk, and green chiles to large bowl. Mix evenly. Referenced later as *enchilada sauce*.
+3. Add cheese, spices, and water to large bowl. Mix until smooth. Add beans and chicken. Mix evenly. Referenced later as *chicken mixture*.
+4. Grease 13" x 9" baking dish. Add 110 g of *chicken mixture* to each tortilla. Roll and place seam side down in baking dish. Cover with *enchilada sauce*. Bake, uncovered, 35 minutes until heated through.
+5. Layer cheese over enchiladas. Bake 5 minutes until cheese is melted.
 
 
 ---
@@ -92,69 +95,3 @@ Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/2670
 * Place loose leaf herbs in a steel ball tea infuser for seasoning your broth.
 * Substitute a homemade vegetable broth with a mirepoix base for more vegetable flavor.
 * Carmelize onions until they are deep brown for a very sweet soup.
-
-
----
-
-## Smoked Sausage & Zucchini Soup
-
-|||
-|:--|:--|
-| 1000 mL | Chicken Broth
-| 15 mL | Italian Seasoning
-| 1     | Bay Leaf
-| 30 mL | Butter, unsalted
-| 100 g | Yellow Onion, diced
-| 100 g | Carrots, diced
-| 100 g | Celery, chopped
-| 3 mL  | Salt
-| 3 mL  | White Pepper
-| 450 g | Sausage Rope, chopped into 10 mm disks
-| 240 g | Zucchini, chopped into 10 mm disks
-| 120 g | Orzo
-| 15 mL | Parmesan
-
-
-1. Add chicken broth, italian seasoning, and bay leaf to saucepan. Simmer, covered, over low heat. Referenced later as *broth mixture*.
-2. Melt butter over medium heat in a stock pan. Add onion, carrots, celery, salt, and white pepper. Coat evenly. Cook for 12 minutes, stirring every 4 minutes, until vegetables have softened.
-3. Add sausage to stock pan. Cook 12 minutes, stirring every 5 minutes.
-4. Add zucchini to stock pan. Simmer 15 minutes, covered, over low heat.
-5. Cook orzo at rolling boil for 8 minutes, until almost tender. Drain. Add cooked orzo to stock pan.
-6. Garnish with parmesan and serve.
-
-
----
-
-## Yooper Beef Wellington
-
-These make large pasties about the size of a loaf of bread. Serve them by slicing the "loaf" like some kind of yooper beef wellington (hence the name). If you prefer smaller, handheld pasties, reduce the meat mixture by half. Inspired by [Hairy Bikers' Cornish Pasties](https://www.hairybikers.com/recipes/view/cornish-pasty).
-
-Servings: 2-3 servings; 1 Pasty
-
-|||
-|:--|:--|
-| 225 g   | Flour
-| 5 mL    | Baking Powder
-| 120 mL  | Butter, unsalted, cold
-| 1       | Egg Yolk
-| 5 mL    | Salt
-| 60 mL   | Water, cold
-| 1000 mL | Salt Water
-| 50 g    | Turnip, finely chopped
-| 50 g    | Parsnip*, finely chopped
-| 50 g    | Potato, chopped
-| 50 g    | Onion, finely chopped
-| 50 g    | Celery, finely chopped
-| 100 g   | Beef, chopped
-| 15 mL   | Parsley
-| 1       | Egg
-
-*Substitute carrots for parsnips in a pinch
-
-1. Preheat oven to 350F (180C).
-2. Add flour baking powder, butter, 1 egg yolk, salt, water to food processor. Mix until mixture resembles bread crumbs. Gradually add water 15 mL at a time as necessary. Mix continuously until mixture resembles dough.
-3. Roll dough into a ball. Wrap in cling film. Chill 10-20 minutes in freezer. Referenced later as *chilled pasty dough*.
-4. Boil salt water. Add turnip, parsnip, and potato. Blanch 4-5 minutes until tender. Drain. Rinse with cold water. Mix onion, celery, and beef. Mix evenly. Referenced later as *pasty filling*.
-5. Beat remaining egg in a small bowl. Set aside as *egg wash*.
-6. Lay dough on a clean, floured surface. Roll out as large disc 6 mm (1/4") thick. Add *pasty filling* in a line down the middle of the pasty disc. Brush the edge of pasty disc with some egg wash. Draw the edges of the pasty together. Crimp and seal so that the seal sits on top of the filling. Make a small hole in the top of the pasty. Brush with remaining egg wash.
-7. Arrange pasty on greased baking tray. Bake 30 minutes at 350F until golden-brown.
