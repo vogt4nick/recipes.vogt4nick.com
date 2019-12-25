@@ -2,8 +2,6 @@
 
 I made this website because I didn't enjoy searching for recipes on my Google Drive.
 
-I use most of the recipes here as guidelines.
-
 
 ## Metric Conversion Table
 
