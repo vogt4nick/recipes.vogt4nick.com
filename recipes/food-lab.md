@@ -114,6 +114,38 @@ Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.com/r/Gif
 
 ---
 
+## Pot Roast
+
+Pairs nicely with [mashed potatoes](sauces-and-sides.md#mashed-potatoes), and keeps well in fridge for leftovers. Inspired by [Zinfandel-Braised Beef Short Ribs with Rosemary-Parsnip Mashed Potatoes](https://www.epicurious.com/recipes/food/views/zinfandel-braised-beef-short-ribs-with-rosemary-parsnip-mashed-potatoes-352635).
+
+|||
+|:--|:--|
+| 15 mL  | Butter, unsalted, room temperature
+| 1800 g | Beef Short Ribs
+|        | Sea Salt
+|        | Black Pepper
+| 15 mL  | Butter, unsalted, room temperature
+| 330 g  | Red Onion, chopped
+| 330 g  | Parsnips, 15 mm cubes
+| 30 g   | Garlic Cloves, chopped
+| 30 mL  | Rosemary, chopped
+| 750 mL | Zinfandel Wine
+| 480 mL | Beef Broth
+| 15 mL  | Butter, unsalted, room temperature
+| 15 mL  | Flour
+|        | Sea Salt
+|        | Black Pepper
+
+1. **Preheat oven** to 325°F.
+2. **Saute Ribs.** Melt butter over medium-high heat in dutch oven. Season ribs with coarse salt and pepper. Add to dutch oven in single layer. Cook 10 minutes until brown on all sides. Transfer ribs to large bowl.
+3. **Prepare stock.** Add 1 tablespoon butter to pot. Add onions. Coat evenly. Cook 6 minutes. Add parsnips. Mix. Cook 6 minutes. Add garlic. Mix. Cook 60 seconds until fragrant. Add rosemary, wine, and beef broth. Stir. Heat to boiling.
+4. **Braise ribs.** Arrange ribs as single layer in dutch oven. Reduce to simmer. Roast in oven, covered, 150 minutes. Transfer ribs to large bowl. Spoon fat from pan juices.
+5. **Prepare gravy.** Boil remaining juices 10 minutes until just beginning to thicken. Add butter and flour to small bowl. Mix into smooth paste. Whisk paste into juices. Simmer 5 minutes.
+6. **Garnish and serve** ribs with gravy.
+
+
+---
+
 ## Sweet Potato Tacos
 
 Inspired by [El Arboria Taqueria](https://goo.gl/maps/5rY1W9N4L1KLBRGN8) and [Sweet Potato Tacos](https://smittenkitchen.com/2018/03/sweet-potato-tacos/).
@@ -178,3 +210,12 @@ These make large pasties about the size of a loaf of bread. Serve them by slicin
 4. **Prepare egg wash.** Beat remaining egg in a small bowl. Set aside as *egg wash*.
 5. **Prepare pasty.** Lay dough on a clean, floured surface. Roll out as large disc 6 mm (1/4") thick. Add *pasty filling* in a line down the middle of the pasty disc. Brush the edge of pasty disc with some egg wash. Draw the edges of the pasty together. Crimp and seal so that the seal sits on top of the filling. Make a small hole in the top of the pasty. Brush with remaining egg wash.
 6. **Bake pasty.** Arrange pasty on greased baking tray. Bake 30 minutes at 350F until golden-brown.
+
+<!--
+## Upcoming Experiments
+
+* Sticky Rice
+* Alfredo Gravy
+* B.O.C. Monsieur
+* [Rosemary Focaccia Bread](https://flavorthemoments.com/one-hour-rosemary-focaccia-bread/)
+ -->
