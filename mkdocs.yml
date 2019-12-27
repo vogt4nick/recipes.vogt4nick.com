@@ -7,11 +7,11 @@ docs_dir: recipes
 nav:
     - Home: index.md
     - Main Dishes: main-dishes.md
-    - Sides: sides.md
+    - Sauces & Sides: sauces-and-sides.md
     - Desserts: desserts.md
     - Potluck Favorites: potluck-favorites.md
     - Food Lab: food-lab.md
-    - Retired Recipes: retired-recipes.md
+    - Archive: archive.md
 theme: mkdocs
 markdown_extensions:
     - toc:
