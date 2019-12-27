@@ -74,7 +74,7 @@ Ideal with leftover [BBRRR chicken](retired-recipes.md#bbrrr-chicken). Inspired 
 | 5 mL  | White Pepper
 | 15 mL | Sherry (optional)
 
-1. Bake bacon at 425F (220C) for 15 minutes. Reserve bacon drippings as *bacon drippings*. Dice bacon. Reserve as bacon bits.
+1. Bake bacon at 425F (220C) for 15 minutes. Reserve bacon drippings as *bacon drippings*. Dice bacon. Reserve as *bacon bits*.
 
 2. Start broiler. Melt butter in small bowl. Add garlic. Mix. Coat bread slices with mixture on both sides. Toast bread slices under broiler for 2-3 minutes each side. Set aside as *toasted baguette slices*.
 
