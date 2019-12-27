@@ -1,9 +1,7 @@
 
 ## Curried Pork
 
-Pairs very nicely with [yellow rice](sides.md#yellow-rice).
-
-Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/).
+Pairs well with [yellow rice](sides.md#yellow-rice). Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/).
 
 |||
 |:--|:--|
@@ -57,6 +55,8 @@ Ideal with leftover [BBRRR chicken](retired-recipes.md#bbrrr-chicken). Inspired 
 ---
 
 ## Loaded French Onion Soup
+
+French onion soup with a lot more meat and cheese.
 
 |||
 |:--|:--|
