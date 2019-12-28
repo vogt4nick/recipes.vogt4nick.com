@@ -56,3 +56,56 @@ Pronounced with a [voiced bilabial trill](https://www.youtube.com/watch?v=0uGL-k
 2. **Compile soup.** Melt butter over medium heat in a stock pan. Add onion, carrots, celery, salt, and white pepper. Coat evenly. Cook for 12 minutes, stirring every 4 minutes, until vegetables have softened. Add sausage to stock pan. Cook 12 minutes, stirring every 5 minutes. Add zucchini and *prepared broth* to stock pan. Simmer 15 minutes, covered, over low heat.
 3. **Pre-cook orzo.** Cook orzo at rolling boil for 8 minutes, until almost tender. Drain. Add cooked orzo to stock pan.
 4. **Garnish and serve** with parmesan.
+
+---
+
+## Thai Curried Chicken Thighs
+
+Inspired by a recipe long lost to time.
+
+|||
+|:--|:--|
+| 450 g   | Chicken Thighs
+| 15 mL   | Coconut Oil
+| 15 mL   | Basil
+| 5 mL    | Cumin
+| 3 mL    | Salt
+| 3 mL    | Black Pepper
+| 30 mL   | Brown Sugar
+| 15 mL   | Ginger, grated
+| 30 mL   | Garlic, minced
+| 60 mL   | Red Curry Paste
+| 45 mL   | Fish Sauce
+| 30 mL   | Soy Sauce
+| 180 g   | Basmati Rice, rinsed
+| 225 g   | Butternut Squash, peeled, cubed
+| 225 g   | Sweet Potato, peeled, cubed
+| 225 g   | Green Apple, peeled, cubed
+| 225 g   | Zucchini, 10 mm quarters
+| 110 g   | Yellow Onion, diced
+| 1000 mL | Coconut Milk
+| 1000 mL | Chicken Broth
+
+1. Add chicken thighs to slow cooker. Coat thighs with coconut oil. Season thighs with sauces and spices.
+2. Add rice, vegetables, and green apple to slow cooker on top of chicken. Add coconut milk and chicken broth to slow cooker. Cover. Cook 3-4 hours on HIGH or 6-7 hours on LOW.
+
+
+---
+
+## Tuna Noodle Casserole
+
+I don't recommend this recipe for it's flavor. I keep it around for its nostalgic value. I cooked it a lot in college; the ingredients are easy to find and store almost indefinitely, and the recipe is dead simple. It came out of this cookbook from the 90s. ![*Lickity-Split Meals: For Health-Conscious People on the Go!* (https://yesteryearsgoodies.ecrater.com/p/5848882/lickety-split-meals-for-health-conscious)](http://s.ecrater.com/stores/4619/4aefdfa7c4639_4619b.jpg).
+
+|||
+|:--|:--|
+| 400 mL | Cream of Mushroom Soup, canned
+| 400 mL | Milk
+| 330 g  | Tuna, canned
+| 360 g  | Peas, frozen
+| 180 g  | Bow Tie Pasta
+| 5 mL   | Dill
+| 5 mL   | Onion Flakes, dried
+| 5 mL   | Oregano
+
+
+1. Spread cream of mushroom Spread ingredients over 9" x 13" casserole dish. Add remaining ingredients. Mix. Bake at 325° F for 50 minutes.
