@@ -34,6 +34,38 @@ Inspired by [Alicia's Aloo Gobi](https://www.allrecipes.com/recipe/151997/alicia
 
 ---
 
+## B.O.C. Monsieur
+
+Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Inspired by French Onion Soup and Croque Monsieur.
+
+
+|||
+|:--|:--|
+| 1000 mL | Beef Broth
+| 15 mL   | Herbs de Provence
+| 1       | Bay Leaf
+| 450 g   | Bacon, thick cut
+| 225 g   | Yellow Onion, sliced
+| 110 g   | White Onion, sliced
+| 110 g   | Shallots, sliced
+| 60 mL   | Butter, unsalted, melted
+| 30 mL   | Garlic, minced
+| 1       | Baguette, halved lengthwise, cut into 10 cm lengths
+| 110 g   | Gruyere Cheese, sliced
+| 75 g    | Green Onion, chopped
+
+
+1. **Preheat oven** to 400F (205C).
+2. **Prepare broth.** Add herbs de provence to a steel ball tea infuser. Add beef broth, herbs de provence, bay leaf to saucepan. Cover. Simmer over low heat.
+3. **Bake bacon** at 400F for 15 minutes or until cooked. Reserve *bacon drippings*. Dice bacon. Set aside as *diced bacon*.
+4. **Caramelize onions.** Melt *bacon drippings* in large frying pan over medium high heat. Add onions and shallots. Cook 40 minutes, stirring every 5 minutes, until beginning to caramelize. Remove from heat. Set aside as *caramelized onions*.
+5. **Toast sandwich bread.** Mix butter and garlic. Coat inside of french loaf. Bake french loaf at 400F for 5 minutes until edges are brown and crusted. Referenced next as *sandwich bread*.
+6. **Craft sandwiches** by layering *caramelized onions*, *diced bacon*, and gruyere cheese over *sandwich bread*. Broil 3 minutes until gruyere cheese is melted and bubbly.
+7. **Garnish** sandwiches with remaining bacon bits and green onion. Serve with beef broth.
+
+
+---
+
 ## Hungarian Goulash
 
 Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/).
