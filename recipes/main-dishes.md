@@ -1,7 +1,7 @@
 
 ## Curried Pork
 
-Pairs well with [yellow rice](sides.md#yellow-rice). Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/).
+Pairs well with [yellow rice](sauces-and-sides.md#yellow-rice). Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/).
 
 |||
 |:--|:--|
@@ -24,7 +24,7 @@ Pairs well with [yellow rice](sides.md#yellow-rice). Inspired by [Pakistani Grou
 
 ## Enchiladas
 
-Ideal with leftover [BBRRR chicken](retired-recipes.md#bbrrr-chicken). Inspired by [Creamy Chicken Enchiladas](https://www.tasteofhome.com/recipes/creamy-chicken-enchiladas/).
+Ideal with leftover [BBRRR chicken](archive.md#bbrrr-chicken). Inspired by [Creamy Chicken Enchiladas](https://www.tasteofhome.com/recipes/creamy-chicken-enchiladas/).
 
 |||
 |:--|:--|
