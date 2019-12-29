@@ -150,9 +150,9 @@ Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/tradit
 | 45 mL  | Sweet Hungarian Paprika
 | 110 g  | Red Bell Pepper, chopped into 15 mm pieces
 | 110 g  | Green Bell Pepper, chopped into 15 mm pieces
-| 220 g  | Tomatoes, diced
-| 220 g  | Carrots, diced
-| 220 g  | Potatoes, chopped into 15 mm pieces
+| 225 g  | Tomatoes, diced
+| 225 g  | Carrots, diced
+| 225 g  | Potatoes, chopped into 15 mm pieces
 | 3 mL   | Salt
 | 3 mL   | Black Pepper
 | 120 mL | Sour Cream
@@ -221,8 +221,8 @@ Pairs nicely with [mashed potatoes](sauces-and-sides.md#mashed-potatoes), and ke
 |:--|:--|
 | 15 mL  | Butter, unsalted, room temperature
 | 1800 g | Beef Short Ribs
-|        | Sea Salt
-|        | Black Pepper
+| <1 mL  | Sea Salt
+| <1 mL  | Black Pepper
 | 15 mL  | Butter, unsalted, room temperature
 | 330 g  | Red Onion, chopped
 | 330 g  | Parsnips, 15 mm cubes
@@ -232,8 +232,9 @@ Pairs nicely with [mashed potatoes](sauces-and-sides.md#mashed-potatoes), and ke
 | 480 mL | Beef Broth
 | 15 mL  | Butter, unsalted, room temperature
 | 15 mL  | Flour
-|        | Sea Salt
-|        | Black Pepper
+| <1 mL  | Sea Salt
+| <1 mL  | Black Pepper
+
 
 1. **Preheat oven** to 325°F.
 2. **Saute Ribs.** Melt butter over medium-high heat in dutch oven. Season ribs with coarse salt and pepper. Add to dutch oven in single layer. Cook 10 minutes until brown on all sides. Transfer ribs to large bowl.
