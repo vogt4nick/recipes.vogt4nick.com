@@ -1,4 +1,38 @@
 
+---
+
+## B.O.C. Monsieur
+
+Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Inspired by French Onion Soup and Croque Monsieur.
+
+90 minutes. Serves 2.
+
+|||
+|:--|:--|
+| 1000 mL | Beef Broth
+| 15 mL   | Herbs de Provence
+| 1       | Bay Leaf
+| 450 g   | Bacon, thick cut
+| 225 g   | Yellow Onion, sliced
+| 225 g   | White Onion, sliced
+| 60 g    | Scallion stalks, chopped
+| 20 mL   | Garlic, minced
+| 1       | Baguette, halved lengthwise, cut into 20 cm lengths
+| 170 g   | Gruyere Cheese, sliced
+| 15 g    | Scallion greens, chopped
+
+
+1. **Preheat oven** to 400F (205C).
+2. **Prepare broth.** Add herbs de provence to a steel ball tea infuser. Add beef broth, herbs de provence, bay leaf to saucepan. Cover. Simmer over low heat.
+3. **Bake bacon** at 400F for 15 minutes or until cooked. Reserve *bacon drippings*. Dice bacon. Set aside as *diced bacon*.
+4. **Caramelize onions.** Pour *bacon drippings* into large frying pan over medium high heat. Allow 5 minutes for bacon drippings to cool down from 400F. Add yellow and white onions. Coat evenly. Cook 5 minutes. Add scallion stalks. Mix. Cook 35 minutes, stirring every 5 minutes, until beginning to caramelize. Remove from heat. Set aside as *caramelized onions*.
+5. **Toast sandwich loaves.** Grease sandwich loaves by pressing sandwich loaves into cooking onions. Layer garlic on top of each loaf. Bake loaves at 400F for 5 minutes until edges are crusted and garlic is toasted. Referenced next as *sandwich bread*.
+6. **Craft sandwiches** by layering *caramelized onions*, *diced bacon*, and gruyere cheese over *sandwich bread*. Broil 2 minutes until gruyere cheese is melted and bubbly.
+7. **Garnish** sandwiches with remaining bacon bits and scallion greens. Serve with beef broth.
+
+
+---
+
 ## Curried Pork
 
 Pairs well with [yellow rice](sauces-and-sides.md#yellow-rice). Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/).
