@@ -53,3 +53,23 @@ Inspired by [Mozzarella Stuffed Meatballs](https://www.reddit.com/r/GifRecipes/c
 2. Add remaining ingredients except pasta sauce to a large bowl. Mix well and evenly.
 3. Use an ice cream scoop to form golf-ball sized meatballs. Insert one mozzarella cube per meatball. Set meatballs aside as *stuffed meatballs*.
 4. Coat bottom of slow cooker with two-thirds of available pasta sauce. Add *stuffed meatballs* in two layers. Coat meatballs with remaining pasta sauce. Cook on HIGH for 2h 30m.
+
+
+---
+
+## Polar Express Hot Chocolate
+
+Inspired by Elise Walter.
+
+|||
+|:--|:--|
+| 400 mL  | Condensed Milk, sweetened
+| 1800 mL | Milk, whole
+| 480 mL  | Heavy Whipping Cream
+| 5 mL    | Vanilla Extract
+| 340 g   | Chocolate Chips, 70% cocoa
+|         | Marshmallows
+|         | Whipped Cream, chilled
+
+1. Add ingredients to slow cooker. Cook 2 hours on HIGH, stirring every 60 minutes.
+2. Add marshmallows and whipped cream.
