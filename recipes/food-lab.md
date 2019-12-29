@@ -34,6 +34,41 @@ Inspired by [Alicia's Aloo Gobi](https://www.allrecipes.com/recipe/151997/alicia
 
 ---
 
+
+## Beef Jerky
+
+Inspired by [Doc's Best Beef Jerky](https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/).
+
+|||
+|:--|:--|
+| 900 g | Round Steak, sliced thin
+| 60 mL | Soy Sauce
+| 30 mL | Worcester Sauce
+| 30 mL | Liquid Smoke
+| 30 mL | Brown Sugar
+| 10 mL | Salt
+| 5 mL  | Black Pepper
+| 5 mL  | Meat Tenderizer
+| 5 mL  | Garlic Powder
+| 5 mL  | Onion Powder
+| 5 mL  | Paprika
+
+
+1. **Marinate beef.** Add steak strips to large ziplock bag. Add sauces and spices. Coat evenly. Marinate 8 hours in refrigerator.
+2. **Chill beef.** Chill marinated beef for 30 minutes in freezer.
+3. **Tenderize beef.** Place strips between two pieces of plastic wrap. Pound to 3 mm (1/8") thickness.
+4. **Dehydrate beef.** Add pounded strips to dehydrator. Dehydrate 4 hours at 160F (70C).
+
+Store in an airtight container or resealable bags.
+
+
+**Tips & Tricks**
+
+* Substitute 30 mL pineapple juice for meat tenderizer in a pinch. Ultimately, we're introducing enzymes to break down the meat fibers. Pineapple juice does this just as well.
+
+
+---
+
 ## B.O.C. Monsieur
 
 Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Inspired by French Onion Soup and Croque Monsieur.
