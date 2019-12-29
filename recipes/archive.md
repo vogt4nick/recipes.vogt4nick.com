@@ -1,5 +1,5 @@
 
-Recipes that are out of season or out of rotation. Maybe I got bored. Maybe they got out-classed. In any case, they aren't part of my standard home menu anymore.
+Recipes that are out of season or out of rotation. Maybe I got bored. Maybe they got out-classed. In any case, they aren't part of my standard home menu right now.
 
 
 ---
