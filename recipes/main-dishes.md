@@ -1,6 +1,4 @@
 
----
-
 ## B.O.C. Monsieur
 
 Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Inspired by French Onion Soup and Croque Monsieur.
