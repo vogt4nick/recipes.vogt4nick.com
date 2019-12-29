@@ -62,9 +62,8 @@ Inspired by [Doc's Best Beef Jerky](https://www.allrecipes.com/recipe/142948/doc
 Store in an airtight container or resealable bags.
 
 
-**Tips & Tricks**
-
-* Substitute 30 mL pineapple juice for meat tenderizer in a pinch. Ultimately, we're introducing enzymes to break down the meat fibers. Pineapple juice does this just as well.
+!!! tip
+    Substitute 30 mL pineapple juice for meat tenderizer in a pinch. Ultimately, we're introducing enzymes to break down the meat fibers. Pineapple juice does this just as well.
 
 
 ---
@@ -168,10 +167,9 @@ Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/tradit
 *Preheat stockpan by boiling water. Discard boiling water before adding hot bacon drippings.
 
 
-**Tips & Tricks**
-
-* Substitute 30 mL butter for bacon drippings in a pinch.
-* Reserve beef bones throughout the week! This recipe really shines with real pork fat and beef broth.
+!!! tip
+    * Substitute 30 mL butter for bacon drippings in a pinch.
+    * Reserve beef bones throughout the week! This recipe really shines with real pork fat and beef broth.
 
 
 ---
@@ -206,9 +204,8 @@ Simple  Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.c
 7. **Garnish** with basil and parmesan.
 
 
-**Tips & Tricks**
-
-* Reserve vegetable trimmings throughout the week; e.g. broccoli stalks. This recipe is even better with a rich vegetable broth.
+!!! tip
+    Reserve vegetable trimmings throughout the week; e.g. broccoli stalks. This recipe is even better with a rich vegetable broth.
 
 
 ---

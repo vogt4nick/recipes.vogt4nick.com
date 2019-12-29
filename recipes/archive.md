@@ -25,10 +25,9 @@ Pronounced with a [voiced bilabial trill](https://www.youtube.com/watch?v=0uGL-k
 4. **Roast chicken.** Place *brined chicken* on greased sheet pan. Brush *garlic butter* evenly on both sides. Combine remaining spices. Season chicken evenly. Roast 20 minutes at 450F until cooked.
 5. **Rest chicken.** Transfer the chicken to a clean plate. Tent with aluminum foil. Rest 5-10 minutes.
 
-**Tips & Tricks**
-
-* This is a good recipe for trying different blends of your own, so get creative with the spices.
-* You can also brine the chicken by covering the bowl and refrigerating for up to 6 hours.
+!!! tip
+    * This is a good recipe for trying different blends of your own, so get creative with the spices.
+    * You can also brine the chicken by covering the bowl and refrigerating for up to 6 hours.
 
 
 ---

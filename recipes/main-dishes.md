@@ -52,6 +52,7 @@ Ideal with leftover [BBRRR chicken](archive.md#bbrrr-chicken). Inspired by [Crea
 5. **Bake cheese layer.** Layer cheese over enchiladas. Bake 5 minutes until cheese is melted.
 6. **Garnish** with remaining green chiles.
 
+
 ---
 
 ## Loaded French Onion Soup
@@ -81,11 +82,10 @@ French onion soup with a lot more meat and cheese.
 5. **Prepare soup.** Start broiler. Add *carmelized onions* to individual, oven-safe soup bowls. Layer *bacon bits*. Layer 3-4 *toasted baguette slices*. Layer *bacon bits*. Layer gruyere cheese. Add broth over gruyere cheese. Broil 3-5 minutes until gruyere is somewhat melted and bubbly. Remove from broiler and let stand 5-10 minutes.
 6. **Garnish and serve** with bacon bits and green onion.
 
-**Tips & Tricks**
-
-* Place loose leaf herbs in a steel ball tea infuser for seasoning your broth.
-* Substitute a homemade vegetable broth with a mirepoix base for more vegetable flavor.
-* Carmelize onions until they are deep brown for a very sweet soup.
+!!! tip
+    * Place loose leaf herbs in a steel ball tea infuser for seasoning your broth.
+    * Substitute a homemade vegetable broth with a mirepoix base for more vegetable flavor.
+    * Carmelize onions until they are deep brown for a very sweet soup.
 
 
 ---
@@ -121,12 +121,9 @@ Stir fry adjusted to my pallet; i.e. thick & crisp vegetables and sweet & spicy 
 5. **Garnish and serve** over prepared rice.
 
 
-**Tips & Tricks**
-
-* If chicken is dry, add 2 mL cornstarch to marinade for next time.
-* Don't be shy with the high heat. The kitchen will get a little smokey, but the texture is worth it.
-
----
+!!! tip
+    * If chicken is dry, add 2 mL cornstarch to marinade for next time.
+    * Don't be shy with the high heat. The kitchen will get a little smokey, but the texture is worth it.
 
 ---
 
