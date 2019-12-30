@@ -14,8 +14,8 @@ Inspired by [Alicia's Aloo Gobi](https://www.allrecipes.com/recipe/151997/alicia
 | 225 g  | Yellow Onion, finely chopped
 | 15 mL  | Garlic, minced
 | 5 mL   | Cumin
-| 420 g  | Tomatoes, diced
-| 420 mL | Coconut Milk
+| 400 g  | Tomatoes, diced
+| 400 mL | Coconut Milk
 | 30 mL  | Cilantro
 | 15 mL  | Salt
 | 15 mL  | Turmeric
@@ -25,7 +25,7 @@ Inspired by [Alicia's Aloo Gobi](https://www.allrecipes.com/recipe/151997/alicia
 | 5 mL   | Cardamom
 | 450 g  | Yukon Gold Potatoes, quartered
 | 225 g  | Cauliflower Florets, halved
-| 420 g  | Garbanzo Beans
+| 400 g  | Garbanzo Beans
 | 30 mL  | Garam Masala
 
 1. Heat olive oil in stock pan over medium-high heat. Add onion. Cook 6 minutes until soft, stirring every 2 minutes. Add garlic and cumin. Stir. Cook 4 minutes, stirring every 2 minutes, until fragrant. Add tomatoes, coconut milk, spices. Stir. Cook 4 minutes until mixture begins to boil. Add potatoes, cauliflower, garbanzo beans. Stir evenly. Reduce heat to low. Cover. Simmer 50 minutes.
@@ -208,6 +208,48 @@ Pairs nicely with [mashed potatoes](sauces-and-sides.md#mashed-potatoes), and ke
 5. **Prepare gravy.** Boil remaining juices 10 minutes until just beginning to thicken. Add butter and flour to small bowl. Mix into smooth paste. Whisk paste into juices. Simmer 5 minutes.
 6. **Garnish and serve** ribs with gravy.
 
+
+---
+
+## Sauerbraten
+
+Pairs nicely with [potato dumplings](sauces-and-sides.md#potato-dumplings) and [rotkraut](sauces-and-sides.md#rotkraut). Garnish with [sugar roux](sauces-and-sides.md#sugar-roux). Inspired by travels to Austria & Bavaria and [German recipes](http://www.bavariankitchen.com/meats/sauerbraten.aspx).
+
+|||
+|:--|:--|
+| 1 mL   | Salt
+| 2      | Pepper Corns
+| 2      | Allspice Corns
+| 2      | Cloves
+| 1      | Bay Leaf
+| 4      | Juniper Berries
+| 5 mL   | Rosemary, chopped
+| 330 mL | Water, cold
+| 90 mL  | White Vinegar
+| 110 g  | White Onion, finely chopped
+| 60 g   | Carrot, chopped
+| 450 g  | Pork Steaks
+| 45 mL  | Canola Oil
+| 15 mL  | Butter, unsalted, melted
+| <1 mL  | Salt
+| 110 g  | Onion, sliced
+| 110 g  | Celery, chopped
+| 110 g  | Carrot, chopped
+| 2      | Garlic, minced
+| 120 mL | Water, cold
+| 15 mL  | Red Wine
+| 15 mL  | Scallion greens, chopped (optional)
+
+
+1. **Marinate pork.** Add spices, water, vinegar, vegetables, and pork steaks to ziploc bag. Rest 3 days in refrigerator.
+2. **Preheat oven** to 325F (160C).
+3. **Sear steak.** Heat canola oil in oven-safe frying pan over medium-high heat. Remove pork from marinade. Reserve 240 mL *marinade*. Pat steak dry. Add marinated pork to pan. Season with salt and melted butter. Cook 4 minutes until slightly charred. Flip. Cook 4 minutes. Remove meat from pan. Set aside as *seared steak*.
+4. **Make reduction.** Maintain medium-high heat on the same pan. Add vegetables. Cook 15 minutes, stirring every 4 minutes. Add 240 mL *marinade*, water, and red wine to pan. Stir. Reduce 60 seconds over medium-high heat. Remove pan from heat.
+5. **Roast steaks.** Return *seared steaks* to pan. Place pan in oven. Roast 45 minutes at 325F, uncovered, basting with drippings every 15 minutes. Flip the meat. Baste. Roast 45 minutes, uncovered, basting with drippings every 15 minutes. Remove from oven.
+6. **Garnish** with scallion greens and serve.
+
+!!! tip
+    Marinate pork in 24 hours by scouring the pork steaks before marinating.
 
 ---
 

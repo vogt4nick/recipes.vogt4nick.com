@@ -16,6 +16,8 @@ Alfredo sauce without heavy cream. Inspired by a recipe lost to time.
 2. Simmer 8 minutes, whisking every 3 minutes.
 
 
+---
+
 ## Mashed Potatoes
 
 Mashed potatoes with parsnips and skins on.
@@ -39,6 +41,80 @@ Mashed potatoes with parsnips and skins on.
 3. **Blanche parsnips.** Add parsnips to stockpan. Add enough cold water to cover parsnips. Add salt. Stir. Bring to boil. Boil parsnips 5 minutes until tender. Drain.
 4. **Mash potatoes.** Add milk, butter, and rosemary to stockpan. Simmer 5 minutes, covered, over medium-low heat. Stir evenly. Remove from heat. Add baked potato quarters and parsnips to stockpan. Mash.
 5. **Garnish** with salt, pepper.
+
+
+---
+
+## Potato Dumplings
+
+Also called erdäpfelknödeln. Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavariankitchen.com/sides/knoedel.aspx).
+
+
+|||
+|:--|:--|
+| 1000 mL | Water, cold
+| 15 mL   | Salt
+| 500 g   | Potatoes*, peeled
+| 160 mL  | All-Purpose Flour
+| 2 mL    | Salt
+| 1 mL    | Nutmeg, ground (optional)
+| 1       | Egg, beaten
+
+1. **Soften potatoes.** Peel potatoes. Add potatoes, water, salt to stockpan. Bring to boil. Cook 15 minutes until tender. Remove potatoes. Reserve water in pan for later as *salt water*.
+2. **Rice potatoes.** Press potatoes through ricer into a large bowl while still hot. Set aside for 30 minutes to cool, stirring occasionally.
+3. **Form dumplings.** Add remaining ingredients. Mix loosely with hands. Knead the dough quickly with your hands. Form mandarin size dumplings.
+4. **Cook dumplings.** Heat *salt water* to a gentle boil. Cook dumplings 8 minutes until they float to the top. Remove from water.
+
+
+!!! tip
+    * Dumplings need space to float in the pot that is why you need a wide pot rather than a tall pot.
+    * Add additional 80 mL flour if necessary. If dough still appears too dry after adding all the flour add another beaten egg. Dough should be not too mushy but not too firm either.
+
+
+---
+
+## Rotkraut
+
+Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavariankitchen.com/vegetables/rotkohl.aspx).
+
+|||
+|:--|:--|
+| 15 mL  | Butter, unsalted
+| 8 mL   | Sugar
+| 110 g  | White Onion, finely chopped
+| 1      | Green Apple, peeled, cubed
+| 500 g  | Red Cabbage, cut into strips
+| 1      | Bay Leaf
+| 2      | Cloves
+| <1 mL  | Salt
+| 30 mL  | Red Wine Vinegar
+| 120 mL | Red Wine
+| 15 mL  | Flour
+| 15 mL  | Marmelade (optional)
+
+1. Melt butter in frying pan over medium heat. Add sugar. Mix. Cook 3 minutes, stirring every 60 seconds, until brown. Add onion and apples. Mix. Cook 4 minutes. Add red cabbage and red wine vinegar. Add spices and red wine. Cover. Cook 45 minutes until cabbage is tender.
+2. Filter flour over cabbage. Add marmelade. Mix.
+
+
+---
+
+## Sugar Roux
+
+|||
+|:--|:--|
+| 30 mL  | Butter, unsalted
+| 10 g   | Sugar
+| 40 g   | All-Purpose Flour
+| 15 mL  | Red Wine
+| 120 mL | Water, cold
+| 1 mL   | Salt
+| 1      | Bay Leaf
+| 4      | Juniper Berries
+| 5 mL   | White Vinegar (optional)
+| 15 mL  | Sour Cream
+
+1. Melt butter in frying pan over medium heat. Add sugar to pan. Mix. Cook 2 minutes, stirring every 30 seconds, until brown. Add flour. Mix evenly. Cook 3 minutes, stirring every 60 seconds, until golden brown. Add wine and water. Mix evenly.
+2. Season with salt, bay leaf, juniper berries, vinegar, sour cream.
 
 
 ---
