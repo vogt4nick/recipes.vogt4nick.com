@@ -235,7 +235,7 @@ Pairs nicely with [potato dumplings](sauces-and-sides.md#potato-dumplings) and [
 | 110 g  | White Onion, sliced
 | 110 g  | Celery, chopped
 | 110 g  | Carrot, chopped
-| 2      | Garlic, minced
+| 10 mL  | Garlic, minced
 | 120 mL | Water, cold
 | 15 mL  | Red Wine
 | 15 mL  | Scallion greens, chopped (optional)

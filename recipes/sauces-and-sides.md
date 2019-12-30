@@ -103,8 +103,8 @@ Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavar
 |||
 |:--|:--|
 | 30 mL  | Butter, unsalted
-| 10 g   | Sugar
-| 40 g   | All-Purpose Flour
+| 15 mL  | Sugar
+| 80 mL  | All-Purpose Flour
 | 15 mL  | Red Wine
 | 120 mL | Water, cold
 | 1 mL   | Salt
