@@ -54,7 +54,7 @@ Also called erdäpfelknödeln. Inspired by travels to Austria & Bavaria and [Bav
 |:--|:--|
 | 1000 mL | Water, cold
 | 15 mL   | Salt
-| 500 g   | Potatoes*, peeled
+| 500 g   | Russet Potatoes, peeled
 | 160 mL  | All-Purpose Flour
 | 2 mL    | Salt
 | 1 mL    | Nutmeg, ground (optional)
