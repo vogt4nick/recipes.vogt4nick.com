@@ -232,7 +232,7 @@ Pairs nicely with [potato dumplings](sauces-and-sides.md#potato-dumplings) and [
 | 45 mL  | Canola Oil
 | 15 mL  | Butter, unsalted, melted
 | <1 mL  | Salt
-| 110 g  | Onion, sliced
+| 110 g  | White Onion, sliced
 | 110 g  | Celery, chopped
 | 110 g  | Carrot, chopped
 | 2      | Garlic, minced
