@@ -9,11 +9,7 @@ nav:
     - Potluck Favorites: potluck-favorites.md
     - Food Lab: food-lab.md
     - Archive: archive.md
-theme:
-    name: material
-    palette:
-        primary: blue
-    language: en
+theme: mkdocs
 markdown_extensions:
     - toc:
         permalink: "#"
