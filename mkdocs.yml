@@ -1,5 +1,4 @@
 site_name: Nick's Recipes
-# copyright: Nick Vogt, 2019
 docs_dir: recipes
 nav:
     - Home: index.md
