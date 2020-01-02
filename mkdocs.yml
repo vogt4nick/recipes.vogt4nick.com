@@ -4,7 +4,7 @@ nav:
     - Home: index.md
     - Main Dishes: main-dishes.md
     - Sauces & Sides: sauces-and-sides.md
-    - Potluck Favorites: potluck-favorites.md
+    - Shareables: shareables.md
     - Food Lab: food-lab.md
     - Archive: archive.md
 theme: mkdocs
