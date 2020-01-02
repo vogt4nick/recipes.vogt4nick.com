@@ -1,37 +1,6 @@
 
 A place for recipes I'm working on.
 
-
----
-
-## Aloo Gobi
-
-Inspired by [Alicia's Aloo Gobi](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/).
-
-|||
-|:--|:--|
-| 60 mL  | Olive Oil
-| 225 g  | Yellow Onion, finely chopped
-| 15 mL  | Garlic, minced
-| 5 mL   | Cumin
-| 400 g  | Tomatoes, diced
-| 400 mL | Coconut Milk
-| 30 mL  | Cilantro
-| 15 mL  | Salt
-| 15 mL  | Turmeric
-| 15 mL  | Cayenne Pepper
-| 5 mL   | Cinnamon
-| 5 mL   | Ginger, grated
-| 5 mL   | Cardamom
-| 450 g  | Yukon Gold Potatoes, quartered
-| 225 g  | Cauliflower Florets, halved
-| 400 g  | Garbanzo Beans
-| 30 mL  | Garam Masala
-
-1. Heat olive oil in stock pan over medium-high heat. Add onion. Cook 6 minutes until soft, stirring every 2 minutes. Add garlic and cumin. Stir. Cook 4 minutes, stirring every 2 minutes, until fragrant. Add tomatoes, coconut milk, spices. Stir. Cook 4 minutes until mixture begins to boil. Add potatoes, cauliflower, garbanzo beans. Stir evenly. Reduce heat to low. Cover. Simmer 50 minutes.
-2. Garnish with garam masala and serve.
-
-
 ---
 
 
