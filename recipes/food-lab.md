@@ -71,46 +71,6 @@ CAUTION: This recipe can cause grease and/or alcohol fires. Understand [how to e
 
 ---
 
-## Hungarian Goulash
-
-Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/).
-
-|||
-|:--|:--|
-| 800 mL | Beef Broth
-| 1      | Bay Leaf
-| 450 g  | Bacon, thick cut
-| 110 g  | Yellow Onion, finely chopped
-| 30 mL  | Garlic, minced
-| 450 g  | Pork, chopped into 15 mm pieces
-| 45 mL  | Sweet Hungarian Paprika
-| 110 g  | Red Bell Pepper, chopped into 15 mm pieces
-| 110 g  | Green Bell Pepper, chopped into 15 mm pieces
-| 225 g  | Tomatoes, diced
-| 225 g  | Carrots, diced
-| 225 g  | Potatoes, chopped into 15 mm pieces
-| 3 mL   | Salt
-| 3 mL   | Black Pepper
-| 120 mL | Sour Cream
-| 60 mL  | Cilantro
-
-
-1. **Prepare oven and stovetop.** Preheat oven to 425F (220C). Preheat* stockpan over medium-high heat.
-2. **Prepare beef broth**. Add beef broth and bay leaf to sauce pan. Simmer, covered, over low heat. Referenced later as *heated beef broth*.
-3. **Prepare bacon drippings.** Bake bacon at 425F (220C) for 12 minutes or until cooked. Pour bacon drippings into preheated dutch oven. Reserve cooked bacon for other recipes.
-4. **Prepare stew.** Add onion to dutch oven. Coat evenly. Cook 8 minutes, stirring every 2 minutes. Add garlic, beef, and paprika. Stir. Cook 10 minutes, stirring every 2 minutes. Add bell peppers. Cook 8 minutes, stirring every 2 minutes. Add tomatoes, carrots, potatoes, *heated beef broth*, salt, pepper. Mix. Bring to boil. Cover. Reduce heat to medium-low. Cook 40 minutes.
-5. **Garnish and serve** with sour cream and cilantro.
-
-*Preheat stockpan by boiling water. Discard boiling water before adding hot bacon drippings.
-
-
-!!! tip
-    * Substitute 30 mL butter for bacon drippings in a pinch.
-    * Reserve beef bones throughout the week! This recipe really shines with real pork fat and beef broth.
-
-
----
-
 ## Indialian Chicken & Orzo
 
 Simple  Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.com/r/GifRecipes/comments/95wr6x/onepan_creamy_italian_orzo_chicken_oc/).
