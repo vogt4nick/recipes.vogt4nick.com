@@ -26,7 +26,7 @@ CAUTION: This recipe can cause grease and/or alcohol fires. Understand [how to e
 | 30 mL  | Butter, unsalted
 | 15 mL  | Parsley, chopped
 
-*Substitute another light-bodied white wine.
+*Substitute any light-bodied white wine.
 
 
 1. **Prepare materials.** Add flour to flat plate. Spread evenly. Referenced next as *prepared flour*. Add eggs and spices to large bowl. Whisk. Referenced next as *egg wash*. Heat olive oil in frying pan over medium-high heat. Referenced next as *hot oil*.

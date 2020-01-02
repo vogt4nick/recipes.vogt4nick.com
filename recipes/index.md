@@ -8,7 +8,7 @@ I made this website because I didn't enjoy searching for recipes on my Google Dr
 I use the metric system in these recipes for more consistent measurements. You can look up the conversions, but here are the only ones I keep on top of my head for sharing recipes.
 
 | Metric | Imperial |
-|:--|:--|
+|:-------|:---------|
 | 5 mL   | 1 Teaspoon
 | 15 mL  | 1 Tablespoon
 | 30 mL  | 1 Fluid Ounce
