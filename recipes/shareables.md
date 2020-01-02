@@ -5,7 +5,7 @@ Inspired by [Doc's Best Beef Jerky](https://www.allrecipes.com/recipe/142948/doc
 
 |||
 |:--|:--|
-| 900 g | Round Steak, sliced thin
+| 900 g | Round Steak, 3mm slices
 | 60 mL | Soy Sauce
 | 30 mL | Worcester Sauce
 | 30 mL | Liquid Smoke
@@ -19,11 +19,7 @@ Inspired by [Doc's Best Beef Jerky](https://www.allrecipes.com/recipe/142948/doc
 
 
 1. **Marinate beef.** Add steak strips to large ziplock bag. Add sauces and spices. Coat evenly. Marinate 8 hours in refrigerator.
-2. **Chill beef.** Chill marinated beef for 30 minutes in freezer.
-3. **Tenderize beef.** Place strips between two pieces of plastic wrap. Pound to 3 mm (1/8") thickness.
-4. **Dehydrate beef.** Add pounded strips to dehydrator. Dehydrate 5 hours at 160F (70C).
-
-Store in an airtight container or resealable bags.
+2. **Dehydrate beef.** Add marinated steak strips to dehydrator. Dehydrate 5 hours at 160F (70C). Store in an airtight container or resealable bags.
 
 !!! tip
     Substitute 30 mL pineapple juice for meat tenderizer in a pinch. Ultimately, we're introducing enzymes to break down the meat fibers. Pineapple juice does this just as well.
