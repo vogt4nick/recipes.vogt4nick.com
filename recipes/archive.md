@@ -96,38 +96,6 @@ Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/tradit
 3. **Pre-cook orzo.** Cook orzo at rolling boil for 8 minutes, until almost tender. Drain. Add cooked orzo to stock pan.
 4. **Garnish and serve** with parmesan.
 
----
-
-## Thai Curried Chicken Thighs
-
-Inspired by a recipe long lost to time.
-
-|||
-|:--|:--|
-| 450 g   | Chicken Thighs
-| 15 mL   | Coconut Oil
-| 15 mL   | Basil
-| 5 mL    | Cumin
-| 3 mL    | Salt
-| 3 mL    | Black Pepper
-| 30 mL   | Brown Sugar
-| 15 mL   | Ginger, grated
-| 30 mL   | Garlic, minced
-| 60 mL   | Red Curry Paste
-| 45 mL   | Fish Sauce
-| 30 mL   | Soy Sauce
-| 180 g   | Basmati Rice, rinsed
-| 225 g   | Butternut Squash, peeled, cubed
-| 225 g   | Sweet Potato, peeled, cubed
-| 225 g   | Green Apple, peeled, cubed
-| 225 g   | Zucchini, 10 mm quarters
-| 110 g   | Yellow Onion, diced
-| 1000 mL | Coconut Milk
-| 1000 mL | Chicken Broth
-
-1. Add chicken thighs to slow cooker. Coat thighs with coconut oil. Season thighs with sauces and spices.
-2. Add rice, vegetables, and green apple to slow cooker on top of chicken. Add coconut milk and chicken broth to slow cooker. Cover. Cook 3-4 hours on HIGH or 6-7 hours on LOW.
-
 
 ---
 
