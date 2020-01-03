@@ -2,11 +2,16 @@ site_name: Nick's Recipes
 docs_dir: recipes
 nav:
     - Home: index.md
-    - Main Dishes: main-dishes.md
-    - Sauces & Sides: sauces-and-sides.md
-    - Shareables: shareables.md
-    - Food Lab: food-lab.md
-    - Archive: archive.md
+    - Recipes:
+        - Main Dishes: recipes/main-dishes.md
+        - Sauces & Sides: recipes/sauces-and-sides.md
+        - Shareables: recipes/shareables.md
+        - Food Lab: recipes/food-lab.md
+        - Archive: recipes/archive.md
+    - References:
+        - Ingredients: references/ingredients.md
+        - Styles: references/styles.md
+        - Techniques: references/techniques.md
 theme: mkdocs
 markdown_extensions:
     - toc:
