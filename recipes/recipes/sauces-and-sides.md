@@ -106,6 +106,31 @@ Also called erdäpfelknödeln. Inspired by travels to Austria & Bavaria and [Bav
 
 ---
 
+## Roasted Potatoes
+
+I always forget the temp, time, prep, etc. for roasting vegetables. Inspired by trial and error, a gazillion forgotten recipes, and a [Gordon Ramsay recipe](https://www.gordonramsayrestaurants.com/recipes/roast-potatoes/) I looked up the last time I forgot the recipe.
+
+|||
+|:--|:--|
+|        | Water, cold
+|        | Salt
+| 225 g  | Potatoes
+| 5 g    | Garlic cloves, lightly crushed
+| 30 mL  | Semolina Flour
+| 30 mL  | Canola Oil, refined
+| 3 mL   | Thyme
+| 3 mL   | Black Pepper
+
+
+1. **Preheat oven** to 375F (190C).
+2. **Par-boil potatoes.** Chop potatoes into 5 cm pieces. Add water and salt to stockpan. Bring stockpan to boiling. Boil 6 minutes.
+3. **Season potatoes.** Sieve potatoes. Sift semolina over potatoes, shaking to coat evenly. Add garlic. Rest 5 minutes. Add canola oil, shaking to coat evenly.
+4. **Roast potatoes.** Grease sheet pan. Arrange potatoes on sheet pan. Add thyme. Roast 40 minutes at 375F, turning every 15 minutes.
+5. **Garnish** with black pepper and serve.
+
+
+---
+
 ## Rotkraut
 
 Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavariankitchen.com/vegetables/rotkohl.aspx).
