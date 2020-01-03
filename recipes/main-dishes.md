@@ -182,10 +182,53 @@ Simple  Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.c
 6. **Bake broccoli.** Add broccoli to frying pan. Cook in oven at 350F for 10 minutes.
 7. **Garnish** with basil and parmesan.
 
-
 !!! tip
     Reserve vegetable trimmings throughout the week; e.g. broccoli stalks. This recipe is even better with a rich vegetable broth.
 
+
+---
+
+## Sauerbraten
+
+Pairs nicely with [potato dumplings](sauces-and-sides.md#potato-dumplings) and [rotkraut](sauces-and-sides.md#rotkraut). Garnish with [sugar roux](sauces-and-sides.md#sugar-roux). Inspired by travels to Austria & Bavaria and [German recipes](http://www.bavariankitchen.com/meats/sauerbraten.aspx).
+
+|||
+|:--|:--|
+| 1 mL   | Salt
+| 2      | Pepper Corns
+| 2      | Allspice Corns
+| 2      | Cloves
+| 1      | Bay Leaf
+| 4      | Juniper Berries*
+| 5 mL   | Rosemary, chopped
+| 330 mL | Water, cold
+| 90 mL  | White Vinegar
+| 110 g  | White Onion, finely chopped
+| 60 g   | Carrot, chopped
+| 450 g  | Pork Steaks**
+| 45 mL  | Canola Oil
+| 15 mL  | Butter, unsalted, melted
+| <1 mL  | Salt
+| 110 g  | White Onion, sliced
+| 110 g  | Celery, chopped
+| 110 g  | Carrot, chopped
+| 10 mL  | Garlic, minced
+| 120 mL | Water, cold
+| 15 mL  | Red Wine
+| 15 mL  | Scallion greens, chopped (optional)
+
+*Substitute 15 mL gin for juniper berries.
+**Substitute round steak for pork.
+
+1. **Marinate pork.** Tenderize pork until about 20 mm thick. Add spices, water, vinegar, vegetables, and pork steaks to ziploc bag. Rest 3 days in refrigerator.
+2. **Preheat oven** to 325F (160C).
+3. **Sear steak.** Heat canola oil in oven-safe frying pan over medium-high heat. Remove pork from marinade. Reserve *marinade liquid*. Pat steak dry. Add marinated pork to pan. Season with salt and melted butter. Cook 4 minutes until slightly charred. Flip. Cook 4 minutes. Remove meat from pan. Set aside as *seared steak*.
+4. **Make reduction.** Maintain medium-high heat on the same pan. Add vegetables and garlic. Cook 15 minutes, stirring every 4 minutes. Add *marinade liquid*, water, and red wine to pan. Stir. Reduce 60 seconds over medium-high heat. Remove pan from heat.
+5. **Roast steaks.** Return *seared steaks* to pan. Place pan in oven. Roast 90 minutes at 325F, uncovered, basting with drippings every 15 minutes, flipping steaks at 45 minutes. Remove from oven.
+6. **Garnish** with scallion greens and serve.
+
+!!! tip
+    Marinate pork in 24 hours by scouring the pork steaks before marinating.
 
 ---
 
