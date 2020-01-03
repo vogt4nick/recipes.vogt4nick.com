@@ -30,7 +30,7 @@ CAUTION: This recipe can cause grease and/or alcohol fires. Understand [how to e
 
 
 1. **Prepare materials.** Add flour to flat plate. Spread evenly. Referenced next as *prepared flour*. Add eggs and spices to large bowl. Whisk. Referenced next as *egg wash*. Heat olive oil in frying pan over medium-high heat. Referenced next as *hot oil*.
-2. **Fry chicken.** Coat chicken with flour. Coat chicken in egg wash. Place coated chicken in hot oil. Cook 4 minutes. Flip chicken. Cook 4 minutes. Transfer chicken to a hot plate. Rest. Set aside as *fried chicken*. Drain remaining hot oil from frying pan.
+2. **Fry chicken.** Coat chicken with flour. Coat chicken in egg wash. Place coated chicken in hot oil. Cook 4 minutes. Flip chicken. Cook 4 minutes until cooked through. Transfer chicken to a hot plate. Rest. Set aside as *fried chicken*. Drain remaining hot oil from frying pan.
 3. **Prepare francaise.** Pre-heat frying pan over high heat. Add ingredients in order: pinot grigio, chicken broth, garlic, lemon juice. Reduce 2 minutes over high heat. Remove from heat. Add parsley and butter. Stir evenly. Referenced next as *francaise sauce*.
 4. **Coat, garnish, and serve.** Add *fried chicken* to *francaise sauce*. Coat evenly. Garnish with remaining parsley and serve.
 
