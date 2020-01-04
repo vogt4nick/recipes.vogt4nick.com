@@ -219,14 +219,15 @@ Pairs nicely with [potato dumplings](sauces-and-sides.md#potato-dumplings) and [
 **Substitute round steak for pork.
 
 1. **Marinate pork.** Tenderize pork until about 20 mm thick. Add spices, water, vinegar, vegetables, and pork steaks to ziploc bag. Rest 3 days in refrigerator.
-2. **Preheat oven** to 325F (160C).
+2. **Preheat oven** to 300F (150C). Heat dutch oven over medium heat.
 3. **Sear steak.** Heat canola oil in oven-safe frying pan over medium-high heat. Remove pork from marinade. Reserve *marinade liquid*. Pat steak dry. Add marinated pork to pan. Season with salt and melted butter. Cook 4 minutes until slightly charred. Flip. Cook 4 minutes. Remove meat from pan. Set aside as *seared steak*.
-4. **Make reduction.** Maintain medium-high heat on the same pan. Add vegetables and garlic. Cook 15 minutes, stirring every 4 minutes. Add *marinade liquid*, water, and red wine to pan. Stir. Reduce 60 seconds over medium-high heat. Remove pan from heat.
-5. **Roast steaks.** Return *seared steaks* to pan. Place pan in oven. Roast 90 minutes at 325F, uncovered, basting with drippings every 15 minutes, flipping steaks at 45 minutes. Remove from oven.
+4. **Cook vegetables.** Maintain medium-high heat on the same pan. Add vegetables and garlic. Cook 15 minutes, stirring every 4 minutes. Add *marinade liquid*, water, and red wine to pan. Stir. Reduce 60 seconds over medium-high heat.
+5. **Braise steaks.** Add *seared steaks* and *cooked vegetables* to *preheated dutch oven*. Cover. Place dutch oven in oven. Braise 90 minutes at 300F.
 6. **Garnish** with scallion greens and serve.
 
 !!! tip
     Marinate pork in 24 hours by scouring the pork steaks before marinating.
+
 
 ---
 
