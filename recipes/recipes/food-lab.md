@@ -95,7 +95,7 @@ Garnish with your best olive oil. Inspired by [Reddit](https://www.reddit.com/r/
 2. **Prepare dough.** Add flour, sugar, salt, baking soda to large bowl. Mix. Add canola oil, yogurt. Mix until crumbly. Add yeast mixture. Knead by hand into firm, smooth dough. Cover bowl with plastic wrap. Rest 4 hours at 25C until dough nearly doubles in volume.
 3. **Prepare oven.** Preheat pizza stone in oven to 500F (260C). Next turn the oven to high broil.
 4. **Prepare garlic oil.** Heat canola oil in frying pan over medium heat. Add garlic. Cook 3 minutes, stirring every 30 seconds, until toasted. Transfer to small bowl. Add olive oil. Stir. Set aside as *garlic oil*.
-5. **Shape naan.** Prepare a lightly floured surface. Transfer dough to floured surface. Knead dough 1 minute. Divide dough into six equal parts. Shape into ovals.
+5. **Shape naan.** Prepare a lightly floured surface. Transfer dough to floured surface. Knead dough 1 minute. Divide dough into six equal parts. Shape into ovals 5 mm thick.
 6. **Bake naan.** Dampen hands. Flip the rolled naan between your palms. Place two naan loaves on pizza stone. Bake 3 minutes until brown. Allow 3 minutes between batches to reheat pizza stone.
 7. **Brush naan.** Brush lightly with *garlic oil*.
 
