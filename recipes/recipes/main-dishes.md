@@ -32,7 +32,7 @@ Easy, set-and-forget curry. Ideal for seasonal variations. Inspired by [Alicia's
 
 ## B.O.C. Monsieur
 
-Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Goes wonderfully on homemade [baguettes](sauces-and-sides.md$baguettes). Inspired by French Onion Soup and Croque Monsieur.
+Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Goes wonderfully on homemade [baguettes](sauces-and-sides.md#baguettes). Inspired by French Onion Soup and Croque Monsieur.
 
 |||
 |:--|:--|

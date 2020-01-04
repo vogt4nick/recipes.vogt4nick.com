@@ -74,8 +74,7 @@ Pairs nicely with [mashed potatoes](sauces-and-sides.md#mashed-potatoes), and ke
 
 Garnish with your best olive oil. Inspired by [Reddit](https://www.reddit.com/r/Cooking/comments/21cfl0/whats_the_secret_to_naan_every_recipe_ends_up/) and [Manjula's Kitchen](http://www.manjulaskitchen.com/naan-bread/).
 
-!!! note
-    Try baking with a rub (maybe 8 mL turmeric, 4 mL cumin, 1  mL cinnamon)
+Try baking with a rub (maybe 8 mL turmeric, 4 mL cumin, 1  mL cinnamon)
 
 |||
 |:--|:--|
@@ -138,11 +137,12 @@ These make large pasties about the size of a loaf of bread. Serve them by slicin
 5. **Prepare pasty.** Lay dough on a clean, floured surface. Roll out as large disc 6 mm (1/4") thick. Add *pasty filling* in a line down the middle of the pasty disc. Brush the edge of pasty disc with some egg wash. Draw the edges of the pasty together. Crimp and seal so that the seal sits on top of the filling. Make a small hole in the top of the pasty. Brush with remaining egg wash.
 6. **Bake pasty.** Arrange pasty on greased baking tray. Bake 30 minutes at 350F until golden-brown.
 
+
 <!--
 ## Upcoming Experiments
 
 * Sticky Rice
 * Alfredo Gravy
-* B.O.C. Monsieur
 * [Rosemary Focaccia Bread](https://flavorthemoments.com/one-hour-rosemary-focaccia-bread/)
+* Samosas
  -->
