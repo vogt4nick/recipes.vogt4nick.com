@@ -1,7 +1,7 @@
 
 ## Weekday Menu
 
-* [Aloo Gobi](recipes/main-dishes.md#aloo-gobi) with [Naan Bread](recipes/food-lab.md#naan).
+* [Aloo Gobi](recipes/main-dishes.md#aloo-gobi) with [Naan Bread](recipes/food-lab.md#naan-bread).
 * [Curried Pork](recipes/main-dishes.md#curried-pork) with [Yellow Rice](recipes/sauces-and-sides.md#yellow-rice).
 * [Indialian Chicken & Orzo](recipes/main-dishes.md#indialian-chicken-orzo).
 * [Sweet & Spicy Stir Fry](recipes/main-dishes.md#stir-fry) with Jasmine Rice.
