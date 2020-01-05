@@ -66,8 +66,8 @@ Try baking with a rub (maybe 8 mL turmeric, 4 mL cumin, 1  mL cinnamon)
 7. **Brush naan.** Brush lightly with *garlic oil*.
 
 !!! tip
-    * Using a baking/pizza stone will help to give the naan close to same kind of heat as a clay tandoor.
-    * If pizza stone is not available, use baking sheet. If using baking sheet, once the top of the naan is cooked, turn them over to cook on the other side.
+    * Using a pizza stone will help to give the naan close to same kind of heat as a clay tandoor.
+    * If pizza stone is not available, use baking sheet. If using baking sheet, turn them over to cook on the other side once the top of the naan is cooked.
 
 
 ---
