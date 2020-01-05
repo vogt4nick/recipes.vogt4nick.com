@@ -1,7 +1,7 @@
 site_name: Nick's Recipes
 docs_dir: recipes
 nav:
-    - Home: index.md
+    - Menu: index.md
     - Recipes:
         - Main Dishes: recipes/main-dishes.md
         - Sauces & Sides: recipes/sauces-and-sides.md
