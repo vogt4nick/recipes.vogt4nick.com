@@ -174,6 +174,7 @@ Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-
 |        | Canola Oil
 
 *Substitute sour cream for yogurt
+
 **Defrost in cool water first if using frozen green peas
 
 1. **Parboil potatoes.** Add potatoes to stockpan. Cover with water. Bring to boil. Boil 6 minutes until soft. Drain.
