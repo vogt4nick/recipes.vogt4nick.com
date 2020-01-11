@@ -6,7 +6,7 @@
 * [Indialian Chicken & Orzo](recipes/main-dishes.md#indialian-chicken-orzo).
 * [Sweet & Spicy Stir Fry](recipes/main-dishes.md#stir-fry) with Jasmine Rice.
 * [Sweet Potato Tacos](recipes/main-dishes.md#sweet-potato-tacos) with Bell Peppers.
-* Tomato Soup with [Gnocchi](recipes/food-lab.md#gnocchi).
+* Tomato Soup with [Gnocchi](recipes/sauces-and-sides.md#gnocchi).
 
 
 ## Weekend Menu
