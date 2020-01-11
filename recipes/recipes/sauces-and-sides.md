@@ -27,10 +27,9 @@ There's homework before baking baguettes; watch [How to Shape Baguettes (Video)]
 | 100 g  | Bread Flour*, unbleached
 | 1 mL   | Instant Yeast
 | 100 mL | Water, warm (35C)
-| 15 g   | Whole Wheat Flour
-| 410 g  | Bread Flour*, unbleached
 | 7 mL   | Salt
 | 4 mL   | Instant Yeast
+| 425 g  | Bread Flour*, unbleached
 | 240 mL | Water, warm (35C)
 | 30 mL  | Semolina Flour
 | 240 mL | Water, hot (80C)
@@ -38,7 +37,7 @@ There's homework before baking baguettes; watch [How to Shape Baguettes (Video)]
 *Substitute all-purpose flour for bread flour
 
 1. **Prepare poolish.** Add flour, yeast, and water to medium bowl. Mix. Cover bowl with plastic wrap. Rest 6-24 hours at room temperature until poolish is expanded and bubbly.
-2. **Prepare dough.** Transfer 240 mL *poolish* to large bowl. Add remaining ingredients. Gently stir 2 minutes with spoon until a soft (but not sticky) dough ball forms. Knead 6 minutes with dough hook at medium speed until dough passes the windowpane test.
+2. **Prepare dough.** Transfer 240 mL *poolish* to large bowl. Add salt, yeast, flour, water. Gently stir 2 minutes with spoon until a soft (but not sticky) dough ball forms. Knead 6 minutes with dough hook at medium speed until dough passes the windowpane test.
 3. **Rise dough.** Lightly grease a large bowl. Transfer dough greased bowl. Roll dough to coat with oil. Cover bowl with plastic wrap. Rest 2 hours at 25C until the dough nearly doubles in size. Remove dough. Gently knead 1 minute by hand. Return dough to bowl. Cover bowl with plastic wrap. Rest 2 hours at 25C until the dough nearly doubles in size.
 4. **Shape loaves.** Prepare a lightly floured surface. Transfer dough to prepared surface. Divide dough into thirds using a bench scraper (careful not to deflate air bubbles). [Shape each baguette](https://www.youtube.com/watch?v=xlN5CgQcvAg) into a 10 cm diameter baguette.
 5. **Proof loaves.** Prepare a floured kitchen towel. Transfer loaves to towel. Scrunch towel between loaves to help shape loaves as they proof. Proof 50 minutes at 25C until the loaves have grown to one-and-a-half times their original size but still spring back when poked.
