@@ -145,25 +145,30 @@ Also called erdäpfelknödeln. Inspired by travels to Austria & Bavaria and [Bav
 
 ## Roasted Potatoes
 
-I always forget the temp, time, prep, etc. for roasting vegetables. Inspired by trial and error, a gazillion forgotten recipes, and a [Gordon Ramsay recipe](https://www.gordonramsayrestaurants.com/recipes/roast-potatoes/) I looked up the last time I forgot the recipe.
+The crunchiest potatoes I've ever had. Inspired by [Internet Shaquille (Video)](https://www.youtube.com/watch?v=KxUX7vgNGfM).
 
 |||
 |:--|:--|
-|        | Water, cold
-|        | Salt
-| 225 g  | Potatoes
-| 5 g    | Garlic cloves, lightly crushed
-| 30 mL  | Semolina Flour
-| 30 mL  | Canola Oil, refined
-| 3 mL   | Thyme
-| 3 mL   | Black Pepper
+| 2000 mL | Water, cold
+| 30 mL   | Salt
+| 2 mL    | Baking Soda
+| 900 g   | Russet Potatoes, peeled, quartered
+| 15 mL   | Curry Powder*
+| 8 mL    | Black Pepper
+| 4 mL    | Kosher Salt
+| 90 mL   | Cooking Fat
+| 90 mL   | Sour Cream
 
+*Substitute 8 mL rosemary and 8 mL thyme for curry powder
 
-1. **Preheat oven** to 375F (190C).
-2. **Par-boil potatoes.** Chop potatoes into 5 cm pieces. Add water and salt to stockpan. Bring stockpan to boiling. Boil 6 minutes.
-3. **Season potatoes.** Sieve potatoes. Sift semolina over potatoes, shaking to coat evenly. Add garlic. Rest 5 minutes. Add canola oil, shaking to coat evenly.
-4. **Roast potatoes.** Grease sheet pan. Arrange potatoes on sheet pan. Add thyme. Roast 40 minutes at 375F, turning every 15 minutes.
-5. **Garnish** with black pepper and serve.
+1. **Prepare materials.** Preheat oven to 450F (230C). Prepare a foiled sheetpan.
+2. **Boil potatoes.** Add potatoes, water, salt, baking soda to stockpan. Stir. Boil 6 minutes until nearly cooked-through. Strain**.
+3. **Dry potatoes.** Rest potatoes 15 minutes until done steaming.
+4. **Season potatoes** with spices and oil.
+5. **Roast potatoes.** Move to prepared sheetpan. Spread evenly so no potatoes are touching. Roast 50 minutes at 450F, turning every 20 minutes.
+6. **Serve** with sour cream for dipping.
+
+**Do not use a fine mesh colander; the dry, starchy outsides we want to crisp will fall off the potatoes.
 
 
 ---
