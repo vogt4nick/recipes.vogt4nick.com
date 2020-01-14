@@ -276,25 +276,14 @@ A good recipe for low risk, high reward improvising. Inspired by [El Arboria Taq
 |:--|:--|
 | 220 g | Refried Beans
 | 110 g | Mozzarella, shredded, optional
-| 450 g | Sweet Potatoes, peeled, cubed
-|       | Water, cold
-| 5 mL  | Salt
-| 15 mL | Olive Oil
-| 2 mL  | Salt
-| 2 mL  | Cumin
-| 2 mL  | Paprika
-| 2 mL  | Garlic, minced
-| 2 mL  | Cayenne Pepper Powder
-| 2 mL  | Hot Curry Powder, optional
-| 6     | Small Tortillas (about 15 cm or 6")
+| 900 g | [Roasted Sweet Potatoes](recipes/sauces-and-sides.md#roasted-potatoes)
+| 8     | Small Tortillas (about 15 cm or 6")
 | 15 mL | Lime Juice
 | 60 mL | Cilantro
 
 
 1. **Preheat oven** to 425F (220C).
 2. **Prepare refried beans**. Add beans and mozzarella to saucepan. Cover. Warm over low heat. Referenced later as *warm refried beans*.
-3. **Soften potatoes.** Add sweet potatoes to stock pan. Add enough cold water to cover the potatoes. Add salt. Stir. Bring to boil. Reduce heat to low. Simmer 5 minutes until 3/4 cooked. Drain.
-4. **Spice potatoes.** Add boiled potatoes and olive oil to large bowl. Coat sweet potato evenly. Add spices. Coat sweet potatoes evenly.
-5. **Roast potatoes.** Transfer spiced sweet potatoes to a greased sheet pan. Roast at 425F for 15 minutes. Toss potatoes. Roast for 10 minutes. Remove from oven and set aside as roasted vegetables.
-6. **Prepare tacos.** Spread refried beans on tortillas. Add ~80 g of roasted vegetables to each tortilla.
-7. **Garnish** with lime juice and cilantro.
+3. **Roast potatoes** following [recipe](recipes/sauces-and-sides.md#roasted-potatoes).
+4. **Prepare tacos.** Spread refried beans on tortillas. Add ~80 g of roasted vegetables to each tortilla.
+5. **Garnish** with lime juice and cilantro.
