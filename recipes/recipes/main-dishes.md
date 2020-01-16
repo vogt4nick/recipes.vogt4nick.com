@@ -6,7 +6,7 @@ Easy, set-and-forget curry. Ideal for seasonal variations. Inspired by [Alicia's
 |||
 |:--|:--|
 | 30 mL  | Olive Oil
-| 110 g  | Yellow Onion, finely chopped
+| 110 g  | Yellow Onion, minced
 | 10 mL  | Garlic, minced
 | 3 mL   | Cumin
 | 200 g  | Tomatoes, diced
@@ -73,7 +73,7 @@ Pairs well with [yellow rice](sauces-and-sides.md#yellow-rice). Inspired by [Pak
 | 2 mL  | Black Pepper
 | 225 g | Pork, chopped
 | 90 mL | Olive Oil
-| 110 g | Yellow Onion, finely chopped
+| 110 g | Yellow Onion, minced
 | 330 g | Tomatoes, diced
 | 330 g | Green Peas, frozen
 
@@ -201,7 +201,7 @@ Pairs nicely with [potato dumplings](sauces-and-sides.md#potato-dumplings) and [
 | 5 mL   | Rosemary, chopped
 | 330 mL | Water, cold
 | 90 mL  | White Vinegar
-| 110 g  | White Onion, finely chopped
+| 110 g  | White Onion, minced
 | 60 g   | Carrot, chopped
 | 450 g  | Pork Steaks**
 | 45 mL  | Canola Oil

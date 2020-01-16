@@ -41,7 +41,7 @@ Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/tradit
 | 800 mL | Beef Broth
 | 1      | Bay Leaf
 | 450 g  | Bacon, thick cut
-| 110 g  | Yellow Onion, finely chopped
+| 110 g  | Yellow Onion, minced
 | 30 mL  | Garlic, minced
 | 450 g  | Pork, chopped into 15 mm pieces
 | 45 mL  | Sweet Hungarian Paprika

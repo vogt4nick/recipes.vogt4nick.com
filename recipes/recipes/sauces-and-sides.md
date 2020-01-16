@@ -181,7 +181,7 @@ Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavar
 |:--|:--|
 | 15 mL  | Butter, unsalted
 | 8 mL   | Sugar
-| 110 g  | White Onion, finely chopped
+| 110 g  | White Onion, minced
 | 1      | Green Apple, peeled, cubed
 | 500 g  | Red Cabbage, cut into strips
 | 1      | Bay Leaf

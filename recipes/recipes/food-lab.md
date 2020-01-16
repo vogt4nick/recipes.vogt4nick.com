@@ -56,7 +56,7 @@ Goes nicely with homemade [tahini](sauces-and-sides.md#tahini). Inspired by [Smi
 |:--|:--|
 | 30 mL   | Olive Oil
 | 900 g   | Carrots, peeled, diced
-| 330 g   | Yellow Onion, finely chopped
+| 330 g   | Yellow Onion, minced
 | 4       | Garlic Cloves, smashed
 | 3 mL    | Cumin
 | 2 mL    | Coriander, ground
@@ -205,7 +205,7 @@ Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-
 | 30 mL  | Yogurt*
 | 90 mL  | Water, cold (5C)
 | 60 mL  | Butter, unsalted
-| 110 g  | Onion, finely chopped
+| 110 g  | Yellow Onion, minced
 | 55 g   | Jalapeño Pepper, diced
 | 15 mL  | Garlic, minced
 | 10 mL  | Ginger, grated
@@ -248,9 +248,9 @@ These make large pasties about the size of a loaf of bread. Serve them by slicin
 | 5 mL    | Salt
 | 60 mL   | Water, cold
 | 1000 mL | Salt Water
-| 150 g   | Root vegetables, finely chopped
-| 50 g    | Onion, finely chopped
-| 50 g    | Carrot, finely chopped
+| 150 g   | Root vegetables, chopped
+| 50 g    | Yellow Onion, minced
+| 50 g    | Carrot, chopped
 | 100 g   | Ground Beef
 | 15 mL   | Parsley
 | 1       | Egg
