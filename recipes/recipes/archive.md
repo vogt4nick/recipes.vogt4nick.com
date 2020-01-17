@@ -72,33 +72,6 @@ Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/tradit
 
 ---
 
-## Smoked Sausage & Zucchini Soup
-
-|||
-|:--|:--|
-| 1000 mL | Chicken Broth
-| 15 mL | Italian Seasoning
-| 1     | Bay Leaf
-| 30 mL | Butter, unsalted
-| 100 g | Yellow Onion, diced
-| 100 g | Carrots, diced
-| 100 g | Celery, chopped
-| 3 mL  | Salt
-| 3 mL  | White Pepper
-| 450 g | Sausage Rope, chopped into 10 mm disks
-| 240 g | Zucchini, chopped into 10 mm disks
-| 120 g | Orzo
-| 15 mL | Parmesan
-
-
-1. **Prepare broth.** Add chicken broth, italian seasoning, and bay leaf to saucepan. Simmer, covered, over low heat. Referenced later as *broth mixture*.
-2. **Compile soup.** Melt butter over medium heat in a stock pan. Add onion, carrots, celery, salt, and white pepper. Coat evenly. Cook for 12 minutes, stirring every 4 minutes, until vegetables have softened. Add sausage to stock pan. Cook 12 minutes, stirring every 5 minutes. Add zucchini and *prepared broth* to stock pan. Simmer 15 minutes, covered, over low heat.
-3. **Pre-cook orzo.** Cook orzo at rolling boil for 8 minutes, until almost tender. Drain. Add cooked orzo to stock pan.
-4. **Garnish and serve** with parmesan.
-
-
----
-
 ## Tuna Noodle Casserole
 
 I don't recommend this recipe for it's flavor. I keep it around for its nostalgic value. I cooked it a lot in college; the ingredients are easy to find and store almost indefinitely, and the recipe is dead simple. It came out of this cookbook from the 90s. ![*Lickity-Split Meals: For Health-Conscious People on the Go!* (https://yesteryearsgoodies.ecrater.com/p/5848882/lickety-split-meals-for-health-conscious)](http://s.ecrater.com/stores/4619/4aefdfa7c4639_4619b.jpg).

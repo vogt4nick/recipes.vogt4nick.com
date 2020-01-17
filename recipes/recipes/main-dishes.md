@@ -274,6 +274,33 @@ Pairs nicely with [potato dumplings](sauces-and-sides.md#potato-dumplings) and [
 
 ---
 
+## Mediterranean Soup
+
+|||
+|:--|:--|
+| 1000 mL | Chicken Broth
+| 15 mL | Italian Seasoning
+| 1     | Bay Leaf
+| 30 mL | Butter, unsalted
+| 100 g | Yellow Onion, diced
+| 100 g | Carrots, diced
+| 100 g | Celery, chopped
+| 3 mL  | Salt
+| 3 mL  | White Pepper
+| 450 g | Sausage Rope, chopped into 10 mm disks
+| 240 g | Zucchini, chopped into 10 mm disks
+| 120 g | Orzo
+| 15 mL | Parmesan
+
+
+1. **Prepare broth.** Add chicken broth, italian seasoning, and bay leaf to saucepan. Simmer, covered, over low heat. Referenced later as *broth mixture*.
+2. **Compile soup.** Melt butter over medium heat in a stock pan. Add onion, carrots, celery, salt, and white pepper. Coat evenly. Cook for 12 minutes, stirring every 4 minutes, until vegetables have softened. Add sausage to stock pan. Cook 12 minutes, stirring every 5 minutes. Add zucchini and *prepared broth* to stock pan. Simmer 15 minutes, covered, over low heat.
+3. **Pre-cook orzo.** Cook orzo at rolling boil for 8 minutes, until almost tender. Drain. Add cooked orzo to stock pan.
+4. **Garnish and serve** with parmesan.
+
+
+---
+
 ## Stir Fry
 
 Stir fry adjusted to my pallet; i.e. thick & crisp vegetables and sweet & spicy marinade. Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650) and [Sticky Ginger Soy Glazed Chicken](https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken/).
