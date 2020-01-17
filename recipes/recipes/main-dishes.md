@@ -346,7 +346,7 @@ A good recipe for low risk, high reward improvising. Inspired by [El Arboria Taq
 |:--|:--|
 | 220 g | Refried Beans
 | 110 g | Mozzarella, shredded, optional
-| 900 g | [Roasted Sweet Potatoes](recipes/sauces-and-sides.md#roasted-potatoes)
+| 900 g | [Roasted Sweet Potatoes](sauces-and-sides.md#roasted-potatoes)
 | 8     | Small Tortillas (about 15 cm or 6")
 | 15 mL | Lime Juice
 | 60 mL | Cilantro
@@ -354,6 +354,6 @@ A good recipe for low risk, high reward improvising. Inspired by [El Arboria Taq
 
 1. **Preheat oven** to 425F (220C).
 2. **Prepare refried beans**. Add beans and mozzarella to saucepan. Cover. Warm over low heat. Referenced later as *warm refried beans*.
-3. **Roast potatoes** following [recipe](recipes/sauces-and-sides.md#roasted-potatoes).
+3. **Roast potatoes** following [recipe](sauces-and-sides.md#roasted-potatoes).
 4. **Prepare tacos.** Spread refried beans on tortillas. Add ~80 g of roasted vegetables to each tortilla.
 5. **Garnish** with lime juice and cilantro.

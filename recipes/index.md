@@ -23,7 +23,7 @@
 ## Entrees
 
 * [Indialian Chicken & Orzo](recipes/main-dishes.md#indialian-chicken-orzo)
-* [Pot Roast](recipes/food-lab.md#pot-roast) with [Mashed Potatoes](recipes/sauces-and-sides.md#mashed-potatoes).
+* [Pot Roast](recipes/food-lab.md#pot-roast) with [Mashed Potatoes](recipes/sauces-and-sides.md#mashed-potatoes)
 * [Sauerbraten](recipes/main-dishes.md#sauerbraten) served with a [Sugar Roux](recipes/sauces-and-sides.md#sugar-roux) sauce, [Knödeln](recipes/sauces-and-sides.md#potato-dumplings), and [Rotkraut](recipes/sauces-and-sides.md#rotkraut)
 * [Sweet & Spicy Stir Fry](recipes/main-dishes.md#stir-fry) with Jasmine Rice
 
