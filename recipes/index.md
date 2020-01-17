@@ -16,7 +16,7 @@
 
 * [B.O.C. Monsieur](recipes/main-dishes.md#boc-monsieur) served over [Baguettes (V)](recipes/sauces-and-sides.md#baguettes) with beef broth
 * [Pasties](recipes/food-lab.md#yooper-beef-wellington)
-* [Samosas (V+)](recipes/food-lab.md#samosas)
+* [Samosas (V+)](recipes/shareables.md#samosas)
 * [Sweet Potato Tacos (V)](recipes/main-dishes.md#sweet-potato-tacos)
 
 

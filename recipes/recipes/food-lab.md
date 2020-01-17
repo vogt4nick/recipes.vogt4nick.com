@@ -150,47 +150,6 @@ Pairs nicely with [mashed potatoes](sauces-and-sides.md#mashed-potatoes), and ke
 
 ---
 
-## Samosas
-
-Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
-
-|||
-|:--|:--|
-| 450 g  | Starchy Potatoes, peeled, 1 cm cubes
-| 250 g  | All-Purpose Flour
-| 60 mL  | Butter, unsalted, cut into bits
-| 30 mL  | Yogurt*
-| 90 mL  | Water, cold (5C)
-| 60 mL  | Butter, unsalted
-| 110 g  | Yellow Onion, minced
-| 55 g   | Jalapeño Pepper, diced
-| 15 mL  | Garlic, minced
-| 10 mL  | Ginger, grated
-| 15 mL  | Curry Powder
-| 2 mL   | Black Pepper
-| 1 mL   | Salt
-| 75 g   | Green Peas**
-| 120 mL | Water, cold (5C)
-|        | Canola Oil
-
-*Substitute sour cream for yogurt
-
-**Defrost in cool water first if using frozen green peas
-
-1. **Parboil potatoes.** Add potatoes to stockpan. Cover with water. Bring to boil. Boil 6 minutes until soft. Drain.
-2. **Prepare dough.** Add flour and salt to food processor. Pulse evenly. Add butter bits. Chop until combined. Add yogurt. Pulse 10 times. Pulse, adding cold water 15 mL at a time through the feed tube, until dough forms a ball. Remove dough from food processor. Knead 60 seconds by hand. Cover with damp towel and set aside.
-3. **Make filling.** Melt butter in frying pan over medium heat. Add onions and chiles. Stir. Cook 5 minutes, stirring every 60 seconds. Add remaining spices. Stir. Cook 2 minutes. Increase frying pan to medium-high heat. Add *parboiled potatoes* and peas. Cook 10 minutes, stirring every 60 seconds, until potatoes begin to brown. Remove from heat. Set aside as *samosa filling.*
-4. **Form samosas.** Prepare a lightly floured surface. Knead dough briefly by hand. Dividing as necessary, roll circular pockets 4 mm thick x 10 cm in diameter. Add 15 mL filling to each samosa. Fold, crimp, and seal with a few drops of water.
-5. **Fry\*\*\* samosas.** Heat 6 cm canola oil to 375F (190C) in a large stockpan over medium-high heat. Prepare flat surface with paper bags or paper towels. Add samosas to fryer. Fry until golden brown. Drain on prepared surface. Keep warm in oven until ready to serve.
-
-***For less mess, bake samosas at 350F (175C) for 25 minutes until golden brown.
-
-!!! tip
-    * Pretend it's cookie dough; use a small dish to cut perfect circles.
-
-
----
-
 ## Yooper Beef Wellington
 
 These make large pasties about the size of a loaf of bread. Serve them by slicing the "loaf" like some kind of yooper beef wellington (hence the name). If you prefer smaller, handheld pasties, reduce the meat mixture by half. Inspired by [Hairy Bikers' Cornish Pasties](https://www.hairybikers.com/recipes/view/cornish-pasty).
