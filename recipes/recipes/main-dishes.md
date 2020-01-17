@@ -31,7 +31,7 @@ Easy, set-and-forget curry. Ideal for seasonal variations. Inspired by [Alicia's
 
 ## B.O.C. Monsieur
 
-Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Goes wonderfully on homemade [baguettes](sauces-and-sides.md#baguettes). Inspired by French Onion Soup and Croque Monsieur.
+Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Goes wonderfully on homemade [baguettes](sides.md#baguettes). Inspired by French Onion Soup and Croque Monsieur.
 
 |||
 |:--|:--|
@@ -61,7 +61,7 @@ Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramel
 
 ## Carrot Soup
 
-Goes nicely with homemade [tahini](sauces-and-sides.md#tahini). Inspired by [Smitten Kitchen](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/).
+Goes nicely with homemade [tahini](sauces.md#tahini). Inspired by [Smitten Kitchen](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/).
 
 |||
 |:--|:--|
@@ -105,7 +105,7 @@ Goes nicely with homemade [tahini](sauces-and-sides.md#tahini). Inspired by [Smi
 
 ## Curried Pork
 
-Pairs well with [yellow rice](sauces-and-sides.md#yellow-rice). Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/).
+Pairs well with [yellow rice](sides.md#yellow-rice). Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/).
 
 |||
 |:--|:--|
@@ -231,7 +231,7 @@ Simple  Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.c
 
 ## Sauerbraten
 
-Pairs nicely with [potato dumplings](sauces-and-sides.md#potato-dumplings) and [rotkraut](sauces-and-sides.md#rotkraut). Garnish with [sugar roux](sauces-and-sides.md#sugar-roux). Inspired by travels to Austria & Bavaria and [German recipes](http://www.bavariankitchen.com/meats/sauerbraten.aspx).
+Pairs nicely with [potato dumplings](sides.md#potato-dumplings) and [rotkraut](sides.md#rotkraut). Garnish with [sugar roux](sauces.md#sugar-roux). Inspired by travels to Austria & Bavaria and [German recipes](http://www.bavariankitchen.com/meats/sauerbraten.aspx).
 
 |||
 |:--|:--|
@@ -346,7 +346,7 @@ A good recipe for low risk, high reward improvising. Inspired by [El Arboria Taq
 |:--|:--|
 | 220 g | Refried Beans
 | 110 g | Mozzarella, shredded, optional
-| 900 g | [Roasted Sweet Potatoes](sauces-and-sides.md#roasted-potatoes)
+| 900 g | [Roasted Sweet Potatoes](sides.md#roasted-potatoes)
 | 8     | Small Tortillas (about 15 cm or 6")
 | 15 mL | Lime Juice
 | 60 mL | Cilantro
@@ -354,6 +354,6 @@ A good recipe for low risk, high reward improvising. Inspired by [El Arboria Taq
 
 1. **Preheat oven** to 425F (220C).
 2. **Prepare refried beans**. Add beans and mozzarella to saucepan. Cover. Warm over low heat. Referenced later as *warm refried beans*.
-3. **Roast potatoes** following [recipe](sauces-and-sides.md#roasted-potatoes).
+3. **Roast potatoes** following [recipe](sides.md#roasted-potatoes).
 4. **Prepare tacos.** Spread refried beans on tortillas. Add ~80 g of roasted vegetables to each tortilla.
 5. **Garnish** with lime juice and cilantro.

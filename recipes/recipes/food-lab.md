@@ -119,7 +119,7 @@ Try baking with a rub (maybe 8 mL turmeric, 4 mL cumin, 1  mL cinnamon).
 
 ## Pot Roast
 
-Pairs nicely with [mashed potatoes](sauces-and-sides.md#mashed-potatoes), and keeps well in fridge for leftovers. Inspired by [Zinfandel-Braised Beef Short Ribs with Rosemary-Parsnip Mashed Potatoes](https://www.epicurious.com/recipes/food/views/zinfandel-braised-beef-short-ribs-with-rosemary-parsnip-mashed-potatoes-352635).
+Pairs nicely with [mashed potatoes](sides.md#mashed-potatoes), and keeps well in fridge for leftovers. Inspired by [Zinfandel-Braised Beef Short Ribs with Rosemary-Parsnip Mashed Potatoes](https://www.epicurious.com/recipes/food/views/zinfandel-braised-beef-short-ribs-with-rosemary-parsnip-mashed-potatoes-352635).
 
 |||
 |:--|:--|

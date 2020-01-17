@@ -4,7 +4,8 @@ nav:
     - Menu: index.md
     - Recipes:
         - Main Dishes: recipes/main-dishes.md
-        - Sauces & Sides: recipes/sauces-and-sides.md
+        - Sides: recipes/sides.md
+        - Sauces: recipes/sauces.md
         - Shareables: recipes/shareables.md
         - Food Lab: recipes/food-lab.md
         - Archive: recipes/archive.md
