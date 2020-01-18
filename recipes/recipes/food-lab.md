@@ -173,7 +173,7 @@ Add tamarind pulp, fish sauce, and sugar to small saucepan. Melt over low heat. 
     Per Chez Pim, sauce should "lead with a salty flavor, follow by a mild sourness, then just a gentle sweetness and a soft caress from the chili at the back of my throat at the very end." Sweetness should be very mild.
 
 
----
+<!-- ---
 
 ## Tom Yum Goong
 
@@ -190,7 +190,7 @@ Hot and sour shrimp soup. Inspired by [Chez Pim](http://web.baz.org/adam/recipes
 | 75 g    | Cremini Mushrooms, chopped
 | 45 mL   | Lime Juice
 | 30 mL   | Nam-Prik Pao
-| 3       | Thai Chiles
+| 3       | Thai Chiles -->
 
 
 ---
