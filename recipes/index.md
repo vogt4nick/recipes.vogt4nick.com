@@ -22,12 +22,12 @@
 
 ## Entrees
 
+* [Chicken Pad Thai](recipes/food-lab.md#chicken-pad-thai)
 * [Enchiladas](recipes/main-dishes.md#enchiladas)
 * [Indialian Chicken & Orzo](recipes/main-dishes.md#indialian-chicken-orzo)
 * [Pot Roast](recipes/food-lab.md#pot-roast) with [Mashed Potatoes](recipes/sides.md#mashed-potatoes)
 * [Sauerbraten](recipes/main-dishes.md#sauerbraten) served with a [Sugar Roux](recipes/sauces.md#sugar-roux) sauce, [Knödeln](recipes/sides.md#potato-dumplings), and [Rotkraut](recipes/sides.md#rotkraut)
 * [Sweet & Spicy Stir Fry](recipes/main-dishes.md#stir-fry) with Jasmine Rice
-
 
 ## About
 
