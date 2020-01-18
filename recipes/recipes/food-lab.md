@@ -117,6 +117,84 @@ Try baking with a rub (maybe 8 mL turmeric, 4 mL cumin, 1  mL cinnamon).
 
 ---
 
+## Chicken Pad Thai
+
+It's vital that you prepare everything before cooking. Pad thai has to cook *fast*, and it can't cook fast if you're still crushing peanuts and slicing limes. Inspired by [Chez Pim](http://web.baz.org/adam/recipes/pad_thai_for_be.html).
+
+Recipe is for one serving.
+
+|||
+|:--|:--|
+| 150 mL | [Pad Thai Sauce](food-lab.md#pad-thai-sauce)
+| 80 g   | Rice Sticks
+| 60 mL  | Canola Oil
+| 60 g   | Chicken Breast, chopped
+| 5 mL   | Garlic, chopped (optional)
+| 1      | Egg
+| 15 g   | Peanuts, roughly ground
+| 15 g   | Beansprouts
+| 15 g   | Pickled Turnips, chopped (optional)
+| 30 mL  | Garlic Chives*, roughly chopped
+|        | Lime, sliced
+
+*Substitute green parts of scallions for garlic chives.
+
+1. **Warm sauce.** Simmer pad thai sauce over low heat.
+2. **Soak rice sticks** in warm water until pliable, but not soft enough to eat. Remove from water and pat dry.
+3. **Fry pad thai.** Heat oil in wok over high heat. Add chicken. Fry 2 minutes, tossing continuously, until halfway cooked. Add 15 mL *warm pad thai sauce* and garlic. Fry 1 minute, tossing continuously. Add *softened rice sticks* and remaining *warm pad thai sauce*. Fry 1 minute**, tossing continuously, until noodle is soft. Push food to one side of pan to add egg directly to wok surface. Fry 15 seconds. Toss together once egg starts to cook. Add the peanuts, beansprouts, and pickled turnips. Fry 1 minute, tossing continuously. Add garlic chives. Remove wok from heat. Toss.
+4. **Serve** with remaining ground peanuts, paprika, fish sauce, and slivers of lime.
+
+**If the sauce evaporates too quickly and your noodle isn't quite ready, sprinkle a bit of water and keep stirring. Add oil if the noodle still sticks together.
+
+!!! tip
+    Between batches, rinse wok with warm water and wipe away solid bits.
+
+---
+
+## Pad Thai Sauce
+
+Inspired by [Chez Pim](http://web.baz.org/adam/recipes/pad_thai_for_be.html).
+
+|||
+|:--|:--|
+| 60 mL | Tamarind Pulp*
+| 60 mL | Fish Sauce**
+| 60 mL | Palm Sugar***
+| 15 mL | Paprika****
+
+*Buy pulp soaked only in water; no sugar, etc.
+**Substitute soy sauce for fish sauce to make vegetarian
+***Substitute 40 mL white or brown sugar for palm sugar
+****Substitute a hot chili powder for spicier sauce
+
+Add tamarind pulp, fish sauce, and sugar to small saucepan. Melt over low heat. Add paprika. Stir.
+
+!!! tip
+    Per Chez Pim, sauce should "lead with a salty flavor, follow by a mild sourness, then just a gentle sweetness and a soft caress from the chili at the back of my throat at the very end." Sweetness should be very mild.
+
+
+---
+
+## Tom Yum Goong
+
+Hot and sour shrimp soup. Inspired by [Chez Pim](http://web.baz.org/adam/recipes/tom_yum_goong_s.html). Watch a short guide to quickly [peel and devein shrimp (Video)](https://www.youtube.com/watch?v=blTtbxQnVu4).
+
+|||
+|:--|:--|
+| 450 g   | Shrimp, full-bodied
+| 30 mL   |
+| 1400 mL | Water, cool
+| 120 mL  | Kaffir Lime Leaves
+| 120 mL  | Lemongrass, roughly chopped
+| 15 mL   | Galangal, peeled, roughly chopped
+| 75 g    | Cremini Mushrooms, chopped
+| 45 mL   | Lime Juice
+| 30 mL   | Nam-Prik Pao
+| 3       | Thai Chiles
+
+
+---
+
 ## Pot Roast
 
 Pairs nicely with [mashed potatoes](sides.md#mashed-potatoes), and keeps well in fridge for leftovers. Inspired by [Zinfandel-Braised Beef Short Ribs with Rosemary-Parsnip Mashed Potatoes](https://www.epicurious.com/recipes/food/views/zinfandel-braised-beef-short-ribs-with-rosemary-parsnip-mashed-potatoes-352635).
