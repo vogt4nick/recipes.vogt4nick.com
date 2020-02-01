@@ -115,7 +115,7 @@ Pairs well with [yellow rice](sides.md#yellow-rice). Inspired by [Pakistani Grou
 | 2 mL  | Salt
 | 2 mL  | Black Pepper
 | 225 g | Pork, chopped
-| 90 mL | Olive Oil
+| 90 mL | Canola Oil
 | 110 g | Yellow Onion, minced
 | 330 g | Tomatoes, diced
 | 330 g | Green Peas, frozen
