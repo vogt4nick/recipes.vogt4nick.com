@@ -28,6 +28,7 @@
 * [Pot Roast](recipes/food-lab.md#pot-roast) with [Mashed Potatoes](recipes/sides.md#mashed-potatoes)
 * [Sauerbraten](recipes/main-dishes.md#sauerbraten) served with a [Sugar Roux](recipes/sauces.md#sugar-roux) sauce, [Knödeln](recipes/sides.md#potato-dumplings), and [Rotkraut](recipes/sides.md#rotkraut)
 * [Sweet & Spicy Stir Fry](recipes/main-dishes.md#stir-fry) with Jasmine Rice
+* [Veggie Pot Pie](recipes/food-lab.md#veggie-pot-pie)
 
 ## About
 
