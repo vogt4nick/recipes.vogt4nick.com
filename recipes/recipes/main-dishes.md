@@ -250,7 +250,7 @@ Simple  Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.c
 | 2 mL    | White Pepper
 | 30 mL   | Water
 | ---     | ---
-| 225 g   | Zucchini, roughly chopped
+| 110 g   | Zucchini, roughly chopped
 | ---     | ---
 | 15 mL   | Parmesan
 
