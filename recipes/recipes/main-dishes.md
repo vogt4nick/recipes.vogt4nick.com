@@ -233,25 +233,37 @@ Simple  Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.c
 
 |||
 |:--|:--|
-| 1000 mL | Chicken Broth
-| 15 mL | Italian Seasoning
-| 1     | Bay Leaf
-| 30 mL | Butter, unsalted
-| 100 g | Yellow Onion, diced
-| 100 g | Carrots, diced
-| 100 g | Celery, chopped
-| 3 mL  | Salt
-| 3 mL  | White Pepper
-| 450 g | Sausage Rope, chopped into 10 mm disks
-| 240 g | Zucchini, chopped into 10 mm disks
-| 120 g | Orzo
-| 15 mL | Parmesan
+| 1000 mL | Beef Stock
+| 15 mL   | Italian Seasoning
+| 1       | Bay Leaf
+| ---     | ---
+| 225 g   | Sausage Rope, roughly chopped
+| ---     | ---
+| 110 g   | Orzo
+| ---     | ---
+| 30 mL   | Butter, unsalted
+| 110 g   | Onion, minced
+| 110 g   | Carrots, minced
+| 110 g   | Celery, minced
+| 5 mL    | Garlic, minced
+| 2 mL    | Kosher Salt
+| 2 mL    | White Pepper
+| 30 mL   | Water
+| ---     | ---
+| 225 g   | Zucchini, roughly chopped
+| ---     | ---
+| 15 mL   | Parmesan
 
 
-1. **Prepare broth.** Add chicken broth, italian seasoning, and bay leaf to saucepan. Simmer, covered, over low heat. Referenced later as *broth mixture*.
-2. **Compile soup.** Melt butter over medium heat in a stock pan. Add onion, carrots, celery, salt, and white pepper. Coat evenly. Cook for 12 minutes, stirring every 4 minutes, until vegetables have softened. Add sausage to stock pan. Cook 12 minutes, stirring every 5 minutes. Add zucchini and *prepared broth* to stock pan. Simmer 15 minutes, covered, over low heat.
-3. **Pre-cook orzo.** Cook orzo at rolling boil for 8 minutes, until almost tender. Drain. Add cooked orzo to stock pan.
-4. **Garnish and serve** with parmesan.
+1. **Simmer stock.** Add beef stock, italian seasoning, and bay leaf to stock pan. Simmer, covered, over low heat. Referenced later as *prepared stock*.
+2. **Pan-fry sausage.** Heat skillet over medium-high heat. Add sausage. Toss until sausage does not stick. Pan-fry 6 minutes, flipping every 3 minutes. Set aside as *pan-fried sausage*.
+3. **Parboil orzo.** Cook orzo at rolling boil for 8 minutes, until almost tender. Drain. Set aside as *parboiled orzo*.
+4. **Saute vegetables.** Melt butter over medium heat in skillet. Add onion, carrots, celery, garlic, salt, white pepper to skillet. Coat evenly. Saute for 12 minutes, stirring every 4 minutes, until vegetables have softened. Reduce with water to stir up the fond. Referenced next as *vegetable base*.
+5. **Compile soup.** In order, add *vegetable base*, *parboiled orzo*, *pan-fried sausage*, and *prepared stock*, and zucchini to stock pan. Bring mixture to soft boil. Reduce heat to low. Cover. Simmer 15 minutes.
+6. **Garnish and serve** with parmesan.
+
+!!! tip
+    You can do everything in a stock pan if you prefer fewer dishes; however, you can expect a somewhat softer texture in the vegetables and sausage.
 
 
 ---
