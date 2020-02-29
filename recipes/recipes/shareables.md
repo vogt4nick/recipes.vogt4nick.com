@@ -111,21 +111,27 @@ Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-
 
 |||
 |:--|:--|
-| 450 g  | Starchy Potatoes, peeled, 1 cm cubes
-| 250 g  | All-Purpose Flour
-| 60 mL  | Butter, unsalted, cut into bits
-| 30 mL  | Yogurt*
-| 90 mL  | Water, cold (5C)
-| 60 mL  | Butter, unsalted
-| 110 g  | Yellow Onion, minced
-| 55 g   | Jalapeño Pepper, diced
-| 15 mL  | Garlic, minced
-| 10 mL  | Ginger, grated
-| 15 mL  | Curry Powder
-| 2 mL   | Black Pepper
-| 1 mL   | Salt
-| 75 g   | Green Peas**
-| 120 mL | Water, cold (5C)
+| 225 g  | Starchy Potatoes, peeled, 1 cm cubes
+| 500 mL | Water
+| 5 mL   | Salt
+|---|---
+| 125 g  | All-Purpose Flour
+| 2 mL   | Kosher Salt
+| 30 mL  | Butter, unsalted, cut into bits
+| 15 mL  | Yogurt*
+| 45 mL  | Water, cold (5C)
+|---|---
+| 30 mL  | Butter, unsalted
+| 55 g   | Yellow Onion, minced
+| 30 g   | Jalapeño Pepper, diced
+| 8 mL   | Garlic, minced
+| 5 mL   | Ginger, grated
+| 10 mL  | Curry Powder
+| 1 mL   | Black Pepper
+| <1 mL  | Salt
+| 55 g   | Green Peas**
+|---|---
+| 60 mL  | Water, cold (5C)
 |        | Canola Oil
 
 *Substitute sour cream for yogurt
