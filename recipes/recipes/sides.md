@@ -6,20 +6,23 @@ Inspired by the [Smitten Kitchen Cookbook](https://smile.amazon.com/gp/product/0
 |||
 |:--|:--|
 | 450 g   | Russet Potatoes
+| ---     | ---
 | 30 g    | Ricotta (optional)
-| 2 mL    | Thyme, dried
 | 1       | Egg, beaten
-| 2 mL    | Salt
 | 150 mL  | Flour, sifted
+| 2 mL    | Salt
+| 2 mL    | Thyme, dried
+| ---     | ---
 | 1000 mL | Water
 | 15 mL   | Olive Oil
+| ---     | ---
 | 15 mL   | Olive Oil
 | 5 mL    | Black Pepper
 | 5 mL    | Parsley, dried, ground
 
 
 1. **Bake potatoes.** Preheat oven to 400F (205C). Bake potatoes at 400F for 60 minutes. Rest 60 minutes until cool.
-2. **Prepare pota-dough.** Prepare a well-floured surface. Peel *baked potatoes*. Mash potatoes into large bowl. Add ricotta, salt, flour, egg, thyme. Mix. Transfer dough to well-floured surface. Knead gently.
+2. **Prepare pota-dough.** Prepare a well-floured surface. Peel *baked potatoes*. Mash potatoes into large bowl. Add ricotta, egg, flour, salt, thyme. Mix. Transfer dough to well-floured surface. Knead gently.
 3. **Shape dumplings.** Divide batch as necessary; roll *pota-dough* into 2 cm thick rope. Cut 3 cm dumplings from rope. [Dimple the dumplings](https://www.youtube.com/watch?v=iTmcGy9CWhE&t=175s).
 4. **Cook dumplings.** Add water and olive oil to stockpan. Boil over high heat. Divide batch as necessary; add dumplings to stockpan. Note that dumplings are cooked when they begin to float.
 5. **Sear dumplings.** Heat remaining olive oil frying pan over medium-high heat. Transfer *cooked dumplings* to frying pan. Add black pepper. Cook 2 minutes until brown. Flip. Cook 2 minutes. Remove from heat.
@@ -39,15 +42,16 @@ Mashed potatoes with parsnips and skins on.
 |||
 |:--|:--|
 | 450 g  | Russet Potatoes
-|        | Canola Oil
-| 225 g  | Parsnips, 20 mm cubes
-|        | Water, cold
+| 10 mL  | Canola Oil
+| ---    | ---
+| 225 g  | Parsnips, roughly chopped
 | 15 mL  | Salt
+| ---    | ---
 | 80 mL  | Milk, whole
 | 30 mL  | Butter, unsalted
 | 5 mL   | Rosemary, chopped
-|        | Salt
-|        | Black Pepper
+| 1 mL   | Kosher Salt
+| 1 mL   | Black Pepper
 
 
 1. **Preheat oven** to 400F (205C).
@@ -66,9 +70,9 @@ Also called erdäpfelknödeln. Inspired by travels to Austria & Bavaria and [Bav
 
 |||
 |:--|:--|
-| 1000 mL | Water, cold
-| 15 mL   | Salt
 | 500 g   | Russet Potatoes, peeled
+| 15 mL   | Salt
+| ---     | ---
 | 160 mL  | All-Purpose Flour
 | 2 mL    | Salt
 | 1 mL    | Nutmeg, ground (optional)
@@ -93,20 +97,21 @@ The crunchiest potatoes I've ever had. Inspired by [Internet Shaquille (Video)](
 
 |||
 |:--|:--|
-| 2000 mL | Water, cold
 | 30 mL   | Salt
 | 2 mL    | Baking Soda
 | 900 g   | Russet Potatoes, peeled, quartered
-| 15 mL   | Curry Powder*
+| ---     | ---
+| 90 mL   | Cooking Fat
+| 16 mL   | Curry Powder*
 | 8 mL    | Black Pepper
 | 4 mL    | Kosher Salt
-| 90 mL   | Cooking Fat
+| ---     | ---
 | 90 mL   | Sour Cream
 
 *Substitute 8 mL rosemary and 8 mL thyme for curry powder
 
 1. **Prepare materials.** Preheat oven to 450F (230C). Prepare a foiled sheetpan.
-2. **Boil potatoes.** Add potatoes, water, salt, baking soda to stockpan. Stir. Boil 6 minutes until nearly cooked-through. Strain**.
+2. **Boil potatoes.** Add potatoes, salt, baking soda, and water (enough to cover the mixture) to stockpan. Stir. Boil 6 minutes until nearly cooked-through. Strain**.
 3. **Dry potatoes.** Rest potatoes 15 minutes until done steaming.
 4. **Season potatoes** with spices and oil.
 5. **Roast potatoes.** Move to prepared sheetpan. Spread evenly so no potatoes are touching. Roast 50 minutes at 450F, turning every 20 minutes.
@@ -126,13 +131,14 @@ Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavar
 | 15 mL  | Butter, unsalted
 | 8 mL   | Sugar
 | 110 g  | White Onion, minced
-| 1      | Green Apple, peeled, cubed
+| 1      | Green Apple, peeled, chopped
 | 500 g  | Red Cabbage, cut into strips
+| 30 mL  | Red Wine Vinegar
 | 1      | Bay Leaf
 | 2      | Cloves
 | <1 mL  | Salt
-| 30 mL  | Red Wine Vinegar
 | 120 mL | Red Wine
+| ---    | ---
 | 15 mL  | Flour
 | 15 mL  | Marmelade (optional)
 
@@ -151,6 +157,7 @@ Less sticky than sticky rice. Ideal for a Zojirushi rice cooker. Inspired by [Zo
 |:--|:--|
 | 360 mL | Short-Grain White Rice, rinsed
 | TBD    | Water
+| ---    | ---
 | 40 mL  | Rice Vinegar
 | 30 mL  | White Sugar
 | 3 mL   | Salt
@@ -171,12 +178,14 @@ Dial back the spices when you make the recipe for the first time. Inspired by [Y
 | 8 mL   | Turmeric
 | 4 mL   | Cumin
 | 1 mL   | Cinnamon (optional)
+| ---    | ---
 | 30 mL  | Butter, unsalted
 | 10 mL  | Garlic, minced
 | 180 g  | Jasmine Rice, rinsed
-| 360 mL | Chicken Broth
+| ---    | ---
+| 360 mL | Chicken Stock
 | 1      | Bay Leaf
 
 1. Mix spices in small bowl. Set aside as *yellow spices*.
 2. Heat butter in frying pan over medium heat until fully heated. Add garlic. Stir. Cook 60 seconds. Add *yellow spices*. Stir. Cook 2 minutes. Add rice. Coat evenly. Cook 2 minutes.
-3. Empty rice into rice cooker. Add bay leaf and chicken broth. Cook until done.
+3. Empty rice into rice cooker. Add bay leaf and chicken stock. Cook until done.

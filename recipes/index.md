@@ -1,36 +1,93 @@
 
-## Soups
+# Soups
 
-* [Carrot Soup (V+)](recipes/main-dishes.md#carrot-soup) with [Tahini](recipes/sauces.md#tahini-paste) [Roasted Potatoes (V+)](recipes/sides.md#roasted-potatoes)
-* Tomato Soup with [Gnocchi (V)](recipes/sides.md#gnocchi)
-* [Mediterranean Soup](recipes/main-dishes.md#mediterranean-soup)
+## Carrot Soup (V+)
 
+Carrot Soup served with a dollop of tahini and a side of Toasted Pita seasoned with Za'atar.
 
-## Curries
+## Loaded French Onion Soup
 
-* [Aloo Gobi (V+)](recipes/main-dishes.md#aloo-gobi) with [Naan Bread (V)](recipes/food-lab.md#naan-bread)
-* [Curried Pork](recipes/main-dishes.md#curried-pork) with [Yellow Rice](recipes/sides.md#yellow-rice)
+French onion soup with bacon and double the cheese.
 
+## Mediterranean Soup
 
-## Handhelds
+Italian sausage & orzo combined with a mirepoix-based stock and fresh summer squash to blend French & Italian flavors into one dish. Served with grated parmesan.
 
-* [B.O.C. Monsieur](recipes/main-dishes.md#boc-monsieur) served over [Baguettes (V)](recipes/breads.md#baguettes) with beef broth
-* [Pasties](recipes/food-lab.md#yooper-beef-wellington)
-* [Samosas (V+)](recipes/shareables.md#samosas)
-* [Sweet Potato Tacos (V)](recipes/main-dishes.md#sweet-potato-tacos)
+## Parisian Tomato Soup w/ Gnocchi (V)
+
+Seared gnocchi in a homemade tomato soup made from a mirepoix base and seasoned with chives, lavender, and other Parisian-inspired spices.
 
 
-## Entrees
+---
 
-* [Chicken Pad Thai](recipes/food-lab.md#chicken-pad-thai)
-* [Enchiladas](recipes/main-dishes.md#enchiladas)
-* [Indialian Chicken & Orzo](recipes/main-dishes.md#indialian-chicken-orzo)
-* [Pot Roast](recipes/food-lab.md#pot-roast) with [Mashed Potatoes](recipes/sides.md#mashed-potatoes)
-* [Sauerbraten](recipes/main-dishes.md#sauerbraten) served with a [Sugar Roux](recipes/sauces.md#sugar-roux) sauce, [Knödeln](recipes/sides.md#potato-dumplings), and [Rotkraut](recipes/sides.md#rotkraut)
-* [Sweet & Spicy Stir Fry](recipes/main-dishes.md#stir-fry) with Jasmine Rice
-* [Veggie Pot Pie](recipes/food-lab.md#veggie-pot-pie)
+# Curries
 
-## About
+## Aloo Gobi (V+) w/ Naan
+
+Fluffy potatoes, toasted chickpeas, and soft naan add three distinct textures to complement a spicy and aromatic yellow curry with a pinch of saffron.
+
+
+---
+
+# Handhelds
+
+## B.O.C. Monsieur
+
+Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Inspired by French Onion Soup and Croque Monsieur.
+
+## Pasties w/ Gravy
+
+A meatpie stuffed with seasoned sirloin and root vegetables and served with a rich chicken-based gravy.
+
+## Samosas (V+)
+
+A savory pastry stuffed with potatoes, peas, and peppers all seasoned with a rich, spicy curry.
+
+## Sweet Potato Tacos (V)
+
+Deceptively simple tacos with too much flavor. Crunchy and soft, and sweet and sour and spicy all at once.
+
+
+---
+
+# Entrees
+
+## Chicken Pad Thai
+
+Simple pad thai served with lime wedges, peanuts, and cayenne pepper.
+
+## Curried Pork w/ Yellow Rice & Broccoli
+
+Ut sagittis tempor orci nec ultricies. Nunc ac arcu eu justo fermentum vulputate. Proin volutpat ex vitae purus semper aliquam.
+
+## Enchiladas
+
+Vivamus fermentum, purus non cursus luctus, quam metus interdum nisi, in vestibulum nibh quam quis enim.
+
+## Indialian Chicken & Orzo
+
+Nullam vitae nulla a velit semper pharetra non sit amet ligula. Pellentesque mollis augue ut efficitur mattis. Quisque quis urna sit amet erat molestie dignissim.
+
+## Pot Roast
+
+Nam aliquet mi non nibh tristique, at mollis nisl tempor. Nam non rhoncus tortor, in aliquam quam.
+
+## Sauerbraten
+
+Aenean sit amet arcu diam. Praesent id tellus ut sem vehicula faucibus. Donec mauris felis, dapibus dapibus blandit ac, pulvinar vel nulla. Aliquam erat volutpat. Duis pulvinar neque quis diam.
+
+## Sweet & Spicy Stir Fry
+
+Duis sed lacus vitae neque pellentesque auctor. Morbi risus nulla, lacinia feugiat aliquet non, bibendum ut lorem. Nullam quis odio pretium, tincidunt.
+
+## Veggie Pot Pie (V)
+
+Nullam mattis lorem nunc, eu feugiat mauris aliquam et. Phasellus dapibus.
+
+
+---
+
+# About
 
 I made this website because I didn't enjoy searching for recipes on my Google Drive.
 

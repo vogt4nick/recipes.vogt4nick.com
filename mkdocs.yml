@@ -1,26 +1,30 @@
 site_name: Nick's Recipes
 docs_dir: recipes
 nav:
-    - Menu: index.md
-    - Recipes:
-        - Main Dishes: recipes/main-dishes.md
-        - Sides: recipes/sides.md
-        - Sauces: recipes/sauces.md
-        - Breads: recipes/breads.md
-        - Shareables: recipes/shareables.md
-        - Food Lab: recipes/food-lab.md
-        - Archive: recipes/archive.md
-    - References:
-        - Ingredients: references/ingredients.md
-        - Styles: references/styles.md
-        - Techniques: references/techniques.md
+  - Menu: index.md
+  - Recipes:
+    - Archive: recipes/archive.md
+    - Breads: recipes/breads.md
+    - Curries: recipes/curries.md
+    - Desserts: recipes/desserts.md
+    - Entrees: recipes/entrees.md
+    - Food Lab: recipes/food-lab.md
+    - Handhelds: recipes/handhelds.md
+    - Sauces: recipes/sauces.md
+    - Shareables: recipes/shareables.md
+    - Sides: recipes/sides.md
+    - Soups: recipes/soups.md
+  - References:
+    - Ingredients: references/ingredients.md
+    - Styles: references/styles.md
+    - Techniques: references/techniques.md
 theme: mkdocs
 markdown_extensions:
-    - toc:
-        permalink: "#"
-        baselevel: 2
-        separator: "-"
-    - admonition
+  - toc:
+      permalink: "#"
+      baselevel: 2
+      separator: "-"
+  - admonition
 google_analytics:
-    - UA-109563922-1
-    - auto
+  - UA-109563922-1
+  - auto
