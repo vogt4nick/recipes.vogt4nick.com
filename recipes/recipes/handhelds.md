@@ -1,3 +1,7 @@
+# Handhelds
+
+
+---
 
 ## B.O.C. Monsieur
 
@@ -130,3 +134,8 @@ A good recipe for low risk, high reward improvising. Inspired by [El Arboria Taq
 2. **Prepare refried beans**. Add beans and mozzarella to saucepan. Cover. Warm over low heat. Referenced later as *warm refried beans*.
 3. **Prepare tacos.** Spread refried beans on tortillas. Add ~80 g of roasted vegetables to each tortilla.
 4. **Garnish** with lime juice and cilantro.
+
+
+---
+
+# Food Lab

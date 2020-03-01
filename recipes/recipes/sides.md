@@ -1,3 +1,7 @@
+# Sides
+
+
+---
 
 ## Gnocchi
 
@@ -189,3 +193,8 @@ Dial back the spices when you make the recipe for the first time. Inspired by [Y
 1. Mix spices in small bowl. Set aside as *yellow spices*.
 2. Heat butter in frying pan over medium heat until fully heated. Add garlic. Stir. Cook 60 seconds. Add *yellow spices*. Stir. Cook 2 minutes. Add rice. Coat evenly. Cook 2 minutes.
 3. Empty rice into rice cooker. Add bay leaf and chicken stock. Cook until done.
+
+
+---
+
+# Food Lab
