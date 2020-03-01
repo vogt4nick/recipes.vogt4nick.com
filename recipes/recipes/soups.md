@@ -1,4 +1,8 @@
 
+# Soups
+
+---
+
 ## Carrot Soup
 
 Goes nicely with homemade [tahini](sauces.md#tahini). Inspired by [Smitten Kitchen](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/).
@@ -124,6 +128,30 @@ Read the recipe first; you can optimize steps
 !!! tip
     You can do everything in a stock pan if you prefer fewer dishes; however, you can expect a somewhat softer texture in the vegetables and sausage.
 
+
+---
+
+# Stocks
+
+---
+
+## Vegetable Stock
+
+|||
+|:--|:--|
+| 100 g   | Onions, chopped
+| 100 g   | Celery, chopped
+| 100 g   | Carrots, chopped
+| 100 g   | Potato skins, chopped
+| 100 g   | Tomatoes, chopped
+| 1       | Garlic Cloves, crushed
+| 10      | Parsley Sprigs
+| 2 mL    | Salt
+| 2 mL    | Black Peppercorns
+| 1000 mL | Water
+
+1. **Simmer stock.** Add all ingredients to stockpan. Heat until starting to bubble. Cover. Simmer over low heat 30 minutes.
+2. **Strain stock** through fine-mesh colander into a large bowl.
 
 <!-- ---
 
