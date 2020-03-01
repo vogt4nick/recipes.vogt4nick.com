@@ -35,6 +35,10 @@ Fluffy potatoes, toasted chickpeas, and soft naan add three distinct textures to
 
 Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Inspired by French Onion Soup and Croque Monsieur.
 
+## Grilled Cheese & Tomato Soup
+
+Made with green apples, bacon, leftover gruyere, etc. Served with homemade tomato soup for dipping.
+
 ## Pasties w/ Gravy
 
 A meatpie stuffed with seasoned sirloin and root vegetables and served with a rich chicken-based gravy.
