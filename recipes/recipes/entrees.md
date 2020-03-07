@@ -138,6 +138,38 @@ Recipe is for one serving.
 
 ---
 
+## Rice & Beans
+
+|||
+|:--|:--|
+| 150 g  | Pinto Beans, dry, rinsed
+| 300 mL | Water, cold
+| ---    | ---
+| 150 g  | Medium- or Short-Grain Rice, rinsed
+| 250 mL | Water, cold
+| 5 mL   | Kosher Salt
+| ---    | ---
+| 15 mL  | Butter, unsalted
+| 15 mL  | Canola Oil
+| 150 g  | Yellow Onion, minced
+| 2 mL   | Cumin
+| 5 mL   | Garlic, minced
+|        | *Prepared Beans*
+| 2 mL   | Kosher Salt
+| 2 mL   | Cumin
+| ---    | ---
+|        | Cilantro
+
+1. **Soak Beans.** Combine beans and water in ziploc bag. Soak in refrigerator at least 24 hours. Strain and drip-dry.* Set aside.
+2. **Cook Rice.** Add rice, water, and salt to rice cooker. Cook until done.
+3. **Combine.** Heat oil in skillet over medium heat. Add onion, cumin, garlic. Coat evenly. Saute 8 minutes, stirring every 3 minutes. Add prepared beans, salt, remaining cumin. Stir evenly. Cook 5 minutes. Remove from heat. Add rice. Stir evenly.
+4. **Garnish & serve** with cilantro.
+
+\* You can use canned beans instead, but we find the flavor & texture are better (and cheaper) starting with dry beans.
+
+
+---
+
 ## Sauerbraten
 
 Pairs nicely with [potato dumplings](sides.md#potato-dumplings) and [rotkraut](sides.md#rotkraut). Garnish with [sugar roux](sauces.md#sugar-roux). Inspired by travels to Austria & Bavaria and [German recipes](http://www.bavariankitchen.com/meats/sauerbraten.aspx).
