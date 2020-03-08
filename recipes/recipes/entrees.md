@@ -551,8 +551,7 @@ Inspired by [Red Beans & Rice](https://www.reddit.com/r/GifRecipes/comments/6dag
 1. **Soak Beans.** Add beans, water, and salt to a ziploc bag. Mix well. Soak 8-24 hours at room temperature.
 2. **Parfry sausage & veggies.** Heat oil in dutch oven over medium-high heat. Add sausage. Saute 5 minutes, stirring every 2 minutes. Add onion, bell pepper, celery, salt. Saute 8 minutes, stirring every 3 minutes. Add garlic. Saute 60 seconds. Add remaining seasonings. Stir evenly.
 3. **Simmer.** Add ingredients to dutch oven. Mix evenly. Bring to boil, reduce heat to low until simmering. Cover. Simmer 2 hours until beans are tender.
-4. Remove lid and continue to cook, stirring occasionally, until liquid has thickened and turned creamy, about 20 minutes. If the pot starts to look dry before the stew turns creamy, add a cup of water and continue simmering. Repeat as necessary until desired level of creaminess is achieved. Discard bay leaves and thyme stems. Season to taste with hot sauce, a few teaspoons of cider vinegar (if using), and more salt and pepper. For best texture, let cool and refrigerate overnight. Reheat the next day, adding a little water to loosen to desired consistency. Serve red beans over steamed white rice.
-5. **Stir Together.** Uncover dutch oven. Simmer 20 minutes, stirring every 5 minutes, until creamy.* Discard bay leaves and thyme stems.
-6. **Garnish & Serve.** Add hot sauce, apple cider vinegar. Serve over white rice.
+4. **Stir Together.** Uncover dutch oven. Simmer 20 minutes, stirring every 5 minutes, until creamy.* Discard bay leaves and thyme stems.
+5. **Garnish & Serve.** Add hot sauce, apple cider vinegar. Serve over white rice.
 
 \*If the pot starts to look dry before the stew turns creamy, add 240 mL water and continue simmering.
