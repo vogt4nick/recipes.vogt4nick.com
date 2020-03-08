@@ -52,6 +52,11 @@ Made with green apples, bacon, leftover gruyere, etc. Served with homemade tomat
 A meatpie stuffed with seasoned sirloin and root vegetables and served with a rich chicken-based gravy.
 
 
+## (Not Your Mother's) [Roasted Potatoes](recipes/sides.md#roasted-potatoes)
+
+Crunchy outside. Fluffy inside. Seasoned as you like it.
+
+
 ## [Samosas (V+)](recipes/handhelds.md#samosas)
 
 A savory pastry stuffed with potatoes, peas, and peppers all seasoned with a rich, spicy curry.
@@ -82,17 +87,17 @@ Simple pad thai served with lime wedges, peanuts, and cayenne pepper.
 Spicy pork. Turmeric-infused rice. Crisp broccoli.
 
 
-## [Enchiladas](recipes/entrees.md#enchiladas)
+## [Enchiladas](recipes/entrees.md#enchiladas) w/ Chips & Guacamole
 
 Chicken. Tortillas. Spicy sauce. Cheese.
 
 
-## [Käsespätzle (V)](recipes/entrees.md#kasespatzle)
+## [Käsespätzle (V)](recipes/entrees.md#kasespatzle) mit Grüner Salat
 
 Cheesy pasta. Carmelized onions. Fried shallots.
 
 
-## [Indialian Chicken & Orzo](recipes/entrees.md#indialian-chicken-orzo)
+## [Indialian Chicken & Orzo](recipes/entrees.md#indialian-chicken-orzo) & Broccoli
 
 Tandoori seasoned chicken thighs. Sun-dried tomatoes. Scallions.
 
@@ -109,7 +114,7 @@ Rice. Beans. Onion.
 
 ## [Rice & Beans, Cajun Style](recipes/entrees.md#rice-beans-cajun-style)
 
-Rice. Beans. Pork. Cajun spices.
+Rice. Red Kidney Beans. Pork. Cajun spices.
 
 
 ## [Sauerbraten](recipes/entrees.md#sauerbraten) mit [Erdäpfelknödeln](recipes/sides.md#potato-dumplings) und [Rotkraut](recipes/sides.md#rotkraut)
