@@ -36,28 +36,20 @@ Easy, set-and-forget curry. Ideal for seasonal variations. Inspired by [Alicia's
 
 |||
 |:--|:--|
-| 150 g  | Pinto Beans, dry, rinsed
-| 300 mL | Water, cold
-| ---    | ---
-| 150 g  | Medium- or Short-Grain Rice, rinsed
-| 250 mL | Water, cold
-| 5 mL   | Kosher Salt
-| ---    | ---
 | 15 mL  | Butter, unsalted (optional)
 | 15 mL  | Canola Oil
 | 150 g  | Yellow Onion, minced
 | 2 mL   | Cumin
 | 5 mL   | Garlic, minced
-|        | *Prepared Beans*
+| 240 g  | Pinto Beans, soaked
 | 2 mL   | Kosher Salt
 | 2 mL   | Cumin
+| 360 g  | Medium- or Short-Grain Rice, cooked
 | ---    | ---
 |        | Cilantro
 
-1. **Soak Beans.** Combine beans and water in ziploc bag. Soak in refrigerator at least 24 hours. Strain and drip-dry.* Set aside.
-2. **Cook Rice.** Add rice, water, and salt to rice cooker. Cook until done.
-3. **Combine.** Heat oil in skillet over medium heat. Add onion, cumin, garlic. Coat evenly. Saute 8 minutes, stirring every 3 minutes. Add prepared beans, salt, remaining cumin. Stir evenly. Cook 5 minutes. Remove from heat. Add rice. Stir evenly.
-4. **Garnish & serve** with cilantro.
+1. **Combine.** Heat oil in skillet over medium heat. Add onion, cumin, garlic. Coat evenly. Saute 8 minutes, stirring every 3 minutes. Add prepared beans, salt, remaining cumin. Stir evenly. Cook 5 minutes. Remove from heat. Add rice. Stir evenly.
+2. **Garnish & serve** with cilantro.
 
 \* You can use canned beans instead, but we find the flavor & texture are better (and cheaper) starting with dry beans.
 

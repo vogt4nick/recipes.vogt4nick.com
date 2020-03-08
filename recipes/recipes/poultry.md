@@ -134,7 +134,9 @@ Recipe is for one serving.
 
 ## Stir Fry
 
-Stir fry adjusted to my pallet; i.e. thick & crisp vegetables and sweet & spicy marinade. Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650) and [Sticky Ginger Soy Glazed Chicken](https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken/).
+Stir fry adjusted to our pallet; i.e. thick & crisp vegetables and sweet & spicy marinade. Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650) and [Sticky Ginger Soy Glazed Chicken](https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken/).
+
+Serve over jasmine rice.
 
 |||
 |:--|:--|
@@ -147,9 +149,6 @@ Stir fry adjusted to my pallet; i.e. thick & crisp vegetables and sweet & spicy 
 | 5 mL   | Crushed Red Pepper
 | 225 g  | Chicken Breast, cubed
 | ---    | ---
-| 180 g  | Jasmine Rice, rinsed
-| 360 mL | Water, cold
-| ---    | ---
 | 225 g  | Broccoli, golf-ball sized florets
 | 110 g  | Water Chestnuts, sliced
 | 110 g  | Carrots, chopped
@@ -158,12 +157,12 @@ Stir fry adjusted to my pallet; i.e. thick & crisp vegetables and sweet & spicy 
 | 60 mL  | Water, cold
 | ---    | ---
 | 60 mL  | Cilantro, chopped
+| 360 g  | Jasmine Rice, cooked
 
 1. **Marinade chicken.** Mix seasonings and chicken in ziplock bag. Coat evenly. Refrigerate for no more than 24 hours. Let cold chicken rest for 20 minutes at room temperature before cooking. Referenced later as *marinated chicken*.
-2. **Cook rice.** in rice cooker. Set aside as prepared rice.
-3. **Sear chicken.** Heat a large wok over high heat. Add chicken. Cook 10 minutes, tossing frequently. Set chicken aside as *seared chicken*.
-4. **Cook vegetables.** Add vegetables to wok. Mix. Cook 4 minutes, toss every 30 seconds. Add water to bottom of pan as necessary to consistently steam vegetables. Cook 4 minutes, tossing every 60 seconds, until vegetables start to soften. Add *seared chicken* to wok. Mix. Remove from heat.
-5. **Garnish and serve** over prepared rice.
+2. **Sear chicken.** Heat a large wok over high heat. Add chicken. Cook 10 minutes, tossing frequently. Set chicken aside as *seared chicken*.
+3. **Cook vegetables.** Add vegetables to wok. Mix. Cook 4 minutes, toss every 30 seconds. Add water to bottom of pan as necessary to consistently steam vegetables. Cook 4 minutes, tossing every 60 seconds, until vegetables start to soften. Add *seared chicken* to wok. Mix. Remove from heat.
+4. **Garnish and serve** over prepared rice.
 
 
 !!! tip
