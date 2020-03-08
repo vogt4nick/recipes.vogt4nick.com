@@ -1,8 +1,3 @@
-# Salads
-
-
----
-
 ## Caprese Salad
 
 Serves nicely with toasted focaccia. Inspired by [Smitten Kitchen](https://smittenkitchen.com/2009/08/cubed-hacked-caprese/).

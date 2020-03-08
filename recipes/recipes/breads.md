@@ -1,8 +1,3 @@
-# Breads
-
-
----
-
 ## Baguettes
 
 There's homework before baking baguettes; watch [How to Shape Baguettes (Video)](https://www.youtube.com/watch?v=xlN5CgQcvAg) and read [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home#homemade-french-baguette-recipe). Inspired by [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home#homemade-french-baguette-recipe) and [King Arther Flour](https://www.kingarthurflour.com/recipes/classic-baguettes-recipe).

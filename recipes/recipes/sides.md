@@ -1,8 +1,3 @@
-# Sides
-
-
----
-
 ## Gnocchi
 
 Inspired by the [Smitten Kitchen Cookbook](https://smile.amazon.com/gp/product/030759565X/) and [Gordon Ramsay (Video)](https://www.youtube.com/watch?v=iTmcGy9CWhE&t=19s).

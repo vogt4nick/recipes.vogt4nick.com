@@ -1,8 +1,3 @@
-# Sauces
-
-
----
-
 ## Alfredo Sauce
 
 Alfredo sauce without heavy cream. Inspired by a recipe lost to time.

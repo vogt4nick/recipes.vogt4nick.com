@@ -1,8 +1,3 @@
-# Curries
-
-
----
-
 ## Aloo Gobi
 
 Easy, set-and-forget curry. Ideal for seasonal variations. Inspired by [Alicia's Aloo Gobi](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/).

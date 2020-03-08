@@ -1,8 +1,3 @@
-# Shareables
-
-
----
-
 ## Beef Jerky
 
 Inspired by [Doc's Best Beef Jerky](https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/).
