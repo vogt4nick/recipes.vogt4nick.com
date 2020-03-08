@@ -132,3 +132,10 @@ Veggies. White Rice. Sweet & Spicy sauce.
 ## [Veggie Pot Pie (V)](recipes/meatless.md#veggie-pot-pie)
 
 Potatoes. Peas. Veggies. Pie crust.
+
+
+---
+
+# Pizzas
+
+## [Pepperoni, Mushroom, and Onion Pizza](recipes/pizzas.md#pepperoni-mushroom-and-onion-pizza) (/V)
