@@ -516,7 +516,7 @@ Pairs nicely with [mashed potatoes](sides.md#mashed-potatoes), and keeps well in
 
 ---
 
-## Rice & Beans, Cajun Style
+## Rice & Beans, Louisiana Creole Style
 
 Inspired by [Red Beans & Rice](https://www.reddit.com/r/GifRecipes/comments/6dagw2/red_beans_and_rice/).
 

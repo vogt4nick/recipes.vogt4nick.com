@@ -107,12 +107,12 @@ Tandoori seasoned chicken thighs. Sun-dried tomatoes. Scallions.
 Wine braised ribs. Skins-on potatoes. Green beans.
 
 
-## [Rice & Beans](recipes/entrees.md#rice-beans)
+## [Rice & Beans (V+)](recipes/entrees.md#rice-beans)
 
 Rice. Beans. Onion.
 
 
-## [Rice & Beans, Cajun Style](recipes/entrees.md#rice-beans-cajun-style)
+## [Rice & Beans, Louisiana Creole Style](recipes/entrees.md#rice-beans-louisiana-creole-style)
 
 Rice. Red Kidney Beans. Pork. Cajun spices.
 
