@@ -453,3 +453,47 @@ Pairs nicely with [mashed potatoes](sides.md#mashed-potatoes), and keeps well in
 4. **Braise ribs.** Arrange ribs as single layer in dutch oven. Reduce to simmer. Roast in oven, covered, 150 minutes. Transfer ribs to large bowl. Spoon fat from pan juices.
 5. **Prepare gravy.** Boil remaining juices 10 minutes until just beginning to thicken. Add butter and flour to small bowl. Mix into smooth paste. Whisk paste into juices. Simmer 5 minutes.
 6. **Garnish and serve** ribs with gravy.
+
+
+---
+
+## Rice & Beans, Cajun Style
+
+Inspired by [Red Beans & Rice](https://www.reddit.com/r/GifRecipes/comments/6dagw2/red_beans_and_rice/).
+
+|||
+|:--|:--|
+| 450 g   | Red Kidney Beans, dry, rinsed
+| 1600 mL | Water, cold
+| 30 mL   | Kosher Salt
+| ---     | ---
+| 15 mL   | Vegetable Oil
+| 450 g   | Andouille Sausage, roughly chopped, cooked
+| 330 g   | Onion, minced
+| 220 g   | Green Bell Pepper, minced
+| 220 g   | Celery, minced
+| 15 mL   | Kosher Salt
+| 20 g    | Garlic, minced
+| 10 mL   | Cayenne Pepper, ground
+| 5 mL    | Sage, ground
+| 2 mL    | Black Pepper
+| ---     | ---
+|         | *Soaked Beans*
+| 1600 mL | Water
+| 225 g   | Ham Hock (optional)
+| 225 g   | Pickled Pork Shoulder (Optional)
+| 4       | Thyme Sprigs
+| 3       | Bay Leaf
+| ---     | ---
+| 15 mL   | Hot Sauce
+| 15 mL   | Apple Cider Vinegar (optional)
+| 500 mL  | Short-Grain White Rice, cooked
+
+1. **Soak Beans.** Add beans, water, and salt to a ziploc bag. Mix well. Soak 8-24 hours at room temperature.
+2. **Parfry sausage & veggies.** Heat oil in dutch oven over medium-high heat. Add sausage. Saute 5 minutes, stirring every 2 minutes. Add onion, bell pepper, celery, salt. Saute 8 minutes, stirring every 3 minutes. Add garlic. Saute 60 seconds. Add remaining seasonings. Stir evenly.
+3. **Simmer.** Add ingredients to dutch oven. Mix evenly. Bring to boil, reduce heat to low until simmering. Cover. Simmer 2 hours until beans are tender.
+4. Remove lid and continue to cook, stirring occasionally, until liquid has thickened and turned creamy, about 20 minutes. If the pot starts to look dry before the stew turns creamy, add a cup of water and continue simmering. Repeat as necessary until desired level of creaminess is achieved. Discard bay leaves and thyme stems. Season to taste with hot sauce, a few teaspoons of cider vinegar (if using), and more salt and pepper. For best texture, let cool and refrigerate overnight. Reheat the next day, adding a little water to loosen to desired consistency. Serve red beans over steamed white rice.
+5. **Stir Together.** Uncover dutch oven. Simmer 20 minutes, stirring every 5 minutes, until creamy.* Discard bay leaves and thyme stems.
+6. **Garnish & Serve.** Add hot sauce, apple cider vinegar. Serve over white rice.
+
+\*If the pot starts to look dry before the stew turns creamy, add 240 mL water and continue simmering.
