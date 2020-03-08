@@ -23,6 +23,8 @@ theme:
   name: material
   feature:
     tabs: true
+  logo:
+    icon: restaurant_menu
   palette:
     primary: amber
     accent: amber
