@@ -67,6 +67,11 @@ Deceptively simple tacos with too much flavor. Crunchy and soft, and sweet and s
 # [Entrees](recipes/entrees.md)
 
 
+## [Artichoke Gaga](recipes/entrees.md#artichoke-gaga)
+
+Artichoke-stuffed lasagna.
+
+
 ## [Chicken Pad Thai](recipes/entrees.md#chicken-pad-thai)
 
 Simple pad thai served with lime wedges, peanuts, and cayenne pepper.
