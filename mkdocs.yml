@@ -21,6 +21,8 @@ nav:
   - About: about.md
 theme:
   name: material
+  feature:
+    tabs: true
   palette:
     primary: amber
     accent: amber
