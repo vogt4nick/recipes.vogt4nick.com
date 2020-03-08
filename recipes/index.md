@@ -77,6 +77,11 @@ Deceptively simple tacos with too much flavor. Crunchy and soft, and sweet and s
 Artichoke-stuffed lasagna.
 
 
+## [Cashew Chicken](recipes/entrees.md#cashew-chicken) w/ Jasmine Rice & Broccoli
+
+Sweet & spicy sauce. Chicken. Cashews.
+
+
 ## [Chicken Pad Thai](recipes/entrees.md#chicken-pad-thai)
 
 Simple pad thai served with lime wedges, peanuts, and cayenne pepper.
