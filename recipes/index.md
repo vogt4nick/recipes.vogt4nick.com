@@ -74,46 +74,52 @@ Simple pad thai served with lime wedges, peanuts, and cayenne pepper.
 
 ## Curried Pork w/ Yellow Rice & Broccoli
 
-Ut sagittis tempor orci nec ultricies. Nunc ac arcu eu justo fermentum vulputate. Proin volutpat ex vitae purus semper aliquam.
+Spicy pork. Turmeric-infused rice. Crisp broccoli.
 
 
 ## Enchiladas
 
-Vivamus fermentum, purus non cursus luctus, quam metus interdum nisi, in vestibulum nibh quam quis enim.
+Chicken. Tortillas. Spicy sauce. Cheese.
 
 
 ## Käsespätzle
 
-Cheesy pasta with carmelized onions & crispy shallots.
+Cheesy pasta. Carmelized onions. Fried shallots.
 
 
 ## Indialian Chicken & Orzo
 
-Nullam vitae nulla a velit semper pharetra non sit amet ligula. Pellentesque mollis augue ut efficitur mattis. Quisque quis urna sit amet erat molestie dignissim.
+Tandoori seasoned chicken thighs. Sun-dried tomatoes. Scallions.
 
 
-## Pot Roast
+## Pot Roast w/ Mashed Potatoes & Green Beans
 
-Nam aliquet mi non nibh tristique, at mollis nisl tempor. Nam non rhoncus tortor, in aliquam quam.
+Wine braised ribs. Skins-on potatoes. Green beans.
 
 
 ## Rice & Beans
 
 Rice. Beans. Onion.
 
-## Sauerbraten
 
-Aenean sit amet arcu diam. Praesent id tellus ut sem vehicula faucibus. Donec mauris felis, dapibus dapibus blandit ac, pulvinar vel nulla. Aliquam erat volutpat. Duis pulvinar neque quis diam.
+## Rice & Beans, Cajun Style
+
+Rice. Beans. Pork. Cajun spices.
+
+
+## Sauerbraten mit Erdäpfelknödeln und Rotkraut
+
+Cured beef. Potato dumplings. Red cabbage slaw.
 
 
 ## Sweet & Spicy Stir Fry
 
-Duis sed lacus vitae neque pellentesque auctor. Morbi risus nulla, lacinia feugiat aliquet non, bibendum ut lorem. Nullam quis odio pretium, tincidunt.
+Veggies. White Rice. Sweet & Spicy sauce.
 
 
 ## Veggie Pot Pie (V)
 
-Nullam mattis lorem nunc, eu feugiat mauris aliquam et. Phasellus dapibus.
+Potatoes. Peas. Veggies. Pie crust.
 
 
 ---
