@@ -4,11 +4,13 @@ nav:
   - Menu: index.md
   - Recipes:
     - Archive: recipes/archive.md
+    - Beef: recipes/beef.md
     - Breads: recipes/breads.md
-    - Curries: recipes/curries.md
     - Desserts: recipes/desserts.md
-    - Entrees: recipes/entrees.md
     - Handhelds: recipes/handhelds.md
+    - Meatless: recipes/meatless.md
+    - Pork: recipes/pork.md
+    - Poultry: recipes/poultry.md
     - Salads: recipes/salads.md
     - Sauces: recipes/sauces.md
     - Shareables: recipes/shareables.md

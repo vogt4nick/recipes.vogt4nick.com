@@ -24,16 +24,6 @@ Seared gnocchi in a homemade tomato soup made from a mirepoix base and seasoned 
 
 ---
 
-# [Curries](recipes/curries.md)
-
-
-## [Aloo Gobi (V+)](recipes/curries.md#aloo-gobi) w/ [Naan](recipes/breads.md#naan)
-
-Fluffy potatoes, toasted chickpeas, and soft naan add three distinct textures to complement a spicy and aromatic yellow curry with a pinch of saffron.
-
-
----
-
 # [Handhelds](recipes/handhelds.md)
 
 
@@ -69,69 +59,76 @@ Deceptively simple tacos with too much flavor. Crunchy and soft, and sweet and s
 
 ---
 
-# [Entrees](recipes/entrees.md)
+# Entrees
+
+Including [beef](recipes/beef.md), [pork](recipes/pork.md), [poultry](recipes/poultry.md), and [meatless](recipes/meatless.md) recipes.
 
 
-## [Artichoke Gaga](recipes/entrees.md#artichoke-gaga)
+## [Aloo Gobi (V+)](recipes/meatless.md#aloo-gobi) w/ [Naan](recipes/breads.md#naan)
+
+Fluffy potatoes, toasted chickpeas, and soft naan add three distinct textures to complement a spicy and aromatic yellow curry with a pinch of saffron.
+
+
+## [Artichoke Gaga (V)](recipes/meatless.md#artichoke-gaga)
 
 Artichoke-stuffed lasagna.
 
 
-## [Cashew Chicken](recipes/entrees.md#cashew-chicken) w/ Jasmine Rice & Broccoli
+## [Cashew Chicken](recipes/poultry.md#cashew-chicken) w/ Jasmine Rice & Broccoli
 
 Sweet & spicy sauce. Chicken. Cashews.
 
 
-## [Chicken Pad Thai](recipes/entrees.md#chicken-pad-thai)
+## [Chicken Pad Thai (/V)](recipes/poultry.md#chicken-pad-thai)
 
 Simple pad thai served with lime wedges, peanuts, and cayenne pepper.
 
 
-## [Curried Pork](recipes/entrees.md#curried-pork) w/ [Yellow Rice](recipes/sides.md#yellow-rice) & Broccoli
+## [Curried Pork](recipes/pork.md#curried-pork) w/ [Yellow Rice](recipes/sides.md#yellow-rice) & Broccoli
 
 Spicy pork. Turmeric-infused rice. Crisp broccoli.
 
 
-## [Enchiladas](recipes/entrees.md#enchiladas) w/ Chips & Guacamole
+## [Enchiladas (/V)](recipes/poultry.md#enchiladas) w/ Chips & Guacamole
 
 Chicken. Tortillas. Spicy sauce. Cheese.
 
 
-## [Käsespätzle (V)](recipes/entrees.md#kasespatzle) mit Grüner Salat
+## [Käsespätzle (V)](recipes/meatless.md#kasespatzle) mit Grüner Salat
 
 Cheesy pasta. Carmelized onions. Fried shallots.
 
 
-## [Indialian Chicken & Orzo](recipes/entrees.md#indialian-chicken-orzo) & Broccoli
+## [Indialian Chicken & Orzo](recipes/poultry.md#indialian-chicken-orzo) & Broccoli
 
 Tandoori seasoned chicken thighs. Sun-dried tomatoes. Scallions.
 
 
-## [Pot Roast](recipes/entrees.md#pot-roast) w/ [Mashed Potatoes](recipes/sides.md#mashed-potatoes) & Green Beans
+## [Pot Roast](recipes/beef.md#pot-roast) w/ [Mashed Potatoes](recipes/sides.md#mashed-potatoes) & Green Beans
 
 Wine braised ribs. Skins-on potatoes. Green beans.
 
 
-## [Rice & Beans (V+)](recipes/entrees.md#rice-beans)
+## [Rice & Beans (V+)](recipes/meatless.md#rice-beans)
 
 Rice. Beans. Onion.
 
 
-## [Rice & Beans, Louisiana Creole Style](recipes/entrees.md#rice-beans-louisiana-creole-style)
+## [Pork & Beans, Louisiana Creole Style](recipes/pork.md#rice-beans-louisiana-creole-style)
 
 Rice. Red Kidney Beans. Pork. Cajun spices.
 
 
-## [Sauerbraten](recipes/entrees.md#sauerbraten) mit [Erdäpfelknödeln](recipes/sides.md#potato-dumplings) und [Rotkraut](recipes/sides.md#rotkraut)
+## [Sauerbraten](recipes/beef.md#sauerbraten) mit [Erdäpfelknödeln](recipes/sides.md#potato-dumplings) und [Rotkraut](recipes/sides.md#rotkraut)
 
 Cured beef. Potato dumplings. Red cabbage slaw.
 
 
-## [Sweet & Spicy Stir Fry](recipes/entrees.md#stir-fry)
+## [Sweet & Spicy Stir Fry](recipes/poultry.md#stir-fry)
 
 Veggies. White Rice. Sweet & Spicy sauce.
 
 
-## [Veggie Pot Pie (V)](recipes/entrees.md#veggie-pot-pie)
+## [Veggie Pot Pie (V)](recipes/meatless.md#veggie-pot-pie)
 
 Potatoes. Peas. Veggies. Pie crust.
