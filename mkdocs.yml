@@ -18,7 +18,11 @@ nav:
     - Ingredients: references/ingredients.md
     - Styles: references/styles.md
     - Techniques: references/techniques.md
-theme: mkdocs
+theme:
+  name: material
+  palette:
+    primary: amber
+    accent: amber
 markdown_extensions:
   - toc:
       permalink: "#"
