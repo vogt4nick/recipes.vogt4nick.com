@@ -12,7 +12,7 @@ Carrot Soup served with a dollop of tahini and a side of Toasted Pita seasoned w
 French onion soup with bacon and double the cheese.
 
 
-## [Mediterranean Soup](recipes/soups.md#mediterannean-soup)
+## [Mediterranean Soup](recipes/soups.md#mediterranean-soup)
 
 Italian sausage & orzo combined with a mirepoix-based stock and fresh summer squash to blend French & Italian flavors into one dish. Served with grated parmesan.
 
