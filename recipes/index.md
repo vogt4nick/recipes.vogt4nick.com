@@ -22,6 +22,11 @@ Italian sausage & orzo combined with a mirepoix-based stock and fresh summer squ
 Seared gnocchi in a homemade tomato soup made from a mirepoix base and seasoned with chives, lavender, and other Parisian-inspired spices.
 
 
+## [Vichyssoise (/V/V+)](recipes/soups.md#vichyssoise)
+
+Leeks. Potatoes. Chives.
+
+
 ---
 
 # [Handhelds](recipes/handhelds.md)
