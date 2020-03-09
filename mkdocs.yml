@@ -18,6 +18,7 @@ nav:
     - Sides: recipes/sides.md
     - Soups: recipes/soups.md
   - References:
+    - Chefs: references/chefs.md
     - Ingredients: references/ingredients.md
     - Styles: references/styles.md
     - Techniques: references/techniques.md
