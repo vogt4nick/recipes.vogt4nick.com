@@ -97,7 +97,7 @@ Simple  Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.c
 
 ---
 
-## Chicken Pad Thai (/V)
+## Chicken Pad Thai (/V/V+)
 
 It's vital that you prepare everything before cooking. Pad thai has to cook *fast*, and it can't cook fast if you're still crushing peanuts and slicing limes. Inspired by [Chez Pim](http://web.baz.org/adam/recipes/pad_thai_for_be.html).
 
