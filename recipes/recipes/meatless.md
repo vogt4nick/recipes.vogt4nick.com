@@ -30,6 +30,7 @@ Easy, set-and-forget curry. Ideal for seasonal variations. Inspired by [Alicia's
 !!! tip
     If the curry is too acidic, consider mixing 5 mL white sugar into the dish
 
+
 ---
 
 ## Rice & Beans (V/V+)
@@ -106,10 +107,10 @@ Inspired by [Smitten Kitchen](https://smittenkitchen.com/2007/01/artichoke-gaga/
 
 |||
 |:--|:--|
-| 190 g   | All-Purpose Flour
-| 2       | Eggs
-| 2       | Kosher Salt
-| 30 mL   | Water
+| 140 g   | All-Purpose Flour
+| 1       | Eggs
+| 2       | Egg Whites
+| 2 mL    | Kosher Salt
 | ---     | ---
 | 30 mL   | Butter, unsalted
 | 60 g    | Onion, chopped
