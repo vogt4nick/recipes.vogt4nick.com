@@ -132,7 +132,7 @@ Recipe is for one serving.
 
 ---
 
-## Stir Fry
+## Stir Fry (/V/V+)
 
 Stir fry adjusted to our pallet; i.e. thick & crisp vegetables and sweet & spicy marinade. Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650) and [Sticky Ginger Soy Glazed Chicken](https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken/).
 

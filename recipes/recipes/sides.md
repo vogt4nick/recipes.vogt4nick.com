@@ -34,7 +34,7 @@ Inspired by the [Smitten Kitchen Cookbook](https://smile.amazon.com/gp/product/0
 
 ---
 
-## Mashed Potatoes
+## Mashed Potatoes (V/V+)
 
 Mashed potatoes with parsnips and skins on.
 
@@ -90,7 +90,7 @@ Also called erdäpfelknödeln. Inspired by travels to Austria & Bavaria and [Bav
 
 ---
 
-## Roasted Potatoes
+## Roasted Potatoes (/V/V+)
 
 The crunchiest potatoes I've ever had. Inspired by [Internet Shaquille (Video)](https://www.youtube.com/watch?v=KxUX7vgNGfM).
 
@@ -121,7 +121,7 @@ The crunchiest potatoes I've ever had. Inspired by [Internet Shaquille (Video)](
 
 ---
 
-## Rotkraut
+## Rotkraut (V/V+)
 
 Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavariankitchen.com/vegetables/rotkohl.aspx).
 

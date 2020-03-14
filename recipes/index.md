@@ -22,7 +22,7 @@ Italian sausage & orzo combined with a mirepoix-based stock and fresh summer squ
 Seared gnocchi in a homemade tomato soup made from a mirepoix base and seasoned with chives, lavender, and other Parisian-inspired spices.
 
 
-## [Vichyssoise (/V/V+)](recipes/soups.md#vichyssoise)
+## [Vichyssoise (/V/V+)](recipes/soups.md#vichyssoise-vv)
 
 Leeks. Potatoes. Chives.
 
@@ -47,17 +47,17 @@ Made with green apples, bacon, leftover gruyere, etc. Served with homemade tomat
 A meatpie stuffed with seasoned sirloin and root vegetables and served with a rich chicken-based gravy.
 
 
-## (Not Your Mother's) [Roasted Potatoes](recipes/sides.md#roasted-potatoes)
+## [Roasted Potatoes (/V/V+)](recipes/sides.md#roasted-potatoes-vv) (Not Your Mother's)
 
 Crunchy outside. Fluffy inside. Seasoned as you like it.
 
 
-## [Samosas (V+)](recipes/handhelds.md#samosas)
+## [Samosas (V)](recipes/handhelds.md#samosas-v)
 
 A savory pastry stuffed with potatoes, peas, and peppers all seasoned with a rich, spicy curry.
 
 
-## [Sweet Potato Tacos (V)](recipes/handhelds.md#sweet-potato-tacos)
+## [Sweet Potato Tacos (V/V+)](recipes/handhelds.md#sweet-potato-tacos-vv)
 
 Deceptively simple tacos with too much flavor. Crunchy and soft, and sweet and sour and spicy all at once.
 
@@ -69,12 +69,12 @@ Deceptively simple tacos with too much flavor. Crunchy and soft, and sweet and s
 Including [beef](recipes/beef.md), [pork](recipes/pork.md), [poultry](recipes/poultry.md), and [meatless](recipes/meatless.md) recipes.
 
 
-## [Aloo Gobi (V+)](recipes/meatless.md#aloo-gobi) w/ [Naan](recipes/breads.md#naan)
+## [Aloo Gobi (V+)](recipes/meatless.md#aloo-gobi-v) w/ [Naan (V/V+)](recipes/breads.md#naan-vv)
 
 Fluffy potatoes, toasted chickpeas, and soft naan add three distinct textures to complement a spicy and aromatic yellow curry with a pinch of saffron.
 
 
-## [Artichoke Gaga (V)](recipes/meatless.md#artichoke-gaga)
+## [Artichoke Gaga (V)](recipes/meatless.md#artichoke-gaga-v)
 
 Artichoke-stuffed lasagna.
 
@@ -84,7 +84,7 @@ Artichoke-stuffed lasagna.
 Sweet & spicy sauce. Chicken. Cashews.
 
 
-## [Chicken Pad Thai (/V)](recipes/poultry.md#chicken-pad-thai)
+## [Chicken Pad Thai (/V/V+)](recipes/poultry.md#chicken-pad-thai-vv)
 
 Simple pad thai served with lime wedges, peanuts, and cayenne pepper.
 
@@ -94,12 +94,12 @@ Simple pad thai served with lime wedges, peanuts, and cayenne pepper.
 Spicy pork. Turmeric-infused rice. Crisp broccoli.
 
 
-## [Enchiladas (/V)](recipes/poultry.md#enchiladas) w/ Chips & Guacamole
+## [Enchiladas (/V)](recipes/poultry.md#enchiladas-v) w/ Chips & Guacamole
 
 Chicken. Tortillas. Spicy sauce. Cheese.
 
 
-## [Käsespätzle (V)](recipes/meatless.md#kasespatzle) mit Grüner Salat
+## [Käsespätzle (V)](recipes/meatless.md#kasespatzle-v) mit Grüner Salat
 
 Cheesy pasta. Carmelized onions. Fried shallots.
 
@@ -109,12 +109,12 @@ Cheesy pasta. Carmelized onions. Fried shallots.
 Tandoori seasoned chicken thighs. Sun-dried tomatoes. Scallions.
 
 
-## [Pot Roast](recipes/beef.md#pot-roast) w/ [Mashed Potatoes](recipes/sides.md#mashed-potatoes) & Green Beans
+## [Pot Roast](recipes/beef.md#pot-roast) w/ [Mashed Potatoes (V/V+)](recipes/sides.md#mashed-potatoes-vv) & Green Beans
 
 Wine braised ribs. Skins-on potatoes. Green beans.
 
 
-## [Rice & Beans (V+)](recipes/meatless.md#rice-beans)
+## [Rice & Beans (V/V+)](recipes/meatless.md#rice-beans-vv)
 
 Rice. Beans. Onion.
 
@@ -124,17 +124,17 @@ Rice. Beans. Onion.
 Rice. Red Kidney Beans. Pork. Cajun spices.
 
 
-## [Sauerbraten](recipes/beef.md#sauerbraten) mit [Erdäpfelknödeln](recipes/sides.md#potato-dumplings) und [Rotkraut](recipes/sides.md#rotkraut)
+## [Sauerbraten](recipes/beef.md#sauerbraten) mit [Erdäpfelknödeln](recipes/sides.md#potato-dumplings) und [Rotkraut (V/V+)](recipes/sides.md#rotkraut-vv)
 
 Cured beef. Potato dumplings. Red cabbage slaw.
 
 
-## [Sweet & Spicy Stir Fry](recipes/poultry.md#stir-fry)
+## [Sweet & Spicy Stir Fry (/V/V+)](recipes/poultry.md#stir-fry-vv)
 
 Veggies. White Rice. Sweet & Spicy sauce.
 
 
-## [Veggie Pot Pie (V)](recipes/meatless.md#veggie-pot-pie)
+## [Veggie Pot Pie (V)](recipes/meatless.md#veggie-pot-pie-v)
 
 Potatoes. Peas. Veggies. Pie crust.
 
@@ -143,4 +143,4 @@ Potatoes. Peas. Veggies. Pie crust.
 
 # Pizzas
 
-## [Pepperoni, Mushroom, and Onion Pizza](recipes/pizzas.md#pepperoni-mushroom-and-onion-pizza) (/V)
+## [Pepperoni, Mushroom, and Onion Pizza](recipes/pizzas.md#pepperoni-mushroom-and-onion-pizza)

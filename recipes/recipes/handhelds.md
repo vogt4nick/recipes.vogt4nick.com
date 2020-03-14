@@ -63,7 +63,7 @@ These make large pasties about the size of a loaf of bread. Serve them by slicin
 
 ---
 
-## Samosas
+## Samosas (V)
 
 Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
 
@@ -110,7 +110,7 @@ Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-
 
 ---
 
-## Sweet Potato Tacos
+## Sweet Potato Tacos (V/V+)
 
 A good recipe for low risk, high reward improvising. Inspired by [El Arboria Taqueria](https://goo.gl/maps/5rY1W9N4L1KLBRGN8) and [Sweet Potato Tacos](https://smittenkitchen.com/2018/03/sweet-potato-tacos/).
 
