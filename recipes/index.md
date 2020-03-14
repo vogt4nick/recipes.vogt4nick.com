@@ -47,7 +47,7 @@ Made with green apples, bacon, leftover gruyere, etc. Served with homemade tomat
 A meatpie stuffed with seasoned sirloin and root vegetables and served with a rich chicken-based gravy.
 
 
-## [Roasted Potatoes (/V/V+)](recipes/sides.md#roasted-potatoes-vv) (Not Your Mother's)
+## [(Not Your Mother's) Roasted Potatoes (/V/V+)](recipes/sides.md#roasted-potatoes-vv)
 
 Crunchy outside. Fluffy inside. Seasoned as you like it.
 
