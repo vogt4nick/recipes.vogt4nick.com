@@ -103,11 +103,11 @@ Easy, set-and-forget curry. Ideal for seasonal variations. Inspired by [Alicia's
 
 ## Artichoke Gaga (V)
 
-Inspired by [Smitten Kitchen](https://smittenkitchen.com/2007/01/artichoke-gaga/).
+Inspired by [Smitten Kitchen](https://smittenkitchen.com/2007/01/artichoke-gaga/) and [Serious Eats](https://www.seriouseats.com/2015/01/best-easy-all-purpose-fresh-pasta-dough-recipe-instructions.html).
 
 |||
 |:--|:--|
-| 140 g   | All-Purpose Flour
+| 190 g   | All-Purpose Flour
 | 1       | Eggs
 | 2       | Egg Whites
 | 2 mL    | Kosher Salt
