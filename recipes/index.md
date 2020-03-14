@@ -17,9 +17,9 @@ French onion soup with bacon and double the cheese.
 Italian sausage & orzo combined with a mirepoix-based stock and fresh summer squash to blend French & Italian flavors into one dish. Served with grated parmesan.
 
 
-## Parisian Tomato Soup w/ [Gnocchi (V)](recipes/sides.md#gnocchi-v)
+## Parisian [Tomato Soup (V+)](recipes/soups.md#tomato-soup-v) w/ [Gnocchi (V)](recipes/sides.md#gnocchi-v)
 
-Seared gnocchi in a homemade tomato soup made from a mirepoix base and seasoned with chives, lavender, and other Parisian-inspired spices.
+Seared gnocchi. Tarragon, parsley, chives.
 
 
 ## [Vichyssoise (/V/V+)](recipes/soups.md#vichyssoise-vv)

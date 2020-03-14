@@ -82,7 +82,7 @@ Read the recipe first; you can optimize steps
 !!! tip
     * Place loose leaf herbs in a steel ball tea infuser for seasoning your stock.
     * Substitute a homemade vegetable stock with a mirepoix base for more vegetable flavor.
-    * Carmelize onions until they are deep brown for a very sweet soup.
+    * Caramelize onions until they are deep brown for a very sweet soup.
 
 
 ---
@@ -124,13 +124,35 @@ Read the recipe first; you can optimize steps
     You can do everything in a stock pan if you prefer fewer dishes; however, you can expect a somewhat softer texture in the vegetables and sausage.
 
 
+### Tomato Soup (V+)
+
+A basic tomato soup recipe.
+
+|||
+|:--|:--|
+| 10 mL  | Extra Virgin Olive Oil
+| 100 g  | Onion, minced
+| 1 mL   | Kosher Salt
+| 1 mL   | Black Pepper
+| 900 g  | Tomatoes, peeled, quartered
+| ---    | ---
+| 500 mL | [Vegetable Stock](#vegetable-stock-v)
+| 10 mL  | Parsley
+| ---    | ---
+| 10 mL  | Basil
+
+1. **Saute vegetables.** Heat oil in stockpan over medium heat. Add onion, salt, pepper. Coat evenly. Saute 8 minutes, stirring every 3 minutes. Add tomatoes. Cook 15 minutes, stirring every 5 minutes, until tomatoes break down.
+2. **Season and simmer.** Add stock and spices to stockpan. Bring soup to gentle boil, and reduce heat to low. Cover. Simmer 45 minutes.
+3. **Puree** with immersion blender.
+4. **Garnish & serve** with remaining spices.
+
 ---
 
 # Stocks
 
 ---
 
-## Vegetable Stock
+## Vegetable Stock (V+)
 
 |||
 |:--|:--|
