@@ -89,24 +89,27 @@ Ideal with leftover [BBRRR chicken](archive.md#bbrrr-chicken). Inspired by [Crea
 
 ## Indialian Chicken & Orzo
 
-Simple  Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.com/r/GifRecipes/comments/95wr6x/onepan_creamy_italian_orzo_chicken_oc/).
+Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.com/r/GifRecipes/comments/95wr6x/onepan_creamy_italian_orzo_chicken_oc/).
 
 
 |||
 |:--|:--|
-| 450 g  | Chicken Thighs, bone-in
+| 400 g  | Chicken Thighs, bone-in
 | 15 mL  | Tandoori Seasoning
 | ---    | ---
 | 15 mL  | Butter
+|        | *Seasoned Chicken Thighs*
 | ---    | ---
-| 70 g   | Green Onions, chopped
+| 70 g   | Scallions, chopped
 | 5 mL   | Garlic, minced
+| 30 g   | Sun-Dried Tomatoes, chopped
 | 135 g  | Orzo, rinsed
-| 30 g   | Sun-Dried Tomatoes, diced
 | 360 mL | Chicken Stock
 | 80 mL  | Heavy Cream
 | ---    | ---
-| 225 g  | Broccoli
+|        | *Seared Chicken Thighs*
+| ---    | ---
+| 200 g  | Broccoli
 | ---    | ---
 | 15 mL  | Basil
 | 30 mL  | Parmesan, grated
