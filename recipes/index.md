@@ -1,25 +1,24 @@
-
 # [Soups](recipes/soups.md)
 
 
 ## [Carrot Soup (V+)](recipes/soups.md#carrot-soup)
 
-Carrot Soup served with a dollop of tahini and a side of Toasted Pita seasoned with Za'atar.
+Carrots. Tahini. Toasted chickpeas.
 
 
 ## [Loaded French Onion Soup](recipes/soups.md#loaded-french-onion-soup)
 
-French onion soup with bacon and double the cheese.
+Caramelized onion. Gruyere. Bacon. Scallions.
 
 
 ## [Mediterranean Soup](recipes/soups.md#mediterranean-soup)
 
-Italian sausage & orzo combined with a mirepoix-based stock and fresh summer squash to blend French & Italian flavors into one dish. Served with grated parmesan.
+Italian sausage. Orzo. Zucchini.
 
 
-## Parisian [Tomato Soup (V+)](recipes/soups.md#tomato-soup-v) w/ [Gnocchi (V)](recipes/sides.md#gnocchi-v)
+## [Tomato Soup (V+)](recipes/soups.md#tomato-soup-v) w/ [Gnocchi (V)](recipes/sides.md#gnocchi-v)
 
-Seared gnocchi. Tarragon, parsley, chives.
+Seared & seasoned gnocchi. Tomato soup, seasoned as desired.
 
 
 ## [Vichyssoise (/V/V+)](recipes/soups.md#vichyssoise-vv)
@@ -34,17 +33,19 @@ Leeks. Potatoes. Chives.
 
 ## [B.O.C. Monsieur](recipes/handhelds.md#boc-monsieur)
 
-Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Inspired by French Onion Soup and Croque Monsieur.
+Pronounced *BOHK* monsieur. Inspired by French Onion Soup and Croque Monsieur.
+
+Like [loaded french onion soup](recipes/soups.md#loaded-french-onion-soup), but a sandwich.
 
 
-## Grilled Cheese & Tomato Soup
+## Grilled Cheese & Tomato Soup (/V)
 
-Made with green apples, bacon, leftover gruyere, etc. Served with homemade tomato soup for dipping.
+Green apple. Bacon. Gruyere. Tomato soup for dipping.
 
 
 ## [Pasties](recipes/handhelds.md#pasties) w/ Gravy
 
-A meatpie stuffed with seasoned sirloin and root vegetables and served with a rich chicken-based gravy.
+Charred beef sirloin. Root vegetables. Pie crust.
 
 
 ## [(Not Your Mother's) Roasted Potatoes (/V/V+)](recipes/sides.md#roasted-potatoes-vv)
@@ -54,7 +55,7 @@ Crunchy outside. Fluffy inside. Seasoned as you like it.
 
 ## [Samosas (V)](recipes/handhelds.md#samosas-v)
 
-A savory pastry stuffed with potatoes, peas, and peppers all seasoned with a rich, spicy curry.
+Curried potatoes, peas, and peppers in a deep fried crust.
 
 
 ## [Sweet Potato Tacos (V/V+)](recipes/handhelds.md#sweet-potato-tacos-vv)
@@ -69,14 +70,14 @@ Deceptively simple tacos with too much flavor. Crunchy and soft, and sweet and s
 Including [beef](recipes/beef.md), [pork](recipes/pork.md), [poultry](recipes/poultry.md), and [meatless](recipes/meatless.md) recipes.
 
 
-## [Aloo Gobi (V+)](recipes/meatless.md#aloo-gobi-v) w/ [Naan (V/V+)](recipes/breads.md#naan-vv)
+## [Aloo Gobi (V+)](recipes/meatless.md#aloo-gobi-v) w/ Black Rice & [Naan (V/V+)](recipes/breads.md#naan-vv)
 
 Fluffy potatoes, toasted chickpeas, and soft naan add three distinct textures to complement a spicy and aromatic yellow curry with a pinch of saffron.
 
 
 ## [Artichoke Gaga (V)](recipes/meatless.md#artichoke-gaga-v)
 
-Artichoke-stuffed lasagna.
+Artichoke-stuffed lasagna. A pain in the ass, but absolutely worth it.
 
 
 ## [Cashew Chicken](recipes/poultry.md#cashew-chicken) w/ Jasmine Rice & Broccoli
