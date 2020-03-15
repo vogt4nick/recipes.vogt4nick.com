@@ -21,3 +21,10 @@ Deb's recipes can be very involved, so plan ahead and give yourself time to spar
 I'm basic, but I don't care. Gordon Ramsay's [Ultimate Cookery Course](https://www.youtube.com/playlist?list=PLTzMGnJjrsSyDJU9XClzZtuJ6GAIsvRk7) is a wonderful series that I keep coming back to for essential dishes. He does a wonderful job of stating the obvious, but in a good way.
 
 Gordon's recipes - even the simple ones - are difficult to get started, and that's not helped by the lack of written instructions.
+
+
+## MOB Kitchen
+
+[MOB Kitchen](http://www.mobkitchen.co.uk/) is an ideas site. Decent variety, and they share new recipes all the time. They also have a [subreddit](https://www.reddit.com/r/MobKitchen/). The MOB's recipes are designed with beginners in mind, so recipes usually stand out for being relatively cheap & easy.
+
+MOB Kitchen is an ideas site, but I rarely learn something new from them. That is, MOB Kitchen gives me opportunities to apply what I've learned from other chefs.
