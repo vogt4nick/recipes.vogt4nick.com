@@ -99,6 +99,11 @@ Spicy pork. Turmeric-infused rice. Crisp broccoli.
 Chicken. Tortillas. Spicy sauce. Cheese.
 
 
+## [French Onion Mac & Cheese (V)](recipes/meatless.md#french-onion-mac-cheese-v)
+
+Caramelized onion. Gruyere. Macaroni.
+
+
 ## [Käsespätzle (V)](recipes/meatless.md#kasespatzle-v) mit Grüner Salat
 
 Cheesy pasta. Carmelized onions. Fried shallots.
