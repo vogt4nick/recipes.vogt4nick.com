@@ -57,30 +57,30 @@ Ideal with leftover [BBRRR chicken](archive.md#bbrrr-chicken). Inspired by [Crea
 |||
 |:--|:--|
 | 300 g  | Cream of Chicken Soup
-| 240 mL | Sour Cream
-| 120 mL | Milk
-| 80 g   | Green Chiles, chopped
+| 200 mL | Sour Cream
+| 100 mL | Milk
+| 100 g | Green Chiles, chopped
 | ---    | ---
-| 225 g  | Cream Cheese, softened
+| 200 g  | Cream Cheese, softened
 | 8 mL   | Onion Powder
 | 8 mL   | Cumin
 | 2 mL   | Salt
 | 2 mL   | Pepper
 | 30 mL  | Water, cold
-| 450 g  | Refried Beans
-| 450 g  | Chicken, cooked, diced
+| 400 g  | Refried Beans
+| 400 g  | Chicken, cooked, diced
 | ---    | ---
-| 8      | Flour Tortilla
+| 10     | Flour Tortilla
 | ---    | ---
-| 225 g  | Cheddar Cheese, shredded
+| 200 g  | Cheddar Cheese, shredded
 | ---    | ---
-| 30 g   | Green Chiles, chopped
+| 50 g   | Green Chiles, chopped
 
 
 1. **Preheat oven** to 350F (175C).
 2. **Prepare sauce.** Add cream of chicken, sour cream, milk, and green chiles to large bowl. Mix evenly. Referenced later as *enchilada sauce*.
 3. **Prepare filling.** Add cheese, spices, and water to large bowl. Mix until smooth. Add beans and chicken. Mix evenly. Referenced later as *chicken mixture*.
-4. **Bake enchiladas.** Grease 13" x 9" baking dish. Add 110 g of *chicken mixture* to each tortilla. Roll and place seam side down in baking dish. Cover with *enchilada sauce*. Bake, uncovered, 35 minutes until heated through.
+4. **Bake enchiladas.** Grease 13" x 9" baking dish. Add 100 g of *chicken mixture* to each tortilla. Roll and place seam side down in baking dish. Cover with *enchilada sauce*. Bake, uncovered, 35 minutes until heated through.
 5. **Bake cheese layer.** Layer cheese over enchiladas. Bake 5 minutes until cheese is melted.
 6. **Garnish** with remaining green chiles.
 
