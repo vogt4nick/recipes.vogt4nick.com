@@ -2,14 +2,16 @@
 
 Alfredo sauce without heavy cream. Inspired by a recipe lost to time.
 
+Yields about 360 mL.
+
 |||
 |:--|:--|
-| 60 mL  | Butter, unsalted
-| 45 mL  | Flour
-| 480 mL | Milk
-| 5 mL   | Salt
-| 2 mL   | Pepper
-| 120 mL | Parmesan Cheese, grated
+| 30 mL  | Butter, unsalted
+| 25 mL  | Flour
+| 240 mL | Milk
+| 2 mL   | Salt
+| 1 mL   | Pepper
+| 60 mL  | Parmesan Cheese, grated
 
 1. Melt butter in saucepan over medium-high heat. Incrementally add 15 mL flour, whisking until smooth. Incrementally add 120 mL milk, whisking until smooth. Add parmesan, salt, and pepper. Whisk until smooth.
 2. Simmer 8 minutes, whisking every 3 minutes.
