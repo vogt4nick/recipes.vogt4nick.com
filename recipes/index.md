@@ -90,6 +90,11 @@ Sweet & spicy sauce. Chicken. Cashews.
 Simple pad thai served with lime wedges, peanuts, and cayenne pepper.
 
 
+## [Croque Monsieur](recipes/handhelds.md#croque-monsieur)
+
+A really sloppy ham & cheese.
+
+
 ## [Curried Pork](recipes/pork.md#curried-pork) w/ [Yellow Rice](recipes/sides.md#yellow-rice) & Broccoli
 
 Spicy pork. Turmeric-infused rice. Crisp broccoli.

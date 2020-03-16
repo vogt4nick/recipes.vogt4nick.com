@@ -17,6 +17,26 @@ Alfredo sauce without heavy cream. Inspired by a recipe lost to time.
 
 ---
 
+## Mornay Sauce (V)
+
+Yields about 450 mL.
+
+|||
+|:--|:--|
+| 30 mL  | Butter, unsalted
+| 30 mL  | All-Purpose Flour
+| 240 mL | Milk, whole
+| 60 mL  | Parmesan, grated
+| 110 g  | Gruyere, shredded
+| 2 mL   | Kosher Salt
+| 2 mL   | Black Pepper
+| <1 mL  | Nutmeg, ground
+
+1. Melt butter in saucepan over medium heat. Add flour. Cook 60 seconds, whisking continuously. Slowly add milk, whisking continuously. Heat to boiling. Remove from heat. Add remaining ingredients. Whisk until smooth.
+
+
+---
+
 ## Sugar Roux
 
 |||
