@@ -80,6 +80,11 @@ Fluffy potatoes, toasted chickpeas, and soft naan add three distinct textures to
 Artichoke-stuffed lasagna. A pain in the ass, but absolutely worth it.
 
 
+## [Breakfast Hash (/V)](recipes/pork.md#breakfast-hash-v) w/ Toast
+
+Sweet & spicy sauce. Chicken. Cashews.
+
+
 ## [Cashew Chicken](recipes/poultry.md#cashew-chicken) w/ Jasmine Rice & Broccoli
 
 Sweet & spicy sauce. Chicken. Cashews.
