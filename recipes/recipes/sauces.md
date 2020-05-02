@@ -180,9 +180,6 @@ Yields about 500 mL.
 | ---    | ---
 | 30 mL  | Butter, unsalted
 | 45 mL  | All-Purpose Flour
-| ---    | ---
-|        | Kosher Salt
-|        | Black Pepper
 
 1. **Simmer milk.** Combine milk, salt in a saucepan. Bring to simmer.
 2. **Prepare white roux.** Heat skillet over low heat. Add butter. Melt. Slowly add flour, whisking continuously. Cook 2 minutes until roux starts to froth.
