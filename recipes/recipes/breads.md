@@ -40,7 +40,7 @@ There's homework before baking baguettes; watch [How to Shape Baguettes (Video)]
 
 ---
 
-## Focaccia
+## Focaccia (V+)
 
 Inspired by [Gordon Ramsey](https://www.youtube.com/watch?v=WR1MDeP-qSc).
 
