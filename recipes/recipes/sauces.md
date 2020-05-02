@@ -1,4 +1,4 @@
-# Brown Sauce
+## Brown Sauce
 
 A flour-based brown sauce which, per Julia, is "the one most nearly approaching the traditional *demi-glace*."
 
@@ -31,7 +31,7 @@ Yields about 1000 mL.
 
 ---
 
-## Brown Duxelles
+### Brown Duxelles
 
 A brown mushroom sauce. Inspired with few alterations to Julia Child's recipe in [Mastering the Art of French Cooking](https://www.amazon.com/Mastering-Art-French-Cooking-Vol/dp/0375413405).
 
