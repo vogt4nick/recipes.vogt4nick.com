@@ -190,8 +190,6 @@ Yields about 500 mL.
 
 ### Alfredo (V)
 
-Alfredo sauce without heavy cream. Inspired by a recipe lost to time.
-
 Yields about 500 mL.
 
 |||
