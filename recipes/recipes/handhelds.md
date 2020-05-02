@@ -32,6 +32,37 @@ Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramel
 
 ---
 
+## Muffaletta
+
+Inspired by [Serious Eats](https://www.seriouseats.com/recipes/2010/09/dinner-tonight-muffaletta-sandwich.html).
+
+|||
+|:--|:--|
+| 200 g | Mixed Olives, chopped
+| 15 g  | Shallots, minced
+| 15 g  | Celery, minced
+| 100 g | Roasted Red Pepper, julienne
+| 30 g  | Capers, rinsed, dried, chopped
+| 2     | Pepperoncini Peppers, chopped
+| 45 mL | Olive Oil
+| 15 mL | Red Wine Vinegar
+| ---   | ---
+| 1     | [Focaccia Loaf](breads.md#focaccia-v)*, halved
+|       | *Olive Salad*
+| 100 g | Salami, sliced thin
+| 100 g | Capicola, sliced thin
+| 100 g | Mortadella, sliced thin
+| 100 g | Provolone, sliced thin
+
+*Tear out some of the doughy insides of the bread if it's especially thick.
+
+1. **Mix Olive Salad.** Add olives, veggies, oil in a small bowl. Mix. Season to taste with vinegar, salt, pepper.
+2. **Dress Sandwiches.** On both halves: layer *olive salad*, meat, cheese. Fold bread and cut into quarters.
+3. **Rest.** Plastic wrap sandwiches. Rest one hour. Serve.
+
+
+---
+
 ## Pasties
 
 These make large pasties about the size of a loaf of bread. Serve them by slicing the "loaf" like some kind of yooper beef wellington. If you prefer smaller, handheld pasties, reduce the meat mixture by half. Inspired by [Hairy Bikers' Cornish Pasties](https://www.hairybikers.com/recipes/view/cornish-pasty).
