@@ -1,6 +1,6 @@
 ## Sauerbraten
 
-Pairs nicely with [potato dumplings](sides.md#potato-dumplings) and [rotkraut](sides.md#rotkraut). Garnish with [sugar roux](sauces.md#sugar-roux). Inspired by travels to Austria & Bavaria and [German recipes](http://www.bavariankitchen.com/meats/sauerbraten.aspx).
+Pairs nicely with [potato dumplings](sides.md#potato-dumplings-v) and [rotkraut](sides.md#rotkraut). Garnish with [sugar roux](sauces.md#sugar-roux). Inspired by travels to Austria & Bavaria and [German recipes](http://www.bavariankitchen.com/meats/sauerbraten.aspx).
 
 |||
 |:--|:--|

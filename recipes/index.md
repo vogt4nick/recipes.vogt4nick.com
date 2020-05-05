@@ -140,7 +140,7 @@ Rice. Beans. Onion.
 Rice. Red Kidney Beans. Pork. Cajun spices.
 
 
-## [Sauerbraten](recipes/beef.md#sauerbraten) mit [Erdäpfelknödeln](recipes/sides.md#potato-dumplings) und [Rotkraut (V/V+)](recipes/sides.md#rotkraut-vv)
+## [Sauerbraten](recipes/beef.md#sauerbraten) mit [Erdäpfelknödeln (V)](recipes/sides.md#potato-dumplings-v) und [Rotkraut (V/V+)](recipes/sides.md#rotkraut-vv)
 
 Cured beef. Potato dumplings. Red cabbage slaw.
 

@@ -62,7 +62,7 @@ Mashed potatoes with parsnips and skins on.
 
 ---
 
-## Potato Dumplings
+## Potato Dumplings (V)
 
 Also called erdäpfelknödeln. Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavariankitchen.com/sides/knoedel.aspx).
 
