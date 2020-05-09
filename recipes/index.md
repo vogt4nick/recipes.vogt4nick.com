@@ -135,6 +135,11 @@ Wine braised ribs. Skins-on potatoes. Green beans.
 Rice. Beans. Onion.
 
 
+## [Risotto (/V)](recipes/meatless.md#white-risotto-v)
+
+Rice. Cheese. Mushrooms.
+
+
 ## [Pork & Beans, Louisiana Creole Style](recipes/pork.md#rice-beans-louisiana-creole-style)
 
 Rice. Red Kidney Beans. Pork. Cajun spices.
