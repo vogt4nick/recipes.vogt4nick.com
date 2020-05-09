@@ -30,8 +30,8 @@ theme:
   logo:
     icon: restaurant_menu
   palette:
-    primary: amber
-    accent: amber
+    primary: green
+    accent: green
 markdown_extensions:
   - toc:
       permalink: "#"
