@@ -26,6 +26,20 @@ Inspired by [Doc's Best Beef Jerky](https://www.allrecipes.com/recipe/142948/doc
 
 ---
 
+## GORP (Good ol' Raisin & Peanuts)
+
+Simple Trail Mix.
+
+|||
+|:--|:--|
+| 100 g | Honey Nut Cheerios
+| 200 g | Raisins
+| 200 g | Mixed Nuts
+| 200 g | Peanut Butter M&Ms
+
+
+---
+
 ## Mozzarella Stuffed Meatballs
 
 Inspired by [Mozzarella Stuffed Meatballs](https://www.reddit.com/r/GifRecipes/comments/dfeca6/mozzarella_stuffed_meatballs/).
@@ -55,3 +69,5 @@ Inspired by [Mozzarella Stuffed Meatballs](https://www.reddit.com/r/GifRecipes/c
 ---
 
 # Food Lab
+
+<!-- https://www.reddit.com/r/GifRecipes/comments/ec94b5/gourgeres_french_cheese_puffs/ -->
