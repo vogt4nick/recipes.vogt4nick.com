@@ -23,7 +23,7 @@ Yields about 400 g.
 7. **Prepare drying place.** Spread clean, dry, cloth dish towels over a work counter near where you'll be using the machine. If you are making a lot of pasta you'll need a lot of counter space and a lot of towels.
 8. **Roll pasta.** Set the pair of smooth cylinders, the thinning rollers, at their widest opening. Flatten one of the pieces of dough by pummeling it with your palm, and run it through the machine. Fold the dough twice into a third of its length, and feed it by its narrow ened through the machine once again. Repeat the operation 2-3 times, then lay the flattened strip of pasta over a towel on the counter.
 
-<!--
+
 
 ## Lasagna w/ Artichokes
 
@@ -42,13 +42,19 @@ Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](h
 | ---    | ---
 | 600 g  | Lasagna Noodles
 | 80 mL  | [Bechamel Sauce](#bechamel-sauce-v), warm
+| 15 mL  | Butter, unsalted, cubed
 | 160 g  | Parmigiano-Reggiano
+| ---    | ---
+|        | Parmigiano-Reggiano
 
 
 1. **Preheat oven** to 400F (205C).
 2. **Saute artichokes.** Add butter, artichoke hearts to unheated frying pan. Add water enough to cover the artichokes. Heat to medium. Simmer gently until all water has evaporated and artichokes are lightly browned and fork tender. Remove from heat. Combine with bechamel sauce. Set aside as *creamy artichoke hearts*.
 3. **Grease dish** with butter and bechamel sauce.
-4. **Layer lasagna.** Build 6+ layers of pasta, creamy artichoke hearts, and parmesan.
+4. **Layer lasagna.** Build 6+ layers of pasta, creamy artichoke hearts, and parmesan. Top with remaining bechamel sauce. Dot with butter. Garnish with remaining parmesan.
+5. **Bake** 12 minutes until a light, golden crust forms on top. Remove from oven.
+6. **Cool** 10 minutes at room temperature.
+7. **Serve** with grated parmesan.
 
-
---- -->
+!!! bug "I don't see a crust forming"
+    If after the first few minutes you don't see any sign of a crust beginning to form, increase the oven temperature to 450F (220C). Bake no longer than 15 minutes altogether.
