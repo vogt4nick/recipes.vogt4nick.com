@@ -70,7 +70,7 @@ Deceptively simple tacos with too much flavor. Crunchy and soft, and sweet and s
 Including [beef](recipes/beef.md), [pork](recipes/pork.md), [poultry](recipes/poultry.md), and [meatless](recipes/meatless.md) recipes.
 
 
-## [Aloo Gobi (V+)](recipes/meatless.md#aloo-gobi-v) w/ Black Rice & [Naan (V/V+)](recipes/breads.md#naan-vv)
+## [Bumblebee Curry (V+)](recipes/meatless.md#bumblebee-curry-v) w/ Black Rice & [Roasted Potatoes (V/V+)](recipes/sides.md#roasted-potatoes-vv) and Chickpeas
 
 Fluffy potatoes, toasted chickpeas, and soft naan add three distinct textures to complement a spicy and aromatic yellow curry with a pinch of saffron.
 
