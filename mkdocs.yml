@@ -26,10 +26,11 @@ nav:
   - About: about.md
 theme:
   name: material
-  feature:
-    tabs: true
-  logo:
-    icon: restaurant_menu
+  features:
+    - tabs
+    - instant
+  icon:
+    logo: material/silverware
   palette:
     primary: deep orange
     accent: deep orange
