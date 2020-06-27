@@ -9,6 +9,7 @@ nav:
     - Desserts: recipes/desserts.md
     - Handhelds: recipes/handhelds.md
     - Meatless: recipes/meatless.md
+    - Pizzas: recipes/pasta.md
     - Pizzas: recipes/pizzas.md
     - Pork: recipes/pork.md
     - Poultry: recipes/poultry.md
@@ -30,8 +31,8 @@ theme:
   logo:
     icon: restaurant_menu
   palette:
-    primary: green
-    accent: green
+    primary: deep orange
+    accent: deep orange
 markdown_extensions:
   - toc:
       permalink: "#"
