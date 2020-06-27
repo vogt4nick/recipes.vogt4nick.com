@@ -7,7 +7,7 @@ Recipes that are out of season or out of rotation. Maybe I got bored. Maybe they
 Easy, set-and-forget curry. Ideal for seasonal variations. Inspired by [Alicia's Aloo Gobi](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/).
 
 ??? seealso
-    This recipe was adapted into [bumblebee curry](recipes/meatless.md#bumblebee-curry)
+    This recipe was adapted into [bumblebee curry](meatless.md#bumblebee-curry)
 
 |||
 |:--|:--|
