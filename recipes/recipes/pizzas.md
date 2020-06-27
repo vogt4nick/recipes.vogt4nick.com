@@ -1,6 +1,15 @@
-## Pizza Dough Balls
+# Pizza Dough
+
+
+---
+
+## Adrienne's Pizza Dough Balls
 
 Inspired by Adrienne Vogt and [The Elements of Pizza](https://smile.amazon.com/Elements-Pizza-Unlocking-Secrets-World-Class/dp/160774838X).
+
+Review how to shape pizza either [Neopolitan style](https://www.youtube.com/watch?v=ITZWe_mOevw) or [New York style](https://www.youtube.com/watch?v=FNv4kmDzR9k).
+
+Yields about three medium pizzas.
 
 |||
 |:--|:--|
@@ -22,11 +31,36 @@ Inspired by Adrienne Vogt and [The Elements of Pizza](https://smile.amazon.com/E
 
 ---
 
-## Pepperoni, Mushroom, and Onion Pizza
+## Elise's Pizza Dough
 
-Inspired by Adrienne Vogt and [The Elements of Pizza](https://smile.amazon.com/Elements-Pizza-Unlocking-Secrets-World-Class/dp/160774838X).
+Yields one large pizza or two medium pizzas.
 
 Review how to shape pizza either [Neopolitan style](https://www.youtube.com/watch?v=ITZWe_mOevw) or [New York style](https://www.youtube.com/watch?v=FNv4kmDzR9k).
+
+|||
+|:--|:--
+| 10 mL  | Active Dry Yeast
+| 240 mL | Water, warm (30C)
+| 4 mL   | White Sugar
+| ---    | ---
+| 6 mL   | Kosher Salt
+| 30 mL  | Vegetable Oil
+| 315 g  | All Purpose Flour
+
+1. **Activate yeast**. Add yeast, sugar, water in mixing bowl. Mix. Rest 10 minutes until yeast activates.
+2. **Mix dough**. Add oil and salt. Gradually add flour and mix until dough is no longer sticky.
+3. **Rise dough**. Cover dough in bowl with a warm, damp towel. Rest 30 minutes.
+4. **Shape dough** into two 30 cm (12") circles or one 40 cm (16") circle.
+
+---
+
+# Pizza
+
+
+---
+
+## Pepperoni, Mushroom, and Onion Pizza
+
 
 |||
 |:--|:--|
@@ -35,7 +69,7 @@ Review how to shape pizza either [Neopolitan style](https://www.youtube.com/watc
 | 5 mL  | Garlic, chopped
 |       | Sea Salt
 | ---   | ---
-| 1     | [Dough Ball](#pizza-dough-balls)
+| 1     | [Dough Ball](#pizza-dough)
 | 100 g | Tomato Sauce
 | 15 g  | Pecorino Romano or Parmigiano-Reggiano, grated
 | 100 g | Mozzarella, sliced
