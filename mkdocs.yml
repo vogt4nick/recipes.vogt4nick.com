@@ -25,6 +25,7 @@ markdown_extensions:
       toc_depth : "1-1"
   - admonition
   - pymdownx.details
+  - pymdownx.tabbed
 google_analytics:
   - UA-109563922-1
   - auto
