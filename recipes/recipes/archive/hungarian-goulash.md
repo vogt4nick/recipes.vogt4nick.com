@@ -1,5 +1,3 @@
-Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/).
-
 === "Instructions"
     |||
     |:--|:--|
@@ -31,3 +29,7 @@ Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/tradit
     2. **Prepare beef stock**. Add beef stock and bay leaf to sauce pan. Simmer, covered, over low heat. Referenced later as *heated beef stock*.
     3. **Prepare stew.** Melt butter in dutch oven over medium-high heat. Add onion and coat evenly. Cook 8 minutes, stirring every 2 minutes. Add garlic, beef, and paprika. Stir. Cook 10 minutes, stirring every 2 minutes. Add bell peppers. Cook 8 minutes, stirring every 2 minutes. Add tomatoes, carrots, potatoes, *heated beef stock*, salt, pepper. Mix. Bring to boil. Cover. Reduce heat to medium-low. Cook 40 minutes.
     4. **Garnish and serve** with sour cream and cilantro.
+
+
+??? abstract "References"
+    Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/).
