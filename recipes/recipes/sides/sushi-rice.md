@@ -1,6 +1,3 @@
-
-## Sushi Rice
-
 Less sticky than sticky rice. Ideal for a Zojirushi rice cooker. Inspired by [Zojirushi](https://www.zojirushi.com/app/recipe/sushi-rice).
 
 |||

@@ -1,5 +1,3 @@
-## Carrot Soup
-
 Goes nicely with homemade [tahini](../sauces/tahini-paste.md). Inspired by [Smitten Kitchen](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/).
 
 |||

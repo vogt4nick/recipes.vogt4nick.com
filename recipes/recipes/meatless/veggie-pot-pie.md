@@ -1,5 +1,3 @@
-## Veggie Pot Pie (V)
-
 |||
 |:--|:--|
 | 225 g   | Potatoes, peeled, roughly chopped

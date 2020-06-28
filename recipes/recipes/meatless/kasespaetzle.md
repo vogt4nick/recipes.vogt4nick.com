@@ -1,5 +1,3 @@
-## Käsespätzle (V)
-
 Cheesy spätzle with carmelized onions & crispy shallots. Inspired by [Delaney Vetter](https://food52.com/recipes/82616-spaetzle-recipe-with-cheese-onions).
 
 |||

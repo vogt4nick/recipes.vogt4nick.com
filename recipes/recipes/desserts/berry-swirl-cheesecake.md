@@ -1,5 +1,3 @@
-## Berry Swirl Cheesecake
-
 Inspired by [Raspberry Swirl Cheesecake](https://smittenkitchen.com/2014/08/raspberry-swirl-cheesecake/).
 
 |||

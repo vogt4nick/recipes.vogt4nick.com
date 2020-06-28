@@ -1,5 +1,3 @@
-## Croque Monsieur
-
 Inspired by [Cook's Country](https://www.cookscountry.com/recipes/11134-croque-monsieur).
 
 |||

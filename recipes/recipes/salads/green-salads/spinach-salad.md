@@ -1,5 +1,3 @@
-## Spinach Salad w/ Bacon Bits
-
 |||
 |:--|:--|
 | 100 g  | Spinach, rinsed

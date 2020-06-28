@@ -1,5 +1,3 @@
-## Mashed Potatoes (V/V+)
-
 Mashed potatoes with parsnips and skins on.
 
 |||

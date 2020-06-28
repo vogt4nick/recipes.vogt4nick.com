@@ -1,5 +1,3 @@
-## Inside Out Chocolate Chip Cookies
-
 Inspired by [Sally's Baking Addiction](https://sallysbakingaddiction.com/inside-out-chocolate-chip-cookies/print-recipe/76469/).
 
 |||

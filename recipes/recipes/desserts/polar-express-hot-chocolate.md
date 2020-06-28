@@ -1,5 +1,3 @@
-## Polar Express Hot Chocolate
-
 Inspired by Elise Walter.
 
 |||

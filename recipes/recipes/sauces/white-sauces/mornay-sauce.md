@@ -1,5 +1,3 @@
-### Mornay Sauce (V)
-
 Yields about 500 mL.
 
 |||

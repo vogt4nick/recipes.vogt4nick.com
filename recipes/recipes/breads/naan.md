@@ -1,5 +1,3 @@
-## Naan (V/V+)
-
 Garnish with your best olive oil. Inspired by [Reddit](https://www.reddit.com/r/Cooking/comments/21cfl0/whats_the_secret_to_naan_every_recipe_ends_up/) and [Manjula's Kitchen](http://www.manjulaskitchen.com/naan-bread/).
 
 Try baking with a rub (maybe 8 mL turmeric, 4 mL cumin, 1  mL cinnamon).

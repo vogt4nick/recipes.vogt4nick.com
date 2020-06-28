@@ -1,5 +1,3 @@
-## Brown Sauce
-
 A flour-based brown sauce which, per Julia, is "the one most nearly approaching the traditional *demi-glace*."
 
 Inspired with few changes by Julia Child's recipe in [Mastering the Art of French Cooking](https://www.amazon.com/Mastering-Art-French-Cooking-Vol/dp/0375413405).

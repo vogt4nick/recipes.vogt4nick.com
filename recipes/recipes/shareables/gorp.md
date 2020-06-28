@@ -1,6 +1,3 @@
-
-## GORP (Good ol' Raisin & Peanuts)
-
 Simple Trail Mix.
 
 |||

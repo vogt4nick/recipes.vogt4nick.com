@@ -1,5 +1,3 @@
-## Sweet Potato Tacos (V/V+)
-
 A good recipe for low risk, high reward improvising. Inspired by [El Arboria Taqueria](https://goo.gl/maps/5rY1W9N4L1KLBRGN8) and [Sweet Potato Tacos](https://smittenkitchen.com/2018/03/sweet-potato-tacos/).
 
 |||

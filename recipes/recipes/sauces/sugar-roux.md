@@ -1,5 +1,3 @@
-## Sugar Roux (V)
-
 |||
 |:--|:--|
 | 30 mL  | Butter, unsalted

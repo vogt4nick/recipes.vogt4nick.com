@@ -1,5 +1,3 @@
-## Muffaletta
-
 Inspired by [Serious Eats](https://www.seriouseats.com/recipes/2010/09/dinner-tonight-muffaletta-sandwich.html).
 
 |||

@@ -1,10 +1,3 @@
-# Pizza Dough
-
-
----
-
-## Adrienne's Pizza Dough Balls
-
 Inspired by Adrienne Vogt and [The Elements of Pizza](https://smile.amazon.com/Elements-Pizza-Unlocking-Secrets-World-Class/dp/160774838X).
 
 Review how to shape pizza either [Neopolitan style](https://www.youtube.com/watch?v=ITZWe_mOevw) or [New York style](https://www.youtube.com/watch?v=FNv4kmDzR9k).

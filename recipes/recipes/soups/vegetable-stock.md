@@ -1,6 +1,3 @@
-
-## Vegetable Stock (V+)
-
 |||
 |:--|:--|
 | 100 g   | Onions, chopped

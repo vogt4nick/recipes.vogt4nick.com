@@ -1,6 +1,3 @@
-## Pepperoni, Mushroom, and Onion Pizza
-
-
 |||
 |:--|:--|
 | 15 mL | Extra Virgin Olive Oil

@@ -1,6 +1,3 @@
-
-## Rotkraut (V/V+)
-
 Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavariankitchen.com/vegetables/rotkohl.aspx).
 
 |||

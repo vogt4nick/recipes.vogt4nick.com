@@ -1,5 +1,3 @@
-## Cashew Chicken
-
 Goes well over white rice with broccoli.
 
 |||

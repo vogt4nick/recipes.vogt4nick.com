@@ -1,6 +1,3 @@
-
-## White Risotto (/V)
-
 Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](https://smile.amazon.com/gp/product/039458404X).
 
 Risotto requires a particular cooking method, so be sure to review ahead of time.

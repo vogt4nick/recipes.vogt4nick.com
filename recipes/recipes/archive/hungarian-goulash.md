@@ -1,6 +1,3 @@
-
-## Hungarian Goulash
-
 Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/).
 
 |||

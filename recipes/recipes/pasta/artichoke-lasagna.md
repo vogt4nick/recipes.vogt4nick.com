@@ -1,5 +1,3 @@
-## Artichoke Lasagna
-
 Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](https://smile.amazon.com/gp/product/039458404X).
 
 |||

@@ -1,6 +1,3 @@
-
-## Mozzarella Stuffed Meatballs
-
 Inspired by [Mozzarella Stuffed Meatballs](https://www.reddit.com/r/GifRecipes/comments/dfeca6/mozzarella_stuffed_meatballs/).
 
 |||

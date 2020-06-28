@@ -1,5 +1,3 @@
-## Samosas (V)
-
 Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
 
 |||

@@ -1,5 +1,3 @@
-## Chocolate Chip Cookies
-
 Inspired by [Pinch of Yum](https://pinchofyum.com/the-best-soft-chocolate-chip-cookies).
 
 |||

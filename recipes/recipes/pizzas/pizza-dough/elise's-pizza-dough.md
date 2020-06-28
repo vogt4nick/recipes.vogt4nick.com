@@ -1,6 +1,4 @@
-## Elise's Pizza Dough
-
-Yields one large pizza or two medium pizzas.
+Inspired by Elise Walter. Yields one large pizza or two medium pizzas.
 
 Review how to shape pizza either [Neopolitan style](https://www.youtube.com/watch?v=ITZWe_mOevw) or [New York style](https://www.youtube.com/watch?v=FNv4kmDzR9k).
 

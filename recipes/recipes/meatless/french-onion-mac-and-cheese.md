@@ -1,5 +1,3 @@
-## French Onion Mac & Cheese (V)
-
 Inspired by [Mob Kitchen](https://www.reddit.com/r/MobKitchen/comments/ew62bu/mobs_french_onion_mac_cheese/).
 
 |||

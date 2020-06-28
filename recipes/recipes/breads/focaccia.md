@@ -1,6 +1,5 @@
-## Focaccia (V+)
-
 Inspired by [Gordon Ramsey](https://www.youtube.com/watch?v=WR1MDeP-qSc).
+
 
 |||
 |:--|:--|

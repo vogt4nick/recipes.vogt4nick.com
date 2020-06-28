@@ -1,6 +1,3 @@
-
-## Roasted Potatoes (/V/V+)
-
 The crunchiest potatoes I've ever had. Inspired by [Internet Shaquille (Video)](https://www.youtube.com/watch?v=KxUX7vgNGfM).
 
 |||

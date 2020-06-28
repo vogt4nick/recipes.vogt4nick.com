@@ -1,6 +1,3 @@
-
-## Tahini Paste (V+)
-
 This recipe really only pays if you pick up quality ingredients. Pick up a small jar of quality sesame seeds and mix 4:1 with your best olive oil.
 
 |||

@@ -1,5 +1,3 @@
-## White Chili
-
 Another recipe kept around for nostalgic value. Ideal for leftover [BBRRR Chicken](../poultry/bbrrr-chicken.md).
 
 |||

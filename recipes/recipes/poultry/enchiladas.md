@@ -1,6 +1,3 @@
-
-## Enchiladas (/V)
-
 Ideal with leftover [BBRRR chicken](bbrrr-chicken.md). Inspired by [Creamy Chicken Enchiladas](https://www.tasteofhome.com/recipes/creamy-chicken-enchiladas/).
 
 |||

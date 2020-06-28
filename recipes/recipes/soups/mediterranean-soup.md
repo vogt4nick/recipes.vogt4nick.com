@@ -1,6 +1,3 @@
-
-## Mediterranean Soup
-
 |||
 |:--|:--|
 | 1000 mL | Beef Stock

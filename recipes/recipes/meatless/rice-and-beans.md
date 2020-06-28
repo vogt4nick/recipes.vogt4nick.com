@@ -1,7 +1,3 @@
-
-
-## Rice & Beans (V/V+)
-
 |||
 |:--|:--|
 | 15 mL  | Butter, unsalted (optional)

@@ -1,7 +1,3 @@
-
-
-### Tomato Soup (V+)
-
 A basic tomato soup recipe.
 
 |||

@@ -1,6 +1,3 @@
-
-## Loaded French Onion Soup
-
 French onion soup with a lot more meat and cheese.
 
 Read the recipe first; you can optimize steps

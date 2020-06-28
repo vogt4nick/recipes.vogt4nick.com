@@ -1,5 +1,3 @@
-### Alfredo (V)
-
 Yields about 500 mL.
 
 |||
