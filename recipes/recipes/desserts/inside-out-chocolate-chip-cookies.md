@@ -1,5 +1,5 @@
 === "Instructions"
-    | Amount | Ingredient |
+    | Amount | Ingredient                         |
     | :----- | :--------------------------------- |
     | 120 mL | Butter, unsalted, room temperature |
     | 100 g  | White Sugar                        |
