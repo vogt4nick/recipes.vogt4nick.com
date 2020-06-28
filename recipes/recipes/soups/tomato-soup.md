@@ -1,6 +1,6 @@
 A basic tomato soup recipe.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 10 mL  | Extra Virgin Olive Oil
 | 100 g  | Onion, minced

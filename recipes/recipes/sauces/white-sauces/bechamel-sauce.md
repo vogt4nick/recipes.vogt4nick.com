@@ -2,7 +2,7 @@ Copied wholesale from Julia Child's recipe in [Mastering the Art of French Cooki
 
 Yields about 500 mL.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 480 mL | Milk
 | 1 mL   | Kosher Salt

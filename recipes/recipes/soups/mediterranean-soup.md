@@ -1,4 +1,4 @@
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 1000 mL | Beef Stock
 | 15 mL   | Italian Seasoning

@@ -1,6 +1,6 @@
 Simple Trail Mix.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 100 g | Honey Nut Cheerios
 | 200 g | Raisins

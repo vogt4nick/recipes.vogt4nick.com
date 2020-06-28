@@ -1,5 +1,5 @@
 === "Ingredients"
-    |||
+    | Amount | Ingredient |
     |:--|:--|
     | 500 g  | Strong Bread Flour
     | 20 g   | Semolina Flour

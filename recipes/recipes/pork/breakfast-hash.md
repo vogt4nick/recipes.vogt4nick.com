@@ -1,6 +1,6 @@
 Big batches for leftovers. Inspired by [Serious Eats](https://www.seriouseats.com/2014/04/the-food-lab-how-to-make-the-best-potato-hash.html).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 200 g | Sausage or Bacon
 | ---   | ---

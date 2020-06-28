@@ -1,6 +1,6 @@
 Cheesy spätzle with carmelized onions & crispy shallots. Inspired by [Delaney Vetter](https://food52.com/recipes/82616-spaetzle-recipe-with-cheese-onions).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 30 mL | Butter, unsalted
 | 180 g | Onions, sliced

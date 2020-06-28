@@ -1,6 +1,6 @@
 Inspired by [Mozzarella Stuffed Meatballs](https://www.reddit.com/r/GifRecipes/comments/dfeca6/mozzarella_stuffed_meatballs/).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 450 g  | Italian Sausage
 | 450 g  | Beef, ground

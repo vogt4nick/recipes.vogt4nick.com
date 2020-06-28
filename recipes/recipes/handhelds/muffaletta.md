@@ -1,6 +1,6 @@
 Inspired by [Serious Eats](https://www.seriouseats.com/recipes/2010/09/dinner-tonight-muffaletta-sandwich.html).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 200 g | Mixed Olives, chopped
 | 15 g  | Shallots, minced

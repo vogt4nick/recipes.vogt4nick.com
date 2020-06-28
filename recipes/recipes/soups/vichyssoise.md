@@ -1,6 +1,6 @@
 Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 30 mL  | Extra Virgin Olive Oil
 | 300 g  | Potatoes, peeled, chopped

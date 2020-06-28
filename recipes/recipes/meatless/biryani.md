@@ -1,6 +1,6 @@
 Inspired by my favorite Indian dish and [Reddit](https://www.reddit.com/r/IndianFood/comments/5slajm/best_biryani_recipe/ddhk5jy).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 240 mL | Yogurt
 | 15 mL  | Turmeric

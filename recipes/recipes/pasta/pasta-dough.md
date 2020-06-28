@@ -2,7 +2,7 @@ Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](h
 
 Yields about 400 g.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 2     | Eggs
 | 125 g | All Purpose Flour

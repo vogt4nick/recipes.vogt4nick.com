@@ -4,7 +4,7 @@ Inspired with few changes by Julia Child's recipe in [Mastering the Art of Frenc
 
 Yields about 1000 mL.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 45 g    | Bacon, diced
 | ---     | ---

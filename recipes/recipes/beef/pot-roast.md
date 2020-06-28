@@ -1,5 +1,5 @@
 === "Ingredients"
-    |||
+    | Amount | Ingredient |
     |:--|:--|
     | 15 mL  | Butter, unsalted, room temperature
     | 1800 g | Beef Short Ribs

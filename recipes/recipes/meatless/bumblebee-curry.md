@@ -2,7 +2,7 @@
 
 Fragrant and complex, but not overwhelming on the palate. Come into being after several iterations and adaptations on an aloo gobi recipe. So named for it's most common pairing: Black rice, roasted potatoes and chickpeas.
 
-|        |                      |
+| Amount | Ingredient |
 | :----- | :------------------- |
 | 15 mL  | Cilantro, dried      |
 | 8 mL   | Kosher Salt          |

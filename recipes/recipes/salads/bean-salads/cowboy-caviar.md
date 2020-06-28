@@ -1,6 +1,6 @@
 Inspired by [House of Yumm](https://houseofyumm.com/texas-caviar/).
 
-|||
+| Amount | Ingredient |
 |:--|:--
 | 100 mL | Extra Virgin Olive Oil
 | 50 mL  | White Wine Vinegar

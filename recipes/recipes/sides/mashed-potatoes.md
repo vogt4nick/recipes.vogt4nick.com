@@ -1,6 +1,6 @@
 Mashed potatoes with parsnips and skins on.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 450 g  | Russet Potatoes
 | 10 mL  | Canola Oil

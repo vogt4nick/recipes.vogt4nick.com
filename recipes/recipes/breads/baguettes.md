@@ -1,5 +1,5 @@
 === "Ingredients"
-    |||
+    | Amount | Ingredient |
     |:--|:--|
     | 100 g  | Bread Flour*, unbleached
     | 1 mL   | Instant Yeast

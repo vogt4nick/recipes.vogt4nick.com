@@ -1,6 +1,6 @@
 Inspired by [Red Beans & Rice](https://www.reddit.com/r/GifRecipes/comments/6dagw2/red_beans_and_rice/).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 450 g   | Red Kidney Beans, dry, rinsed
 | 1600 mL | Water, cold

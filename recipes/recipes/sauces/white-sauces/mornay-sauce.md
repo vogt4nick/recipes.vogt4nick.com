@@ -1,6 +1,6 @@
 Yields about 500 mL.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 480 mL | [Bechamel Sauce](#bechamel-sauce-v)
 | <1 mL  | Nutmeg, ground

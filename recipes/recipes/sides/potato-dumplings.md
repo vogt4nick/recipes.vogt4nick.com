@@ -1,7 +1,7 @@
 Also called erdäpfelknödeln. Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavariankitchen.com/sides/knoedel.aspx).
 
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 500 g   | Russet Potatoes, peeled
 | 15 mL   | Salt

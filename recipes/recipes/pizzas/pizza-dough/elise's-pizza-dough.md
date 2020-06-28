@@ -2,7 +2,7 @@ Inspired by Elise Walter. Yields one large pizza or two medium pizzas.
 
 Review how to shape pizza either [Neopolitan style](https://www.youtube.com/watch?v=ITZWe_mOevw) or [New York style](https://www.youtube.com/watch?v=FNv4kmDzR9k).
 
-|||
+| Amount | Ingredient |
 |:--|:--
 | 10 mL  | Active Dry Yeast
 | 240 mL | Water, warm (30C)

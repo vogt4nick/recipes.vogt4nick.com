@@ -1,5 +1,5 @@
 === "Ingredients"
-    |||
+    | Amount | Ingredient |
     |:--|:--|
     | 1 mL   | Salt
     | 2      | Pepper Corns

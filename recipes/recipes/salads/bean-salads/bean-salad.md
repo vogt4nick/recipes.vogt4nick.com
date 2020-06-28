@@ -4,7 +4,7 @@ Note that cooked legumes yield about 2x-3x their dry weight. Here's a [chart](ht
 
 Yields about 800 g.
 
-|||
+| Amount | Ingredient |
 |:--|:--
 | 300 g | Legumes, dry
 | ---   | ---

@@ -1,6 +1,6 @@
 Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](https://smile.amazon.com/gp/product/039458404X).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 400 g  | Artichoke Hearts, chopped, rinsed
 | 5 mL   | Kosher Salt

@@ -1,7 +1,7 @@
 Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.com/r/GifRecipes/comments/95wr6x/onepan_creamy_italian_orzo_chicken_oc/).
 
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 400 g  | Chicken Thighs, bone-in
 | 15 mL  | Tandoori Seasoning

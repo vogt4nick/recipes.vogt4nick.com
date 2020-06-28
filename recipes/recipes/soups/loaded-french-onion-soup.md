@@ -2,7 +2,7 @@ French onion soup with a lot more meat and cheese.
 
 Read the recipe first; you can optimize steps
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 1000 mL | Beef Stock
 | 15 mL   | Herbs de Provence

@@ -1,6 +1,6 @@
 Inspired by [Doc's Best Beef Jerky](https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 900 g | Round Steak, 3mm slices
 | 60 mL | Soy Sauce

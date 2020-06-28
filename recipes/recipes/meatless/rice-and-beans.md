@@ -1,4 +1,4 @@
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 15 mL  | Butter, unsalted (optional)
 | 15 mL  | Canola Oil

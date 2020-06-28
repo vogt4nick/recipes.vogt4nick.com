@@ -4,7 +4,7 @@ Review how to shape pizza either [Neopolitan style](https://www.youtube.com/watc
 
 Yields about three medium pizzas.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 350 g | Water, 95C
 | 10 mL | Sea Salt

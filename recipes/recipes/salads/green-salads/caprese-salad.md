@@ -1,6 +1,6 @@
 Serves nicely with toasted focaccia. Inspired by [Smitten Kitchen](https://smittenkitchen.com/2009/08/cubed-hacked-caprese/).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 450 g | Mozzarella, roughly chopped
 | 450 g | Roma Tomatoes, chopped

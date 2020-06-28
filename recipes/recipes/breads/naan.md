@@ -1,5 +1,5 @@
 === "Ingredients"
-    |||
+    | Amount | Ingredient |
     |:--|:--|
     | 5 mL   | Active Dry Yeast
     | 5 mL   | Sugar

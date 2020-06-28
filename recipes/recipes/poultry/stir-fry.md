@@ -2,7 +2,7 @@ Stir fry adjusted to our pallet; i.e. thick & crisp vegetables and sweet & spicy
 
 Serve over jasmine rice.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 45 mL  | Soy Sauce
 | 30 mL  | Canola Oil

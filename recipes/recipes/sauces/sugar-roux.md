@@ -1,4 +1,4 @@
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 30 mL  | Butter, unsalted
 | 15 mL  | Sugar

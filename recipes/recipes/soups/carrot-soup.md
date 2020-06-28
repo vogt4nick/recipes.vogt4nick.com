@@ -1,6 +1,6 @@
 Goes nicely with homemade [tahini](../sauces/tahini-paste.md). Inspired by [Smitten Kitchen](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 30 mL   | Olive Oil
 | 750 g   | Carrots, peeled, diced

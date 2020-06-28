@@ -1,6 +1,6 @@
 Inspired by [Mob Kitchen](https://www.reddit.com/r/MobKitchen/comments/ew62bu/mobs_french_onion_mac_cheese/).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 30 g    | Butter, unsalted
 | 900 g   | Onions, sliced

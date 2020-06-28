@@ -1,6 +1,6 @@
 Inspired by [Cook's Country](https://www.cookscountry.com/recipes/11134-croque-monsieur).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 8 slices | Sandwich Bread
 | 40 mL    | Butter, unsalted, melted

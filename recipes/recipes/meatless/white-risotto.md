@@ -2,7 +2,7 @@ Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](h
 
 Risotto requires a particular cooking method, so be sure to review ahead of time.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 15 mL   | Butter, unsalted
 | 30 mL   | Vegetable Oil

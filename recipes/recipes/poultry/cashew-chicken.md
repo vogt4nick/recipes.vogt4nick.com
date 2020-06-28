@@ -1,6 +1,6 @@
 Goes well over white rice with broccoli.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 200 g | Chicken Breast, chopped
 | 50 mL | Soy Sauce

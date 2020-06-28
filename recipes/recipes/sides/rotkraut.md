@@ -1,6 +1,6 @@
 Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavariankitchen.com/vegetables/rotkohl.aspx).
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 15 mL  | Butter, unsalted
 | 8 mL   | Sugar

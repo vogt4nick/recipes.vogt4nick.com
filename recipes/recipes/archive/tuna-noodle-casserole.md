@@ -1,5 +1,5 @@
 === "Ingredients"
-    |||
+    | Amount | Ingredient |
     |:--|:--|
     | 400 mL | Cream of Mushroom Soup, canned
     | 400 mL | Milk

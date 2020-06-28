@@ -1,5 +1,5 @@
 === "Instructions"
-    |||
+    | Amount | Ingredient |
     |:--|:--|
     | 800 mL | Beef Stock
     | 1      | Bay Leaf

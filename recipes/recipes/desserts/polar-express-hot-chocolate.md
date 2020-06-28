@@ -1,6 +1,6 @@
 Inspired by Elise Walter.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 400 mL  | Condensed Milk, sweetened
 | 1800 mL | Milk, whole

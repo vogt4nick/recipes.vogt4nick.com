@@ -1,4 +1,4 @@
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 225 g   | Potatoes, peeled, roughly chopped
 | 1000 mL | Water, cold

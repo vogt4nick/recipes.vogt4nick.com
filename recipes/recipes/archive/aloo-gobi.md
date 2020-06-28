@@ -1,7 +1,7 @@
 Easy, set-and-forget curry. Ideal for seasonal variations. Inspired by [Alicia's Aloo Gobi](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/).
 
 === "Instructions"
-    |||
+    | Amount | Ingredient |
     |:--|:--|
     | 30 mL  | Olive Oil
     | 110 g  | Yellow Onion, minced

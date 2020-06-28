@@ -1,4 +1,4 @@
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 15 mL | Extra Virgin Olive Oil
 | 100 g | Mushrooms, sliced

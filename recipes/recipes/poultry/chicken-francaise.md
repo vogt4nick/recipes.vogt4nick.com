@@ -2,7 +2,7 @@ Inspired by Elise Walter & [Chicken Francaise](http://www.recipe30.com/chicken-f
 
 CAUTION: This recipe can cause grease and/or alcohol fires. Understand [how to extinguish grease fires](https://www.wikihow.com/Put-out-a-Grease-Fire#Snuffing-out-the-Fire_sub) before cooking, and keep an open carton of baking soda at the ready.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 120 mL | Flour, sifted
 | 2      | Eggs

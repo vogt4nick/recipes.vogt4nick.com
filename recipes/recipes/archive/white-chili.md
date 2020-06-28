@@ -1,5 +1,5 @@
 === "Ingredients"
-    |||
+    | Amount | Ingredient |
     |:--|:--|
     | 15 mL   | Coconut Oil
     | 225 g   | White Onion, diced

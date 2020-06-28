@@ -1,6 +1,6 @@
 This recipe really only pays if you pick up quality ingredients. Pick up a small jar of quality sesame seeds and mix 4:1 with your best olive oil.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 60 mL | Sesame Seeds
 | 15 mL | Extra Virgin Olive Oil

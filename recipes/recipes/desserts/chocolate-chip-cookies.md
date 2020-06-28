@@ -1,5 +1,5 @@
 === "Ingredients"
-    |||
+    | Amount | Ingredient |
     |:--|:--|
     | 120 mL | Butter, unsalted, melted
     | 5 mL   | Kosher Salt

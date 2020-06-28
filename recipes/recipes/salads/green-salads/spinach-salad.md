@@ -1,4 +1,4 @@
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 100 g  | Spinach, rinsed
 | 50 g   | Mushrooms, sliced

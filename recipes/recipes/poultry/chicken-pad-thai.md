@@ -2,7 +2,7 @@ It's vital that you prepare everything before cooking. Pad thai has to cook *fas
 
 Recipe is for one serving.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 150 mL | [Pad Thai Sauce](../sauces/pad-thai-sauce.md)
 | 80 g   | Rice Sticks

@@ -2,7 +2,7 @@ A brown mushroom sauce. Inspired with few alterations to Julia Child's recipe in
 
 Yields about 400 mL.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 15 mL  | Butter, unsalted
 | 10 mL  | Oil

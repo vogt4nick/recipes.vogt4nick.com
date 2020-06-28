@@ -2,7 +2,7 @@ A few alterations to Julia Child's recipe in [Mastering the Art of French Cookin
 
 Yields about 500 mL.
 
-|||
+| Amount | Ingredient |
 |:--|:--|
 | 3      | Egg Yolks, room temperature
 | 15 mL  | Lemon Juice or Wine Vinegar, room temperature
