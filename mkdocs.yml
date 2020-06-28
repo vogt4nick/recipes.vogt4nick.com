@@ -3,26 +3,26 @@ docs_dir: recipes
 nav:
   - Menu: index.md
   - Recipes:
-    - Archive: recipes/archive.md
-    - Beef: recipes/beef.md
-    - Breads: recipes/breads.md
-    - Desserts: recipes/desserts.md
-    - Handhelds: recipes/handhelds.md
-    - Meatless: recipes/meatless.md
-    - Pasta: recipes/pasta.md
-    - Pizzas: recipes/pizzas.md
-    - Pork: recipes/pork.md
-    - Poultry: recipes/poultry.md
-    - Salads: recipes/salads.md
-    - Sauces: recipes/sauces.md
-    - Shareables: recipes/shareables.md
-    - Sides: recipes/sides.md
-    - Soups: recipes/soups.md
+      - Archive: recipes/archive.md
+      - Beef: recipes/beef.md
+      - Breads: recipes/breads.md
+      - Desserts: recipes/desserts.md
+      - Handhelds: recipes/handhelds.md
+      - Meatless: recipes/meatless.md
+      - Pasta: recipes/pasta.md
+      - Pizzas: recipes/pizzas.md
+      - Pork: recipes/pork.md
+      - Poultry: recipes/poultry.md
+      - Salads: recipes/salads.md
+      - Sauces: recipes/sauces.md
+      - Shareables: recipes/shareables.md
+      - Sides: recipes/sides.md
+      - Soups: recipes/soups.md
   - References:
-    - Chefs: references/chefs.md
-    - Ingredients: references/ingredients.md
-    - Styles: references/styles.md
-    - Techniques: references/techniques.md
+      - Chefs: references/chefs.md
+      - Ingredients: references/ingredients.md
+      - Styles: references/styles.md
+      - Techniques: references/techniques.md
   - About: about.md
 theme:
   name: material
