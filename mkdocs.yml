@@ -1,29 +1,13 @@
 site_name: Nick's Recipes
 docs_dir: recipes
-nav:
-  - Menu: index.md
-  - Recipes:
-      - Archive: recipes/archive.md
-      - Beef: recipes/beef.md
-      - Breads: recipes/breads.md
-      - Desserts: recipes/desserts.md
-      - Handhelds: recipes/handhelds.md
-      - Meatless: recipes/meatless.md
-      - Pasta: recipes/pasta.md
-      - Pizzas: recipes/pizzas.md
-      - Pork: recipes/pork.md
-      - Poultry: recipes/poultry.md
-      - Salads: recipes/salads.md
-      - Sauces: recipes/sauces.md
-      - Shareables: recipes/shareables.md
-      - Sides: recipes/sides.md
-      - Soups: recipes/soups.md
-  - References:
-      - Chefs: references/chefs.md
-      - Ingredients: references/ingredients.md
-      - Styles: references/styles.md
-      - Techniques: references/techniques.md
-  - About: about.md
+plugins:
+  - search:
+      lang:
+        - en
+  - awesome-pages:
+      filename: pages.yml
+      collapse_single_pages: true
+      strict: true
 theme:
   name: material
   features:
@@ -35,10 +19,10 @@ theme:
     primary: deep orange
     accent: deep orange
 markdown_extensions:
+  # ignore page-level table of contents
+  # https://github.com/squidfunk/mkdocs-material/issues/478#issuecomment-578723876
   - toc:
-      permalink: "#"
-      baselevel: 2
-      separator: "-"
+      toc_depth : "1-1"
   - admonition
 google_analytics:
   - UA-109563922-1
