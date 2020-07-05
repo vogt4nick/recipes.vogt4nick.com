@@ -1,11 +1,16 @@
 # Menu
 
-## Soups
+## Soup & Salad
 
 
 ### [Carrot Soup (V+)](recipes/soups/carrot-soup.md)
 
 Carrots. Tahini. Toasted chickpeas.
+
+
+### [Cowboy Caviar (V+)](recipes/salads/bean-salads/cowboy-caviar.md) & Chips
+
+Beans. Corn. Chips.
 
 
 ### [Loaded French Onion Soup](recipes/soups/loaded-french-onion-soup.md)
