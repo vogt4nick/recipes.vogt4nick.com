@@ -52,6 +52,11 @@ Rice. Beans. Onion.
 Rice. Cheese. Mushrooms.
 
 
+### [Szechuan Cold Noodles](recipes/pasta/szechuan-cold-noodles.md)
+
+Chilled noodles. Cucumber. Szechuan sauce.
+
+
 ### [Sweet Potato Tacos (V/V+)](recipes/handhelds/sweet-potato-tacos.md)
 
 Deceptively simple tacos with too much flavor. Crunchy and soft, and sweet and sour and spicy all at once.
