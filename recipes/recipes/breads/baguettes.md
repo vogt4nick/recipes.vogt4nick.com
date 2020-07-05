@@ -29,16 +29,16 @@
     9. **Cool baguettes.** Transfer baguettes to cooling rack. Rest 40 minutes at room temperature.
 
 
-??? question "What's the 'windowpane test'?"
-    * From [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home)
-    > The 'windowpane test' is a way to check the gluten development of your dough during kneading. Break off a small piece of dough, and gently stretch it out until it’s thin enough to see through. If you can indeed see through it, you’re done kneading. If the dough breaks before you can stretch it out that thin, keep kneading.
+    ??? question "What's the 'windowpane test'?"
+        * From [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home)
+        > The 'windowpane test' is a way to check the gluten development of your dough during kneading. Break off a small piece of dough, and gently stretch it out until it’s thin enough to see through. If you can indeed see through it, you’re done kneading. If the dough breaks before you can stretch it out that thin, keep kneading.
 
-??? question "How do I shape baguettes?"
-    * Watch [How to Shape Baguettes (Video)](https://www.youtube.com/watch?v=xlN5CgQcvAg)
-    * Read [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home#homemade-french-baguette-recipe).
+    ??? question "How do I shape baguettes?"
+        * Watch [How to Shape Baguettes (Video)](https://www.youtube.com/watch?v=xlN5CgQcvAg)
+        * Read [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home#homemade-french-baguette-recipe).
 
-??? tip "Proof someplace warm"
-    Baking during cooler seasons is a challenge; the dough won't rise if the kitchen is too cold (e.g. 20C). Vent the oven at 350F (175C) while dough is rising and proofing to warm kitchen to 25C.
+    ??? tip "Proof someplace warm"
+        Baking during cooler seasons is a challenge; the dough won't rise if the kitchen is too cold (e.g. 20C). Vent the oven at 350F (175C) while dough is rising and proofing to warm kitchen to 25C.
 
 ??? note "References"
     Inspired by [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home#homemade-french-baguette-recipe) and [King Arther Flour](https://www.kingarthurflour.com/recipes/classic-baguettes-recipe).
