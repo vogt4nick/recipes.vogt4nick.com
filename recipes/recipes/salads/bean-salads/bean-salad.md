@@ -24,5 +24,5 @@
 ??? info "Yields about 800 g."
     Note that cooked legumes yield about 2x-3x their dry weight. Here's a [chart](https://www.seriouseats.com/2014/04/is-there-a-ratio-for-converting-between-dried.html) for some beans.
 
-??? abstract "References"
+??? note "References"
     Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).

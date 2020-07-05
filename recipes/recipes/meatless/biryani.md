@@ -37,5 +37,5 @@
     6. **Combine and rest.** Reduce dutch oven to low heat. Layer *parboiled rice*. Optionally, activate saffron in warm milk for 30 seconds layer over rice. Cover. Rest 60 minutes.
     7. **Garnish and serve** with mint leaves.
 
-??? abstract "References"
+??? note "References"
     Inspired by my favorite Indian dish and [Reddit](https://www.reddit.com/r/IndianFood/comments/5slajm/best_biryani_recipe/ddhk5jy).

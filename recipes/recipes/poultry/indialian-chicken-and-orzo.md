@@ -33,5 +33,5 @@
     7. **Garnish** with basil and parmesan.
 
 
-??? abstract "References"
+??? note "References"
     Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.com/r/GifRecipes/comments/95wr6x/onepan_creamy_italian_orzo_chicken_oc/).

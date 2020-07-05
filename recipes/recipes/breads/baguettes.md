@@ -40,5 +40,5 @@
 ??? tip "Proof someplace warm"
     Baking during cooler seasons is a challenge; the dough won't rise if the kitchen is too cold (e.g. 20C). Vent the oven at 350F (175C) while dough is rising and proofing to warm kitchen to 25C.
 
-??? abstract "References"
+??? note "References"
     Inspired by [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home#homemade-french-baguette-recipe) and [King Arther Flour](https://www.kingarthurflour.com/recipes/classic-baguettes-recipe).

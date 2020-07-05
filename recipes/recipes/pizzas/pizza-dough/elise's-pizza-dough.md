@@ -21,5 +21,5 @@
 
 !!! info "Yields one large pizza or two medium pizzas."
 
-??? abstract "References"
+??? note "References"
     Inspired by Elise Walter.

@@ -30,5 +30,5 @@
     6. **Garnish** with remaining green chiles.
 
 
-??? abstract "References"
+??? note "References"
     Inspired by Brenda Vogt and [Creamy Chicken Enchiladas](https://www.tasteofhome.com/recipes/creamy-chicken-enchiladas/).

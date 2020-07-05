@@ -15,5 +15,5 @@
 
 !!! tip "Serves nicely with toasted focaccia."
 
-??? abstract "References"
+??? note "References"
     Inspired by [Smitten Kitchen](https://smittenkitchen.com/2009/08/cubed-hacked-caprese/).

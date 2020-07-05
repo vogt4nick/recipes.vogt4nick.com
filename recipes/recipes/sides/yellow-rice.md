@@ -20,5 +20,5 @@
 
 !!! tip "Reduce the spices when you make the recipe for the first time."
 
-??? abstract "References"
+??? note "References"
     Inspired by [Yellow Jasmine Rice](https://www.budgetbytes.com/yellow-jasmine-rice/).

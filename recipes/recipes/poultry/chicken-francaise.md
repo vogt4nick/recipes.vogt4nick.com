@@ -32,5 +32,5 @@
 ??? warning "This recipe can cause grease and/or alcohol fires."
     Review [how to extinguish grease fires](https://www.wikihow.com/Put-out-a-Grease-Fire#Snuffing-out-the-Fire_sub) before cooking, and keep an open carton of baking soda at the ready.
 
-??? abstract "References"
+??? note "References"
     Inspired by Elise Walter & [Chicken Francaise](http://www.recipe30.com/chicken-francaise.html/).

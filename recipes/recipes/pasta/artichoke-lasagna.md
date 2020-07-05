@@ -29,5 +29,5 @@
     ???+ bug "I don't see a crust forming"
         If after the first few minutes you don't see any sign of a crust beginning to form, increase the oven temperature to 450F (220C). Bake no longer than 15 minutes altogether.
 
-??? abstract "References"
+??? note "References"
     Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](https://smile.amazon.com/gp/product/039458404X).

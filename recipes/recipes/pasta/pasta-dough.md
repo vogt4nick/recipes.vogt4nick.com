@@ -16,5 +16,5 @@
 
 !!! info "Yields about 400 g"
 
-??? abstract "References"
+??? note "References"
     Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](https://smile.amazon.com/gp/product/039458404X).

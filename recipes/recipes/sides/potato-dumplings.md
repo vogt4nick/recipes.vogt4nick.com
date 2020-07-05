@@ -18,5 +18,5 @@
     ??? tip "Use a wide stockpan."
         Dumplings need space to float in the pot that is why you need a wide pot rather than a tall pot.
 
-??? abstract "References"
+??? note "References"
     Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavariankitchen.com/sides/knoedel.aspx). Also called erdäpfelknödeln.

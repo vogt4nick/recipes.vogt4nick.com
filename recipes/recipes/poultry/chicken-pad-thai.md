@@ -32,5 +32,5 @@
 
 !!! tip "Between batches, rinse wok with warm water and wipe away solid bits."
 
-??? abstract "References"
+??? note "References"
     Inspired by [Chez Pim](http://web.baz.org/adam/recipes/pad_thai_for_be.html).

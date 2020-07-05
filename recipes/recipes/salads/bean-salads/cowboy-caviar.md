@@ -31,5 +31,5 @@
 
 !!! tip "Serve with tortilla chips"
 
-??? abstract "References"
+??? note "References"
     Inspired by [House of Yumm](https://houseofyumm.com/texas-caviar/).

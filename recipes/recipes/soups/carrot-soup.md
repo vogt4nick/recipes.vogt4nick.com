@@ -42,5 +42,5 @@
     ??? question "I don't have an immersion blender. How do I puree the soup?"
         A blender will do the job if you don't have an immersion blender.
 
-??? abstract "References"
+??? note "References"
     Inspired by [Smitten Kitchen](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/).

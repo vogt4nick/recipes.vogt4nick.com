@@ -47,5 +47,5 @@
     * [rotkraut](../sides/rotkraut.md)
     * [sugar roux](../sauces/sugar-roux.md)
 
-??? abstract "References"
+??? note "References"
     Inspired by travels to Austria & Bavaria and [German recipes](http://www.bavariankitchen.com/meats/sauerbraten.aspx).

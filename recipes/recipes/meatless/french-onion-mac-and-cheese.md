@@ -38,5 +38,5 @@
 ??? tip "Don't add too much bacon"
     Fight the urge to add bacon to the recipe. Invest in high-quality, robust cheeses instead!
 
-??? abstract "References"
+??? note "References"
     Inspired by [Mob Kitchen](https://www.reddit.com/r/MobKitchen/comments/ew62bu/mobs_french_onion_mac_cheese/).
