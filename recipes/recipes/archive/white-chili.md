@@ -1,23 +1,23 @@
 === "Ingredients"
-    | Amount | Ingredient |
-    |:--|:--|
-    | 15 mL   | Coconut Oil
-    | 225 g   | White Onion, diced
-    | 450 g   | Rotisserie Chicken, shredded
-    | 15 m    | Garlic, minced
-    | 30 mL   | Lime Juice
-    | 60 mL   | Cilantro
-    | 15 mL   | Oregano
-    | 15 mL   | Cumin
-    | 5 mL    | Red Pepper Flakes, optional
-    | 170 g   | Jalapeno Peppers, diced
-    | 1000 mL | Chicken Stock
-    | 450 g   | White Beans, drained, mashed
-    | 450 g   | White Beans, drained
-    | ---     | ---
-    |         | Carrots, optional
-    |         | Celery, optional
-    |         | Pickles, optional
+    | Amount  | Ingredient                   |
+    | :------ | :--------------------------- |
+    | 15 mL   | Coconut Oil                  |
+    | 225 g   | White Onion, diced           |
+    | 450 g   | Rotisserie Chicken, shredded |
+    | 15 m    | Garlic, minced               |
+    | 30 mL   | Lime Juice                   |
+    | 60 mL   | Cilantro                     |
+    | 15 mL   | Oregano                      |
+    | 15 mL   | Cumin                        |
+    | 5 mL    | Red Pepper Flakes, optional  |
+    | 170 g   | Jalapeno Peppers, diced      |
+    | 1000 mL | Chicken Stock                |
+    | 450 g   | White Beans, drained, mashed |
+    | 450 g   | White Beans, drained         |
+    | ---     | ---                          |
+    |         | Carrots, optional            |
+    |         | Celery, optional             |
+    |         | Pickles, optional            |
 
 
 === "Directions"

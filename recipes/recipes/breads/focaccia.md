@@ -1,18 +1,18 @@
 === "Ingredients"
-    | Amount | Ingredient |
-    |:--|:--|
-    | 500 g  | Strong Bread Flour
-    | 20 g   | Semolina Flour
-    | 15 g   | Active Dry Yeast
-    | 360 mL | Water, warm
-    | 15 mL  | Olive Oil
-    | 10 mL  | Coarse Salt
-    | 225 g  | Sun-Dried Tomatoes
-    | 225 g  | Kalamata Olives
-    | 5 mL   | Coarse Salt
-    | 5 mL   | Black Pepper, coarse ground
-    | 45 mL  | Rosemary, fresh
-    | 15 mL  | Olive Oil
+    | Amount | Ingredient                  |
+    | :----- | :-------------------------- |
+    | 500 g  | Strong Bread Flour          |
+    | 20 g   | Semolina Flour              |
+    | 15 g   | Active Dry Yeast            |
+    | 360 mL | Water, warm                 |
+    | 15 mL  | Olive Oil                   |
+    | 10 mL  | Coarse Salt                 |
+    | 225 g  | Sun-Dried Tomatoes          |
+    | 225 g  | Kalamata Olives             |
+    | 5 mL   | Coarse Salt                 |
+    | 5 mL   | Black Pepper, coarse ground |
+    | 45 mL  | Rosemary, fresh             |
+    | 15 mL  | Olive Oil                   |
 
 === "Directions"
     1. **Prepare dough.** Add bread flour, semolina, yeast to large bowl. Stir. Add water and olive oil to small bowl. Repeat until dough starts to hold together: add 60 mL oil and water to flour mixture and stir with hands.

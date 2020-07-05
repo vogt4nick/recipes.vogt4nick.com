@@ -1,31 +1,31 @@
 === "Ingredients"
-    | Amount | Ingredient |
-    |:--|:--|
-    | 1 mL   | Salt
-    | 2      | Pepper Corns
-    | 2      | Allspice Corns
-    | 2      | Cloves
-    | 1      | Bay Leaf
-    | 4      | Juniper Berries*
-    | 5 mL   | Rosemary, chopped
-    | 330 mL | Water, cold
-    | 90 mL  | White Vinegar
-    | 110 g  | White Onion, minced
-    | 60 g   | Carrot, chopped
-    | 450 g  | Pork Steaks**
-    | ---    | ---
-    | 45 mL  | Canola Oil
-    | 15 mL  | Butter, unsalted, melted
-    | <1 mL  | Salt
-    | ---    | ---
-    | 110 g  | White Onion, sliced
-    | 110 g  | Celery, chopped
-    | 110 g  | Carrot, chopped
-    | 10 mL  | Garlic, minced
-    | 120 mL | Water, cold
-    | 15 mL  | Red Wine
-    | ---    | ---
-    | 15 mL  | Scallion greens, chopped (optional)
+    | Amount | Ingredient                          |
+    | :----- | :---------------------------------- |
+    | 1 mL   | Salt                                |
+    | 2      | Pepper Corns                        |
+    | 2      | Allspice Corns                      |
+    | 2      | Cloves                              |
+    | 1      | Bay Leaf                            |
+    | 4      | Juniper Berries*                    |
+    | 5 mL   | Rosemary, chopped                   |
+    | 330 mL | Water, cold                         |
+    | 90 mL  | White Vinegar                       |
+    | 110 g  | White Onion, minced                 |
+    | 60 g   | Carrot, chopped                     |
+    | 450 g  | Pork Steaks**                       |
+    | ---    | ---                                 |
+    | 45 mL  | Canola Oil                          |
+    | 15 mL  | Butter, unsalted, melted            |
+    | <1 mL  | Salt                                |
+    | ---    | ---                                 |
+    | 110 g  | White Onion, sliced                 |
+    | 110 g  | Celery, chopped                     |
+    | 110 g  | Carrot, chopped                     |
+    | 10 mL  | Garlic, minced                      |
+    | 120 mL | Water, cold                         |
+    | 15 mL  | Red Wine                            |
+    | ---    | ---                                 |
+    | 15 mL  | Scallion greens, chopped (optional) |
 
     ??? question "Substitutions"
         *Substitute 15 mL gin for juniper berries.

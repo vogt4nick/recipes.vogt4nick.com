@@ -1,17 +1,17 @@
 === "Ingredients"
-    | Amount | Ingredient |
-    |:--|:--|
-    | 100 g  | Bread Flour*, unbleached
-    | 1 mL   | Instant Yeast
-    | 100 mL | Water, warm (35C)
-    | ---    | ---
-    | 7 mL   | Salt
-    | 4 mL   | Instant Yeast
-    | 425 g  | Bread Flour*, unbleached
-    | 240 mL | Water, warm (35C)
-    | ---    | ---
-    | 30 mL  | Semolina Flour
-    | 240 mL | Water, hot (80C)
+    | Amount | Ingredient               |
+    | :----- | :----------------------- |
+    | 100 g  | Bread Flour*, unbleached |
+    | 1 mL   | Instant Yeast            |
+    | 100 mL | Water, warm (35C)        |
+    | ---    | ---                      |
+    | 7 mL   | Salt                     |
+    | 4 mL   | Instant Yeast            |
+    | 425 g  | Bread Flour*, unbleached |
+    | 240 mL | Water, warm (35C)        |
+    | ---    | ---                      |
+    | 30 mL  | Semolina Flour           |
+    | 240 mL | Water, hot (80C)         |
 
     ??? question "Substitutions"
         *Substitute all-purpose flour for bread flour

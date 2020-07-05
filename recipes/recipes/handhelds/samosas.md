@@ -8,7 +8,7 @@
     | 125 g  | All-Purpose Flour                    |
     | 2 mL   | Kosher Salt                          |
     | 30 mL  | Butter, unsalted, cut into bits      |
-    | 15 mL  | Yogurt*                              |
+    | 15 mL  | Yogurt                               |
     | 45 mL  | Water, cold (5C)                     |
     | ---    | ---                                  |
     | 30 mL  | Butter, unsalted                     |
@@ -19,14 +19,14 @@
     | 10 mL  | Curry Powder                         |
     | 1 mL   | Black Pepper                         |
     | <1 mL  | Salt                                 |
-    | 55 g   | Green Peas**                         |
+    | 55 g   | Green Peas                           |
     | ---    | ---                                  |
     | 60 mL  | Water, cold (5C)                     |
     |        | Canola Oil                           |
 
     ??? question "Substitutions"
-        *Substitute sour cream for yogurt
-        **Defrost in cool water first if using frozen green peas
+        * Substitute sour cream for yogurt
+        * Defrost in cool water first if using frozen green peas
 
 === "Directions"
     1. **Parboil potatoes.** Add potatoes to stockpan. Cover with water. Bring to boil. Boil 6 minutes until soft. Drain.
