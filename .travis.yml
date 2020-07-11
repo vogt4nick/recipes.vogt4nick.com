@@ -11,6 +11,7 @@ before_install:
   - aws configure set region us-east-1
   - aws configure set DeployVogt4nickStaticSite.role_arn arn:aws:iam::491984534845:role/DeployVogt4nickStaticSite
   - aws configure set DeployVogt4nickStaticSite.source_profile default
+  - aws configure get role_arn --profile DeployVogt4nickStaticSite
   - export AWS_PROFILE=DeployVogt4nickStaticSite
 script:
   - mkdocs build -d output
