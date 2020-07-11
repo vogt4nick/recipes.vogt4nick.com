@@ -6,7 +6,8 @@ before_install:
   - pip install -r requirements.txt
   - pip install awscli
   - export PATH=$PATH:$HOME/.local/bin
-  - aws sts assume-role --role-arn arn:aws:iam::491984534845:role/DeployVogt4nickStaticSite --role-session-name deploy-recipes-${TRAVIS_COMMIT}
+  - aws configure --profile DeployVogt4nickStaticSite set role_arn arn:aws:iam::491984534845:role/DeployVogt4nickStaticSite
+  - aws configure --profile DeployVogt4nickStaticSite set source_profile default
 script:
   - mkdocs build -d output
 deploy:
