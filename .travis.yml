@@ -6,8 +6,7 @@ before_install:
   - pip install -r requirements.txt
   - pip install awscli
   - export PATH=$PATH:$HOME/.local/bin
-  - aws configure --profile DeployVogt4nickStaticSite set role_arn arn:aws:iam::491984534845:role/DeployVogt4nickStaticSite
-  - aws configure --profile DeployVogt4nickStaticSite set source_profile default
+  - aws configure --profile default set role_arn arn:aws:iam::491984534845:role/DeployVogt4nickStaticSite
 script:
   - mkdocs build -d output
 deploy:
@@ -18,7 +17,6 @@ deploy:
     on:
       branch: recipes.vogt4nick.com
   - provider: s3
-    role: arn:aws:iam::491984534845:role/DeployVogt4nickStaticSite
     bucket: recipes.vogt4nick.com
     skip_cleanup: true
     region: us-east-1
