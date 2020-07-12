@@ -3,7 +3,7 @@
 ## Soup & Salad
 
 
-### [Carrot Soup (V+)](recipes/soups/carrot-soup.md)
+### [Carrot Soup (V+)](recipes/soups/carrot-soup.md) w/ [Roasted Chickpeas (V+)](recipes/sides/roasted-chickpeas.md)
 
 Carrots. Tahini. Toasted chickpeas.
 
