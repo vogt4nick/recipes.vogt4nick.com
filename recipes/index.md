@@ -42,6 +42,11 @@ Robust. Multi-textured. Warm.
 Green apple. Gruyere. Tomato soup for dipping.
 
 
+### [Lentil Sauce (V+)](recipes/sauces/lentil-sauce.md) over [Gnocchi (V)](recipes/sides/gnocchi.md)
+
+Lentils. Potatoes.
+
+
 ### [Rice & Beans (V/V+)](recipes/meatless/rice-and-beans.md)
 
 Rice. Beans. Onion.
