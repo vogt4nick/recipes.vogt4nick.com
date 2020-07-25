@@ -2,15 +2,15 @@
     You must never stop stirrig and you must be sure to wipe the bottom of the pot completely clean frequently, or the rice will stick to it.
 
 === "Ingredients"
-    * 1200 ml, Vegetable Stock, simmering
-    * 15 ml, Butter, unsalted
-    * 30 ml, Vegetable Oil
-    * 30 g, Onion, minced
-    * 400 g, Arborio Rice, unrinsed
+    * 1200 ml Vegetable Stock, simmering
+    * 15 ml Butter, unsalted
+    * 30 ml Vegetable Oil
+    * 30 g Onion, minced
+    * 400 g Arborio Rice, unrinsed
     * Garnish
-        * 30 ml, Butter, unsalted
-        * 80 g, Parmesan Cheese, grated
-        * 15 g, White Truffle, shaved (optional)
+        * 30 ml Butter, unsalted
+        * 80 g Parmesan Cheese, grated
+        * 15 g White Truffle, shaved (optional)
 
 === "Directions"
     1. **Parfry onion base.** Add butter, oil, and onion to a room temperature, heavy bottomed stockpan. Place over medium-high heat. Cook 8 minutes, stirring every 2 minutes, until translucent. Add rice. Coat evenly.

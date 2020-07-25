@@ -1,14 +1,14 @@
 === "Ingredients"
     * Sauteed Artichoke Hearts
-        * 15 ml, Butter, unsalted
-        * 400 g, Artichoke Hearts, chopped, rinsed
-        * 5 ml, Kosher Salt
+        * 15 ml Butter, unsalted
+        * 400 g Artichoke Hearts, chopped, rinsed
+        * 5 ml Kosher Salt
         * Water
-    * 600 ml, [Lasagna Noodles](pasta-dough.md)
-    * 15 ml, Butter, unsalted
-    * 400 ml, [Bechamel Sauce](#bechamel-sauce-v), warm
-    * 15 ml, Butter, unsalted, cubed
-    * 160 g, Parmigiano-Reggiano
+    * 600 ml [Lasagna Noodles](pasta-dough.md)
+    * 15 ml Butter, unsalted
+    * 400 ml [Bechamel Sauce](#bechamel-sauce-v), warm
+    * 15 ml Butter, unsalted, cubed
+    * 160 g Parmigiano-Reggiano
 
 === "Directions"
     1. **Preheat oven** to 400F (205C).

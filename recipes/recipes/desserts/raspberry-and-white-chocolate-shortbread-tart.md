@@ -1,14 +1,14 @@
 === "Ingredients"
     * 675g, Shortbread Dough
-        * 230 g, Butter, unsalted, room temperature
-        * 100 g, White Sugar
-        * 50 g, Brown Sugar
-        * 10 ml, Vanilla Extract
-        * 290 g, All Purpose Flour, sifted
-        * 2.5 ml, Kosher Salt
-    * 240 g, Raspberry Preserves
-    * 240 g, Berries, room temperature
-    * 100 g, White Chocolate Chips
+        * 230 g Butter, unsalted, room temperature
+        * 100 g White Sugar
+        * 50 g Brown Sugar
+        * 10 ml Vanilla Extract
+        * 290 g All Purpose Flour, sifted
+        * 2.5 ml Kosher Salt
+    * 240 g Raspberry Preserves
+    * 240 g Berries, room temperature
+    * 100 g White Chocolate Chips
 
     ??? question "What if I'm using frozen berries?"
         Defrost and strain the juices and coat in 15 ml flour.
