@@ -5,10 +5,10 @@
     * Seasonings
         * 45 ml White Vinegar
         * 45 ml Vegetable Oil
-        * 3 ml Kosher Salt
-        * 2 ml Black Pepper, ground
         * 5 ml White Sugar
         * 5 ml Parsley
+        * 3 ml Kosher Salt
+        * 2 ml Black Pepper, ground
     * Garnish
         * 50 ml Red Onion, sliced
 
