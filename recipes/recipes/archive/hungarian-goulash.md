@@ -1,27 +1,27 @@
 === "Instructions"
     | Amount | Ingredient                                   |
     | :----- | :------------------------------------------- |
-    | 800 mL | Beef Stock                                   |
+    | 800 ml | Beef Stock                                   |
     | 1      | Bay Leaf                                     |
     | ---    | ---                                          |
-    | 30 mL  | Butter, unsalted                             |
+    | 30 ml  | Butter, unsalted                             |
     | 110 g  | Yellow Onion, minced                         |
-    | 30 mL  | Garlic, minced                               |
+    | 30 ml  | Garlic, minced                               |
     | 450 g  | Pork, chopped into 15 mm pieces              |
-    | 45 mL  | Sweet Hungarian Paprika                      |
+    | 45 ml  | Sweet Hungarian Paprika                      |
     | 110 g  | Red Bell Pepper, chopped into 15 mm pieces   |
     | 110 g  | Green Bell Pepper, chopped into 15 mm pieces |
     | 225 g  | Tomatoes, diced                              |
     | 225 g  | Carrots, diced                               |
     | 225 g  | Potatoes, chopped into 15 mm pieces          |
-    | 3 mL   | Salt                                         |
-    | 3 mL   | Black Pepper                                 |
+    | 3 ml   | Salt                                         |
+    | 3 ml   | Black Pepper                                 |
     | ---    | ---                                          |
-    | 120 mL | Sour Cream                                   |
-    | 60 mL  | Cilantro                                     |
+    | 120 ml | Sour Cream                                   |
+    | 60 ml  | Cilantro                                     |
 
     ??? question "Substitutions"
-        * Substitute 30 mL butter for bacon drippings in a pinch.
+        * Substitute 30 ml butter for bacon drippings in a pinch.
 
 
 === "Directions"

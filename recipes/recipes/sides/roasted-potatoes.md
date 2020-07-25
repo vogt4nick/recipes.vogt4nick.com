@@ -1,16 +1,16 @@
 === "Ingredients"
     | Amount | Ingredient                         |
     | :----- | :--------------------------------- |
-    | 30 mL  | Salt                               |
-    | 2 mL   | Baking Soda                        |
+    | 30 ml  | Salt                               |
+    | 2 ml   | Baking Soda                        |
     | 900 g  | Russet Potatoes, peeled, quartered |
     | ---    | ---                                |
-    | 90 mL  | Cooking Fat                        |
-    | 16 mL  | Rosemary                           |
-    | 8 mL   | Black Pepper                       |
-    | 8 mL   | Kosher Salt                        |
+    | 90 ml  | Cooking Fat                        |
+    | 16 ml  | Rosemary                           |
+    | 8 ml   | Black Pepper                       |
+    | 8 ml   | Kosher Salt                        |
     | ---    | ---                                |
-    | 90 mL  | Sour Cream                         |
+    | 90 ml  | Sour Cream                         |
 
 === "Directions"
     1. **Prepare materials.** Preheat oven to 450F (230C). Prepare a foiled sheetpan.

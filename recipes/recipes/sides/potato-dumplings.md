@@ -2,11 +2,11 @@
     | Amount | Ingredient                |
     | :----- | :------------------------ |
     | 500 g  | Russet Potatoes, peeled   |
-    | 15 mL  | Salt                      |
+    | 15 ml  | Salt                      |
     | ---    | ---                       |
-    | 160 mL | All-Purpose Flour         |
-    | 2 mL   | Salt                      |
-    | 1 mL   | Nutmeg, ground (optional) |
+    | 160 ml | All-Purpose Flour         |
+    | 2 ml   | Salt                      |
+    | 1 ml   | Nutmeg, ground (optional) |
     | 1      | Egg, beaten               |
 
 === "Directions"

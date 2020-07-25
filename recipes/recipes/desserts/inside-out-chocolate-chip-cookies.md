@@ -1,18 +1,18 @@
 === "Instructions"
     | Amount | Ingredient                         |
     | :----- | :--------------------------------- |
-    | 120 mL | Butter, unsalted, room temperature |
+    | 120 ml | Butter, unsalted, room temperature |
     | 100 g  | White Sugar                        |
     | 100 g  | Brown Sugar                        |
     | 1      | Egg, room temperature              |
-    | 5 mL   | Vanilla Extract                    |
+    | 5 ml   | Vanilla Extract                    |
     | ---    | ---                                |
     | 125 g  | All-Purpose Flour                  |
     | 50 g   | Cocoa Powder, unsweetened          |
-    | 5 mL   | Baking Soda                        |
-    | <1 mL  | Kosher Salt                        |
+    | 5 ml   | Baking Soda                        |
+    | <1 ml  | Kosher Salt                        |
     |        | *Wet Mix*                          |
-    | 15 mL  | Milk                               |
+    | 15 ml  | Milk                               |
     | 225 g  | White Chocolate Chips              |
 
 === "Directions"

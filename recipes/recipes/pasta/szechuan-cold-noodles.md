@@ -1,13 +1,13 @@
 === "Ingredients"
     * 100 g Alkaline Noodles, dry, undercooked, cold
     * 80 g Cucumber, peeled, shredded
-    * 7 mL Sesame Oil
+    * 7 ml Sesame Oil
     * Seasonings
-        * 15 mL Soy Sauce
-        * 15 mL [Szechuan Sauce](../sauces/szechuan-sauce.md)
-        * 15 mL White Sugar
-        * 10 mL Vinegar
-        * 7 mL [Tahini Paste](../sauces/tahini-paste.md)
+        * 15 ml Soy Sauce
+        * 15 ml [Szechuan Sauce](../sauces/szechuan-sauce.md)
+        * 15 ml White Sugar
+        * 10 ml Vinegar
+        * 7 ml [Tahini Paste](../sauces/tahini-paste.md)
         * 1 pinch Kosher Salt
         * 5 g Garlic, minced
     * Garnish

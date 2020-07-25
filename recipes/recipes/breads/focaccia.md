@@ -4,18 +4,18 @@
     | 500 g  | Strong Bread Flour          |
     | 20 g   | Semolina Flour              |
     | 15 g   | Active Dry Yeast            |
-    | 360 mL | Water, warm                 |
-    | 15 mL  | Olive Oil                   |
-    | 10 mL  | Coarse Salt                 |
+    | 360 ml | Water, warm                 |
+    | 15 ml  | Olive Oil                   |
+    | 10 ml  | Coarse Salt                 |
     | 225 g  | Sun-Dried Tomatoes          |
     | 225 g  | Kalamata Olives             |
-    | 5 mL   | Coarse Salt                 |
-    | 5 mL   | Black Pepper, coarse ground |
-    | 45 mL  | Rosemary, fresh             |
-    | 15 mL  | Olive Oil                   |
+    | 5 ml   | Coarse Salt                 |
+    | 5 ml   | Black Pepper, coarse ground |
+    | 45 ml  | Rosemary, fresh             |
+    | 15 ml  | Olive Oil                   |
 
 === "Directions"
-    1. **Prepare dough.** Add bread flour, semolina, yeast to large bowl. Stir. Add water and olive oil to small bowl. Repeat until dough starts to hold together: add 60 mL oil and water to flour mixture and stir with hands.
+    1. **Prepare dough.** Add bread flour, semolina, yeast to large bowl. Stir. Add water and olive oil to small bowl. Repeat until dough starts to hold together: add 60 ml oil and water to flour mixture and stir with hands.
     2. **Knead dough.** Transfer dough to stand mixer. Gently knead 5 minutes with dough hook until dough resembles a smooth ball.
     3. **Proof dough.** Transfer dough to large bowl. Cover with plastic wrap. Rest 1-2 hours at 25C until dough doubles in size.
     4. **Preheat oven** to 395F (200C).

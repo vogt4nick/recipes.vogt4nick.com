@@ -1,12 +1,12 @@
 === "Ingredients"
     | Amount | Ingredient        |
     | :----- | :---------------- |
-    | 10 mL  | Active Dry Yeast  |
-    | 240 mL | Water, warm (30C) |
-    | 4 mL   | White Sugar       |
+    | 10 ml  | Active Dry Yeast  |
+    | 240 ml | Water, warm (30C) |
+    | 4 ml   | White Sugar       |
     | ---    | ---               |
-    | 6 mL   | Kosher Salt       |
-    | 30 mL  | Vegetable Oil     |
+    | 6 ml   | Kosher Salt       |
+    | 30 ml  | Vegetable Oil     |
     | 315 g  | All Purpose Flour |
 
 === "Directions"

@@ -1,16 +1,16 @@
 === "Ingredients"
     | Amount | Ingredient                            |
     | :----- | :------------------------------------ |
-    | 10 mL  | Extra Virgin Olive Oil                |
+    | 10 ml  | Extra Virgin Olive Oil                |
     | 100 g  | Onion, minced                         |
-    | 1 mL   | Kosher Salt                           |
-    | 1 mL   | Black Pepper                          |
+    | 1 ml   | Kosher Salt                           |
+    | 1 ml   | Black Pepper                          |
     | 900 g  | Tomatoes, peeled, quartered           |
     | ---    | ---                                   |
-    | 500 mL | [Vegetable Stock](#vegetable-stock-v) |
-    | 10 mL  | Parsley                               |
+    | 500 ml | [Vegetable Stock](#vegetable-stock-v) |
+    | 10 ml  | Parsley                               |
     | ---    | ---                                   |
-    | 10 mL  | Basil                                 |
+    | 10 ml  | Basil                                 |
 
 === "Directions"
     1. **Saute vegetables.** Heat oil in stockpan over medium heat. Add onion, salt, pepper. Coat evenly. Saute 8 minutes, stirring every 3 minutes. Add tomatoes. Cook 15 minutes, stirring every 5 minutes, until tomatoes break down.

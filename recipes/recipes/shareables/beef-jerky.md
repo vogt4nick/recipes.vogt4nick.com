@@ -2,19 +2,19 @@
     | Amount | Ingredient              |
     | :----- | :---------------------- |
     | 900 g  | Round Steak, 3mm slices |
-    | 60 mL  | Soy Sauce               |
-    | 30 mL  | Worcester Sauce         |
-    | 30 mL  | Liquid Smoke            |
-    | 30 mL  | Brown Sugar             |
-    | 10 mL  | Salt                    |
-    | 5 mL   | Black Pepper            |
-    | 5 mL   | Meat Tenderizer         |
-    | 5 mL   | Garlic Powder           |
-    | 5 mL   | Onion Powder            |
-    | 5 mL   | Paprika                 |
+    | 60 ml  | Soy Sauce               |
+    | 30 ml  | Worcester Sauce         |
+    | 30 ml  | Liquid Smoke            |
+    | 30 ml  | Brown Sugar             |
+    | 10 ml  | Salt                    |
+    | 5 ml   | Black Pepper            |
+    | 5 ml   | Meat Tenderizer         |
+    | 5 ml   | Garlic Powder           |
+    | 5 ml   | Onion Powder            |
+    | 5 ml   | Paprika                 |
 
     ??? question "Substitutions"
-        Substitute 30 mL pineapple juice for meat tenderizer. Ultimately, we're introducing enzymes to break down the meat fibers. Pineapple juice does this just as well.
+        Substitute 30 ml pineapple juice for meat tenderizer. Ultimately, we're introducing enzymes to break down the meat fibers. Pineapple juice does this just as well.
 
 === "Directions"
     1. **Marinate beef.** Add steak strips to large ziplock bag. Add sauces and spices. Coat evenly. Marinate 8 hours in refrigerator.

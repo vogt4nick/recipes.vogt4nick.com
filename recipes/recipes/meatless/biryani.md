@@ -1,16 +1,16 @@
 === "Ingredients"
     | Amount | Ingredient            |
     | :----- | :-------------------- |
-    | 240 mL | Yogurt                |
-    | 15 mL  | Turmeric              |
-    | 10 mL  | Paprika               |
-    | 8 mL   | Cumin                 |
-    | 5 mL   | Salt                  |
-    | 15 mL  | Lemon Juice           |
-    | 15 mL  | Mint Leaves, fresh    |
-    | 60 mL  | Coriander, fresh      |
+    | 240 ml | Yogurt                |
+    | 15 ml  | Turmeric              |
+    | 10 ml  | Paprika               |
+    | 8 ml   | Cumin                 |
+    | 5 ml   | Salt                  |
+    | 15 ml  | Lemon Juice           |
+    | 15 ml  | Mint Leaves, fresh    |
+    | 60 ml  | Coriander, fresh      |
     | 900 g  | Chicken Drumsticks    |
-    | 90 mL  | Canola Oil            |
+    | 90 ml  | Canola Oil            |
     | 6      | Cloves                |
     | 6      | Cardamom Pods         |
     | 1      | Anise Star            |
@@ -18,14 +18,14 @@
     | 1      | Cinnamon Stick, 10 cm |
     |        | Salt Water            |
     | 450 g  | Onions, sliced        |
-    | 10 mL  | Ginger, grated        |
-    | 15 mL  | Garlic, minced        |
+    | 10 ml  | Ginger, grated        |
+    | 15 ml  | Garlic, minced        |
     | 110 g  | Green Chiles, sliced  |
     | 675 g  | Tomatoes, diced       |
     | 2 L    | Water, salted         |
     | 540 g  | Basmati Rice, rinsed  |
-    | 1 mL   | Saffron (optional)    |
-    | 45 mL  | Milk, warm (optional) |
+    | 1 ml   | Saffron (optional)    |
+    | 45 ml  | Milk, warm (optional) |
     |        | Mint leaves           |
 
 === "Directions"

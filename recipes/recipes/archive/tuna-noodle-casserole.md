@@ -1,14 +1,14 @@
 === "Ingredients"
     | Amount | Ingredient                     |
     | :----- | :----------------------------- |
-    | 400 mL | Cream of Mushroom Soup, canned |
-    | 400 mL | Milk                           |
+    | 400 ml | Cream of Mushroom Soup, canned |
+    | 400 ml | Milk                           |
     | 330 g  | Tuna, canned                   |
     | 360 g  | Peas, frozen                   |
     | 180 g  | Bow Tie Pasta                  |
-    | 5 mL   | Dill                           |
-    | 5 mL   | Onion Flakes, dried            |
-    | 5 mL   | Oregano                        |
+    | 5 ml   | Dill                           |
+    | 5 ml   | Onion Flakes, dried            |
+    | 5 ml   | Oregano                        |
 
 === "Directions"
     1. Spread cream of mushroom Spread ingredients over 9" x 13" casserole dish. Add remaining ingredients. Mix. Bake at 325° F for 50 minutes.

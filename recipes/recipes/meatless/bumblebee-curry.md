@@ -1,22 +1,22 @@
 === "Ingredients"
     | Amount | Ingredient           |
     | :----- | :------------------- |
-    | 15 mL  | Cilantro, dried      |
-    | 8 mL   | Kosher Salt          |
-    | 8 mL   | Turmeric, ground     |
-    | 5 mL   | Cayenne Pepper       |
-    | 3 mL   | Cinnamon, ground     |
-    | 3 mL   | Ginger, grated       |
-    | 3 mL   | Cardamom, ground     |
+    | 15 ml  | Cilantro, dried      |
+    | 8 ml   | Kosher Salt          |
+    | 8 ml   | Turmeric, ground     |
+    | 5 ml   | Cayenne Pepper       |
+    | 3 ml   | Cinnamon, ground     |
+    | 3 ml   | Ginger, grated       |
+    | 3 ml   | Cardamom, ground     |
     | ---    | ---                  |
-    | 30 mL  | Olive Oil            |
+    | 30 ml  | Olive Oil            |
     | 110 g  | Yellow Onion, minced |
-    | 10 mL  | Garlic, minced       |
-    | 3 mL   | Cumin, ground        |
+    | 10 ml  | Garlic, minced       |
+    | 3 ml   | Cumin, ground        |
     | ---    | ---                  |
     | 200 g  | Tomatoes, diced      |
-    | 400 mL | Coconut Milk         |
-    | 45 mL  | *Yellow Spices*      |
+    | 400 ml | Coconut Milk         |
+    | 45 ml  | *Yellow Spices*      |
 
 === "Directions"
     1. **Combine spices** and set aside as *yellow spices*.

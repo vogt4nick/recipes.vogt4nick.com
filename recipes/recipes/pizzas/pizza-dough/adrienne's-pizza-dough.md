@@ -2,8 +2,8 @@
     | Amount | Ingredient        |
     | :----- | :---------------- |
     | 350 g  | Water, 95C        |
-    | 10 mL  | Sea Salt          |
-    | 2 mL   | Instant Dry Yeast |
+    | 10 ml  | Sea Salt          |
+    | 2 ml   | Instant Dry Yeast |
     | 500 g  | 00 Flour          |
 
     !!! question "Substitute equal parts all-purpose flour for 00 flour."

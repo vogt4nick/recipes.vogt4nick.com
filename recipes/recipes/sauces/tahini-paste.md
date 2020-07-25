@@ -2,8 +2,8 @@
 === "Ingredients"
     | Amount | Ingredient |
     |:--|:--|
-    | 60 mL | Sesame Seeds
-    | 15 mL | Extra Virgin Olive Oil
+    | 60 ml | Sesame Seeds
+    | 15 ml | Extra Virgin Olive Oil
 
 === "Directions"
     1. **Prepare materials.** Preheat oven to 350F (175C). Prepare a sheetpan dressed with parchment paper.

@@ -4,15 +4,15 @@ title: BBRRR chicken
 === "Ingredients"
     | Amount  | Ingredient                          |
     | :------ | :---------------------------------- |
-    | 1000 mL | Water, warm                         |
-    | 60 mL   | Salt                                |
+    | 1000 ml | Water, warm                         |
+    | 60 ml   | Salt                                |
     | 2       | Chicken Breasts, boneless, skinless |
     | ---     | ---                                 |
-    | 30 mL   | Butter, unsalted, melted            |
-    | 20 mL   | Garlic, minced                      |
-    | 2 mL    | Paprika                             |
-    | 2 mL    | Salt                                |
-    | 2 mL    | Pepper                              |
+    | 30 ml   | Butter, unsalted, melted            |
+    | 20 ml   | Garlic, minced                      |
+    | 2 ml    | Paprika                             |
+    | 2 ml    | Salt                                |
+    | 2 ml    | Pepper                              |
 
 === "Directions"
     1. **Preheat oven** to 450F (230C).

@@ -1,9 +1,9 @@
 === "Ingredients"
     | Amount | Ingredient                            |
     | :----- | :------------------------------------ |
-    | 480 mL | [Bechamel Sauce](./bechamel-sauce.md) |
-    | <1 mL  | Nutmeg, ground                        |
-    | 60 mL  | Parmesan, grated                      |
+    | 480 ml | [Bechamel Sauce](./bechamel-sauce.md) |
+    | <1 ml  | Nutmeg, ground                        |
+    | 60 ml  | Parmesan, grated                      |
     | 110 g  | Gruyere, shredded                     |
 
-!!! info "Yields about 500 mL."
+!!! info "Yields about 500 ml."

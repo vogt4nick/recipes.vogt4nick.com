@@ -1,26 +1,26 @@
 === "Ingredients"
     | Amount  | Ingredient                    |
     | :------ | :---------------------------- |
-    | 1000 mL | Beef Stock                    |
-    | 15 mL   | Italian Seasoning             |
+    | 1000 ml | Beef Stock                    |
+    | 15 ml   | Italian Seasoning             |
     | 1       | Bay Leaf                      |
     | ---     | ---                           |
     | 225 g   | Sausage Rope, roughly chopped |
     | ---     | ---                           |
     | 110 g   | Orzo                          |
     | ---     | ---                           |
-    | 30 mL   | Butter, unsalted              |
+    | 30 ml   | Butter, unsalted              |
     | 110 g   | Onion, minced                 |
     | 110 g   | Carrots, minced               |
     | 110 g   | Celery, minced                |
-    | 5 mL    | Garlic, minced                |
-    | 2 mL    | Kosher Salt                   |
-    | 2 mL    | White Pepper                  |
-    | 30 mL   | Water                         |
+    | 5 ml    | Garlic, minced                |
+    | 2 ml    | Kosher Salt                   |
+    | 2 ml    | White Pepper                  |
+    | 30 ml   | Water                         |
     | ---     | ---                           |
     | 110 g   | Zucchini, roughly chopped     |
     | ---     | ---                           |
-    | 15 mL   | Parmesan                      |
+    | 15 ml   | Parmesan                      |
 
 === "Directions"
     1. **Simmer stock.** Add beef stock, italian seasoning, and bay leaf to stock pan. Simmer, covered, over low heat. Referenced later as *prepared stock*.

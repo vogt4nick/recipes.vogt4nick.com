@@ -2,24 +2,24 @@
     | Amount | Ingredient                  |
     | :----- | :-------------------------- |
     | 400 g  | Chicken Thighs, bone-in     |
-    | 15 mL  | Tandoori Seasoning          |
+    | 15 ml  | Tandoori Seasoning          |
     | ---    | ---                         |
-    | 15 mL  | Butter                      |
+    | 15 ml  | Butter                      |
     |        | *Seasoned Chicken Thighs*   |
     | ---    | ---                         |
     | 70 g   | Scallions, chopped          |
-    | 5 mL   | Garlic, minced              |
+    | 5 ml   | Garlic, minced              |
     | 30 g   | Sun-Dried Tomatoes, chopped |
     | 135 g  | Orzo, rinsed                |
-    | 360 mL | Chicken Stock               |
-    | 80 mL  | Heavy Cream                 |
+    | 360 ml | Chicken Stock               |
+    | 80 ml  | Heavy Cream                 |
     | ---    | ---                         |
     |        | *Seared Chicken Thighs*     |
     | ---    | ---                         |
     | 200 g  | Broccoli                    |
     | ---    | ---                         |
-    | 15 mL  | Basil                       |
-    | 30 mL  | Parmesan, grated            |
+    | 15 ml  | Basil                       |
+    | 30 ml  | Parmesan, grated            |
 
     !!! tip "A rich stock will really shine here."
 

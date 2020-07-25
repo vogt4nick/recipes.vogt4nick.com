@@ -1,9 +1,9 @@
 === "Ingredients"
     | Amount | Ingredient                                                  |
     | :----- | :---------------------------------------------------------- |
-    | 15 mL  | Extra Virgin Olive Oil                                      |
+    | 15 ml  | Extra Virgin Olive Oil                                      |
     | 100 g  | Mushrooms, sliced                                           |
-    | 5 mL   | Garlic, chopped                                             |
+    | 5 ml   | Garlic, chopped                                             |
     |        | Sea Salt                                                    |
     | ---    | ---                                                         |
     | 1      | [Elise's Pizza Dough](./pizza-dough/elise's-pizza-dough.md) |

@@ -4,7 +4,7 @@
     | 300 g  | Legumes, dry                    |
     | ---    | ---                             |
     | 25 g   | Red Onion or Shallots           |
-    | 15 mL  | Red Wine Vinegar or Lemon Juice |
+    | 15 ml  | Red Wine Vinegar or Lemon Juice |
     | 50 g   | Extra Virgin Olive Oil          |
     |        | Kosher Salt                     |
     |        | Black Pepper                    |

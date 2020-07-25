@@ -4,8 +4,8 @@ title: B.O.C. monsieur
 === "Ingredients"
     | Amount  | Ingredient                                          |
     | :------ | :-------------------------------------------------- |
-    | 1000 mL | Beef Stock                                          |
-    | 15 mL   | Herbs de Provence                                   |
+    | 1000 ml | Beef Stock                                          |
+    | 15 ml   | Herbs de Provence                                   |
     | 1       | Bay Leaf                                            |
     | ---     | ---                                                 |
     | 450 g   | Bacon, thick cut                                    |
@@ -14,7 +14,7 @@ title: B.O.C. monsieur
     | 200 g   | White Onion, sliced                                 |
     | 100 g   | Shallots, sliced                                    |
     | ---     | ---                                                 |
-    | 20 mL   | Garlic, minced                                      |
+    | 20 ml   | Garlic, minced                                      |
     | 1       | Baguette, halved lengthwise, cut into 20 cm lengths |
     | ---     | ---                                                 |
     | 170 g   | Gruyere Cheese, sliced                              |

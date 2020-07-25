@@ -1,14 +1,14 @@
 === "Ingredients"
     | Amount | Ingredient           |
     | :----- | :------------------- |
-    | 15 mL  | Curry Powder         |
-    | 5 mL   | Paprika              |
-    | 2 mL   | Cayenne Pepper       |
-    | 2 mL   | Salt                 |
-    | 2 mL   | Black Pepper         |
+    | 15 ml  | Curry Powder         |
+    | 5 ml   | Paprika              |
+    | 2 ml   | Cayenne Pepper       |
+    | 2 ml   | Salt                 |
+    | 2 ml   | Black Pepper         |
     | 225 g  | Pork, chopped        |
     | ---    | ---                  |
-    | 90 mL  | Canola Oil           |
+    | 90 ml  | Canola Oil           |
     | 110 g  | Yellow Onion, minced |
     | 330 g  | Tomatoes, diced      |
     | 330 g  | Green Peas, frozen   |

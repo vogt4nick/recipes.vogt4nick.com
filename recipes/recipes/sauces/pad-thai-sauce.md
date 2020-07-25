@@ -4,16 +4,16 @@
 === "Ingredients"
     | Amount | Ingredient     |
     | :----- | :------------- |
-    | 60 mL  | Tamarind Pulp* |
-    | 60 mL  | Fish Sauce**   |
-    | 60 mL  | Palm Sugar***  |
-    | 15 mL  | Paprika****    |
+    | 60 ml  | Tamarind Pulp* |
+    | 60 ml  | Fish Sauce**   |
+    | 60 ml  | Palm Sugar***  |
+    | 15 ml  | Paprika****    |
 
     !!! tip "Use tamarind pulp soaked only in water; no sugar, etc."
 
     ??? question "Substitutions"
         * Substitute soy sauce for fish sauce to make vegetarian
-        * Substitute 40 mL white or brown sugar for palm sugar
+        * Substitute 40 ml white or brown sugar for palm sugar
         * Substitute a hot chili powder for spicier sauce
 
 === "Directions"

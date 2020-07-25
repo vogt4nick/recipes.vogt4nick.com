@@ -5,28 +5,28 @@ title: Käsespätzle
 === "Ingredients"
     | Amount | Ingredient |
     |:--|:--|
-    | 30 mL | Butter, unsalted
+    | 30 ml | Butter, unsalted
     | 180 g | Onions, sliced
     | ---   | ---
-    | 60 mL | Vegetable Oil
+    | 60 ml | Vegetable Oil
     | 180 g | Shallots, sliced
-    | 1 mL  | Kosher Salt
+    | 1 ml  | Kosher Salt
     | ---   | ---
     | 2     | Eggs
     | 250 g | Whole Milk
-    | 10 mL | Kosher Salt
+    | 10 ml | Kosher Salt
     | 250 g | All-Purpose Flour, sifted
     | ---   | ---
-    | 15 mL | Butter, unsalted
+    | 15 ml | Butter, unsalted
     | 120 g | Gruyere, shredded
     | 120 g | Emmental*, shredded
-    | 5 mL  | Kosher Salt
-    | 5 mL  | Black Pepper
+    | 5 ml  | Kosher Salt
+    | 5 ml  | Black Pepper
     | ---   | ---
     | 60 g  | Gruyere, sliced
     | 60 g  | Emmental*, sliced
     | ---   | ---
-    | 60 mL | Chives, minced
+    | 60 ml | Chives, minced
 
     !!! question "*Substitute swiss for emmental cheese."
 

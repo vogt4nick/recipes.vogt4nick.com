@@ -1,14 +1,14 @@
 === "Ingredients"
     | Amount | Ingredient                          |
     | :----- | :---------------------------------- |
-    | 15 mL  | Butter, unsalted (optional)         |
-    | 15 mL  | Canola Oil                          |
+    | 15 ml  | Butter, unsalted (optional)         |
+    | 15 ml  | Canola Oil                          |
     | 150 g  | Yellow Onion, minced                |
-    | 2 mL   | Cumin                               |
-    | 5 mL   | Garlic, minced                      |
+    | 2 ml   | Cumin                               |
+    | 5 ml   | Garlic, minced                      |
     | 240 g  | Black Beans, soaked                 |
-    | 2 mL   | Kosher Salt                         |
-    | 2 mL   | Cumin                               |
+    | 2 ml   | Kosher Salt                         |
+    | 2 ml   | Cumin                               |
     | 360 g  | Medium- or Short-Grain Rice, cooked |
     | ---    | ---                                 |
     |        | Cilantro                            |

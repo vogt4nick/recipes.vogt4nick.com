@@ -11,12 +11,12 @@
     | 900 g  | [Roasted Potatoes](../sides/roasted-potatoes.md) |
     |        | *Cooked Sausage*                                 |
     |        | *Sauteed Vegetables*                             |
-    | 2 mL   | Kosher Salt                                      |
-    | 2 mL   | Black Pepper                                     |
+    | 2 ml   | Kosher Salt                                      |
+    | 2 ml   | Black Pepper                                     |
     | ---    | ---                                              |
     | 4      | Eggs, poached                                    |
-    | 15 mL  | Chives                                           |
-    | 60 mL  | Hot Salsa                                        |
+    | 15 ml  | Chives                                           |
+    | 60 ml  | Hot Salsa                                        |
 
 === "Directions"
     1. **Preheat oven** to 350F (175C).

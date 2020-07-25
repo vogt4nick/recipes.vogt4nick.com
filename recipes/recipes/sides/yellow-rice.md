@@ -1,15 +1,15 @@
 === "Ingredients"
     | Amount | Ingredient           |
     | :----- | :------------------- |
-    | 8 mL   | Turmeric             |
-    | 4 mL   | Cumin                |
-    | 1 mL   | Cinnamon (optional)  |
+    | 8 ml   | Turmeric             |
+    | 4 ml   | Cumin                |
+    | 1 ml   | Cinnamon (optional)  |
     | ---    | ---                  |
-    | 30 mL  | Butter, unsalted     |
-    | 10 mL  | Garlic, minced       |
+    | 30 ml  | Butter, unsalted     |
+    | 10 ml  | Garlic, minced       |
     | 180 g  | Jasmine Rice, rinsed |
     | ---    | ---                  |
-    | 360 mL | Chicken Stock        |
+    | 360 ml | Chicken Stock        |
     | 1      | Bay Leaf             |
 
 === "Directions"

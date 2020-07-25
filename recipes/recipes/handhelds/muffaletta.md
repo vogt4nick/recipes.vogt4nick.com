@@ -7,8 +7,8 @@
     | 100 g  | Roasted Red Pepper, julienne                    |
     | 30 g   | Capers, rinsed, dried, chopped                  |
     | 2      | Pepperoncini Peppers, chopped                   |
-    | 45 mL  | Olive Oil                                       |
-    | 15 mL  | Red Wine Vinegar                                |
+    | 45 ml  | Olive Oil                                       |
+    | 15 ml  | Red Wine Vinegar                                |
     | ---    | ---                                             |
     | 1      | [Focaccia Loaf](../breads/focaccia.md)*, halved |
     |        | *Olive Salad*                                   |

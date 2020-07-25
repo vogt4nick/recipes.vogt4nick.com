@@ -1,20 +1,20 @@
 === "Ingredients"
-    * 30 mL Olive Oil
+    * 30 ml Olive Oil
     * 750 g Carrots, peeled, minced
     * 250 g Yellow Onion, minced
     * 2 Garlic Cloves, smashed
-    * 1000 mL Vegetable Stock
+    * 1000 ml Vegetable Stock
     * Spices
-        * 3 mL Cumin
-        * 2 mL Coriander, ground
-        * 2 mL Salt
+        * 3 ml Cumin
+        * 2 ml Coriander, ground
+        * 2 ml Salt
         * 1 pinch Red Pepper Flakes
-    * 30 mL Parsley, fresh, chopped
+    * 30 ml Parsley, fresh, chopped
     * Lemon Tahini Sauce
-        * 45 mL [Tahini Paste](../sauces/tahini-paste.md)
-        * 30 mL Lemon Juice
+        * 45 ml [Tahini Paste](../sauces/tahini-paste.md)
+        * 30 ml Lemon Juice
         * 1 pinch Kosher Salt
-        * 30 mL Water
+        * 30 ml Water
 
     ??? question "Substitutions"
         Substitute a 1:1 mixture of sesame seeds and sea salt for za'atar.

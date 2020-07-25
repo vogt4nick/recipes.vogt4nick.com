@@ -1,8 +1,8 @@
 === "Ingredients"
     | Amount  | Ingredient                         |
     | :------ | :--------------------------------- |
-    | 1000 mL | Beef Stock                         |
-    | 15 mL   | Herbs de Provence                  |
+    | 1000 ml | Beef Stock                         |
+    | 15 ml   | Herbs de Provence                  |
     | 1       | Bay Leaf                           |
     | ---     | ---                                |
     | 225 g   | Bacon, thick cut, rested           |
@@ -10,12 +10,12 @@
     | 300 g   | Yellow Onion, sliced               |
     | 200 g   | Red Onion, sliced                  |
     | 100 g   | Shallots, sliced                   |
-    | 5 mL    | Salt                               |
-    | 5 mL    | White Pepper                       |
-    | 15 mL   | Sherry (optional)                  |
+    | 5 ml    | Salt                               |
+    | 5 ml    | White Pepper                       |
+    | 15 ml   | Sherry (optional)                  |
     | ---     | ---                                |
-    | 60 mL   | Butter, unsalted, room temperature |
-    | 15 mL   | Garlic, minced                     |
+    | 60 ml   | Butter, unsalted, room temperature |
+    | 15 ml   | Garlic, minced                     |
     | 225 g   | Baguette, sliced thick             |
 
 === "Directions"

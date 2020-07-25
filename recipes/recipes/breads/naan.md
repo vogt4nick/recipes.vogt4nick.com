@@ -1,17 +1,17 @@
 === "Ingredients"
     | Amount | Ingredient             |
     | :----- | :--------------------- |
-    | 5 mL   | Active Dry Yeast       |
-    | 5 mL   | Sugar                  |
-    | 180 mL | Water, about 40C       |
+    | 5 ml   | Active Dry Yeast       |
+    | 5 ml   | Sugar                  |
+    | 180 ml | Water, about 40C       |
     | 250 g  | Flour, sifted          |
-    | 5 mL   | Salt                   |
-    | <1 mL  | Baking Soda            |
-    | 30 mL  | Canola Oil             |
-    | 40 mL  | Yogurt, plain          |
-    | 5 mL   | Canola Oil             |
-    | 30 mL  | Garlic, minced         |
-    | 60 mL  | Extra Virgin Olive Oil |
+    | 5 ml   | Salt                   |
+    | <1 ml  | Baking Soda            |
+    | 30 ml  | Canola Oil             |
+    | 40 ml  | Yogurt, plain          |
+    | 5 ml   | Canola Oil             |
+    | 30 ml  | Garlic, minced         |
+    | 60 ml  | Extra Virgin Olive Oil |
 
 === "Directions"
     1. **Prepare yeast.** Dissolve yeast and sugar in water. Rest 10 minutes until frothy.

@@ -8,9 +8,9 @@
     | 100 g   | Tomatoes, chopped
     | 1       | Garlic Cloves, crushed
     | 10      | Parsley Sprigs
-    | 2 mL    | Salt
-    | 2 mL    | Black Peppercorns
-    | 1000 mL | Water
+    | 2 ml    | Salt
+    | 2 ml    | Black Peppercorns
+    | 1000 ml | Water
 
 === "Directions"
     1. **Simmer stock.** Add all ingredients to stockpan. Heat until starting to bubble. Cover. Simmer over low heat 30 minutes.

@@ -1,12 +1,12 @@
 === "Ingredients"
     | Amount | Ingredient                    |
     | :----- | :---------------------------- |
-    | 500 mL | [Mayonnaise](./mayonnaise.md) |
+    | 500 ml | [Mayonnaise](./mayonnaise.md) |
     | 100 g  | Cherry Tomatoes, minced       |
-    | 30 mL  | Basil, fresh, minced chopped  |
+    | 30 ml  | Basil, fresh, minced chopped  |
 
 
-!!! info "Yields about 500 mL."
+!!! info "Yields about 500 ml."
 
 ??? note "References"
     Inspired by Jeanne VanWieren.

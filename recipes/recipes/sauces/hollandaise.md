@@ -1,18 +1,18 @@
 === "Ingredients"
     | Amount | Ingredient                 |
     | :----- | :------------------------- |
-    | 10 mL  | Lemon Juice                |
-    | 20 mL  | Water, cold                |
-    | 1 mL   | Kosher Salt                |
+    | 10 ml  | Lemon Juice                |
+    | 20 ml  | Water, cold                |
+    | 1 ml   | Kosher Salt                |
     | ---    | ---                        |
     | 3      | Egg Yolks                  |
     |        | *Lemon-Water-Salt Mixture* |
     | ---    | ---                        |
-    | 15 mL  | Butter, cold               |
+    | 15 ml  | Butter, cold               |
     | ---    | ---                        |
-    | 15 mL  | Butter, cold               |
+    | 15 ml  | Butter, cold               |
     | ---    | ---                        |
-    | 120 mL | Butter, unsalted, melted   |
+    | 120 ml | Butter, unsalted, melted   |
 
 === "Directions"
     1. **Simmer water** in stockpot. Maintain at a bare simmer.

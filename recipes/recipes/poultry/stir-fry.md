@@ -1,13 +1,13 @@
 === "Ingredients"
     | Amount | Ingredient                        |
     | :----- | :-------------------------------- |
-    | 45 mL  | Soy Sauce                         |
-    | 30 mL  | Canola Oil                        |
-    | 15 mL  | Pumpkin Seed Oil (optional)       |
-    | 15 mL  | Brown Sugar                       |
-    | 5 mL   | Garlic, minced                    |
-    | 5 mL   | Ginger, grated                    |
-    | 5 mL   | Crushed Red Pepper                |
+    | 45 ml  | Soy Sauce                         |
+    | 30 ml  | Canola Oil                        |
+    | 15 ml  | Pumpkin Seed Oil (optional)       |
+    | 15 ml  | Brown Sugar                       |
+    | 5 ml   | Garlic, minced                    |
+    | 5 ml   | Ginger, grated                    |
+    | 5 ml   | Crushed Red Pepper                |
     | 225 g  | Chicken Breast, cubed             |
     | ---    | ---                               |
     | 225 g  | Broccoli, golf-ball sized florets |
@@ -15,9 +15,9 @@
     | 110 g  | Carrots, chopped                  |
     | 110 g  | Celery, chopped                   |
     | 110 g  | Red Bell Pepper, chopped          |
-    | 60 mL  | Water, cold                       |
+    | 60 ml  | Water, cold                       |
     | ---    | ---                               |
-    | 60 mL  | Cilantro, chopped                 |
+    | 60 ml  | Cilantro, chopped                 |
     | 360 g  | Jasmine Rice, cooked              |
 
 === "Directions"

@@ -1,16 +1,16 @@
 === "Ingredients"
     | Amount | Ingredient                  |
     | :----- | :-------------------------- |
-    | 120 mL | Butter, unsalted, melted    |
-    | 5 mL   | Kosher Salt                 |
-    | 75 mL  | White Sugar                 |
-    | 50 mL  | Brown Sugar, packed         |
-    | 25 mL  | Palm Sugar                  |
-    | 5 mL   | Vanilla Extract             |
+    | 120 ml | Butter, unsalted, melted    |
+    | 5 ml   | Kosher Salt                 |
+    | 75 ml  | White Sugar                 |
+    | 50 ml  | Brown Sugar, packed         |
+    | 25 ml  | Palm Sugar                  |
+    | 5 ml   | Vanilla Extract             |
     | 1      | Egg, room temperature       |
     | 190 g  | All-Purpose Flour           |
-    | 2 mL   | Baking Soda                 |
-    | 1 mL   | Kosher Salt                 |
+    | 2 ml   | Baking Soda                 |
+    | 1 ml   | Kosher Salt                 |
     | 150 g  | Semisweet Chocolate, chunks |
 
 === "Directions"

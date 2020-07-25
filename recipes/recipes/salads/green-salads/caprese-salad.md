@@ -4,10 +4,10 @@
     | 450 g  | Mozzarella, roughly chopped |
     | 450 g  | Roma Tomatoes, chopped      |
     | 400 g  | White Beans, rinsed         |
-    | 60 mL  | Pesto                       |
-    | 45 mL  | Red Wine Vinegar            |
-    | <1 mL  | Kosher Salt                 |
-    | <1 mL  | Black Pepper                |
+    | 60 ml  | Pesto                       |
+    | 45 ml  | Red Wine Vinegar            |
+    | <1 ml  | Kosher Salt                 |
+    | <1 ml  | Black Pepper                |
 
 === "Directions"
     Combine ingredients in a large bowl and serve.

@@ -2,14 +2,14 @@
     | Amount | Ingredient              |
     | :----- | :---------------------- |
     | 200 g  | Chicken Breast, chopped |
-    | 50 mL  | Soy Sauce               |
+    | 50 ml  | Soy Sauce               |
     | 10 g   | Brown Sugar             |
-    | 5 mL   | Red Pepper Flakes       |
+    | 5 ml   | Red Pepper Flakes       |
     | ---    | ---                     |
-    | 10 mL  | Vegetable Oil           |
+    | 10 ml  | Vegetable Oil           |
     | 50 g   | Cashews                 |
     | ---    | ---                     |
-    | 10 mL  | Cilantro                |
+    | 10 ml  | Cilantro                |
 
 === "Directions"
     1. **Marinate chicken.** Add chicken breast, soy sauce, brown sugar, red pepper flakes to ziploc bag. Marinate in refrigerator 24 hours.

@@ -1,20 +1,20 @@
 === "Ingredients"
     | Amount | Ingredient                                         |
     | :----- | :------------------------------------------------- |
-    | 120 mL | Flour, sifted                                      |
+    | 120 ml | Flour, sifted                                      |
     | 2      | Eggs                                               |
-    | 10 mL  | Parsley, chopped                                   |
+    | 10 ml  | Parsley, chopped                                   |
     | 60 g   | Parmesan, grated                                   |
-    | <1 mL  | Salt                                               |
-    | <1 mL  | Pepper                                             |
-    | 90 mL  | Olive Oil                                          |
+    | <1 ml  | Salt                                               |
+    | <1 ml  | Pepper                                             |
+    | 90 ml  | Olive Oil                                          |
     | 2      | Chicken Breasts, boneless, skinless, butterfly cut |
-    | 240 mL | Light-Bodied White Wine (pinot grigio)             |
-    | 240 mL | Chicken Stock                                      |
-    | 15 mL  | Garlic, minced                                     |
-    | 15 mL  | Lime Juice                                         |
-    | 30 mL  | Butter, unsalted                                   |
-    | 15 mL  | Parsley, chopped                                   |
+    | 240 ml | Light-Bodied White Wine (pinot grigio)             |
+    | 240 ml | Chicken Stock                                      |
+    | 15 ml  | Garlic, minced                                     |
+    | 15 ml  | Lime Juice                                         |
+    | 30 ml  | Butter, unsalted                                   |
+    | 15 ml  | Parsley, chopped                                   |
 
     ??? question "How do I 'butterfly cut' chicken breast?"
         Good Housekeeping [step-by-step instructions with pictures](https://www.goodhousekeeping.com/food-recipes/cooking/tips/g1952/butterfly-chicken-breast/).

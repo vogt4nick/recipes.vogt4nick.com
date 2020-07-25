@@ -2,16 +2,16 @@
     | Amount | Ingredient               |
     | :----- | :----------------------- |
     | 300 g  | Cream of Chicken Soup    |
-    | 200 mL | Sour Cream               |
-    | 100 mL | Milk                     |
+    | 200 ml | Sour Cream               |
+    | 100 ml | Milk                     |
     | 100 g  | Green Chiles, chopped    |
     | ---    | ---                      |
     | 200 g  | Cream Cheese, softened   |
-    | 8 mL   | Onion Powder             |
-    | 8 mL   | Cumin                    |
-    | 2 mL   | Salt                     |
-    | 2 mL   | Pepper                   |
-    | 30 mL  | Water, cold              |
+    | 8 ml   | Onion Powder             |
+    | 8 ml   | Cumin                    |
+    | 2 ml   | Salt                     |
+    | 2 ml   | Pepper                   |
+    | 30 ml  | Water, cold              |
     | 400 g  | Refried Beans            |
     | 400 g  | Chicken, cooked, diced   |
     | ---    | ---                      |

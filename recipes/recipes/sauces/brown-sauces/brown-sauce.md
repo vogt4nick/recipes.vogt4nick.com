@@ -7,16 +7,16 @@
     | 45 g    | Bacon, diced                |
     | ---     | ---                         |
     |         | *Rendered Fat*              |
-    | 90 mL   | Butter, unsalted, clarified |
+    | 90 ml   | Butter, unsalted, clarified |
     | 80 g    | Carrot, minced              |
     | 80 g    | Celery, minced              |
     | 80 g    | Onion, minced               |
     | ---     | ---                         |
-    | 60 mL   | All-Purpose Flour           |
+    | 60 ml   | All-Purpose Flour           |
     | ---     | ---                         |
-    | 1500 mL | Brown Stock, boiling        |
-    | 30 mL   | Tomato Paste                |
-    | 15 mL   | Herbs de Provence           |
+    | 1500 ml | Brown Stock, boiling        |
+    | 30 ml   | Tomato Paste                |
+    | 15 ml   | Herbs de Provence           |
 
 === "Directions"
     1. **Panfry bacon.** Heat stockpan over medium-high heat. Add bacon. Panfry 10 minutes until browned, but not crispy. Leaving rendered fat in saucepan, remove bacon. Set aside as *bacon bits*.
@@ -26,7 +26,7 @@
     5. **Strain, degrease, and season.** Strain sauce through colander. Degrease thoroughly. Season as desired, if necessary.
 
 
-!!! info "Yields about 1000 mL."
+!!! info "Yields about 1000 ml."
 
 ??? note "References"
     Inspired with few changes by Julia Child's recipe in [Mastering the Art of French Cooking](https://www.amazon.com/Mastering-Art-French-Cooking-Vol/dp/0375413405).
