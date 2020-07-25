@@ -6,7 +6,7 @@ plugins:
         - en
   - awesome-pages:
       filename: pages.yml
-      collapse_single_pages: true
+      collapse_single_pages: false
       strict: true
 theme:
   name: material
