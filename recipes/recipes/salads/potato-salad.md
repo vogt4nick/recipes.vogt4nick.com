@@ -1,0 +1,20 @@
+=== "Ingredients"
+    * 500 g Waxy Potatoes, cooked, peeled, thinly sliced
+    * 500 ml Beef Stock, hot
+    * 100 g Sweet Onion, minced
+    * Seasonings
+        * 45 ml White Vinegar
+        * 45 ml Vegetable Oil
+        * 3 ml Kosher Salt
+        * 2 ml Black Pepper, ground
+        * 5 ml White Sugar
+        * 5 ml Parsley
+    * Garnish
+        * 50 ml Red Onion, sliced
+
+=== "Directions"
+    1. **Mix ingredients.** Add potatoes, onion, seasonings, and beef stock to a large mixing bowl. Mix gently until it starts to thicken.
+    2. **Garnish** with red onion.
+
+??? abstract "References"
+    Inspired by [Original Wiener Erdäpfelsalat](https://www.chefkoch.de/rezepte/158711069500551/Original-Wiener-Erdaepfelsalat.html)
