@@ -1,4 +1,4 @@
-A base piecrust recipe for simple variations; i.e. flaky/savory and unbaked/prebaked
+A base pie crust recipe for simple variations; i.e. flaky/savory and unbaked/blind baked
 
 === "Ingredients"
     * 140 g All-Purpose Flour
@@ -7,7 +7,7 @@ A base piecrust recipe for simple variations; i.e. flaky/savory and unbaked/preb
     * 3 ml Kosher Salt
     * 45 ml Ice Water
 
-    !!! tip "Omit sugar for a savory piecrust ideal in quiche and tarts."
+    !!! tip "Omit sugar for a savory pie crust ideal in quiche and tarts."
 
 === "Directions"
     1. **Mix dough.** Add flour, sugar, salt to food processor. Pulse twice. Add butter. Blend 10 seconds until mixture looks like cornmeal and the butter and flour are mixed. Transfer mixture to a large bowl. Mix in ice water.
@@ -24,7 +24,7 @@ A base piecrust recipe for simple variations; i.e. flaky/savory and unbaked/preb
         2. The food processor can overwork the dough at this point.
 
     ??? question "What does it mean to 'overwork' the dough?"
-        The pockets of butter make the piecrust flaky. To overwork the dough is to make these pockets smaller and smaller. You won't have a delicate, flaky crust; it will come out tough and mealy.
+        The pockets of butter make the pie crust flaky. To overwork the dough is to make these pockets smaller and smaller. You won't have a delicate, flaky crust; it will come out tough and mealy.
 
     ??? question "Can I chill the dough faster in the freezer?"
         Yes. You can chill the dough ball in freezer in half the time; e.g. 20 minutes in the refrigerator requires 10 minutes in the freezer.
@@ -35,18 +35,18 @@ A base piecrust recipe for simple variations; i.e. flaky/savory and unbaked/preb
     ??? question "What if my dough tears while rolling?"
         Use ragged edges of dough to repair tears. Add a drop of water when you press the patch into place.
 
-=== "Prebaked Directions"
-    1. **Prepare piecrust** following the relevant directions. The piecrust must be chilled before baking.
+=== "Blind Bake Directions"
+    1. **Prepare pie crust** following the relevant directions. The pie crust must be chilled before baking.
     2. **Preheat oven** to 425 F (220 C).
-    3. **Weigh down piecrust with foil.** Press piecrust firmly into the pie plate. Lightly grease one side a large sheet of foil with butter. Press the foil onto the crust butter-side down. Pour some dry rice or beans into the foil.
+    3. **Weigh down pie crust with foil.** Press pie crust firmly into the pie plate. Lightly grease one side a large sheet of foil with butter. Press the foil onto the crust butter-side down. Pour some dry rice or beans into the foil.
     4. **Bake at 425F** for 12 minutes. Remove from oven. Remove weights and foil.
     5. **Bake at 350F**. Reduce oven to 350 F (175 C). Bake 10 minutes until the crust turns golden brown color.
     6. **Cool to room-temperature** on a wire rack before filling.
 
     !!! info "Continue baking until crust is golden brown if the pie's filling requires no additonal baking."
 
-    ??? question "Why do we weigh down the piecrust?"
-        The piecrust can bubble and lose its shape while baking. Weighing it down helps safeguard a crust that looks as good as it tastes.
+    ??? question "Why do we weigh down the pie crust?"
+        The pie crust can bubble and lose its shape while baking. Weighing it down helps safeguard a crust that looks as good as it tastes.
 
 ??? abstract "References"
     Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
