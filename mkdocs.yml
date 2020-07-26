@@ -1,5 +1,5 @@
 site_name: Nick's Recipes
-docs_dir: recipes
+docs_dir: src
 plugins:
   - search:
       lang:
