@@ -18,6 +18,11 @@ Beans. Corn. Chips.
 Caramelized onion. Gruyere. Bacon. Scallions.
 
 
+### [Lyonnaise Salad](recipes/salads/green-salads/lyonnaise-salad.md)
+
+Arugula. Eggs. Bacon.
+
+
 ### [Mediterranean Soup](recipes/soups/mediterranean-soup.md)
 
 Italian sausage. Orzo. Zucchini.
