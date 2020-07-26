@@ -17,8 +17,9 @@
 
     ??? question "Why don't we add water while the dough is in the food processor?"
         Two reasons:
-            1. The dough is going to get super thick when we add water. It can burn out the motor.
-            2. The food processor can overwork the dough at this point.
+
+        1. The dough is going to get super thick when we add water. It can burn out the motor.
+        2. The food processor can overwork the dough at this point.
 
     ??? question "What does it mean to 'overwork' the dough?"
         The pockets of butter make the piecrust flaky. To overwork the dough is to make these pockets smaller and smaller. You won't have a delicate, flaky crust; it will come out tough and mealy.
