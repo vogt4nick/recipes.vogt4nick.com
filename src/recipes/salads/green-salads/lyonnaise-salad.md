@@ -1,7 +1,7 @@
 === "Ingredients"
     * 400 g Frisee Lettuce, chopped
     * 200 g Bacon, chopped, cooked
-    * 4 Eggs, poached
+    * 4 [Eggs, poached](../../eggs/poached-eggs.md)
     * Dressing
         * 15 g Shallots, minced generous tbsp minced shallots
         * 15 ml Dijon mustard

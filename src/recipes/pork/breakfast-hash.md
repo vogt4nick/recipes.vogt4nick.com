@@ -14,7 +14,7 @@
     | 2 ml   | Kosher Salt                                      |
     | 2 ml   | Black Pepper                                     |
     | ---    | ---                                              |
-    | 4      | Eggs, poached                                    |
+    | 4      | [Eggs, poached](../eggs/poached-eggs.md)         |
     | 15 ml  | Chives                                           |
     | 60 ml  | Hot Salsa                                        |
 
