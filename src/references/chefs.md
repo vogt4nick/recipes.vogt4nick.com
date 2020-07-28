@@ -16,6 +16,13 @@ The [Smitten Kitchen blog](https://smittenkitchen.com/) and the [Smitten Kitchen
 Deb's recipes can be very involved, so plan ahead and give yourself time to spare.
 
 
+## John Mitzewich
+
+Chef John from [FoodWishes.com](foodwishes.blogspot.com) has a decent [YouTube channel](https://www.youtube.com/user/foodwishes) with a deep, deep catalog of recipes (he's been at it for at least 10 years). This means he's got a video for almost every popular dish. Maybe best of all: John is not a gratuitous video chef. Most videos are under 10 minutes. When a recipe calls some overly elaborate procedure that doesn't pay off, he simplifies it or cuts it out completely. His videos are great for learning a few recipes.
+
+In any case, it's tremendously helpful to watch someone cook a recipe when the directions are complex, wordy, or otherwise less accessible.
+
+
 ## Gordon Ramsay
 
 I'm basic, but I don't care. Gordon Ramsay's [Ultimate Cookery Course](https://www.youtube.com/playlist?list=PLTzMGnJjrsSyDJU9XClzZtuJ6GAIsvRk7) is a wonderful series that I keep coming back to for essential dishes. He does a wonderful job of stating the obvious, but in a good way.
