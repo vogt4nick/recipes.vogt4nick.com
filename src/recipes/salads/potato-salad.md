@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 500 g Waxy Potatoes, cooked, peeled, thinly sliced
+    * 500 g Russet Potatoes, cooked, peeled, thinly sliced
     * 500 ml Beef Stock, hot
     * 100 g Sweet Onion, minced
     * Seasonings
