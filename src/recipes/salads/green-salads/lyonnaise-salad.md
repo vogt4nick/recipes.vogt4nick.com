@@ -2,17 +2,11 @@
     * 400 g Frisee Lettuce, chopped
     * 200 g Bacon, chopped, cooked
     * 4 [Eggs, poached](../../eggs/poached-eggs.md)
-    * Dressing
-        * 15 g Shallots, minced generous tbsp minced shallots
-        * 15 ml Dijon mustard
-        * 100 ml Extra Virgin Olive Oil
-        * 50 ml Sherry Vinegar
-        * Salt
-        * Black Pepper, ground
+    * [Lyonnaise Vinaigrette](../../sauces/vinaigrettes/lyonnaise-vinaigrette.md)
     * Garnish
-        * Chives
-        * Parmigiano-Reggiano
-        * Croutons
+        * Chives, chopped
+        * Parmigiano-Reggiano, grated
+        * Crostini or Croutons
 
     ??? question "Substitutions"
         Substitute arugula 1:1 for frisee lettuce.
