@@ -1,8 +1,10 @@
+!!! tip "Yields about 800 ml"
+
 === "Ingredients"
-    * 480 ml Ketchup
-    * 65 g Brown Sugar
-    * 115 g Molasses
-    * 120 ml White Vinegar
+    * 480 g Ketchup
+    * 60 g Brown Sugar
+    * 120 g Molasses
+    * 120 g White Vinegar
     * Spices
         * 2 ml Paprika, ground
         * 2 ml Cayenne, ground
