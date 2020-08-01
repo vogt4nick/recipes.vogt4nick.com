@@ -29,11 +29,11 @@
 
 === "Directions"
     1. **Marinate steak.** Tenderize steak until about 20 mm thick. Add marinade, pork steaks to ziploc bag. Rest 3 days in refrigerator.
-    2. **Preheat oven** to 300F (150C). Heat dutch oven over medium heat.
+    2. **Preheat oven** to 275F (135C). Heat dutch oven over medium heat.
     3. **Strain marinade.** Remove steak from marinade. Pat steak dry. Reserve *marinade liquid*.
     4. **Sear steak.** Heat canola oil in oven-safe frying pan over medium-high heat. Add steak to pan. Season with salt, butter. Cook 4 minutes until slightly charred. Flip. Cook 4 minutes. Remove meat from pan. Set aside as *seared steak*.
     5. **Cook vegetables.** Maintain medium-high heat on the same pan. Add vegetables and garlic. Cook 15 minutes, stirring every 4 minutes. Add *marinade liquid*, water, and red wine to pan. Stir. Reduce 60 seconds over medium-high heat.
-    6. **Braise steaks.** Add *seared steaks* and *cooked vegetables* to preheated dutch oven. Cover. Place dutch oven in oven. Braise 90 minutes at 300F.
+    6. **Braise steaks.** Add *seared steaks* and *cooked vegetables* to preheated dutch oven. Cover slightly ajar. Place dutch oven in oven. Braise 90 minutes at 275F.
     7. **Garnish** with scallion greens and serve.
 
 ??? tip "24 hour marinade"
