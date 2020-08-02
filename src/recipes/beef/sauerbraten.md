@@ -41,7 +41,7 @@
 
 ??? example "Companion Foods"
     * [potato dumplings](../sides/potato-dumplings.md)
-    * [rotkraut](../sides/rotkraut.md)
+    * [rotkraut](../salads/slaws/rotkraut.md)
     * [sugar roux](../sauces/sugar-roux.md)
 
 ??? note "References"

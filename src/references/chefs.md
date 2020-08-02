@@ -18,7 +18,7 @@ Deb's recipes can be very involved, so plan ahead and give yourself time to spar
 
 ## John Mitzewich
 
-Chef John from [FoodWishes.com](foodwishes.blogspot.com) has a decent [YouTube channel](https://www.youtube.com/user/foodwishes) with a deep, deep catalog of recipes (he's been at it for at least 10 years). This means he's got a video for almost every popular dish. Maybe best of all: John is not a gratuitous video chef. Most videos are under 10 minutes. When a recipe calls some overly elaborate procedure that doesn't pay off, he simplifies it or cuts it out completely. His videos are great for learning a few recipes.
+Chef John from [FoodWishes.com](https://foodwishes.blogspot.com) has a decent [YouTube channel](https://www.youtube.com/user/foodwishes) with a deep, deep catalog of recipes (he's been at it for at least 10 years). This means he's got a video for almost every popular dish. Maybe best of all: John is not a gratuitous video chef. Most videos are under 10 minutes. When a recipe calls some overly elaborate procedure that doesn't pay off, he simplifies it or cuts it out completely. His videos are great for learning a few recipes.
 
 In any case, it's tremendously helpful to watch someone cook a recipe when the directions are complex, wordy, or otherwise less accessible.
 
