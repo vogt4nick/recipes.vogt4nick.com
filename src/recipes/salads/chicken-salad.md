@@ -6,7 +6,7 @@
       * 15 ml Lemon Zest
       * 45 ml Lemon Juice
       * 60 ml Extra Virgin Olive Oil
-      * 30 ml Herbs de Provence
+      * 15 ml Herbs de Provence
       * 2 ml Kosher Salt
       * 2 ml Black Pepper, ground
 
