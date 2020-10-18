@@ -1,13 +1,13 @@
 Oven roasting isn't particularly difficult, but I always, always, always forget the procedure for different veg and legumes. So here we are.
 
-=== "Directions"
+=== "General Directions"
     1. **Preheat oven** to 450 f (230 C). Dress sheet pan with aluminum foil.
     2. **Prepare**. See "specifics".
     3. **Add cooking fat**. In order of preference: Lard, ghee, extra virgin olive oil, vegetable oil. IMO less is more.
     4. **Add seasonings**. Baseline seasonings: Kosher salt, black pepper, cayenne.
-    5. **Roast**.
+    5. **Roast**. See "specifics".
 
-=== "Roasting Directions"
+=== "Specifics"
     * **Brussel Sprouts**. Trim stem. Halve lengthwise. Roast 20 minutes, flipping twice.
     * **Butternet Squash**. Chop into thumb-sized pieces. Roast 45 minutes, flipping twice.
     * **Carrots**. Chop into thumb-sized pieces. Parboil 5-10 minutes. Drain. Roast 20 minutes, flipping as needed.
