@@ -13,6 +13,7 @@
     6. **Divide dough.** Cut each ball of dough made with 2 eggs into 6 equal parts. In other words, the pieces of dough you end up with for thinning should be three times as many as the eggs you used.
     7. **Prepare drying place.** Spread clean, dry, cloth dish towels over a work counter near where you'll be using the machine. If you are making a lot of pasta you'll need a lot of counter space and a lot of towels.
     8. **Roll pasta.** Set the pair of smooth cylinders, the thinning rollers, at their widest opening. Flatten one of the pieces of dough by pummeling it with your palm, and run it through the machine. Fold the dough twice into a third of its length, and feed it by its narrow ened through the machine once again. Repeat the operation 2-3 times, then lay the flattened strip of pasta over a towel on the counter.
+    9. **Cook pasta** in boiling, lightly salted water for 2-3 minutes.
 
 !!! info "Yields about 400 g"
 
