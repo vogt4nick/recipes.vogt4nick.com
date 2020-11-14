@@ -19,3 +19,5 @@
 
 ??? abstract "References"
     Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](https://smile.amazon.com/gp/product/039458404X).
+
+    Also a good video reference by [Tasty](https://www.youtube.com/watch?v=YNHqjFyk5gU).
