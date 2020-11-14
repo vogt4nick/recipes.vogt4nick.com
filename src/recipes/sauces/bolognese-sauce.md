@@ -30,7 +30,7 @@
 
     !!! note "If the sauce begins to dry out and stick, add 100 ml water."
 
-!!! tip "Serve with tagliatelle, rigatoni, conchiglie, or fusilli."
+!!! tip "Serve with fettuccine, rigatoni, conchiglie, or fusilli."
 
 ??? abstract "References"
     Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](https://smile.amazon.com/gp/product/039458404X).
