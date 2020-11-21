@@ -23,12 +23,14 @@
 === "Directions"
     1. **Sweat vegetables.** Cook onion in butter and oil over medium heat until translucent. Stir in celery, carrot. Cook 2 minutes.
     2. **Brown beef.** Stir in beef, salt, black pepper. Cook until beef has lost its raw, red color.
-    3. **Build sauce.** Stir in milk. Simmer and stir until reduced. Stir in wine. Simmer until reduced. Stir in tomatoes. Simmer until sauce begins to bubble. Reduce heat to a very low simmer.
-    4. **Simmer**, uncovered, for 3 hours or more, stirring as needed. At the end, no water at all must be left and the fat must separate from the sauce.
+    3. **Build sauce.** Stir in milk. Reduce 40-50 minutes, stirring occasionally. Stir in wine. Reduce 40-50 minutes, stirring occasionally. Stir in tomatoes. Simmer until sauce begins to bubble. Reduce heat to a very low simmer.
+    4. **Simmer**, uncovered, 3-6 hours, stirring as needed.
 
     !!! caution "Be very careful not to burn the milk solids."
 
     !!! note "If the sauce begins to dry out and stick, add 100 ml water."
+
+    !!! tip "At the end, no water at all must be left and the fat must separate from the sauce."
 
 !!! tip "Serve with fettuccine, rigatoni, conchiglie, or fusilli."
 
