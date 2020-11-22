@@ -11,12 +11,13 @@ plugins:
 theme:
   name: material
   features:
-    - tabs
+    - navigation.tabs
     - navigation.instant
   icon:
     logo: material/silverware
   palette:
     primary: blue
+    accent: blue
 markdown_extensions:
   # ignore page-level table of contents
   # https://github.com/squidfunk/mkdocs-material/issues/478#issuecomment-578723876
@@ -24,6 +25,7 @@ markdown_extensions:
       toc_depth : "1-1"
   - admonition
   - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.tabbed
 google_analytics:
   - UA-109563922-1
