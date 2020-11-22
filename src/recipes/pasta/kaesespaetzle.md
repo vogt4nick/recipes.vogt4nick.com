@@ -3,29 +3,20 @@ title: Käsespätzle
 ---
 
 === "Ingredients"
-    | Amount | Ingredient |
-    |:--|:--|
-    | 30 ml | Butter, unsalted
-    | 180 g | Onions, sliced
-    | ---   | ---
-    | 60 ml | Vegetable Oil
-    | 180 g | Shallots, sliced
-    | 1 ml  | Kosher Salt
-    | ---   | ---
-    | 600 g | [Spätzle](spaetzle.md)
-    | ---   | ---
-    | 15 ml | Butter, unsalted
-    | 120 g | Gruyere, shredded
-    | 120 g | Emmental*, shredded
-    | 5 ml  | Kosher Salt
-    | 5 ml  | Black Pepper
-    | ---   | ---
-    | 60 g  | Gruyere, sliced
-    | 60 g  | Emmental*, sliced
-    | ---   | ---
-    | 60 ml | Chives, minced
-
-    !!! question "*Substitute swiss for emmental cheese."
+    * 30 ml Butter, unsalted
+    * 180 g Onion, sliced
+    * 60 ml Vegetable Oil
+    * 180 g Shallot, sliced
+    * 1 ml Kosher Salt
+    * 600 g [Spätzle](spaetzle.md)
+    * 15 ml Butter, unsalted
+    * 120 g Gruyere, grated
+    * 120 g Emmental, grated
+    * 5 ml Kosher Salt
+    * 5 ml Black Pepper
+    * 60 g Gruyere, sliced
+    * 60 g Emmental, sliced
+    * 60 ml Chives
 
 === "Directions"
     1. **Preheat oven** to 400F (205C). Lay out paper towels to dry parfried shallots.
