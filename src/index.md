@@ -1,109 +1,87 @@
-# Menu
+---
+title: Seasonal Menu
+---
 
-## Soup & Salad
-
-
-### [Carrot Soup (V+)](recipes/soups/carrot-soup.md) w/ [Roasted Chickpeas (V+)](recipes/sides/roasted-chickpeas.md)
-
-Carrots. Tahini. Toasted chickpeas.
-
-
-### [Cowboy Caviar (V+)](recipes/salads/bean-salads/cowboy-caviar.md) & Chips
-
-Beans. Corn. Chips.
-
-
+---
 ### [Loaded French Onion Soup](recipes/soups/loaded-french-onion-soup.md)
 
-Caramelized onion. Gruyere. Bacon. Scallions.
-
-
-### [Lyonnaise Salad](recipes/salads/green-salads/lyonnaise-salad.md)
-
-Arugula. Eggs. Bacon.
-
-
-### [Mediterranean Soup](recipes/soups/mediterranean-soup.md)
-
-Italian sausage. Orzo. Zucchini.
-
-
-### [Tomato Soup (V+)](recipes/soups/tomato-soup.md) w/ [Gnocchi (V)](recipes/sides/gnocchi.md)
-
-Seared & seasoned gnocchi. Tomato soup, seasoned as desired.
-
+Served with [Lyonnaise salad](recipes/salads/green-salads/lyonnaise-salad.md) and [crostinis](recipes/sides/crostinis.md) in two courses.
 
 ---
 
-## Vegetarian Entrees
+### [B.O.C. Monsieur](recipes/handhelds/boc-monsieur.md)
 
-### [Bumblebee Curry (V+)](recipes/meatless/bumblebee-curry.md) w/ Black Rice & [Roasted Potatoes (V/V+)](recipes/sides/roasted-potatoes.md) and Chickpeas
+Served with [Lyonnaise salad](recipes/salads/green-salads/lyonnaise-salad.md) and beef broth seasoned with french herbs in two courses.
 
-Robust. Multi-textured. Warm.
+---
 
+### [Bumblebee Curry (V+)](recipes/meatless/bumblebee-curry.md)
+
+Served with black rice, [roasted potatoes (V/V+)](recipes/sides/roasted-potatoes.md), and roasted chickpeas in one course.
+
+---
 
 ### Grilled Cheese & Tomato Soup (V)
 
-Green apple. Gruyere. Tomato soup for dipping.
-
-
-### [Lentil Sauce (V+)](recipes/sauces/lentil-sauce.md) over [Gnocchi (V)](recipes/sides/gnocchi.md)
-
-Lentils. Potatoes.
-
-
-### [Rice & Beans (V/V+)](recipes/meatless/rice-and-beans.md)
-
-Rice. Beans. Onion.
-
-
-### [Risotto (V)](recipes/meatless/white-risotto.md)
-
-Rice. Cheese. Mushrooms.
-
-
-### [Szechuan Cold Noodles](recipes/pasta/szechuan-cold-noodles.md)
-
-Chilled noodles. Cucumber. Szechuan sauce.
-
-
-### [Sweet Potato Tacos (V/V+)](recipes/handhelds/sweet-potato-tacos.md)
-
-Deceptively simple tacos with too much flavor. Crunchy and soft, and sweet and sour and spicy all at once.
-
-### [Veggie Pot Pie (V)](recipes/meatless/veggie-pot-pie.md)
-
-Potatoes. Peas. Veggies. Pie crust.
-
+Served with basil in one course.
 
 ---
 
-## Beef, Pork, and Poultry
+### [Risotto (V)](recipes/meatless/white-risotto.md)
 
+Served with caesar salad in two courses.
 
-### BLTs
+---
 
-Bacon. Lettuce. Tomato.
+### [Sweet Potato Tacos (V/V+)](recipes/handhelds/sweet-potato-tacos.md)
 
+Served with rice and beans, guacamole, romaine, and sour cream in one course.
 
-### [Breakfast Hash (/V)](recipes/pork/breakfast-hash.md) w/ Toast
+---
 
-Eggs. Meat. Potatoes.
+### [Veggie Pot Pie (V)](recipes/meatless/veggie-pot-pie.md)
 
+Served with arugula fruit salad and toasted cinnamon pie crusts in three courses.
 
-### [Cashew Chicken](recipes/poultry/cashew-chicken.md) w/ Jasmine Rice & Broccoli
+---
 
-Sweet & spicy sauce. Chicken. Cashews.
+### [Potato Sausage Soup](recipes/soups/potato-sausage-soup.md)
 
+Served with house salad and BLT sandwich in three courses.
 
-### [Curried Pork](recipes/pork/curried-pork.md) w/ [Yellow Rice](recipes/sides/yellow-rice.md) & Broccoli
+---
 
-Spicy pork. Turmeric-infused rice. Crisp broccoli.
+### [Banana Bread Pancakes](recipes/meatless/banana-bread-pancakes.md)
 
+Served with with eggs, bacon, and fruit bowl in two courses.
 
-### [Pizza (/V/V+)](recipes/pizzas/pizza.md) w/ Variations
+---
 
+### [Chicken Schwarma](recipes/poultry/chicken-schwarma.md) w/
+
+Served with [roasted vegetables](references/techniques/oven-roasted-vegetables.md), [persian rice](recipes/sides/persian-rice.md), and [lebanese flatbread](recipes/breads/lebanese-flatbread.md) in one course.
+
+---
+
+### [Curried Pork](recipes/pork/curried-pork.md)
+
+Served with [yellow rice](recipes/sides/yellow-rice.md) and blanched broccoli in one course.
+
+---
+
+### [Pizza (/V/V+)](recipes/pizzas/pizza.md)
+
+Served with toppings as desired.
+
+---
 
 ### [Sweet & Spicy Stir Fry (/V/V+)](recipes/poultry/stir-fry.md)
 
-Veggies. White Rice. Sweet & Spicy sauce.
+Served with jasmine rice and side of soy sauce in one course.
+
+
+<!--
+Lasagna Soup
+Cuban Sandwiches
+Tuna Noodle Casserole
+-->
