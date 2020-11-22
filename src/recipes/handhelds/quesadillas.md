@@ -26,3 +26,6 @@
     4. **Slow cook.** Transfer seared meat and onion to slow cooker. Add stock, salt. Cook 3-4 hours on HIGH. Remove from slow cooker. Rest 10 minutes. Reserve cooking juices.
     5. **Shred meat.** Shred meat with hands. Mix with sauted peppers, parsley, tomato paste, and some leftover cooking juices from the slow cooker.
     6. **Cook quesadillas.** Heat frying pan over medium heat. Brush one side of a tortilla with olive oil, lay oil-side down in frying pan. Layer cheese and meat. Fold tortilla and flatten.
+
+??? abstract "References"
+    Inspired by [Reddit](https://www.reddit.com/r/recipes/comments/irutc3/mexican_slow_cooked_chilli_beef_quesadilla/).
