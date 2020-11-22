@@ -2,10 +2,6 @@
 title: A La Carte
 ---
 
-Standalone recipes for a snack, side, or light meal.
-
----
-
 ## Starters
 
 ---

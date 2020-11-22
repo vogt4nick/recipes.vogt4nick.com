@@ -1,3 +1,6 @@
+---
+title: Sweet & spicy stir fry
+---
 === "Ingredients"
     | Amount | Ingredient                        |
     | :----- | :-------------------------------- |

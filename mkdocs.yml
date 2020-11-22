@@ -23,7 +23,7 @@ markdown_extensions:
   # ignore page-level table of contents
   # https://github.com/squidfunk/mkdocs-material/issues/478#issuecomment-578723876
   - toc:
-      toc_depth : 2
+      toc_depth : 3
       permalink: true
   - admonition
   - pymdownx.details
