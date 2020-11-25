@@ -23,5 +23,5 @@
 
 !!! info "Yields about three medium pizzas."
 
-??? note "References"
+??? abstract "References"
     Inspired by Adrienne Vogt and [The Elements of Pizza](https://smile.amazon.com/Elements-Pizza-Unlocking-Secrets-World-Class/dp/160774838X).

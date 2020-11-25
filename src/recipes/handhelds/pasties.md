@@ -25,5 +25,5 @@
 ??? warning "These make large pasties about the size of a loaf of bread"
     Serve them by slicing the "loaf" like some kind of yooper beef wellington. If you prefer smaller, handheld pasties, reduce the meat mixture by half.
 
-??? note "References"
+??? abstract "References"
     Inspired by [Hairy Bikers' Cornish Pasties](https://www.hairybikers.com/recipes/view/cornish-pasty).

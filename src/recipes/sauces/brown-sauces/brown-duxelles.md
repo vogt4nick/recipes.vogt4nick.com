@@ -21,5 +21,5 @@
 
 !!! info "Yields about 400 ml."
 
-??? note "References"
+??? abstract "References"
     Inspired with few alterations to Julia Child's recipe in [Mastering the Art of French Cooking](https://www.amazon.com/Mastering-Art-French-Cooking-Vol/dp/0375413405).

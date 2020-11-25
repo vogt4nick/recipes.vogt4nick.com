@@ -22,5 +22,5 @@
 ??? tip "Don't overbeat the egg"
     The cookies will be stiff if you beat the egg for too long.
 
-??? note "References"
+??? abstract "References"
     Inspired by [Pinch of Yum](https://pinchofyum.com/the-best-soft-chocolate-chip-cookies).

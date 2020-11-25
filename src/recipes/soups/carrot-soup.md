@@ -33,5 +33,5 @@
     * [Roasted Chickpeas](../sides/roasted-chickpeas.md)
     * Toasted Pita
 
-??? note "References"
+??? abstract "References"
     Inspired by [Smitten Kitchen](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/).

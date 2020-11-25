@@ -29,5 +29,5 @@
 
 !!! success "Family Favorite"
 
-??? note "References"
+??? abstract "References"
     Inspired by [Smitten Kitchen](https://smittenkitchen.com/2014/08/raspberry-swirl-cheesecake/).

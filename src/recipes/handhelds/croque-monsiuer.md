@@ -15,5 +15,5 @@
     3. **Arrange sandwiches.** For each sandwich: Spread 15 ml Mornay on inside of *sandwich bottom*. Layer ham on top. Spread 30 ml Mornay on inside of *sandwich top* and add to sandwich. Spread 30 ml Mornay on top of sandwich until entire top is covered. Layer parmesan. Layer gruyere.
     4. **Bake sandwiches.** Bake 5 minutes at 375F until cheese is melted. Turn on broiler. Broil 5 minutes until cheese bubbles and edges are spotted brown.
 
-??? note "References"
+??? abstract "References"
     Inspired by [Cook's Country](https://www.cookscountry.com/recipes/11134-croque-monsieur).

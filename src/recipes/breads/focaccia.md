@@ -23,5 +23,5 @@
     6. **Bake focaccia** 30 minutes at 395F.
 
 
-??? note "References"
+??? abstract "References"
     Inspired by [Gordon Ramsey](https://www.youtube.com/watch?v=WR1MDeP-qSc).

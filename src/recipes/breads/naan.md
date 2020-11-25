@@ -26,6 +26,6 @@
     * If pizza stone is not available, use baking sheet. If using baking sheet, turn them over to cook on the other side once the top of the naan is cooked.
     * Using a pizza stone will help to give the naan close to same kind of heat as a clay tandoor.
 
-??? note "References"
+??? abstract "References"
     * [Reddit](https://www.reddit.com/r/Cooking/comments/21cfl0/whats_the_secret_to_naan_every_recipe_ends_up/)
     * [Manjula's Kitchen](http://www.manjulaskitchen.com/naan-bread/)

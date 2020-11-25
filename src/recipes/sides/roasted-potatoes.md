@@ -23,5 +23,5 @@
     ??? warning "Do not drain in a fine mesh colander."
         We want to keep the dry, starchy outsides of the potatoes. These will crisp and help the texture. A fine colander will grate these off.
 
-??? note "References"
+??? abstract "References"
     Inspired by [Internet Shaquille (Video)](https://www.youtube.com/watch?v=KxUX7vgNGfM).

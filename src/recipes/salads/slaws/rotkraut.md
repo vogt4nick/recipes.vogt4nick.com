@@ -20,5 +20,5 @@
     2. Filter flour over cabbage. Add marmelade. Mix.
 
 
-??? note "References"
+??? abstract "References"
     Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavariankitchen.com/vegetables/rotkohl.aspx).

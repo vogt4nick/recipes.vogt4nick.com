@@ -8,5 +8,5 @@
 
 !!! info "Yields about 500 ml."
 
-??? note "References"
+??? abstract "References"
     Inspired by Jeanne VanWieren.

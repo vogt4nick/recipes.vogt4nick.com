@@ -29,5 +29,5 @@
 ??? example "Companion Foods"
     Pairs nicely with [mashed potatoes](../sides/mashed-potatoes.md), and keeps well in fridge for leftovers.
 
-??? note "References"
+??? abstract "References"
     Inspired by [Zinfandel-Braised Beef Short Ribs with Rosemary-Parsnip Mashed Potatoes](https://www.epicurious.com/recipes/food/views/zinfandel-braised-beef-short-ribs-with-rosemary-parsnip-mashed-potatoes-352635).

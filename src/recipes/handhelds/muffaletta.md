@@ -26,5 +26,5 @@
     3. **Rest.** Plastic wrap sandwiches. Rest one hour. Serve.
 
 
-??? note "References"
+??? abstract "References"
     Inspired by [Serious Eats](https://www.seriouseats.com/recipes/2010/09/dinner-tonight-muffaletta-sandwich.html).

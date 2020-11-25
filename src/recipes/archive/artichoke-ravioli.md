@@ -50,5 +50,5 @@
     ??? warning "Press out all air pockets from ravioli."
         Air pockets increase the chance that ravioli will break during cooking."
 
-??? note "References"
+??? abstract "References"
     Inspired by [Smitten Kitchen](https://smittenkitchen.com/2007/01/artichoke-gaga/) and [Serious Eats](https://www.seriouseats.com/2015/01/best-easy-all-purpose-fresh-pasta-dough-recipe-instructions.html).

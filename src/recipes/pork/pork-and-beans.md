@@ -36,5 +36,5 @@
     ??? question "The mixture is dry; how do I fix it?"
         Add 240 ml water and continue simmering.
 
-??? note "References"
+??? abstract "References"
     Inspired by [Red Beans & Rice](https://www.reddit.com/r/GifRecipes/comments/6dagw2/red_beans_and_rice/).

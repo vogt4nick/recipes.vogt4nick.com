@@ -26,5 +26,5 @@ title: Käsespätzle
     5. **Bake käsespätzle.** Layer remaining gruyere, emmental. Bake 15 minutes at 400F until bubbly and golden.
     6. **Garnish & serve** with crispy shallots and chives.
 
-??? note "References"
+??? abstract "References"
     Inspired by [Delaney Vetter](https://food52.com/recipes/82616-spaetzle-recipe-with-cheese-onions).

@@ -25,5 +25,5 @@
     7. **Bake cookies** 12 minutes at 350F.
     8. **Rest cookies** 5 minutes at room temperature.
 
-??? note "References"
+??? abstract "References"
     Inspired by [Sally's Baking Addiction](https://sallysbakingaddiction.com/inside-out-chocolate-chip-cookies/print-recipe/76469/).
