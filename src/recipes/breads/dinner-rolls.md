@@ -1,7 +1,7 @@
 === "Ingredients"
     * Poolish
         * 240 ml Milk, warm (45 C)
-        * 11 ml Dry Active Yeast
+        * 11 ml Active Dry Yeast
         * 15 ml White Sugar
     * 15 ml White Sugar
     * 1 Egg

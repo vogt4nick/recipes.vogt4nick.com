@@ -2,8 +2,8 @@
     * Starter
         *  120 ml Water, warm
         *  60 g Flour
-        *  3 ml Dry Active Yeast
-    * 12 ml Dry Active Yeast
+        *  3 ml Active Dry Yeast
+    * 12 ml Active Dry Yeast
     * 10 ml White Sugar
     * 180 ml Water, warm
     * 45 ml Lard
