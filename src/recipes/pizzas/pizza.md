@@ -1,20 +1,18 @@
 === "Ingredients"
-    | Amount | Ingredient                                                          |
-    | :----- | :------------------------------------------------------------------ |
-    | 15 ml  | Extra Virgin Olive Oil                                              |
-    | 100 g  | Mushrooms, sliced                                                   |
-    | 5 ml   | Garlic, chopped                                                     |
-    |        | Sea Salt                                                            |
-    | ---    | ---                                                                 |
-    | 1      | [Elise's Pizza Dough](../breads/pizza-dough/elise's-pizza-dough.md) |
-    | 100 g  | Tomato Sauce                                                        |
-    | 15 g   | Pecorino Romano or Parmigiano-Reggiano, grated                      |
-    | 100 g  | Mozzarella, sliced                                                  |
-    | 80 g   | Pepperoni, sliced                                                   |
-    | 30 g   | Red Onion, sliced                                                   |
-    | ---    | ---                                                                 |
-    |        | Red Pepper Flakes                                                   |
-    |        | Oregano, dried                                                      |
+    * Sauteed Veggies
+        * 15 ml Extra Virgin Olive Oil
+        * 100 g Mushrooms, sliced
+        * 5 ml Garlic, chopped
+        * Sea Salt
+    * 1 [Elise's Pizza Dough](../breads/pizza-dough/elise's-pizza-dough.md)
+    * 100 g Tomato Sauce
+    * 15 g Pecorino Romano or Parmigiano-Reggiano, grated
+    * 100 g Mozzarella, sliced
+    * 80 g Pepperoni, sliced
+    * 30 g Red Onion, sliced
+    * Garnish
+        * Red Pepper Flakes
+        * Oregano, dried
 
 === "Directions"
     1. **Prepare kitchen.** If necessary, rest dough at room temperature at least 60 minutes before baking pizza. Place pizza steel on oven's upper rack. Preheat oven to 550F (290C). Prepare a lightly floured surface at least 60 cm wide.

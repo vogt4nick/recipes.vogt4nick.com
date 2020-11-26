@@ -1,27 +1,19 @@
 === "Ingredients"
-    | Amount | Ingredient                  |
-    | :----- | :-------------------------- |
-    | 400 g  | Chicken Thighs, bone-in     |
-    | 15 ml  | Tandoori Seasoning          |
-    | ---    | ---                         |
-    | 15 ml  | Butter                      |
-    |        | *Seasoned Chicken Thighs*   |
-    | ---    | ---                         |
-    | 70 g   | Scallions, chopped          |
-    | 5 ml   | Garlic, minced              |
-    | 30 g   | Sun-Dried Tomatoes, chopped |
-    | 135 g  | Orzo, rinsed                |
-    | 360 ml | Chicken Stock               |
-    | 80 ml  | Heavy Cream                 |
-    | ---    | ---                         |
-    |        | *Seared Chicken Thighs*     |
-    | ---    | ---                         |
-    | 200 g  | Broccoli                    |
-    | ---    | ---                         |
-    | 15 ml  | Basil                       |
-    | 30 ml  | Parmesan, grated            |
-
-    !!! tip "A rich stock will really shine here."
+    * Seared Chicken Thighs
+        * 400 g Chicken Thighs, bone-in
+        * 15 ml Tandoori Seasoning
+        * 15 ml Butter
+    * Sauce
+        * 70 g Scallions, chopped
+        * 5 ml Garlic, minced
+        * 30 g Sun-Dried Tomatoes, chopped
+        * 135 g Orzo, rinsed
+        * 360 ml Chicken Stock
+        * 80 ml Heavy Cream
+    * 200 g Broccoli
+    * Garnish
+        * 15 ml Basil
+        * 15 ml Parmesan, grated
 
 === "Directions"
     1. **Prepare oven** to 350F (175C).
@@ -31,7 +23,6 @@
     5. **Bake chicken & orzo.** Add *seared chicken* to frying pan skin side up. Bake 40 minutes in oven at 350F.
     6. **Bake broccoli.** Add broccoli to frying pan. Cook in oven at 350F for 10 minutes.
     7. **Garnish** with basil and parmesan.
-
 
 ??? abstract "References"
     Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.com/r/GifRecipes/comments/95wr6x/onepan_creamy_italian_orzo_chicken_oc/).

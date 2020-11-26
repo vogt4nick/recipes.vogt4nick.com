@@ -1,20 +1,16 @@
 === "Ingredients"
-    | Amount | Ingredient |
-    |:--|:--|
-    | 30 ml  | Extra Virgin Olive Oil
-    | 300 g  | Potatoes, peeled, chopped
-    | 100 g  | Leeks, halved, rinsed, sliced width-wise
-    | 2 ml   | Kosher Salt
-    | 2 ml   | Black Pepper
-    | ---    | ---
-    | 800 ml | Vegetable Stock or Water
-    | ---    | ---
-    | 200 ml | Heavy Cream
-    | ---    | ---
-    | 10 ml  | Chives, minced
+    * 30 ml Olive Oil
+    * 300 g Potatoes, peeled, chopped
+    * 100 g Leeks, halved, rinsed, sliced width-wise
+    * 2 ml Kosher Salt
+    * 2 ml Black Pepper, ground
+    * 800 ml Vegetable Stock
+    * 200 ml Heavy Cream
+    * For Garnish
+        * 10 ml Chives
 
     ??? question "Substitutions"
-        Substitute 120 ml soy milk and 60 ml olive oil for cream if desired.
+        Substitute 120 ml soy milk and 60 ml olive oil for cream.
 
 === "Directions"
     1. **Saute vegetables.** Heat oil in dutch oven over medium heat. Add vegetables, salt, pepper. Saute 3 minutes, stirring every 60 seconds.

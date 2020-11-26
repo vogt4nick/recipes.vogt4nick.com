@@ -1,8 +1,8 @@
+!!! info "Yields about 400 g"
+
 === "Ingredients"
-    | Amount | Ingredient        |
-    | :----- | :---------------- |
-    | 2      | Eggs              |
-    | 125 g  | All Purpose Flour |
+    * 2 Eggs
+    * 125 g All Purpose Flour
 
 === "Directions"
     1. **Prepare mix.** Pour the flour onto a work surface, shape it into a mound, and scoop out a deep hollow in its center. Break the eggs into the hollow.
@@ -14,8 +14,6 @@
     7. **Prepare drying place.** Spread clean, dry, cloth dish towels over a work counter near where you'll be using the machine. If you are making a lot of pasta you'll need a lot of counter space and a lot of towels.
     8. **Roll pasta.** Set the pair of smooth cylinders, the thinning rollers, at their widest opening. Flatten one of the pieces of dough by pummeling it with your palm, and run it through the machine. Fold the dough twice into a third of its length, and feed it by its narrow ened through the machine once again. Repeat the operation 2-3 times, then lay the flattened strip of pasta over a towel on the counter.
     9. **Cook pasta** in boiling, lightly salted water for 2-3 minutes.
-
-!!! info "Yields about 400 g"
 
 ??? abstract "References"
     Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](https://smile.amazon.com/gp/product/039458404X).

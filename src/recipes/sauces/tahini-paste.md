@@ -1,7 +1,5 @@
 
 === "Ingredients"
-    | Amount | Ingredient |
-    |:--|:--|
     | 60 ml | Sesame Seeds
     | 15 ml | Extra Virgin Olive Oil
 
@@ -13,6 +11,5 @@
 
     ??? question "I don't have a mortar & pestle. How do I pulverize the sesame seeds?"
         One can pulverize and puree the paste at the same time with a food processor; however, IME sesame seeds are too small for this, and you end up with a chunky tahini paste.
-
 
 !!! tip "This recipe really only exceeds store-bought tahini if you pick up quality ingredients."

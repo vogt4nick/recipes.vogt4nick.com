@@ -2,19 +2,17 @@
     Pad thai has to cook *fast*, and it can't cook fast if you're still crushing peanuts and slicing limes.
 
 === "Ingredients"
-    | Amount | Ingredient                                    |
-    | :----- | :-------------------------------------------- |
-    | 150 ml | [Pad Thai Sauce](../sauces/pad-thai-sauce.md) |
-    | 80 g   | Rice Sticks                                   |
-    | 60 ml  | Canola Oil                                    |
-    | 60 g   | Chicken Breast, chopped                       |
-    | 5 ml   | Garlic, chopped (optional)                    |
-    | 1      | Egg                                           |
-    | 15 g   | Peanuts, roughly ground                       |
-    | 15 g   | Beansprouts                                   |
-    | 15 g   | Pickled Turnips, chopped (optional)           |
-    | 30 ml  | Garlic Chives, roughly chopped                |
-    |        | Lime, sliced                                  |
+    * 150 ml [Pad Thai Sauce](../sauces/pad-thai-sauce.md)
+    * 80 g Rice Sticks
+    * 60 ml Canola Oil
+    * 60 g Chicken Breast, chopped
+    * 5 ml Garlic, chopped (optional)
+    * 1 Egg
+    * 15 g Peanuts, roughly ground
+    * 15 g Beansprouts
+    * 15 g Pickled Turnips, chopped (optional)
+    * 30 ml Garlic Chives, roughly chopped
+    * Lime, sliced
 
     ??? question "Substitutions"
         Substitute green parts of scallions for garlic chives.

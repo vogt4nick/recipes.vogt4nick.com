@@ -1,20 +1,21 @@
+??? warning "This recipe can cause grease and/or alcohol fires."
+    Review [how to extinguish grease fires](https://www.wikihow.com/Put-out-a-Grease-Fire#Snuffing-out-the-Fire_sub) before cooking, and keep an open carton of baking soda at the ready.
+
 === "Ingredients"
-    | Amount | Ingredient                                         |
-    | :----- | :------------------------------------------------- |
-    | 120 ml | Flour, sifted                                      |
-    | 2      | Eggs                                               |
-    | 10 ml  | Parsley, chopped                                   |
-    | 60 g   | Parmesan, grated                                   |
-    | <1 ml  | Salt                                               |
-    | <1 ml  | Pepper                                             |
-    | 90 ml  | Olive Oil                                          |
-    | 2      | Chicken Breasts, boneless, skinless, butterfly cut |
-    | 240 ml | Light-Bodied White Wine (pinot grigio)             |
-    | 240 ml | Chicken Stock                                      |
-    | 15 ml  | Garlic, minced                                     |
-    | 15 ml  | Lime Juice                                         |
-    | 30 ml  | Butter, unsalted                                   |
-    | 15 ml  | Parsley, chopped                                   |
+    * 120 ml Flour, sifted
+    * 2 Eggs
+    * 10 ml Parsley, chopped
+    * 60 g Parmesan, grated
+    * <1 ml Salt
+    * <1 ml Pepper
+    * 90 ml Olive Oil
+    * 2 Chicken Breasts, boneless, skinless, butterfly cut
+    * 240 ml Light-Bodied White Wine (pinot grigio)
+    * 240 ml Chicken Stock
+    * 15 ml Garlic, minced
+    * 15 ml Lime Juice
+    * 30 ml Butter, unsalted
+    * 15 ml Parsley, chopped
 
     ??? question "How do I 'butterfly cut' chicken breast?"
         Good Housekeeping [step-by-step instructions with pictures](https://www.goodhousekeeping.com/food-recipes/cooking/tips/g1952/butterfly-chicken-breast/).
@@ -27,10 +28,6 @@
     2. **Fry chicken.** Coat chicken with flour. Coat chicken in egg wash. Place coated chicken in hot oil. Cook 4 minutes. Flip chicken. Cook 4 minutes until cooked through. Transfer chicken to a hot plate. Rest. Set aside as *fried chicken*. Drain remaining hot oil from frying pan.
     3. **Prepare francaise.** Pre-heat frying pan over high heat. Add ingredients in order: pinot grigio, chicken stock, garlic, lemon juice. Reduce 2 minutes over high heat. Remove from heat. Add parsley and butter. Stir evenly. Referenced next as *francaise sauce*.
     4. **Coat, garnish, and serve.** Add *fried chicken* to *francaise sauce*. Coat evenly. Garnish with remaining parsley and serve.
-
-
-??? warning "This recipe can cause grease and/or alcohol fires."
-    Review [how to extinguish grease fires](https://www.wikihow.com/Put-out-a-Grease-Fire#Snuffing-out-the-Fire_sub) before cooking, and keep an open carton of baking soda at the ready.
 
 ??? abstract "References"
     Inspired by Elise Walter & [Chicken Francaise](http://www.recipe30.com/chicken-francaise.html/).

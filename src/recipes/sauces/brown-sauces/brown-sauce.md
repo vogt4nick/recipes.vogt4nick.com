@@ -1,22 +1,18 @@
 ???+ quote "Julia Child in _Mastering the Art of French Cooking_"
     The one [brown sauce] most nearly approaching the traditional *demi-glace*.
 
+!!! info "Yields about 1000 ml."
+
 === "Ingredients"
-    | Amount  | Ingredient                  |
-    | :------ | :-------------------------- |
-    | 45 g    | Bacon, diced                |
-    | ---     | ---                         |
-    |         | *Rendered Fat*              |
-    | 90 ml   | Butter, unsalted, clarified |
-    | 80 g    | Carrot, minced              |
-    | 80 g    | Celery, minced              |
-    | 80 g    | Onion, minced               |
-    | ---     | ---                         |
-    | 60 ml   | All-Purpose Flour           |
-    | ---     | ---                         |
-    | 1500 ml | Brown Stock, boiling        |
-    | 30 ml   | Tomato Paste                |
-    | 15 ml   | Herbs de Provence           |
+    * 45 g Bacon, diced
+    * 90 ml Butter, unsalted, clarified
+    * 80 g Carrot, minced
+    * 80 g Celery, minced
+    * 80 g Onion, minced
+    * 60 ml All-Purpose Flour
+    * 1500 ml Brown Stock, boiling
+    * 30 ml Tomato Paste
+    * 15 ml Herbs de Provence
 
 === "Directions"
     1. **Panfry bacon.** Heat stockpan over medium-high heat. Add bacon. Panfry 10 minutes until browned, but not crispy. Leaving rendered fat in saucepan, remove bacon. Set aside as *bacon bits*.
@@ -24,9 +20,6 @@
     3. **Brown roux.** Dividing as necessary: add flour to stockpan, stirring evenly. Cook 10 minutes until flour turns a golden, nut brown.
     4. **Reduce sauce.** Remove from heat. Add tomato paste. Stir to combine. Add brown stock and herbs. Stir. Cover partially. Simmer 2 hours or more over low heat.
     5. **Strain, degrease, and season.** Strain sauce through colander. Degrease thoroughly. Season as desired, if necessary.
-
-
-!!! info "Yields about 1000 ml."
 
 ??? abstract "References"
     Inspired with few changes by Julia Child's recipe in [Mastering the Art of French Cooking](https://www.amazon.com/Mastering-Art-French-Cooking-Vol/dp/0375413405).

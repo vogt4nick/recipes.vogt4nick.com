@@ -1,17 +1,15 @@
 === "Ingredients"
-    | Amount | Ingredient               |
-    | :----- | :----------------------- |
-    | 100 g  | Bread Flour*, unbleached |
-    | 1 ml   | Instant Yeast            |
-    | 100 ml | Water, warm (35C)        |
-    | ---    | ---                      |
-    | 7 ml   | Salt                     |
-    | 4 ml   | Instant Yeast            |
-    | 425 g  | Bread Flour*, unbleached |
-    | 240 ml | Water, warm (35C)        |
-    | ---    | ---                      |
-    | 30 ml  | Semolina Flour           |
-    | 240 ml | Water, hot (80C)         |
+    * Poolish
+        * 100 g Bread Flour*, unbleached
+        * 1 ml Instant Yeast
+        * 100 ml Water, warm (35C)
+    * Dough
+        * 7 ml Salt
+        * 4 ml Instant Yeast
+        * 425 g Bread Flour*, unbleached
+        * 240 ml Water, warm (35C)
+    * 30 ml Semolina Flour
+    * 240 ml Water, hot (80C)
 
     ??? question "Substitutions"
         *Substitute all-purpose flour for bread flour
@@ -27,7 +25,6 @@
     7. **Score loaves.** With the seam side down, score loaf using a bread lame or razor blade. Cut 3 evenly spaced diagonal slashes 6 mm deep on the surface of the loaf.
     8. **Bake loaves.** Add layer of semolina flour to new sheet pan. Transfer loaves to sheet pan. Place sheet pan in oven on middle rack. Pour hot water into the empty loaf pan on the bottom rack. Set oven to 450F (235C) (evaporating water will quickly cool oven from 500F to 450F). Bake 10 minutes. Rotate middle sheet pan. Bake 8 minutes until internal temperature of baguettes are 205F (95C).
     9. **Cool baguettes.** Transfer baguettes to cooling rack. Rest 40 minutes at room temperature.
-
 
     ??? question "What's the 'windowpane test'?"
         * From [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home)

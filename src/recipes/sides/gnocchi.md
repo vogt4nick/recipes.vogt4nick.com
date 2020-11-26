@@ -1,20 +1,17 @@
 === "Ingredients"
-    | Amount  | Ingredient             |
-    | :------ | :--------------------- |
-    | 450 g   | Russet Potatoes        |
-    | ---     | ---                    |
-    | 30 g    | Ricotta (optional)     |
-    | 1       | Egg, beaten            |
-    | 150 ml  | Flour, sifted          |
-    | 2 ml    | Salt                   |
-    | 2 ml    | Thyme, dried           |
-    | ---     | ---                    |
-    | 1000 ml | Water                  |
-    | 15 ml   | Olive Oil              |
-    | ---     | ---                    |
-    | 15 ml   | Olive Oil              |
-    | 5 ml    | Black Pepper           |
-    | 5 ml    | Parsley, dried, ground |
+    * 450 g Russet Potatoes
+    * 30 g Ricotta (optional)
+    * 1 Egg, beaten
+    * 150 ml Flour, sifted
+    * 2 ml Salt
+    * 2 ml Thyme, dried
+    * For Boiling Gnocchi
+        * 1000 ml Water
+        * 15 ml Olive Oil
+    * For Garnish
+        * 15 ml Olive Oil
+        * 5 ml Black Pepper
+        * 5 ml Parsley, dried, ground
 
 === "Directions"
     1. **Bake potatoes.** Preheat oven to 400F (205C). Bake potatoes at 400F for 60 minutes. Rest 60 minutes until cool.

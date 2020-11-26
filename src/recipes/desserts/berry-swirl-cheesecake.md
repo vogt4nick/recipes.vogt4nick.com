@@ -1,19 +1,18 @@
 === "Ingredients"
-    | Amount | Ingredient                     |
-    | :----- | :----------------------------- |
-    | 250 g  | Chocolate Cookie Crumbs        |
-    | 90 ml  | Butter, melted, unsalted       |
-    | 45 ml  | White Sugar                    |
-    | 1 ml   | Kosher Salt                    |
-    | ---    | ---                            |
-    | 240 g  | Raspberries                    |
-    | 15 ml  | White Sugar                    |
-    | ---    | ---                            |
-    | 900 g  | Cream Cheese, room temperature |
-    | 360 ml | White Sugar                    |
-    | <1 ml  | Salt                           |
-    | 5 ml   | Vanilla Extract                |
-    | 4      | Eggs, room temperature         |
+    * Pie Crust
+        * 250 g Chocolate Cookie Crumbs
+        * 90 ml Butter, melted, unsalted
+        * 45 ml White Sugar
+        * 1 ml Kosher Salt
+    * Berry Puree
+        * 240 g Raspberries
+        * 15 ml White Sugar
+    * Filling
+        * 900 g Cream Cheese, room temperature
+        * 360 ml White Sugar
+        * <1 ml Salt
+        * 5 ml Vanilla Extract
+        * 4 Eggs, room temperature
 
 === "Directions"
     1. **Prepare materials.** Heat oven to 350F (180C). Wrap exterior of a 9-inch springform pan (including base) tightly in a triple layer of foil; set aside.
@@ -25,9 +24,6 @@
     7. **Bake cheesecake.** Bake 60 minutes until cake is set but still slightly wobbly in center (a toothpick inserted near the center should not have wet, thin batter on it when removed).
     8. **Cool cheesecake.** Transfer cake pan to cooling rack. Rest 60 minutes until cake is room temperature. Rest 6 hours in refrigerator.
     9. **Serve.** Run a knife around edge of cake. Unmold cake. Serve.
-
-
-!!! success "Family Favorite"
 
 ??? abstract "References"
     Inspired by [Smitten Kitchen](https://smittenkitchen.com/2014/08/raspberry-swirl-cheesecake/).

@@ -1,17 +1,14 @@
 === "Ingredients"
-    | Amount | Ingredient           |
-    | :----- | :------------------- |
-    | 15 ml  | Curry Powder         |
-    | 5 ml   | Paprika              |
-    | 2 ml   | Cayenne Pepper       |
-    | 2 ml   | Salt                 |
-    | 2 ml   | Black Pepper         |
-    | 225 g  | Pork, chopped        |
-    | ---    | ---                  |
-    | 90 ml  | Canola Oil           |
-    | 110 g  | Yellow Onion, minced |
-    | 330 g  | Tomatoes, diced      |
-    | 330 g  | Green Peas, frozen   |
+    * 15 ml Curry Powder
+    * 5 ml Paprika
+    * 2 ml Cayenne Pepper
+    * 2 ml Salt
+    * 2 ml Black Pepper
+    * 225 g Pork, chopped
+    * 90 ml Canola Oil
+    * 110 g Yellow Onion, minced
+    * 330 g Tomatoes, chopped
+    * 330 g Green Peas, frozen
 
 === "Directions"
     1. **Season pork.** Mix spices in a small bowl. Coat pork with spices (e.g. shake together in a ziplock bag). Set aside at room temperature as *prepared pork*.

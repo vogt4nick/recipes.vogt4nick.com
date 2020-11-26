@@ -1,13 +1,10 @@
 === "Ingredients"
-    | Amount   | Ingredient                            |
-    | :------- | :------------------------------------ |
-    | 8 slices | Sandwich Bread                        |
-    | 40 ml    | Butter, unsalted, melted              |
-    | 300 g    | Black Forest Deli Ham, sliced, folded |
-    | ---      | ---                                   |
-    | 400 ml   | Mornay Sauce                          |
-    | 40 ml    | Parmesan, grated                      |
-    | 120 g    | Gruyere                               |
+    * 8 slices Sandwich Bread
+    * 40 ml Butter, unsalted, melted
+    * 300 g Black Forest Deli Ham, sliced, folded
+    * 400 ml Mornay Sauce
+    * 40 ml Parmesan, grated
+    * 120 g Gruyere
 
 === "Directions"
     1. **Preheat oven** to 375F (190C). Prepare a foiled sheetpan.

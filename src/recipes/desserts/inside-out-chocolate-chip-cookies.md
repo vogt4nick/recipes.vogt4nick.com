@@ -1,22 +1,20 @@
 === "Instructions"
-    | Amount | Ingredient                         |
-    | :----- | :--------------------------------- |
-    | 120 ml | Butter, unsalted, room temperature |
-    | 100 g  | White Sugar                        |
-    | 100 g  | Brown Sugar                        |
-    | 1      | Egg, room temperature              |
-    | 5 ml   | Vanilla Extract                    |
-    | ---    | ---                                |
-    | 125 g  | All-Purpose Flour                  |
-    | 50 g   | Cocoa Powder, unsweetened          |
-    | 5 ml   | Baking Soda                        |
-    | <1 ml  | Kosher Salt                        |
-    |        | *Wet Mix*                          |
-    | 15 ml  | Milk                               |
-    | 225 g  | White Chocolate Chips              |
+    * Wet Mix
+        * 120 ml Butter, unsalted, room temperature
+        * 100 g White Sugar
+        * 100 g Brown Sugar
+        * 1 Egg, room temperature
+        * 5 ml Vanilla Extract
+    * Batter
+        * 125 g All-Purpose Flour
+        * 50 g Cocoa Powder, unsweetened
+        * 5 ml Baking Soda
+        * <1 ml Kosher Salt
+        * 15 ml Milk
+        * 225 g White Chocolate Chips
 
 === "Directions"
-    1. **Make wet mix.** Add butter, sugars to mixing bowl. Mix quickly until fluffy and light colored. Add egg, vanilla extract. Mix. Set aside as *wet mix*.
+    1. **Combine wet mix.** Add butter, sugars to mixing bowl. Mix quickly until fluffy and light colored. Add egg, vanilla extract. Mix. Set aside as *wet mix*.
     2. **Mix batter.** Add flour, cocoa powder, baking soda, salt to clean mixing bowl. Mix to combine. Slowly mixing, slowly add *wet mix*. Quickly mixing, add milk. Quickly mixing, add chocolate chips.
     3. **Chill batter.** Cover batter and bowl with plastic wrap. Chill 3-72 hours, ideally overnight.
     4. **Prepare baking materials.** Preheat oven to 350F (175C). Dress baking sheets with parchment paper.

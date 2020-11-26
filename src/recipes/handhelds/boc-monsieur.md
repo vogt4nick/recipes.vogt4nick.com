@@ -1,24 +1,24 @@
 ---
 title: B.O.C. monsieur
 ---
+
+!!! info "A loaded, open-faced sandwich. Pronounced *BOHK* monsieur."
+
 === "Ingredients"
-    | Amount  | Ingredient                                          |
-    | :------ | :-------------------------------------------------- |
-    | 1000 ml | Beef Stock                                          |
-    | 15 ml   | Herbs de Provence                                   |
-    | 1       | Bay Leaf                                            |
-    | ---     | ---                                                 |
-    | 450 g   | Bacon, thick cut                                    |
-    | ---     | ---                                                 |
-    | 300 g   | Yellow Onion, sliced                                |
-    | 200 g   | White Onion, sliced                                 |
-    | 100 g   | Shallots, sliced                                    |
-    | ---     | ---                                                 |
-    | 20 ml   | Garlic, minced                                      |
-    | 1       | Baguette, halved lengthwise, cut into 20 cm lengths |
-    | ---     | ---                                                 |
-    | 170 g   | Gruyere Cheese, sliced                              |
-    | 30 g    | Scallion greens, chopped                            |
+    * Beef Broth
+        * 1000 ml Beef Stock
+        * 15 ml Herbs de Provence
+        * 1 Bay Leaf
+    * Sandwich Loaves
+        * 1 [Baguette](../breads/baguettes.md), crosscut, cut into 20 cm lengths
+        * 20 ml Garlic, minced
+    * Caramelized Onions
+        * 300 g Yellow Onion, sliced
+        * 200 g White Onion, sliced
+        * 100 g Shallots, sliced
+    * 450 g Bacon, thick cut
+    * 170 g Gruyere Cheese, sliced
+    * 30 g Scallion greens, chopped
 
 === "Directions"
     1. **Preheat oven** to 400F (205C).
@@ -29,7 +29,5 @@ title: B.O.C. monsieur
     6. **Craft sandwiches** by layering *caramelized onions*, *diced bacon*, and gruyere cheese over *sandwich bread*. Broil 2 minutes until gruyere cheese is melted and bubbly.
     7. **Garnish** sandwiches with remaining bacon bits and scallion greens. Serve with beef stock.
 
-!!! success "Family Favorite"
-
-??? info "About"
-    Pronounced *BOHK* monsieur. A sandwich-sized crostini topped with bacon, caramelized onions, and gruyere cheese. Goes wonderfully on homemade [baguettes](../breads/baguettes.md). Inspired by French Onion Soup and Croque Monsieur.
+??? abstract "References"
+    Inspired by French Onion Soup and Croque Monsieur.

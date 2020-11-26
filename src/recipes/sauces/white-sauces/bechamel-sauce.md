@@ -1,11 +1,8 @@
 === "Ingredients"
-    | Amount | Ingredient        |
-    | :----- | :---------------- |
-    | 480 ml | Milk              |
-    | 1 ml   | Kosher Salt       |
-    | ---    | ---               |
-    | 30 ml  | Butter, unsalted  |
-    | 45 ml  | All-Purpose Flour |
+    * 480 ml Milk
+    * 1 ml Kosher Salt
+    * 30 ml Butter, unsalted
+    * 45 ml All-Purpose Flour
 
 === "Directions"
     1. **Simmer milk.** Combine milk, salt in a saucepan. Bring to simmer.
