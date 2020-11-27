@@ -1,30 +1,37 @@
 === "Ingredients"
-    * Poolish
-        * 100 g Bread Flour*, unbleached
+    * Starter
+        * 100 g Bread Flour
+        * 100 g Water, warm
         * 1 ml Instant Yeast
-        * 100 ml Water, warm (35C)
     * Dough
-        * 7 ml Salt
+        * 425 g Bread Flour
+        * 240 ml Water, warm
         * 4 ml Instant Yeast
-        * 425 g Bread Flour*, unbleached
-        * 240 ml Water, warm (35C)
-    * 30 ml Semolina Flour
-    * 240 ml Water, hot (80C)
+        * 2 ml Kosher Salt
 
     ??? question "Substitutions"
         *Substitute all-purpose flour for bread flour
 
-
 === "Directions"
-    1. **Prepare poolish.** Add flour, yeast, and water to medium bowl. Mix. Cover bowl with plastic wrap. Rest 6-24 hours at room temperature until poolish is expanded and bubbly.
-    2. **Prepare dough.** Transfer 240 ml *poolish* to large bowl. Add salt, yeast, flour, water. Gently stir 2 minutes with spoon until a soft (but not sticky) dough ball forms. Knead 6 minutes with dough hook at medium speed until dough passes the windowpane test.
-    3. **Rise dough.** Lightly grease a large bowl. Transfer dough greased bowl. Roll dough to coat with oil. Cover bowl with plastic wrap. Rest 2 hours at 25C until the dough nearly doubles in size. Remove dough. Gently knead 1 minute by hand. Return dough to bowl. Cover bowl with plastic wrap. Rest 2 hours at 25C until the dough nearly doubles in size.
-    4. **Shape loaves.** Prepare a lightly floured surface. Transfer dough to prepared surface. Divide dough into thirds using a bench scraper (careful not to deflate air bubbles). [Shape each baguette](https://www.youtube.com/watch?v=xlN5CgQcvAg) into a 10 cm diameter baguette.
-    5. **Proof loaves.** Prepare a floured kitchen towel. Transfer loaves to towel. Scrunch towel between loaves to help shape loaves as they proof. Proof 50 minutes at 25C until the loaves have grown to 1.5x times their original size but still spring back when poked.
-    6. **Prepare oven.** Place one oven rack in the lowest position and one in the middle position. Place an empty sheet pan in the bottom rack; we'll use this pan to produce steam later. Preheat oven to 500F (260C).
-    7. **Score loaves.** With the seam side down, score loaf using a bread lame or razor blade. Cut 3 evenly spaced diagonal slashes 6 mm deep on the surface of the loaf.
-    8. **Bake loaves.** Add layer of semolina flour to new sheet pan. Transfer loaves to sheet pan. Place sheet pan in oven on middle rack. Pour hot water into the empty loaf pan on the bottom rack. Set oven to 450F (235C) (evaporating water will quickly cool oven from 500F to 450F). Bake 10 minutes. Rotate middle sheet pan. Bake 8 minutes until internal temperature of baguettes are 205F (95C).
-    9. **Cool baguettes.** Transfer baguettes to cooling rack. Rest 40 minutes at room temperature.
+    1. **Make starter.** Add flour, yeast, and water to small bowl. Mix. Rest 6-24 hours, covered, at room temperature until starter is expanded and bubbly.
+    2. **Autolysis.** Combine flour and water in a mixing bowl. Rest 15-30 minutes, covered, at room temperature.
+    3. **Knead once.** Combine starter, salt, yeast and flour/water mixture. Transfer to a floured surface. Knead until dough passes the windowpane test.
+    4. **Proof once.** Transfer dough to a lightly greased bowl. Roll to coat dough with oil. Proof 2 hours, covered, until the dough nearly doubles in size.
+    5. **Pre-shape loaves.** Transfer dough to a lightly floured surface. Dividing into four loaves, [pre-shape each baguette](https://www.youtube.com/watch?v=cpqGHiPxuQU&t=1m55s).
+    6. **Proof twice.** Transfer pre-shaped baguettes to a flat surface. Proof 2 hours, covered, until the dough nearly doubles in size.
+    7. **Shape loaves.** Prepare a lightly floured surface. Transfer dough to prepared surface. Divide dough into thirds using a bench scraper (careful not to deflate air bubbles). [Shape each baguette](https://www.youtube.com/watch?v=xlN5CgQcvAg) into a 10 cm diameter baguette.
+    8. **Proof thrice.** Prepare a floured kitchen towel. Transfer loaves to towel. Scrunch towel between loaves to help shape loaves as they proof. Proof 50 minutes at 25C until the loaves have grown to 1.5x times their original size but still spring back when poked.
+    9. **Arrange oven.** Place one oven rack in the lowest position and one in the middle position. Place an empty sheet pan in the bottom rack; we'll use it to boil water later. Place a pizza stone on the top rack.
+    10. **Preheat oven** to 500F (260C).
+    11. **Score loaves.** With the seam side down, score loaf using a bread lame or razor blade. Cut 3 evenly spaced diagonal slashes 6 mm deep on the surface of the loaf. Add layer of semolina flour to new sheet pan. Transfer loaves to sheet pan.
+    12. **Bake high.**  Place sheet pan in oven on middle rack. Pour hot water into the empty sheet pan on the bottom rack. Bake 10 minutes until baguettes' ridges turn dark, coffee brown.
+    13. **Bake low.** Reduce oven to 400 F (205 C). Bake 10 minutes until internal temperature of baguettes are 205F (95C).
+    14. **Cool baguettes.** Transfer baguettes to cooling rack. Rest 40 minutes at room temperature.
+
+    ??? note "The first dough ball will be very thick!"
+
+    ??? question "What if I don't have a pizza stone?"
+        Dress a sheet pan with semolina flour to prevent sticking. Bake baguettes on the sheet pan instead.
 
     ??? question "What's the 'windowpane test'?"
         * From [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home)
@@ -37,5 +44,48 @@
     ??? tip "Proof someplace warm"
         Baking during cooler seasons is a challenge; the dough won't rise if the kitchen is too cold (e.g. 20C). Vent the oven at 350F (175C) while dough is rising and proofing to warm kitchen to 25C.
 
-??? abstract "References"
-    Inspired by [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home#homemade-french-baguette-recipe) and [King Arther Flour](https://www.kingarthurflour.com/recipes/classic-baguettes-recipe).
+=== "Food Science"
+    Paraphrasing French baker Éric Kayser, an exemplary baguette has no less than two qualities:
+
+    1. a brown- and yellow-colored crust that crackles, and
+    2. a cream-colored crumb with big and small air pockets and a noticeably complex aroma.
+
+    ### The Crust
+
+    We achieve the crust through a common baking component: **steam**. Water vapor helps us achieve three things:
+
+    1. **Dark, crackly crust.** Water vapor is more heat dense than other atmospheric gases. This facilitates a higher heat transfer to the crust, resulting in faster browning and a thicker crust that crackles.
+    2. **Bigger pockets in the crumb.** Hydration contributes to the dough's overall flexibility. This water would quickly evaporate and leave behind a rigid crust, but this process is slowed by the high humidity environment created by the steam! In short, the crust remains flexible for longer, and the dough has more time to rise and create big holes in the crumb.
+    3. **Prominent scoring.** We score the loaves to enable a higher rise. A more flexible dough will rise higher and draw attention to beautiful, prominent scoring.
+
+    The pizza stone is not necessary, but serves to functions. First is to rapidly conduct heat into the loaves from below for deeper browning. The second is to provide a very stable heat source to evenly distribute heat inside the oven. A high quality Depending on the quality of the oven, we may not need it for this second purpose.
+
+    Finally, we reduce heat midway simply to continuing cooking the crumb without over-baking the crust.
+
+    ### The Crumb
+
+    Consider the following excerpt from Raymond Calvel as a guide, where he gives his definition of high quality French bread (emphasis mine):
+
+    > A good bread -- a real quality loaf -- ... will have a creamy white crumb. The proper creamy-white color of the crumb shows that the **dough oxidation** during mixing has not been excessive. It also presages the distinctive aroma and taste that are a subtle blend of the scent of wheat flour -- that of wheat germ oil, along with the delicate hint of hazelnut aroma that comes from the germ. All of these are combined with the heady smell that comes from alcoholic **dough fermentation**, along with the discreet aromas that are the results of caramelization and crust baking. ... the grain of French bread should be open, marked here and there by large gas cells. These should be thin-walled cells, with a lightly pearlescent appearance. This unique structure, resulting from the combination of numerous factors including the level of **dough maturation** and the loaf forming method, is basic to the eating qualities, flavor, and gustatory appeal of French bread.
+
+    It's worth taking time for a plain English interpretation.
+
+    > The proper creamy-white color of the crumb shows that the **dough oxidation** during mixing has not been excessive. It also presages the distinctive aroma and taste...
+
+    Overworking the dough can damage the natural pigmentation and reduce the overall flavor. One way around this is the autolysis method (also called autolyse). In short, autolysis describes the formation of gluten bonds when we mix flour and water. Since the flour and water mixture sits inert, there's no excessive **dough oxidation**, and we get a stronger gluten network without the oxidation. That is, we can have our cake and eat it too.
+
+    > ... the [crumb] of French bread should be open, marked here and there by large gas cells. This unique structure, resulting from the combination of numerous factors including the level of **dough maturation** and the loaf forming method...
+
+    **Dough maturation** refers (not entirely) to **fermentation time**. Consider the yeast fermenting in the starter and in the proofing steps. The starter method incorporates yeast into the bread dough in such a way that maximizes the effective **fermentation time** and flavor production. The proofing method serves two purposes. The first proof is to let the dough rest so that it's less springy and more readily divided and shaped. The second and third proofs are to continue developing a chewy gluten structure, to trap air pockets, and to draw still more complex flavor from the fermenting yeast.
+
+    The "loaf forming method" of course refers to the shape of the bread and also the scoring discussed above. Forming baguettes requires a careful hand; if we disturb the air pockets too much, the resulting loaf will be dense and visually flatter.
+
+    Of course, the ingredients have as much to do with the quality of the loaf as the baker, but for this recipe bread flour and commercial yeast is sufficient. For a very special loaf we may make our own starter or get a regional, high-protein flour.
+
+=== "References"
+    * [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home#homemade-french-baguette-recipe)
+    * [King Arther Flour](https://www.kingarthurflour.com/recipes/classic-baguettes-recipe)
+    * [Éric Kayser on baguettes](https://www.tastingtable.com/dine/national/perfect-baguette-bread-crust-eric-kayser-new-york-paris)
+    * [*The Taste of Bread* by Raymond Calvel](https://www.amazon.com/dp/B0160F1NWW)
+    * [*On Food and Cooking: The Science and Lore of the Kitchen* by Harold McGee](https://www.amazon.com/dp/0684800012)
+    * [*Science of the Autolyse* by Darryl Alder](https://www.abigailsoven.com/science-of-the-autolyse/)
