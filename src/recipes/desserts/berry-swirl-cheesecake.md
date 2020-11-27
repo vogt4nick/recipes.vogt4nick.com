@@ -25,5 +25,5 @@
     8. **Cool cheesecake.** Transfer cake pan to cooling rack. Rest 60 minutes until cake is room temperature. Rest 6 hours in refrigerator.
     9. **Serve.** Run a knife around edge of cake. Unmold cake. Serve.
 
-??? abstract "References"
+=== "References"
     Inspired by [Smitten Kitchen](https://smittenkitchen.com/2014/08/raspberry-swirl-cheesecake/).

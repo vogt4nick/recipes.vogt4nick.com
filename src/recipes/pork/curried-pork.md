@@ -17,5 +17,5 @@
 ??? examples "Companion Foods"
     Pairs well with [yellow rice](../sides/yellow-rice.md).
 
-??? abstract "References"
+=== "References"
     Inspired by [Pakistani Ground Beef Curry](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/).

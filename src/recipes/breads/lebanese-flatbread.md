@@ -18,5 +18,5 @@
     ??? question "How do I roll the dough so thin?"
         Chef John has a [good video segment](https://www.youtube.com/watch?v=DfObqgc0TnQ&t=4m) on rolling the dough super thin.
 
-??? abstract "References"
+=== "References"
     Inspired by [Food Wishes](https://foodwishes.blogspot.com/2017/07/lebanese-mountain-bread-peak-flatbread.html).

@@ -12,5 +12,5 @@
 === "Directions"
     1. **Whisk ingredients** together in a bowl.
 
-??? abstract "References"
+=== "References"
     Inspired by [Chef John](https://foodwishes.blogspot.com/2013/09/salad-lyonnaise-super-salad-from-city.html).

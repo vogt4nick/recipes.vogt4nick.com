@@ -20,5 +20,5 @@
     2. **Dehydrate beef.** Add marinated steak strips to dehydrator. Dehydrate 5 hours at 160F (70C). Store in an airtight container or resealable bags.
 
 
-??? abstract "References"
+=== "References"
     Inspired by [Doc's Best Beef Jerky](https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/).

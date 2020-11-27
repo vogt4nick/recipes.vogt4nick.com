@@ -26,5 +26,5 @@
     ??? tip "Dimple the gnocchi before cooking."
         Adding dimples to the dumplings helps them retain their shape and cook evenly while boiling.
 
-??? abstract "References"
+=== "References"
     Inspired by the [Smitten Kitchen Cookbook](https://smile.amazon.com/gp/product/030759565X/) and [Gordon Ramsay (Video)](https://www.youtube.com/watch?v=iTmcGy9CWhE&t=19s).

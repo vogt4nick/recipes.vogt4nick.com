@@ -29,5 +29,5 @@
     3. **Prepare francaise.** Pre-heat frying pan over high heat. Add ingredients in order: pinot grigio, chicken stock, garlic, lemon juice. Reduce 2 minutes over high heat. Remove from heat. Add parsley and butter. Stir evenly. Referenced next as *francaise sauce*.
     4. **Coat, garnish, and serve.** Add *fried chicken* to *francaise sauce*. Coat evenly. Garnish with remaining parsley and serve.
 
-??? abstract "References"
+=== "References"
     Inspired by Elise Walter & [Chicken Francaise](http://www.recipe30.com/chicken-francaise.html/).

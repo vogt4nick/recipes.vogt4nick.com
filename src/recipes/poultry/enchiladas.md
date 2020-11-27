@@ -25,5 +25,5 @@
     5. **Bake cheese layer.** Layer cheese over enchiladas. Bake 5 minutes until cheese is melted.
     6. **Garnish** with remaining green chiles.
 
-??? abstract "References"
+=== "References"
     Inspired by Brenda Vogt and [Creamy Chicken Enchiladas](https://www.tasteofhome.com/recipes/creamy-chicken-enchiladas/).

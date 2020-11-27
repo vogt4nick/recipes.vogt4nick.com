@@ -19,5 +19,5 @@
 !!! caution "Do not store long term."
     Raw eggs cannot be preserved and will turn after a few days even if they're refrigerated.
 
-??? abstract "References"
+=== "References"
     Inspired by [Gimme Some Oven](https://www.gimmesomeoven.com/caesar-dressing-recipe/).

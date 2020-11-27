@@ -22,5 +22,5 @@
     6. **Cool** 30 minutes before serving.
 
 
-??? abstract "References"
+=== "References"
     Inspired by [Erren's Kitchen](https://www.errenskitchen.com/raspberry-and-white-chocolate-shortbread-tart/)

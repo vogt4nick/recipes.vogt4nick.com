@@ -16,5 +16,5 @@
     2. **Combine ingredients.** Toss evenly.
     3. **Garnish and serve.**
 
-??? abstract "References"
+=== "References"
     Inspired by [Chef John](https://foodwishes.blogspot.com/2013/09/salad-lyonnaise-super-salad-from-city.html).

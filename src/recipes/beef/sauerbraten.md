@@ -44,5 +44,5 @@
     * [rotkraut](../salads/slaws/rotkraut.md)
     * [sugar roux](../sauces/sugar-roux.md)
 
-??? abstract "References"
+=== "References"
     Inspired by travels to Austria & Bavaria and [German recipes](http://www.bavariankitchen.com/meats/sauerbraten.aspx).

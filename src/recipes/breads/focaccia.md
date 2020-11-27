@@ -20,5 +20,5 @@
     5. **Season dough.** Add salt to 9" x 13" baking pan with high sides. Spread evenly. Add dough. Grease hands with olive oil, and gently push dough to fill whole pan. Add tomatoes and olives. Garnish with salt, pepper, rosemary, and olive oil.
     6. **Bake focaccia** 30 minutes at 400 F.
 
-??? abstract "References"
+=== "References"
     Inspired by [Gordon Ramsey](https://www.youtube.com/watch?v=WR1MDeP-qSc).

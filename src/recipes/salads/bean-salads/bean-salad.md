@@ -18,5 +18,5 @@
     2. **Cool** to room temperature, gently stirring every 20 minutes.
     3. **Garnish & serve** with fresh parsley.
 
-??? abstract "References"
+=== "References"
     Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).

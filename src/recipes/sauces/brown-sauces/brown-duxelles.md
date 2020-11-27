@@ -18,5 +18,5 @@
     2. **Add sauce.** Reduce heat to low. Add tomato paste. Stir to combine. Add brown sauce. Stir. Simmer 5 minutes uncovered.
     3. **Garnish.** Stir in butter. Garnish with parsley.
 
-??? abstract "References"
+=== "References"
     Inspired with few alterations to Julia Child's recipe in [Mastering the Art of French Cooking](https://www.amazon.com/Mastering-Art-French-Cooking-Vol/dp/0375413405).

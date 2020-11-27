@@ -9,5 +9,5 @@
     * Dill Pickles, sliced
     * [Pulled Pork](../../references/techniques/pulled-pork.md)
 
-??? abstract "References"
+=== "References"
     Inspired by [Chef John](https://foodwishes.blogspot.com/2017/01/the-cuban-sandwich-hold-mojo.html).

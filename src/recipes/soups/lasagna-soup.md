@@ -25,5 +25,5 @@
     5. **Simmer.** Stir in broth. Simmer 45 minutes. Stir in cooked pasta, parmesan.
     6. **Garnish and serve** with parmesan and parsley sprigs.
 
-??? abstract "References"
+=== "References"
     Inspired by Brenda Vogt.

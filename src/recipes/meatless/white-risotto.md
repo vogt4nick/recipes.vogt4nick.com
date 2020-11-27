@@ -20,5 +20,5 @@
 
 !!! tip "Plate on a platter to steam off any extra liquid before serving."
 
-??? abstract "References"
+=== "References"
     Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](https://smile.amazon.com/gp/product/039458404X).

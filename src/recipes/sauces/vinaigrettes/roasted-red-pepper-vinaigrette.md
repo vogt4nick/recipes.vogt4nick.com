@@ -11,5 +11,5 @@
 
 !!! info "Yields about 300 ml"
 
-??? abstract "References"
+=== "References"
     Inspired by [Smitten Kitchen](https://smittenkitchen.com/2009/08/summer-pea-and-roasted-red-pepper-pasta-salad/).

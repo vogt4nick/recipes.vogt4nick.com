@@ -22,5 +22,5 @@
     2. **Dress Sandwiches.** On both halves: layer *olive salad*, meat, cheese. Fold bread and cut into quarters.
     3. **Rest.** Plastic wrap sandwiches. Rest one hour. Serve.
 
-??? abstract "References"
+=== "References"
     Inspired by [Serious Eats](https://www.seriouseats.com/recipes/2010/09/dinner-tonight-muffaletta-sandwich.html).

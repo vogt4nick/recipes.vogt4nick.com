@@ -40,5 +40,5 @@
         Soaking the ribs helps to draw out excess blood from the meat.
 
 
-??? abstract "References"
+=== "References"
     Inspired by [The Mini Chef](https://www.theminichef.com/galbijjim/).

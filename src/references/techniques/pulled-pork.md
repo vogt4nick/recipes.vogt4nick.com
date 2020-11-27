@@ -44,5 +44,5 @@
         Yes, but you won't get the same result. White sugar and kosher salt do not readily dissolve into water near 0 C. Molasses and pickling salt, however, do stay dissolved into water at low temperatures.
 
 
-??? abstract "References"
+=== "References"
     Inspired by [Chef John](https://foodwishes.blogspot.com/2016/08/paper-pork-shoulder-its-wrap.html) and [Alton Brown](https://www.foodnetwork.com/recipes/alton-brown/pulled-pork-recipe-1914045).

@@ -12,5 +12,5 @@
     3. **Prepare tacos.** Spread refried beans on tortillas. Add ~80 g of roasted vegetables to each tortilla.
     4. **Garnish** with lime juice and cilantro.
 
-??? abstract "References"
+=== "References"
     Inspired by [El Arboria Taqueria](https://goo.gl/maps/5rY1W9N4L1KLBRGN8) and [Sweet Potato Tacos](https://smittenkitchen.com/2018/03/sweet-potato-tacos/).

@@ -15,5 +15,5 @@
     2. **Combine vegetables** together in a bowl. Toss with dressing.
     3. **Chill** before serving.
 
-??? abstract "References"
+=== "References"
     Inspired by [r/EatCheapAndHealthy](https://www.reddit.com/r/EatCheapAndHealthy/comments/i64x5l/).

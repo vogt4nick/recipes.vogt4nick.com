@@ -29,5 +29,5 @@ title: B.O.C. monsieur
     6. **Craft sandwiches** by layering *caramelized onions*, *diced bacon*, and gruyere cheese over *sandwich bread*. Broil 2 minutes until gruyere cheese is melted and bubbly.
     7. **Garnish** sandwiches with remaining bacon bits and scallion greens. Serve with beef stock.
 
-??? abstract "References"
+=== "References"
     Inspired by French Onion Soup and Croque Monsieur.

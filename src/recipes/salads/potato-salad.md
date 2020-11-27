@@ -16,5 +16,5 @@
     1. **Mix ingredients.** Add potatoes, onion, seasonings, and beef stock to a large mixing bowl. Mix gently until it starts to thicken.
     2. **Garnish** with red onion.
 
-??? abstract "References"
+=== "References"
     Inspired by [Original Wiener Erdäpfelsalat](https://www.chefkoch.de/rezepte/158711069500551/Original-Wiener-Erdaepfelsalat.html)

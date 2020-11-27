@@ -22,5 +22,5 @@
     9. **Bake loaves** 25 minutes at 400 F. Remove from heat.
     10. **Rest loaves** 15 minutes.
 
-??? abstract "References"
+=== "References"
     Inspired by [Chef John](https://foodwishes.blogspot.com/2017/01/cuban-bread-commence-operation-cubano.html?m=1).
