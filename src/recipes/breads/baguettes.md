@@ -1,23 +1,22 @@
+!!! info "Yields two loaves."
+
 === "Ingredients"
     * Starter
         * 100 g Bread Flour
-        * 100 g Water, warm
-        * 1 ml Instant Yeast
+        * 100 g Water, cool
+        * 2 ml Instant Yeast
     * Dough
-        * 425 g Bread Flour
-        * 240 ml Water, warm
-        * 4 ml Instant Yeast
-        * 2 ml Kosher Salt
-
-    ??? question "Substitutions"
-        *Substitute all-purpose flour for bread flour
+        * 400 g Bread Flour
+        * 270 g Water, cool
+        * 10 ml Instant Yeast
+        * 10 ml Kosher Salt
 
 === "Directions"
     1. **Make starter.** Add flour, yeast, and water to small bowl. Mix. Rest 6-24 hours, covered, at room temperature until starter is expanded and bubbly.
     2. **Autolysis.** Combine flour and water in a mixing bowl. Rest 15-30 minutes, covered, at room temperature.
     3. **Knead once.** Combine starter, salt, yeast and flour/water mixture. Transfer to a floured surface. Knead until dough passes the windowpane test.
     4. **Proof once.** Transfer dough to a lightly greased bowl. Roll to coat dough with oil. Proof 2 hours, covered, until the dough nearly doubles in size.
-    5. **Pre-shape loaves.** Transfer dough to a lightly floured surface. Dividing into four loaves, [pre-shape each baguette](https://www.youtube.com/watch?v=cpqGHiPxuQU&t=1m55s).
+    5. **Pre-shape loaves.** Transfer dough to a lightly floured surface. Dividing into two loaves, [pre-shape each baguette](https://www.youtube.com/watch?v=cpqGHiPxuQU&t=1m55s).
     6. **Proof twice.** Transfer pre-shaped baguettes to a flat surface. Proof 2 hours, covered, until the dough nearly doubles in size.
     7. **Shape loaves.** Prepare a lightly floured surface. Transfer dough to prepared surface. Divide dough into thirds using a bench scraper (careful not to deflate air bubbles). [Shape each baguette](https://www.youtube.com/watch?v=xlN5CgQcvAg) into a 10 cm diameter baguette.
     8. **Proof thrice.** Prepare a floured kitchen towel. Transfer loaves to towel. Scrunch towel between loaves to help shape loaves as they proof. Proof 50 minutes at 25C until the loaves have grown to 1.5x times their original size but still spring back when poked.
@@ -36,6 +35,9 @@
     ??? question "What's the 'windowpane test'?"
         * From [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home)
         > The 'windowpane test' is a way to check the gluten development of your dough during kneading. Break off a small piece of dough, and gently stretch it out until it’s thin enough to see through. If you can indeed see through it, you’re done kneading. If the dough breaks before you can stretch it out that thin, keep kneading.
+
+    ??? question "How do I pre-shape baguettes?"
+        Watch [King Arthur Flour Baguette 3 - Dividing, Pre-shape (Video)](https://www.youtube.com/watch?v=cpqGHiPxuQU&t=1m55s).
 
     ??? question "How do I shape baguettes?"
         * Watch [How to Shape Baguettes (Video)](https://www.youtube.com/watch?v=xlN5CgQcvAg)
