@@ -4,7 +4,7 @@
     * Starter
         * 100 g Bread Flour
         * 100 g Water, cool
-        * 2 ml Instant Yeast
+        * < 1 ml Instant Yeast
     * Dough
         * 400 g Bread Flour
         * 270 g Water, cool
