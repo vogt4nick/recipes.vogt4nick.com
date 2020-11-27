@@ -85,8 +85,9 @@
     Of course, the ingredients have as much to do with the quality of the loaf as the baker, but for this recipe bread flour and commercial yeast is sufficient. For a very special loaf we may make our own starter or get a regional, high-protein flour.
 
 === "References"
-    * [Masterclass](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home#homemade-french-baguette-recipe)
-    * [King Arther Flour](https://www.kingarthurflour.com/recipes/classic-baguettes-recipe)
+    * [Masterclass' Recipe](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home#homemade-french-baguette-recipe)
+    * [King Arther Flour's Recipe](https://www.kingarthurflour.com/recipes/classic-baguettes-recipe)
+    * [Paul Hollywood's Recipe](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-baguettes/)
     * [Éric Kayser on baguettes](https://www.tastingtable.com/dine/national/perfect-baguette-bread-crust-eric-kayser-new-york-paris)
     * [*The Taste of Bread* by Raymond Calvel](https://www.amazon.com/dp/B0160F1NWW)
     * [*On Food and Cooking: The Science and Lore of the Kitchen* by Harold McGee](https://www.amazon.com/dp/0684800012)
