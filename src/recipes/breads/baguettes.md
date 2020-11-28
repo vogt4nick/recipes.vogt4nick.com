@@ -83,7 +83,7 @@
     Of course, the ingredients have as much to do with the quality of the loaf as the baker, but for this recipe bread flour and commercial yeast is sufficient. For a very special loaf we may make our own starter or get a regional, high-protein flour.
 
 [^1]:
-    Alder, Darryl. ["*Science of the Autolyse*."](https://www.abigailsoven.com/science-of-the-autolyse/) Abigail's Oven. 26 July 2020. Accessed 27 November 2020.
+    Alder, Darryl. ["Science of the Autolyse."](https://www.abigailsoven.com/science-of-the-autolyse/) Abigail's Oven. 26 July 2020. Accessed 27 November 2020.
 [^2]:
     Calvel, Raymond, Ronald L. Wirtz, and James MacGuire. [*The Taste of Bread: A Translation of Le Goût Du Pain, Comment Le Préserver, Comment Le Retrouver.*]((https://www.amazon.com/dp/B0160F1NWW)) New York: Springer Science Business Media, LLC, 2013.
 [^3]:
