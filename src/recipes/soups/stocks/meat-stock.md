@@ -40,5 +40,4 @@
 
 !!! tip "Preserve stock by reducing and freezing cubes in ice tray."
 
-[^1]:
-    Almost exactly Julia Child's recipe in [Mastering the Art of French Cooking](https://www.amazon.com/Mastering-Art-French-Cooking-Vol/dp/0375413405).
+[^1]: {{ cite.child_french_cooking }}

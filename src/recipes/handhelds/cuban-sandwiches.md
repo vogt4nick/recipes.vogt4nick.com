@@ -10,4 +10,4 @@
     * [Pulled Pork](../../references/techniques/pulled-pork.md)
 
 [^1]:
-    Inspired by [Chef John](https://foodwishes.blogspot.com/2017/01/the-cuban-sandwich-hold-mojo.html).
+    Mitzewich, John. ["The Cuban Sandwich – Hold the Mojo."](https://foodwishes.blogspot.com/2017/01/the-cuban-sandwich-hold-mojo.html) Food Wishes. 20 January 2017. Accessed 2020.

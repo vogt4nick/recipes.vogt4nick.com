@@ -26,5 +26,6 @@
     * Using a pizza stone will help to give the naan close to same kind of heat as a clay tandoor.
 
 [^1]:
-    * [Reddit](https://www.reddit.com/r/Cooking/comments/21cfl0/whats_the_secret_to_naan_every_recipe_ends_up/)
-    * [Manjula's Kitchen](http://www.manjulaskitchen.com/naan-bread/)
+    [Reddit](https://www.reddit.com/r/Cooking/comments/21cfl0/whats_the_secret_to_naan_every_recipe_ends_up/)
+[^2]:
+    Jain, Manjula. ["Naan – Oven Baked Flat Bread."](http://www.manjulaskitchen.com/naan-bread/). Manjula's Kitchen. 6 May 2014. Accessed 2020.

@@ -17,5 +17,4 @@
 
 !!! info "Yields one large pizza or two medium pizzas."
 
-[^1]:
-    Inspired by Elise Walter.
+[^1]: Walter, Elise.

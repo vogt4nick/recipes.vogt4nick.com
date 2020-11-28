@@ -19,4 +19,4 @@
         Chef John has a [good video segment](https://www.youtube.com/watch?v=DfObqgc0TnQ&t=4m) on rolling the dough super thin.
 
 [^1]:
-    Inspired by [Food Wishes](https://foodwishes.blogspot.com/2017/07/lebanese-mountain-bread-peak-flatbread.html).
+    Mitzewich, John. ["Lebanese Mountain Bread – A Peak Flatbread Experience."](https://foodwishes.blogspot.com/2017/07/lebanese-mountain-bread-peak-flatbread.html) Food Wishes. 11 July 2017. Accessed 2020.

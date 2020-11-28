@@ -34,5 +34,4 @@
 
 !!! tip "Serve with fettuccine, rigatoni, conchiglie, or fusilli."
 
-[^1]:
-    Inspired by Marcella Hazan's recipe in [Essentials of Classic Italian Cooking](https://smile.amazon.com/gp/product/039458404X).
+[^1]: {{ cite.hazan_italian_cooking }}

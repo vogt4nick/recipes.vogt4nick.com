@@ -22,4 +22,4 @@
         "If you pack the rice, it don't come nice." -Chef John
 
 [^1]:
-    Inspired by [Chef John](https://foodwishes.blogspot.com/2014/12/persian-rice-sorry-measuring-cups.html).
+    Mitzewich, John. ["Persian Rice – Sorry, Measuring Cups."](https://foodwishes.blogspot.com/2014/12/persian-rice-sorry-measuring-cups.html) Food Wishes. 3 January 2014. Accessed October 2020.

@@ -39,6 +39,5 @@
     ??? question "Why soak the ribs ahead of time?"
         Soaking the ribs helps to draw out excess blood from the meat.
 
-
 [^1]:
-    Inspired by [The Mini Chef](https://www.theminichef.com/galbijjim/).
+    Kevin. ["Galbijjim (Korean Braised Beef Short Ribs) Recipe."](https://www.theminichef.com/galbijjim/) The Mini Chef. 26 September 2020. Accessed 2020.

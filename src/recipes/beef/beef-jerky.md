@@ -21,4 +21,4 @@
 
 
 [^1]:
-    Inspired by [Doc's Best Beef Jerky](https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/).
+    ["Doc's Best Beef Jerky."](https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/). All Recipes. 6 September 2015. Accessed December 2019.

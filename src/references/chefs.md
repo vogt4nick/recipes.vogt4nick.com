@@ -2,7 +2,7 @@ Our favorite chefs and food writers.
 
 ## Mark Bittman
 
-Mark Bittman wrote our most comprehensive and most versatile cookbook, the "Big Red Book," [How to Cook Everything](https://smile.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
+Mark Bittman wrote our most comprehensive and most versatile cookbook, the "Big Red Book," [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).
 
 Whenever we try a new recipe, we look for Mark's stripped down, essential interpretation first. He has the rare talent to write unambiguous directions while leaving room for individual taste. In doing so, Mark really hones in on the spirit of each recipe. When I'm feeling particularly academic, I read through each chapter more thoroughly and learn something new every time.
 
@@ -11,7 +11,7 @@ My one complaint is that it's big; it's *too* big. It's too big to comfortably f
 
 ## Deb Perelman
 
-The [Smitten Kitchen blog](https://smittenkitchen.com/) and the [Smitten Kitchen Cookbook](https://smile.amazon.com/gp/product/030759565X/) are stupendous. Deb's recipes are constant winners and always accessible to the home cook. We have yet to make a recipe that doesn't *work*, and though some of them may challenge your skills, Deb writes in a clear way that each step is broken down to be clear and sensible.
+The [Smitten Kitchen blog](https://smittenkitchen.com/) and the [Smitten Kitchen Cookbook](https://amazon.com/dp/030759565X/) are stupendous. Deb's recipes are constant winners and always accessible to the home cook. We have yet to make a recipe that doesn't *work*, and though some of them may challenge your skills, Deb writes in a clear way that each step is broken down to be clear and sensible.
 
 Deb's recipes can be very involved, so plan ahead and give yourself time to spare.
 

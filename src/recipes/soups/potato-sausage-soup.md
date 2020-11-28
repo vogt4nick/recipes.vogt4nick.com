@@ -27,4 +27,4 @@
     !!! caution "Do not burn the paprika!"
 
 [^1]:
-    Inspired by Chef John's [Hungarian Potato Sausage Soup](https://foodwishes.blogspot.com/search?q=hungarian+potato+soup).
+    Mitzewich, John. ["Hungarian Potato and Sausage Soup – Comfortarian Cuisine."](https://foodwishes.blogspot.com/2020/03/hungarian-potato-and-sausage-soup.html) Food Wishes. 20 March 2020. Accessed November 2020.

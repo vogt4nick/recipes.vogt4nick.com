@@ -21,4 +21,5 @@
 !!! info "Yields about three medium pizzas."
 
 [^1]:
-    Inspired by Adrienne Vogt and [The Elements of Pizza](https://smile.amazon.com/Elements-Pizza-Unlocking-Secrets-World-Class/dp/160774838X).
+    Forkish, Ken. [*The Elements of Pizza*](https://amazon.com/dp/160774838X). Ten Speed Press, 2016.
+[^2]: Vogt, Adrienne

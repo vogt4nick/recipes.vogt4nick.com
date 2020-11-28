@@ -22,5 +22,4 @@
 
 !!! info "Refrigerate up to 48 hours."
 
-[^1]:
-    Inspired by [How to Cook Everything](https://smile.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
+[^1]: {{ cite.bittman_how_to_cook_everything }}

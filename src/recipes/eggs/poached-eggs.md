@@ -20,5 +20,4 @@
     ??? question "How do I reheat a poached egg?"
         Trim off any trailing bits of white with knife. Place them in hot salted water for 30 seconds to hea them through. Remove with a slotted spoon. Holding a folded towel under the spoon, roll the egg back and forth to drain it, and it is ready to serve.
 
-[^1]:
-    Almost exactly Julia Child's recipe in [Mastering the Art of French Cooking](https://www.amazon.com/Mastering-Art-French-Cooking-Vol/dp/0375413405).
+[^1]: {{ cite.child_french_cooking }}

@@ -32,4 +32,4 @@
 
 
 [^1]:
-    Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/).
+    Killebrew, Kimberly. ["Traditional Hungarian Goulash."](https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/). Daring Gourmet. 9 January 2017. Accessed 2019.

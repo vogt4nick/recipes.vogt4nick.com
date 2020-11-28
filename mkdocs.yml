@@ -11,14 +11,6 @@ theme:
   palette:
     primary: blue
     accent: blue
-plugins:
-  - search:
-      lang:
-        - en
-  - awesome-pages:
-      filename: pages.yml
-      collapse_single_pages: false
-      strict: true
 markdown_extensions:
   # ignore page-level table of contents
   # https://github.com/squidfunk/mkdocs-material/issues/478#issuecomment-578723876
@@ -30,6 +22,25 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tabbed
+plugins:
+  - awesome-pages:
+      filename: pages.yml
+      collapse_single_pages: false
+      strict: true
+  - macros
+  - search:
+      lang:
+        - en
+extra:
+  cite:
+    bittman_how_to_cook_everything: >-
+      Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). Boston, MA: Houghton Mifflin Harcourt, 2019.
+    child_french_cooking: >-
+      Child, Julia, Louisette Bertholle, and Simone Beck. [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405). New York, NY: Knopf, 2001.
+    hazan_italian_cooking: >-
+      Hazan, Marcella, and Karin Kretschmann. [*Essentials of Classic Italian Cooking*](https://www.amazon.com/dp/039458404X). New York, NY: Alfred A. Knopf, 1992.
+    perelman_the_smitten_kitchen_cookbook: >-
+      Perelman, Deb. [*The Smitten Kitchen Cookbook*](https://www.amazon.com/dp/030759565X/). New York, NY: Alfred A. Knopf, 2017.
 google_analytics:
   - UA-109563922-1
   - auto

@@ -23,4 +23,4 @@
 
 
 [^1]:
-    Inspired by [Erren's Kitchen](https://www.errenskitchen.com/raspberry-and-white-chocolate-shortbread-tart/)
+    Hart, Erren. ["Rapsberry and White Chocolate Shortbread Tart."](https://www.errenskitchen.com/raspberry-and-white-chocolate-shortbread-tart/) Erren's Kitchen. 4 February 2017. Accessed 2019.

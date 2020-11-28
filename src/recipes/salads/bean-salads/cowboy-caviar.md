@@ -28,4 +28,4 @@
 !!! tip "Serve with tortilla chips"
 
 [^1]:
-    Inspired by [House of Yumm](https://houseofyumm.com/texas-caviar/).
+    Herrera, Serene. ["Texas Caviar."](https://houseofyumm.com/texas-caviar/). House of Yumm. 31 December 2019. Accessed 2020.

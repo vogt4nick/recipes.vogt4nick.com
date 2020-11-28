@@ -24,4 +24,6 @@ title: Spätzle
 !!! info "Store in refrigerator up to 72 hours."
 
 [^1]:
-    Inspired by [mixfix on Chef Koch](https://www.chefkoch.de/rezepte/1111591217169060/Spaetzle.html) and Chef John from FoodWishes.com [article](https://foodwishes.blogspot.com/2017/09/how-to-make-spatzle-aka-spaetzle-little.html) and [video](https://www.youtube.com/watch?v=Lwn97mpBCu8).
+    Mitzewich, John. ["How to Make Spätzle (aka Spaetzle) – Little Sparrows for Big Meat."](https://foodwishes.blogspot.com/2017/09/how-to-make-spatzle-aka-spaetzle-little.html) Food Wishes. 22 September 2017. Accessed 2020.
+[^2]:
+    ["Spätzle."](https://www.chefkoch.de/rezepte/1111591217169060/Spaetzle.html) Chef Koch. 27 July 2008. Accessed 2020.

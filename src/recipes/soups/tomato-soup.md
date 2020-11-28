@@ -14,3 +14,5 @@
     2. **Season and simmer.** Add stock and spices to stockpan. Bring soup to gentle boil, and reduce heat to low. Cover. Simmer 45 minutes.
     3. **Puree** with immersion blender.
     4. **Garnish & serve** with remaining spices.
+
+[^1]: {{ cite.child_french_cooking }}

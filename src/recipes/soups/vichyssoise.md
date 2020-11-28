@@ -19,5 +19,5 @@
     4. **Chill soup.** Refrigerate until cool; i.e. no more than 48 hours.
     5. **Garnish & serve** with chives.
 
-[^1]:
-    Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
+[^1]: {{ cite.bittman_how_to_cook_everything }}
+[^2]: {{ cite.child_french_cooking }}

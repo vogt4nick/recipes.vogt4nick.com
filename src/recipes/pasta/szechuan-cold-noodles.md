@@ -24,4 +24,4 @@
     2. **Combine & serve.** Add noodles and cucumber to bowl. Serve with mixed seasonings.
 
 [^1]:
-    Inspired by [China Sichuan Food](https://www.chinasichuanfood.com/szechuan-cold-noodles/).
+    Elaine. ["Szechuan Cold Noodles."](https://www.chinasichuanfood.com/szechuan-cold-noodles/). China Sichuan Food. 8 May 2018. Accessed 2020.

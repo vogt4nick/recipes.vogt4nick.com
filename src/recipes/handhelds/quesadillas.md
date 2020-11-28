@@ -28,4 +28,4 @@
     6. **Cook quesadillas.** Heat frying pan over medium heat. Brush one side of a tortilla with olive oil, lay oil-side down in frying pan. Layer cheese and meat. Fold tortilla and flatten.
 
 [^1]:
-    Inspired by [Reddit](https://www.reddit.com/r/recipes/comments/irutc3/mexican_slow_cooked_chilli_beef_quesadilla/).
+    ["Mexican Slow Cooked Chili Beef Quesadilla."](https://www.reddit.com/r/recipes/comments/irutc3/mexican_slow_cooked_chilli_beef_quesadilla/). Reddit. September 2020. Accessed September 2020.

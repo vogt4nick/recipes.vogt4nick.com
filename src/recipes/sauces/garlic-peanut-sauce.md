@@ -20,4 +20,4 @@
     3. **Cool to room temperature** before serving.
 
 [^1]:
-    Inspired by [Food & Wine](https://www.foodandwine.com/recipes/garlic-peanut-sauce).
+    Yeo, Chris. ["Garlic Peanut Sauce."](https://www.foodandwine.com/recipes/garlic-peanut-sauce). Food & Wine. May 2009. Accessed 2020.

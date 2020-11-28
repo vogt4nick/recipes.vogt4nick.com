@@ -5,5 +5,4 @@
     * 100 g Cherry Tomatoes, minced
     * 30 ml Basil, fresh, minced chopped
 
-[^1]:
-    Inspired by Jeanne VanWieren.
+[^1]: VanWieren, Jeanne.

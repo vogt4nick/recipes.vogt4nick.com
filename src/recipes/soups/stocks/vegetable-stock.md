@@ -13,3 +13,5 @@
 === "Directions"
     1. **Simmer stock.** Add all ingredients to stockpan. Heat until starting to bubble. Cover. Simmer over low heat 30 minutes.
     2. **Strain stock** through fine-mesh colander into a large bowl.
+
+[^1]: {{ cite.child_french_cooking }}

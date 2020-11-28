@@ -12,4 +12,4 @@
 !!! info "Yields about 300 ml"
 
 [^1]:
-    Inspired by [Smitten Kitchen](https://smittenkitchen.com/2009/08/summer-pea-and-roasted-red-pepper-pasta-salad/).
+    Perelman, Deb. ["Summer Pea and Roasted Red Pepper Pasta Salad."](https://smittenkitchen.com/2009/08/summer-pea-and-roasted-red-pepper-pasta-salad/). Smitten Kitchen. 8 August 2009. Accessed 2020.

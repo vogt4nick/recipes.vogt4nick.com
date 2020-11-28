@@ -8,4 +8,4 @@
     * <1 ml Black Pepper
 
 [^1]:
-    Inspired by [Smitten Kitchen](https://smittenkitchen.com/2009/08/cubed-hacked-caprese/).
+    Perelman, Deb. ["Cubed, Hacked Caprese."](https://smittenkitchen.com/2009/08/cubed-hacked-caprese/). Smitten Kitchen. 24 August 2009. Accessed 2020.

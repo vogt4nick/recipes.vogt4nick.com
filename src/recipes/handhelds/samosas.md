@@ -29,10 +29,9 @@
     4. **Form samosas.** Prepare a lightly floured surface. Knead dough briefly by hand. Dividing as necessary, roll circular pockets 4 mm thick x 10 cm in diameter. Add 15 ml filling to each samosa. Fold, crimp, and seal with a few drops of water as needed.
     5. **Fry\*\*\* samosas.** Prepare flat surface with paper bags or paper towels. Fry samosas 4 minutes until golden brown. Drain on prepared surface. Keep warm in oven until ready to serve.
 
-??? tip "Try baked samosas"
-    For less mess, bake samosas at 350F (175C) for 25 minutes until golden brown.
+    ??? tip "Try baked samosas"
+        For less mess, bake samosas at 350F (175C) for 25 minutes until golden brown.
 
-!!! tip "Use the top of a mason jar to cut dough into perfect circles."
+    !!! tip "Use the top of a mason jar to cut dough into perfect circles."
 
-[^1]:
-    Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
+[^1]: {{ cite.bittman_how_to_cook_everything }}

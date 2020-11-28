@@ -1,5 +1,3 @@
-!!! info "Yields about 400 ml."
-
 === "Ingredients"
     * Sauteed Mushrooms
         * 15 ml Butter, unsalted
@@ -13,10 +11,11 @@
     * Garnish
         * 45 ml Parsley
 
+    !!! info "Yields about 400 ml."
+
 === "Directions"
     1. **Saute mushrooms.** Heat fats in saucepan over medium-high heat. Add mushrooms and scallions. Saute 5 minutes, stirring frequently. Add white wine. Boil rapidly until it has reduced almost completely.
     2. **Add sauce.** Reduce heat to low. Add tomato paste. Stir to combine. Add brown sauce. Stir. Simmer 5 minutes uncovered.
     3. **Garnish.** Stir in butter. Garnish with parsley.
 
-[^1]:
-    Inspired with few alterations to Julia Child's recipe in [Mastering the Art of French Cooking](https://www.amazon.com/Mastering-Art-French-Cooking-Vol/dp/0375413405).
+[^1]: {{ cite.child_french_cooking }}

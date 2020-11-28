@@ -48,5 +48,4 @@ A base pie crust recipe for simple variations; i.e. flaky/savory and unbaked/bli
     ??? question "Why do we weigh down the pie crust?"
         The pie crust can bubble and lose its shape while baking. Weighing it down helps safeguard a crust that looks as good as it tastes.
 
-[^1]:
-    Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
+[^1]: {{ cite.bittman_how_to_cook_everything }}

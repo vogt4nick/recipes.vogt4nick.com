@@ -93,7 +93,7 @@
 [^5]:
     Hollywood, Paul. ["Paul Hollywood's Baguettes."](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-baguettes/) The Great British Bake Off. August 19, 2015. Accessed November 28, 2020.
 [^6]:
-    ["King Arthur Flour's Baguette Baking Series."](https://www.youtube.com/watch?v=masipMhrV5c&list=PLE2D447C3F9AAD68F) 6 February 2011.
+    ["King Arthur Flour's Baguette Baking Series."](https://www.youtube.com/watch?v=masipMhrV5c&list=PLE2D447C3F9AAD68F) YouTube. 6 February 2011.
 [^7]:
     MasterClass. ["Classic French Baguette Recipe: Learn How to Make Baguettes at Home."](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home) MasterClass. 8 November 2020. Accessed 27 November 2020.
 [^8]:

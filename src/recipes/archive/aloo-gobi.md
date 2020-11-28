@@ -25,4 +25,4 @@
     2. Garnish with garam masala and serve.
 
 [^1]:
-    Inspired by [Alicia's Aloo Gobi](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/).
+    ["Alicia's Aloo Gobi."](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/). All Recipes. 6 Sep 2015. Accessed 2019.

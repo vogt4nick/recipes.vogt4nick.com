@@ -45,4 +45,4 @@
     * [sugar roux](../sauces/sugar-roux.md)
 
 [^1]:
-    Inspired by travels to Austria & Bavaria and [German recipes](http://www.bavariankitchen.com/meats/sauerbraten.aspx).
+    ["German Sauerbraten Recipe."](http://www.bavariankitchen.com/meats/sauerbraten.aspx). 26 December 2009. Accessed 2019.

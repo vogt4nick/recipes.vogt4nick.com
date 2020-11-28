@@ -17,4 +17,4 @@
 !!! tip "Reduce the spices when you make the recipe for the first time."
 
 [^1]:
-    Inspired by [Yellow Jasmine Rice](https://www.budgetbytes.com/yellow-jasmine-rice/).
+    Moncel, Beth. ["Yellow Jasmine Rice."](https://www.budgetbytes.com/yellow-jasmine-rice/). Budget Bytes. 14 June 2018. Accessed 2020.

@@ -17,4 +17,4 @@
     2. **Garnish** with red onion.
 
 [^1]:
-    Inspired by [Original Wiener Erdäpfelsalat](https://www.chefkoch.de/rezepte/158711069500551/Original-Wiener-Erdaepfelsalat.html)
+    ["Original Wiener Erdäpfelsalat."](https://www.chefkoch.de/rezepte/158711069500551/Original-Wiener-Erdaepfelsalat.html) Chef Koch. 22 November 2003. Accessed 2020.

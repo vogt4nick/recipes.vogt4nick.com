@@ -23,4 +23,4 @@
     10. **Rest loaves** 15 minutes.
 
 [^1]:
-    Inspired by [Chef John](https://foodwishes.blogspot.com/2017/01/cuban-bread-commence-operation-cubano.html?m=1).
+    Mitzewich, John. ["Cuban Bread – Commence Operation Cubano Sandwich."](https://foodwishes.blogspot.com/2017/01/cuban-bread-commence-operation-cubano.html) Food Wishes. 18 January 2017. Accessed 2020.

@@ -15,5 +15,4 @@
     2. **Chill** ingredients in refrigerator for a day. Remove from fridge 15 minutes before continuing.
     3. **Season**, mix evenly, and serve.
 
-[^1]:
-    Inspired by [How to Cook Everything](https://smile.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).
+[^1]: {{ cite.bittman_how_to_cook_everything }}

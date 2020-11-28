@@ -21,4 +21,4 @@
     The cookies will be stiff if you beat the egg for too long.
 
 [^1]:
-    Inspired by [Pinch of Yum](https://pinchofyum.com/the-best-soft-chocolate-chip-cookies).
+    Mostrom, Lindsay. ["The Best Soft Chocolate Chip Cookies."](https://pinchofyum.com/the-best-soft-chocolate-chip-cookies). Pinch of Yum. 11 May 2015. Accessed 2019.

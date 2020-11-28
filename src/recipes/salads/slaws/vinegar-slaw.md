@@ -16,4 +16,4 @@
     3. **Chill** before serving.
 
 [^1]:
-    Inspired by [r/EatCheapAndHealthy](https://www.reddit.com/r/EatCheapAndHealthy/comments/i64x5l/).
+    ["Better living through vinegar coleslaw."](https://www.reddit.com/r/EatCheapAndHealthy/comments/i64x5l/). Reddit. August 2020. Accessed August 2020.

@@ -28,4 +28,4 @@
     Serve over pasta shells or other small (but not too small) pasta.
 
 [^1]:
-    Inspired by Diana Shaw in [*The Essential Vegetarian Cookbook*](https://smile.amazon.com/dp/051788268X).
+    Shaw, Diana. [*The Essential Vegetarian Cookbook*](https://amazon.com/dp/051788268X). New York, NY: Clarkson Potter Publishers, 1997.
