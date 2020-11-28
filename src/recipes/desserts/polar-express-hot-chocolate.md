@@ -12,5 +12,5 @@
     1. Add ingredients to slow cooker. Cook 2 hours on HIGH, stirring every 60 minutes.
     2. Add marshmallows and whipped cream.
 
-=== "References"
+[^1]:
     Inspired by Elise Walter.

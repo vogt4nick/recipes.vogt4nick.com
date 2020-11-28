@@ -21,5 +21,5 @@
     4. **Reduce sauce.** Remove from heat. Add tomato paste. Stir to combine. Add brown stock and herbs. Stir. Cover partially. Simmer 2 hours or more over low heat.
     5. **Strain, degrease, and season.** Strain sauce through colander. Degrease thoroughly. Season as desired, if necessary.
 
-=== "References"
+[^1]:
     Inspired with few changes by Julia Child's recipe in [Mastering the Art of French Cooking](https://www.amazon.com/Mastering-Art-French-Cooking-Vol/dp/0375413405).

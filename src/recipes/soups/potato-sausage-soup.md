@@ -26,5 +26,5 @@
 
     !!! caution "Do not burn the paprika!"
 
-=== "References"
+[^1]:
     Inspired by Chef John's [Hungarian Potato Sausage Soup](https://foodwishes.blogspot.com/search?q=hungarian+potato+soup).

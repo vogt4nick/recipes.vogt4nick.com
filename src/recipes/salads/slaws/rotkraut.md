@@ -17,5 +17,5 @@
     2. **Cook slaw** 45 minutes, covered, until cabbage is tender.
     3. **Thicken slaw.** Filter flour over cabbage. Add marmelade. Mix.
 
-=== "References"
+[^1]:
     Inspired by travels to Austria & Bavaria and [Bavarian Kitchen](http://www.bavariankitchen.com/vegetables/rotkohl.aspx).

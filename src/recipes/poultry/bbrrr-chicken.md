@@ -25,5 +25,5 @@ title: BBRRR chicken
 ??? info "Background"
     Pronounced with a [voiced bilabial trill](https://www.youtube.com/watch?v=0uGL-k_DyDY). BBRRR chicken is so named for the Brine-Brush-Rub-Roast-Rest method. Ideal for green leaf salad, chicken salad, sandwiches, and anywhere you may substitute rotisserie chicken.
 
-=== "References"
+[^1]:
     Inspired by [Baked Chicken Breast](https://www.gimmesomeoven.com/baked-chicken-breast/).

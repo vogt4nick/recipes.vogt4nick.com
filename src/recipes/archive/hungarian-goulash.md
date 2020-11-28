@@ -31,5 +31,5 @@
     4. **Garnish and serve** with sour cream and cilantro.
 
 
-=== "References"
+[^1]:
     Inspired by [Traditional Hungarian Goulash](https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/).

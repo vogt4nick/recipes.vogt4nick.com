@@ -7,5 +7,5 @@
     * <1 ml Kosher Salt
     * <1 ml Black Pepper
 
-=== "References"
+[^1]:
     Inspired by [Smitten Kitchen](https://smittenkitchen.com/2009/08/cubed-hacked-caprese/).

@@ -24,5 +24,5 @@
     6. **Bake broccoli.** Add broccoli to frying pan. Cook in oven at 350F for 10 minutes.
     7. **Garnish** with basil and parmesan.
 
-=== "References"
+[^1]:
     Inspired by [One Pan Creamy Italian Orzo & Chicken](https://www.reddit.com/r/GifRecipes/comments/95wr6x/onepan_creamy_italian_orzo_chicken_oc/).

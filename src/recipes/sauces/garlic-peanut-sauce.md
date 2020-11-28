@@ -19,5 +19,5 @@
     2. **Season and thicken.** Add lemon zest, coriander, sambal oelek. Cook 2 minutes. Add coconut milk. Boil 2 minutes over high heat until it starts to thicken. Add tamarind, sugar, peanut butter. Stir until smooth. Remove from heat. Salt to taste.
     3. **Cool to room temperature** before serving.
 
-=== "References"
+[^1]:
     Inspired by [Food & Wine](https://www.foodandwine.com/recipes/garlic-peanut-sauce).

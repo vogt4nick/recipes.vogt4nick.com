@@ -25,5 +25,5 @@
 
     !!! caution "Over-whisking can result in tough, rubbery pancakes."
 
-=== "References"
+[^1]:
     Inspired by [Chef John](https://foodwishes.blogspot.com/2020/10/banana-bread-pancakes-based-on-true.html).

@@ -23,5 +23,5 @@ title: Jalapeño cheese puffs
 
     !!! tip "Be careful not to overmix the eggs and cheese into the batter!"
 
-=== "References"
+[^1]:
     Inspired by [Forking Good](https://www.amazon.com/dp/1683691555)'s jalapeño poppers.

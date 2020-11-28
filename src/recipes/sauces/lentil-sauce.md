@@ -27,5 +27,5 @@
 ??? example "Companion Foods"
     Serve over pasta shells or other small (but not too small) pasta.
 
-=== "References"
+[^1]:
     Inspired by Diana Shaw in [*The Essential Vegetarian Cookbook*](https://smile.amazon.com/dp/051788268X).

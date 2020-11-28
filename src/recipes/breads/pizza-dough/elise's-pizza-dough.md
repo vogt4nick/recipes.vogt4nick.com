@@ -17,5 +17,5 @@
 
 !!! info "Yields one large pizza or two medium pizzas."
 
-=== "References"
+[^1]:
     Inspired by Elise Walter.

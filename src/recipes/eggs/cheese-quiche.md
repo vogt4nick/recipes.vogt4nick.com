@@ -22,5 +22,5 @@
     ??? question "My piecrust is darkening too quickly. What do I do?"
         Reduce the oven heat to 300 F (150 C)
 
-=== "References"
+[^1]:
     Inspired by [How to Cook Everything](https://www.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).

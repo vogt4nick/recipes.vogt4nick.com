@@ -24,5 +24,5 @@
     1. Heat olive oil in stock pan over medium-high heat. Add onion. Cook 6 minutes until soft, stirring every 2 minutes. Add garlic and cumin. Stir. Cook 4 minutes, stirring every 2 minutes, until fragrant. Add tomatoes, coconut milk, spices. Stir. Cook 4 minutes until mixture begins to boil. Add potatoes, cauliflower, garbanzo beans. Stir evenly. Reduce heat to low. Cover. Simmer 60 minutes.
     2. Garnish with garam masala and serve.
 
-=== "References"
+[^1]:
     Inspired by [Alicia's Aloo Gobi](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/).

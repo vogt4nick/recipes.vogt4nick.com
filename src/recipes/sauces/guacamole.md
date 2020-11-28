@@ -19,5 +19,5 @@
 
 !!! info "Refrigerate up to 4 hours."
 
-=== "References"
+[^1]:
     Inspired by [How to Cook Everything](https://smile.amazon.com/How-Cook-Everything-Recipes-Anniversary/dp/0764578650).

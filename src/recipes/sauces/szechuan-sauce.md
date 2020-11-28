@@ -25,5 +25,5 @@
 
 !!! tip "This sauce has many names; usually some variation of Chinese/Szechuan Chili Sauce/Oil."
 
-=== "References"
+[^1]:
     Inspired by [China Sichuan Food](https://www.chinasichuanfood.com/chinese-chili-oil/).

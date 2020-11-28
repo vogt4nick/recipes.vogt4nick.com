@@ -21,5 +21,5 @@
     ??? caution "Do not pack the rice before steaming!"
         "If you pack the rice, it don't come nice." -Chef John
 
-=== "References"
+[^1]:
     Inspired by [Chef John](https://foodwishes.blogspot.com/2014/12/persian-rice-sorry-measuring-cups.html).
