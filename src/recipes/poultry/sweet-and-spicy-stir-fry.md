@@ -29,4 +29,4 @@ title: Sweet & spicy stir fry
 
 [^1]: {{ cite.bittman_how_to_cook_everything }}
 [^2]:
-    Moncel, Beth. ["Sticky Ginger Soy Glazed Chicken."](https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken/) Budget Bytes. January 16, 2020. Accessed January 20, 2020.
+    Moncel, Beth. ["Sticky Ginger Soy Glazed Chicken."](https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken/) Budget Bytes. 16 January 2020. Accessed 2020.
