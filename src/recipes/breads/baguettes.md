@@ -9,7 +9,9 @@
         * 10 ml Instant Yeast
         * 10 ml Kosher Salt
 
-    !!! info "Yields two loaves."
+    !!! note "I also find good results with 1:1 mixture of all-purpose flour and bread flour."
+
+    !!! info "Yields two 450 g loaves."
 
 === "Directions"
     1. **Make starter.** Add flour, yeast, and water to small mixing bowl. Mix. Ferment at least 6 hours, covered, at room temperature.
