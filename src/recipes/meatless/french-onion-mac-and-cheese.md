@@ -1,5 +1,5 @@
 === "Ingredients"
-    * Caramelized Onion
+    * [Caramelized Onions](../../references/techniques/caramelized-onions.md)
         * 30 g Butter, unsalted
         * 900 g Onions, sliced
         * 180 ml White Wine
@@ -20,7 +20,7 @@
 
 === "Directions"
     1. **Preheat oven** to 425F (220C).
-    2. **Caramelize Onions.** Melt butter in skillet over medium heat. Add onions, salt. Coat evenly. Saute 30 minutes, stirring every 5 minutes, until caramelized. Add wine, thyme. Stir evenly, scraping up fond. Reduce by half. Remove from heat. Set aside, reserving 30 ml for garnish.
+    2. **Caramelize onions.** Reduce with wine and thyme. Stir evenly, scraping up fond. Reduce by half. Remove from heat. Set aside, reserving 30 ml for garnish.
     3. **Prepare cheese sauce.** Melt butter in oven-safe skillet over medium heat. Add flour. Whisk to combine. Slowly add milk, whisking constantly, until smooth. Reduce 5 minutes until thickened. Add cheese. Stir evenly until fully melted. Add mustard, salt, pepper.
     4. **Combine.** Add *cooked macaroni*, *caramelized onion* to cheese sauce. Stir to combine. Layer *caramelized onion garnish*, gruyere, bread crumbs, thyme.
     5. **Bake.** Transfer oven-safe skillet to oven. Bake 10 minutes at 425F, until top layer is bubbling and golden brown. Remove from heat. Cool 10 minutes at room temperature. Serve.
