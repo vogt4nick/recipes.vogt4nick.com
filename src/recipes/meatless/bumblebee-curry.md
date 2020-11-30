@@ -1,17 +1,18 @@
 === "Ingredients"
     * 45 ml Yellow Spices
-        * 15 ml Cilantro, dried
-        * 8 ml Kosher Salt
-        * 8 ml Turmeric, ground
-        * 5 ml Cayenne Pepper
-        * 3 ml Cinnamon, ground
-        * 3 ml Ginger, grated
-        * 3 ml Cardamom, ground
+        * 12 ml Cilantro, dried
+        * 6 ml Kosher Salt
+        * 6 ml Turmeric, ground
+        * 2 ml Cardamom, ground
+        * 2 ml Cayenne
+        * 2 ml Cinnamon, ground
+        * 2 ml Ginger, grated
+        * 2 ml Paprika
     * 30 ml Olive Oil
     * 110 g Yellow Onion, minced
     * 10 ml Garlic, minced
-    * 3 ml Cumin, ground
-    * 200 g Tomatoes, diced
+    * 2 ml Cumin, ground
+    * 200 g Tomatoes, chopped
     * 400 ml Coconut Milk
 
 === "Directions"
@@ -25,5 +26,5 @@
     * [Roasted potatoes](../sides/roasted-potatoes.md)
     * Roasted chickpeas
 
-??? info "About"
-    Subtly fragrant and complex. Come into being after several iterations and adaptations on an aloo gobi recipe.
+[^1]:
+    ["Alicia's Aloo Gobi."](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/). All Recipes. 6 Sep 2015. Accessed 2019.
