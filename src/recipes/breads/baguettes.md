@@ -1,15 +1,13 @@
 === "Ingredients"
     * Starter
-        * 100 g Bread Flour
+        * 100 g All-Purpose Flour
         * 100 g Water, cool
         * < 1 ml Instant Yeast
     * Dough
-        * 400 g Bread Flour
+        * 400 g All-Purpose Flour
         * 270 g Water, cool
         * 10 ml Instant Yeast
         * 10 ml Kosher Salt
-
-    !!! note "I also find good results with 1:1 mixture of all-purpose flour and bread flour."
 
     !!! info "Yields two 450 g loaves."
 
@@ -82,7 +80,7 @@
 
     The "loaf forming method" of course refers to the shape of the bread and also the scoring discussed above. Forming baguettes requires a careful hand; if we disturb the air pockets too much, the resulting loaf will be dense and visually flatter.
 
-    Of course, the ingredients have as much to do with the quality of the loaf as the baker, but for this recipe bread flour and commercial yeast is sufficient. For a very special loaf we may make our own starter or get a regional, high-protein flour.
+    Of course, the ingredients have as much to do with the quality of the loaf as the baker, but commercial yeast is sufficient here. For a very special loaf we may make our own starter or get a regional, high-protein flour.
 
 [^1]:
     Alder, Darryl. ["Science of the Autolyse."](https://www.abigailsoven.com/science-of-the-autolyse/) Abigail's Oven. 26 July 2020. Accessed 27 November 2020.
