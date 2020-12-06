@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 450 g Round Steak
+    * 500 g Beef Chuck
     * Marinade
         * 1 ml Kosher Salt
         * 2 Pepper Corns
@@ -10,16 +10,16 @@
         * 5 ml Rosemary
         * 330 ml Water, cold
         * 90 ml White Vinegar
-        * 110 g White Onion, minced
-        * 60 g Carrot, chopped
-    * 45 ml Neutral Oil
-    * 15 ml Butter, unsalted, melted
-    * 1 ml Kosher Salt
-    * 110 g White Onion, sliced
-    * 110 g Celery, chopped
-    * 110 g Carrot, chopped
-    * 10 ml Garlic, minced
+        * 80 g White Onion, minced
+        * 80 g Carrot, chopped
+    * 45 ml Vegetable Oil
+    * 2 ml Kosher Salt
+    * 1 ml Black Pepper, ground
+    * 80 g White Onion, sliced
+    * 80 g Celery, roughly chopped
+    * 80 g Carrot, roughly chopped
     * 120 ml Water, cold
+    * 10 ml Garlic, crushed
     * 15 ml Red Wine
     * Garnish
         * 15 ml Scallion greens, chopped (optional)
@@ -28,21 +28,23 @@
         * Substitute 15 ml gin for juniper berries.
 
 === "Directions"
-    1. **Marinate steak.** Tenderize steak until about 20 mm thick. Add marinade, pork steaks to ziploc bag. Rest 3 days in refrigerator.
-    2. **Preheat oven** to 275F (135C). Heat dutch oven over medium heat.
-    3. **Strain marinade.** Remove steak from marinade. Pat steak dry. Reserve *marinade liquid*.
-    4. **Sear steak.** Heat canola oil in oven-safe frying pan over medium-high heat. Add steak to pan. Season with salt, butter. Cook 4 minutes until slightly charred. Flip. Cook 4 minutes. Remove meat from pan. Set aside as *seared steak*.
-    5. **Cook vegetables.** Maintain medium-high heat on the same pan. Add vegetables and garlic. Cook 15 minutes, stirring every 4 minutes. Add *marinade liquid*, water, and red wine to pan. Stir. Reduce 60 seconds over medium-high heat.
-    6. **Braise steaks.** Add *seared steaks* and *cooked vegetables* to preheated dutch oven. Cover slightly ajar. Place dutch oven in oven. Braise 90 minutes at 275F.
-    7. **Garnish** with scallion greens and serve.
+    1. **Marinate beef.** Add marinade, beef to glass bowl. Rest 3 days in refrigerator.
+    2. **Drain beef marinade.** Remove steak from marinade. Pat steak dry. Reserve marinade.
+    3. **Sear steak.** Heat oil in stockpot over high heat. Add beef. Season with salt, pepper. Fry 14 minutes, flipping midway, until both sides are seared. Remove meat from pan and set aside.
+    4. **Cook vegetables.** Reduce heat to medium. Add vegetables. Cook 10 minutes, stirring every 4 minutes, until softened.
+    5. **Braise beef.** Return seared beef to stockpot. Add reserved marinade, garlic, red wine, and enough water so that meat is not quite covered. Braise at least 2.5 hours until fork tender.
+    6. **Thicken sauce.** Drain liquid into a saucepan. Filter out vegetables and seasonings. Skim fat if possible. Carefully correct seasoning.
+    7. **Garnish** meat with sauce and scallion greens.
 
-??? tip "24 hour marinade"
-    Marinate pork in 24 hours by scouring the pork steaks before marinating.
+    !!! note "Marinate beef in 24 hours by scouring the beef before marinating."
 
-??? example "Companion Foods"
-    * [potato dumplings](../../sides/potato-dumplings.md)
-    * [rotkraut](../../salads/slaws/rotkraut.md)
-    * [sugar roux](../../sauces/sugar-roux.md)
+    ??? caution "Do not marinate in food storage bags."
+        The acidic marinade will break down the plastic material. It will leak in your fridge and impart unwanted flavors to the beef.
+
+    ???+ quote "Gordon Ramsay in "Winter Beef Recipes To Keep You Warm"[^2]"
+        The secret of braising is having little of the meat exposed and 90% of it submerged... They're like little crocodile heads popping up out of the water... Leave the lid [uncovered]... If we had to cover it completely, steam hits the top of the lid and all the water comes running back [on top of the exposed meat].
 
 [^1]:
     ["German Sauerbraten Recipe."](http://www.bavariankitchen.com/meats/sauerbraten.aspx). 26 December 2009. Accessed 2019.
+[^2]:
+    Ramsay, Gordon. ["Winter Beef Recipes To Keep You Warm."](https://www.youtube.com/watch?v=eTqGvxI-QFY) YouTube. 19 November 2020. Accessed November 2020.
