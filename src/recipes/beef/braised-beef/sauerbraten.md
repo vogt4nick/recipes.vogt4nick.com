@@ -40,9 +40,9 @@
     Marinate pork in 24 hours by scouring the pork steaks before marinating.
 
 ??? example "Companion Foods"
-    * [potato dumplings](../sides/potato-dumplings.md)
-    * [rotkraut](../salads/slaws/rotkraut.md)
-    * [sugar roux](../sauces/sugar-roux.md)
+    * [potato dumplings](../../sides/potato-dumplings.md)
+    * [rotkraut](../../salads/slaws/rotkraut.md)
+    * [sugar roux](../../sauces/sugar-roux.md)
 
 [^1]:
     ["German Sauerbraten Recipe."](http://www.bavariankitchen.com/meats/sauerbraten.aspx). 26 December 2009. Accessed 2019.

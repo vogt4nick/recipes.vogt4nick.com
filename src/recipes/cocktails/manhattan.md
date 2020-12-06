@@ -7,4 +7,4 @@
         * Cherry Juice
 
 ??? tip "Pair with savory, meaty entrees."
-    e.g. [B.O.C. Monsieur](../handhelds/boc-monsieur.md), [Sauerbraten](../beef/sauerbraten.md).
+    e.g. [B.O.C. Monsieur](../handhelds/boc-monsieur.md), [Sauerbraten](../beef/braised-beef/sauerbraten.md).

@@ -24,7 +24,7 @@
     6. **Garnish and serve** ribs with gravy.
 
 ??? example "Companion Foods"
-    Pairs nicely with [mashed potatoes](../sides/mashed-potatoes.md), and keeps well in fridge for leftovers.
+    Pairs nicely with [mashed potatoes](../../sides/mashed-potatoes.md), and keeps well in fridge for leftovers.
 
 [^1]:
     Kelley, Jeanne Thiel. ["Zinfandel-Braised Beef Short Ribs with Rosemary-Parsnip Mashed Potatoes."](https://www.epicurious.com/recipes/food/views/zinfandel-braised-beef-short-ribs-with-rosemary-parsnip-mashed-potatoes-352635). Epicurious. 19 April 2009. Accessed 2019.
