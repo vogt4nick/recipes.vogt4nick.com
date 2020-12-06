@@ -18,7 +18,7 @@
     4. **Proof once.** Transfer dough to a lightly greased bowl. Roll to coat dough with oil. Proof 2 hours, covered, until the dough nearly doubles in size.
     5. **Pre-shape loaves.** Transfer dough to a lightly floured surface. Dividing as desired, [pre-shape each baguette](https://www.youtube.com/watch?v=cpqGHiPxuQU&t=1m55s).
     6. **Proof twice.** Transfer pre-shaped baguettes to a flat surface. Proof 2 hours, covered, until the dough nearly doubles in size.
-    7. **Shape loaves.** Prepare a lightly floured surface. Transfer dough to prepared surface. Divide dough into thirds using a bench scraper (careful not to deflate air bubbles). [Shape each baguette](https://www.youtube.com/watch?v=xlN5CgQcvAg) into a 10 cm diameter baguette.
+    7. **Shape loaves.** Prepare a lightly floured surface. Transfer pre-shaped loaves to prepared surface. [Shape each baguette](https://www.youtube.com/watch?v=xlN5CgQcvAg) into a 10 cm diameter baguette.
     8. **Proof thrice.** Prepare a floured kitchen towel. Transfer loaves to towel. Scrunch towel between loaves to help shape loaves as they proof. Proof 50 minutes at 25C until the loaves have grown to 1.5x times their original size but still spring back when poked.
     9. **Arrange oven.** Place one oven rack in the lowest position and one in the middle position. Place an empty sheet pan in the bottom rack; we'll use it to boil water later. Place a pizza stone on the top rack.
     10. **Preheat oven** to 500F (260C).
