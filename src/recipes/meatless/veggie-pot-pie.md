@@ -1,5 +1,5 @@
 === "Ingredients"
-    * [Pie Crust](../breads/pie-crust.md), chilled
+    * [Savory Pie Crust](../breads/crusts/pie-crust.md), chilled
     * Blond Roux
         * 110 ml Butter, unsalted
         * 110 ml All-Purpose Flour

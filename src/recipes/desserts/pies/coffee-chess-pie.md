@@ -12,7 +12,7 @@
         * 60 ml Espresso Powder
         * 60 ml Yellow Cornmeal, finely ground
         * 1 ml Kosher Salt
-    * 1 [Pie crust, blind baked](../../breads/pie-crust.md)
+    * 1 [Pie crust, blind baked](../../breads/crusts/pie-crust.md)
     * Egg Wash
         * 1 Egg, beaten
         * 5 ml Water

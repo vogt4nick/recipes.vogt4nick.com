@@ -1,5 +1,5 @@
 === "Ingredients"
-    * [Savory Piecrust](../breads/pie-crust.md), blind baked, cooled
+    * [Savory Piecrust](../breads/crusts/pie-crust.md), blind baked, cooled
     * Filling
         * 6 Eggs, room temperature
         * 200 g Melty Cheese, grated
