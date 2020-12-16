@@ -1,7 +1,7 @@
 === "Ingredients"
     * Egg Mixture
         * 5 Egg Yolks, room temperature
-        * 220 g Demarara Brown Sugar
+        * 220 g [Demerara](https://www.amazon.com/dp/B0006GSXPC/) or Brown Sugar
     * 1500 ml English Ale
     * Spices
         * 2 ml Cloves, whole
