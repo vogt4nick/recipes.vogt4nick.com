@@ -1,5 +1,5 @@
 ---
-title: PB Paprika Cookies
+title: PB paprika cookies
 ---
 === "Ingredients"
     * Flour Mixture
