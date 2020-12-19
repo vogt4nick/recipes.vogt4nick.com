@@ -39,8 +39,8 @@
     7. **Bake.** Transfer pie to a parchment-lined sheetpan. Bake 15 - 20 minutes at 450 F until the crust is evenly golden brown. Reduce heat to 325 F (160 C), and continue baking 50 - 70 minutes until the pie juices are bubbling in the center.
     8. **Cool** 4 - 6 hours on a wire rack until room temperature.
 
-    ??? quote "Lisa Lundwinski on crimping crust[^2]"
-        Roll the dough overhang of the bottom crust toward the center of the pie, creating a ring of dough, as though you were rolling a poster tightly. Roll the dough with one thumb while the other thumb presses the dough down into the tin's edge to seal. Then form a "C" with the thumb and index finger of one hand and use those fingers to pinch and lift the rim of the dough up and away from the pan, simultaneously pressing the thumb of your other hand into the "C" to make a crimp.
+    ??? quote "Lisa Ludwinski on crimping crust:[^2]"
+        > Roll the dough overhang of the bottom crust toward the center of the pie, creating a ring of dough, as though you were rolling a poster tightly. Roll the dough with one thumb while the other thumb presses the dough down into the tin's edge to seal. Then form a "C" with the thumb and index finger of one hand and use those fingers to pinch and lift the rim of the dough up and away from the pan, simultaneously pressing the thumb of your other hand into the "C" to make a crimp.
 
 [^1]:
     Brown, Alton. ["Candied Ginger."](https://www.foodnetwork.com/recipes/alton-brown/candied-ginger-recipe-1944906) *Food Network.* May 2017. Accessed December 2020.
