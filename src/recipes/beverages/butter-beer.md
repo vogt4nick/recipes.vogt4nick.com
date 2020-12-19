@@ -21,4 +21,4 @@
     > Take three pintes of Beere, put five yolkes of Egges to it, straine them together, and set it in a pewter pot to the fyre, and put to it halfe a pound of Sugar, one penniworth of Nutmegs beaten, one penniworth of Cloues beaten, and a halfepenniworth of Ginger beaten, and when it is all in, take another pewter pot and brewe them together, and set it to the fire againe, and when it is readie to boyle, take it from the fire, and put a dish of sweet butter into it, and brewe them together out of one pot into an other.
 
 [^1]:
-    Miller, Max. ["Making 400 Year Old Buttered Beere."](https://www.youtube.com/watch?v=ZlMhZvOX2ps) *YouTube.* 10 March, 2020. Accessed December 2020.
+    *Tasting History with Max Miller.* ["Making 400 Year Old Buttered Beere."](https://www.youtube.com/watch?v=ZlMhZvOX2ps) 10 March, 2020. Accessed December 2020.

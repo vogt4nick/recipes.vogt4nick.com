@@ -28,4 +28,4 @@
 [^1]:
     [Reddit](https://www.reddit.com/r/Cooking/comments/21cfl0/whats_the_secret_to_naan_every_recipe_ends_up/)
 [^2]:
-    Jain, Manjula. ["Naan – Oven Baked Flat Bread."](http://www.manjulaskitchen.com/naan-bread/). Manjula's Kitchen. 6 May 2014. Accessed 2020.
+    Jain, Manjula. ["Naan – Oven Baked Flat Bread."](http://www.manjulaskitchen.com/naan-bread/) *Manjula's Kitchen.* 6 May 2014. Accessed 2020.

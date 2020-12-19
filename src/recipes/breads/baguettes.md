@@ -81,7 +81,7 @@
 [^2]:
     Calvel, Raymond, Ronald L. Wirtz, and James MacGuire. [*The Taste of Bread: A Translation of Le Goût Du Pain, Comment Le Préserver, Comment Le Retrouver.*]((https://www.amazon.com/dp/B0160F1NWW)) New York: Springer Science Business Media, LLC, 2013.
 [^3]:
-    Färbinger, Markus. ["A Masterclass: Baguettes & Ciabattas."](https://www.youtube.com/watch?v=xlN5CgQcvAg). Youtube. 29 August 2017. Accessed 2020.
+    Färbinger, Markus. ["A Masterclass: Baguettes & Ciabattas."](https://www.youtube.com/watch?v=xlN5CgQcvAg).  *Michael Chèze Productions.* 29 August 2017. Accessed 2020.
 [^4]:
     Ferst, Devra. ["Baguette Essentials: French Baker Eric Kayser Explains the 5 Crucial Things to Look for in the Perfect Baguette."](https://www.tastingtable.com/dine/national/perfect-baguette-bread-crust-eric-kayser-new-york-paris) Tasting Table. 26 January 2016. Accessed 27 November 2020.
 [^5]:
@@ -91,8 +91,8 @@
 [^7]:
     Hollywood, Paul. ["Paul Hollywood's Baguettes."](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-baguettes/) The Great British Bake Off. 19 August 2015. Accessed 28 November 2020.
 [^8]:
-    ["King Arthur Flour's Baguette Baking Series."](https://www.youtube.com/watch?v=masipMhrV5c&list=PLE2D447C3F9AAD68F) YouTube. 6 February 2011.
+    ["King Arthur Flour's Baguette Baking Series."](https://www.youtube.com/watch?v=masipMhrV5c&list=PLE2D447C3F9AAD68F) *YouTube.* 6 February 2011.
 [^9]:
-    MasterClass. ["Classic French Baguette Recipe: Learn How to Make Baguettes at Home."](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home) MasterClass. 8 November 2020. Accessed 27 November 2020.
+    ["Classic French Baguette Recipe: Learn How to Make Baguettes at Home."](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home) *MasterClass.* 8 November 2020. Accessed 27 November 2020.
 [^10]:
     McGee, Harold. [*On Food and Cooking: The Science and Lore of the Kitchen.*](https://www.amazon.com/dp/0684800012) New York: Scribner, 2004.

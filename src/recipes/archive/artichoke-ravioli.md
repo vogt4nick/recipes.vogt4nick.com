@@ -51,6 +51,6 @@
         Air pockets increase the chance that ravioli will break during cooking."
 
 [^1]:
-    Achitoff-Gray, Niki. ["The Science of the Best Fresh Pasta."](https://www.seriouseats.com/2015/01/best-easy-all-purpose-fresh-pasta-dough-recipe-instructions.html) Serious Eats. 3 October 2019. Accessed May 2020.
+    Achitoff-Gray, Niki. ["The Science of the Best Fresh Pasta."](https://www.seriouseats.com/2015/01/best-easy-all-purpose-fresh-pasta-dough-recipe-instructions.html) *Serious Eats.* 3 October 2019. Accessed May 2020.
 [^2]:
-    Perelman, Deb. ["Artichoke Ravioli with Tomatoes."](https://smittenkitchen.com/2007/01/artichoke-gaga/) Smitten Kitchen. 14 July 2016. Accessed May 2020.
+    Perelman, Deb. ["Artichoke Ravioli with Tomatoes."](https://smittenkitchen.com/2007/01/artichoke-gaga/) *Smitten Kitchen.* 14 July 2016. Accessed May 2020.

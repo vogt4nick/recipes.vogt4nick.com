@@ -42,4 +42,4 @@ title: Carbonnades à la Flamande
 
 [^1]: {{ cite.child_french_cooking }}
 [^2]:
-    Ramsay, Gordon. ["Winter Beef Recipes To Keep You Warm."](https://www.youtube.com/watch?v=eTqGvxI-QFY) YouTube. 19 November 2020. Accessed November 2020.
+    Ramsay, Gordon. ["Winter Beef Recipes To Keep You Warm."](https://www.youtube.com/watch?v=eTqGvxI-QFY) 19 November 2020. Accessed November 2020.

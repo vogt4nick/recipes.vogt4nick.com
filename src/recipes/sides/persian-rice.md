@@ -20,7 +20,7 @@
     4. **Garnish.** Take about 250 ml steamed rice from stockpot. Mix with saffron. Top white rice with saffron rice and parsley. Serve with fried potatoes from base.
 
     ??? caution "Do not pack the rice before steaming!"
-        "If you pack the rice, it don't come nice." -Chef John
+        "If you pack the rice, it don't come nice." -Chef John[^1]
 
 [^1]:
-    Mitzewich, John. ["Persian Rice – Sorry, Measuring Cups."](https://foodwishes.blogspot.com/2014/12/persian-rice-sorry-measuring-cups.html) Food Wishes. 3 January 2014. Accessed October 2020.
+    Mitzewich, John. ["Persian Rice – Sorry, Measuring Cups."](https://foodwishes.blogspot.com/2014/12/persian-rice-sorry-measuring-cups.html) *Food Wishes.* 3 January 2014. Accessed October 2020.

@@ -22,4 +22,4 @@
         Hold your ear close to the hush puppies and listen. If you hear boiling or simmering, they need more time.
 
 [^1]:
-    Deen Brothers. ["Baked Hush Puppies."](https://www.pauladeen.com/recipe/baked-hush-puppies/). Paula Deen Ventures. 20 September 2020. Accessed 26 November 2020.
+    Deen Brothers. ["Baked Hush Puppies."](https://www.pauladeen.com/recipe/baked-hush-puppies/) *Paula Deen Ventures.* 20 September 2020. Accessed 26 November 2020.

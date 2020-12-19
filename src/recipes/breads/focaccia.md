@@ -21,4 +21,4 @@
     6. **Bake focaccia** 30 minutes at 400 F.
 
 [^1]:
-    [*Gordon Ramsay's Guide To Baking | Ultimate Cookery Course*](https://www.youtube.com/watch?v=WR1MDeP-qSc). YouTube. 14 January 2020.
+    Ramsay, Gordon. ["Gordon Ramsay's Guide To Baking | Ultimate Cookery Course."](https://www.youtube.com/watch?v=WR1MDeP-qSc) *YouTube.* 14 January 2020.

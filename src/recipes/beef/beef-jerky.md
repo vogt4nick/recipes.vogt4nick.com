@@ -19,6 +19,5 @@
     1. **Marinate beef.** Add steak strips to large freezer bag. Add marinade. Coat evenly. Marinate 8 hours in refrigerator.
     2. **Dehydrate beef.** Add marinated steak strips to dehydrator. Dehydrate 5 hours at 160F (70C). Store in an airtight container or resealable bags.
 
-
 [^1]:
-    ["Doc's Best Beef Jerky."](https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/). All Recipes. 6 September 2015. Accessed December 2019.
+    ["Doc's Best Beef Jerky."](https://www.allrecipes.com/recipe/142948/docs-best-beef-jerky/). *All Recipes.* 6 September 2015. Accessed December 2019.

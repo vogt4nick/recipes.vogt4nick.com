@@ -40,4 +40,4 @@
         Soaking the ribs helps to draw out excess blood from the meat.
 
 [^1]:
-    Kevin. ["Galbijjim (Korean Braised Beef Short Ribs) Recipe."](https://www.theminichef.com/galbijjim/) The Mini Chef. 26 September 2020. Accessed 2020.
+    ["Galbijjim (Korean Braised Beef Short Ribs) Recipe."](https://www.theminichef.com/galbijjim/) *The Mini Chef.* 26 September 2020. Accessed 2020.

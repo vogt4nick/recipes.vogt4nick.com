@@ -32,4 +32,4 @@
 
 
 [^1]:
-    Killebrew, Kimberly. ["Traditional Hungarian Goulash."](https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/). Daring Gourmet. 9 January 2017. Accessed 2019.
+    Killebrew, Kimberly. ["Traditional Hungarian Goulash."](https://www.daringgourmet.com/traditional-hungarian-goulash-gulyas/). *Daring Gourmet.* 9 January 2017. Accessed 2019.
