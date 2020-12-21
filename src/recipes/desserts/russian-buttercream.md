@@ -9,7 +9,7 @@
 
     !!! tip "Mix in up to 120 ml powdered sugar if the frosting is broken or not stiff enough."
 
-!!! info "Yields about 720 g."
+!!! info "Yields about 600 g."
 
 [^1]:
     White, Chelsey. ["Russian Buttercream."](https://chelsweets.com/2020/01/06/russian-buttercream/) *Chelsweets.* 6 January 2020. Accessed December 2020.
