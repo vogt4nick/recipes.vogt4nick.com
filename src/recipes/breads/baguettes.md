@@ -2,32 +2,30 @@
     * Starter
         * 100 g Bread Flour
         * 100 ml Water, cool
-        * < 1 ml Active Dry Yeast
-    * Dough
-        * 400 g Bread Flour
-        * 150 ml Water, cool
-    * Yeast Mixture
-        * 13 g Active Dry Yeast
-        * 50 ml Water, warm (40 C)
+        * 2 g [Diastatic Malt Powder](https://www.amazon.com/dp/B01JXZ0PW0) (optional)
+        * < 1 ml Instant Yeast
+    * 400 g Bread Flour
+    * 270 ml Water, cool
+    * 13 g Instant Yeast
     * 10 g Kosher Salt
+    * 8 g [Diastatic Malt Powder](https://www.amazon.com/dp/B01JXZ0PW0) (optional)
 
     !!! info "Yields two 400 g loaves."
 
 === "Directions"
-    1. **Make starter.** Add flour, yeast, and water to small mixing bowl. Mix. Ferment at least 6 hours, covered, at room temperature.
+    1. **Mix starter** ingredients. Ferment at least 6 hours, covered, at room temperature.
     2. **Autolysis.** Combine flour and water in a mixing bowl until a shaggy dough forms. Rest 30 minutes, covered, at room temperature.
-    3. **Activate yeast.** Combine yeast mixture. Soak 10 minutes, covered, at room temperature until yeast is activated.
-    4. **Knead dough.** Combine starter, dough, salt, and yeast mixture. Transfer to a floured surface. Knead at least 10 minutes until dough passes the windowpane test. Fold in extra flour as needed.
-    5. **Proof once.** Transfer dough to a lightly greased bowl. Roll to coat dough with oil. Proof 1-2 hours, covered, until the dough nearly doubles in size.
-    6. **Divide, degas, and pre-shape loaves.** Transfer dough to a lightly floured surface. Dividing into two loaves, [degas and pre-shape each baguette](https://www.youtube.com/watch?v=cpqGHiPxuQU&t=1m55s).
-    7. **Rest.** Transfer pre-shaped baguettes to a flat, floured surface. Rest 15 minutes, covered.
-    8. **Shape loaves.** Prepare a lightly floured surface. Transfer pre-shaped loaves to prepared surface. [Shape each baguette](https://www.youtube.com/watch?v=xlN5CgQcvAg) into a 10 cm diameter baguette.
-    9. **Proof twice.** Transfer loaves to a sheet pan dressed with semolina. Proof 60 minutes at room temperature until the loaves have grown to 1.5x times their original size but still spring back when poked.
-    10. **Arrange oven.** Place one oven rack in the lowest position and one in the middle position. Place an empty sheet pan in the bottom rack; we'll use it to boil water later. Place a pizza stone on the top rack.
-    11. **Preheat oven** to 500F (260C).
-    12. **Score loaves.** With the seam side down, score loaf using a bread lame, razor blade, or a very sharp knife. Cut 3 evenly spaced diagonal slashes 1 cm deep on the surface of the loaf.
-    13. **Bake.**  Place sheet pan in oven on middle rack. Pour hot water into the empty sheet pan on the bottom rack. Bake 20 minutes until baguettes' ridges turn dark, coffee brown.
-    14. **Cool baguettes.** Transfer baguettes to cooling rack. Cool 40 minutes at room temperature.
+    3. **Knead dough.** Mix starter, autolysis dough, and remaining ingredients until combined. Knead 6-10 minutes until dough passes the windowpane test. Fold in extra flour as needed.
+    4. **Proof once.** Transfer dough to a lightly greased bowl. Roll to coat dough with oil. Proof 1-2 hours, covered, until the dough nearly doubles in size.
+    5. **Divide, degas, and pre-shape loaves.** Transfer dough to a lightly floured surface. Dividing into two loaves, [degas and pre-shape each baguette](https://www.youtube.com/watch?v=cpqGHiPxuQU&t=1m55s).
+    6. **Rest.** Transfer pre-shaped baguettes to a flat, floured surface. Rest 15 minutes, covered.
+    7. **Shape loaves.** Prepare a lightly floured surface. Transfer pre-shaped loaves to prepared surface. [Shape each baguette](https://www.youtube.com/watch?v=xlN5CgQcvAg) into a 10 cm diameter baguette.
+    8. **Proof twice.** Transfer loaves to a sheet pan dressed with semolina. Proof 60 minutes at room temperature until the loaves have grown to 1.5x times their original size but still spring back when poked.
+    9.  **Arrange oven.** Place one oven rack in the lowest position and one in the middle position. Place an empty sheet pan in the bottom rack; we'll use it to boil water later. Place a pizza stone on the top rack.
+    10. **Preheat oven** to 500F (260C).
+    11. **Score loaves.** With the seam side down, score loaf using a bread lame, razor blade, or a very sharp knife. Cut 3 evenly spaced diagonal slashes 1 cm deep on the surface of the loaf.
+    12. **Bake.**  Place sheet pan in oven on middle rack. Pour hot water into the empty sheet pan on the bottom rack. Bake 20 minutes until baguettes' ridges turn dark, coffee brown.
+    13. **Cool baguettes.** Transfer baguettes to cooling rack. Cool 40 minutes at room temperature.
 
     ??? question "What's the windowpane test?"
         > The 'windowpane test' is a way to check the gluten development of your dough during kneading. Break off a small piece of dough, and gently stretch it out until it’s thin enough to see through. If you can indeed see through it, you’re done kneading. If the dough breaks before you can stretch it out that thin, keep kneading.[^9]
