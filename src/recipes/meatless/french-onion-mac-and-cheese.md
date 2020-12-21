@@ -29,4 +29,4 @@
     Fight the urge to add bacon to the recipe. Invest in high-quality, robust cheeses instead!
 
 [^1]:
-    ["Mob's French Onion Mac & Cheese."](https://www.reddit.com/r/MobKitchen/comments/ew62bu/mobs_french_onion_mac_cheese/) Reddit. 30 January 2020. Accessed 2020.
+    ["Mob's French Onion Mac & Cheese."](https://www.reddit.com/r/MobKitchen/comments/ew62bu/mobs_french_onion_mac_cheese/) *Reddit.* 30 January 2020. Accessed 2020.

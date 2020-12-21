@@ -18,4 +18,4 @@
     Add tamarind pulp, fish sauce, and sugar to small saucepan. Melt over low heat. Add paprika. Stir.
 
 [^1]:
-    Pim. ["Pad Thai for Beginners."](http://web.baz.org/adam/recipes/pad_thai_for_be.html). Chez Pim. 21 January 2007. Accessed 2020.
+    Pim. ["Pad Thai for Beginners."](http://web.baz.org/adam/recipes/pad_thai_for_be.html) *Chez Pim.* 21 January 2007. Accessed 2020.

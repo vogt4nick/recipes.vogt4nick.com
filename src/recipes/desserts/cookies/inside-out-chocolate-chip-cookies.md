@@ -24,4 +24,4 @@
     8. **Rest cookies** 5 minutes at room temperature.
 
 [^1]:
-    ["Inside Out Chocolate Chip Cookies."](https://sallysbakingaddiction.com/inside-out-chocolate-chip-cookies/). Sally's Baking Addiction. 29 January 2020. Accessed 2020.
+    McKenney, Sally. ["Inside Out Chocolate Chip Cookies."](https://sallysbakingaddiction.com/inside-out-chocolate-chip-cookies/) *Sally's Baking Addiction.* 29 January 2020. Accessed 2020.

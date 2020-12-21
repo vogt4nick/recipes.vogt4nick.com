@@ -24,4 +24,4 @@ title: Jalapeño cheese puffs
     !!! tip "Be careful not to overmix the eggs and cheese into the batter!"
 
 [^1]:
-    Lupescu, Valya Dudycz, Stephen H. Segal, and Dingding Hu. [*Forking Good: An Unofficial Cookbook for Fans of The Good Place*](https://www.amazon.com/dp/1683691555). Philadelphia, PA: Quirk Books, 2019.
+    Lupescu, Valya Dudycz, Stephen H. Segal, and Dingding Hu. [*Forking Good: An Unofficial Cookbook for Fans of The Good Place.*](https://www.amazon.com/dp/1683691555) Philadelphia, PA: Quirk Books, 2019.

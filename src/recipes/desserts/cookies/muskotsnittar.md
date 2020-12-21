@@ -18,6 +18,6 @@
 [^1]:
     Brones, Anna. [*Fika: The Art of The Swedish Coffee Break, with Recipes for Pastries, Breads, and Other Treats.*](https://www.amazon.com/dp/1607745860) Berkley, CA: Ten Speed Press, 2015. Accessed December 2020.
 [^2]:
-    Roberts, Anna Monette. ["Frozen Fans: Make This Swedish Cookie."](https://web.archive.org/web/20181130062746/https://www.popsugar.com/food/Easy-Spice-Cookies-Recipe-37318751) Popsugar. 27 April 2015. Accessed December 2020.
+    Roberts, Anna Monette. ["Frozen Fans: Make This Swedish Cookie."](https://web.archive.org/web/20181130062746/https://www.popsugar.com/food/Easy-Spice-Cookies-Recipe-37318751) *Popsugar.* 27 April 2015. Accessed December 2020.
 [^3]:
-    ["Swedish Spice Cookies (Muskotsnittar)."](https://www.marthastewart.com/1525331/swedish-spice-cookies-muskotsnittar) Martha Stewart. March 2018. Accessed December 2020.
+    ["Swedish Spice Cookies (Muskotsnittar)."](https://www.marthastewart.com/1525331/swedish-spice-cookies-muskotsnittar) *Martha Stewart.* March 2018. Accessed December 2020.

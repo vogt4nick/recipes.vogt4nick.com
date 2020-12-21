@@ -18,4 +18,4 @@
     Pairs well with [yellow rice](../sides/yellow-rice.md).
 
 [^1]:
-    ["Pakistani Ground Beef Curry."](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/). All Recipes. 5 November 2018. Accessed 2020.
+    ["Pakistani Ground Beef Curry."](https://www.allrecipes.com/recipe/267015/pakistani-ground-beef-curry/) *All Recipes.* 5 November 2018. Accessed 2020.

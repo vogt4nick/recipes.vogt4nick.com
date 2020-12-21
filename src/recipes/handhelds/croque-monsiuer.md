@@ -13,4 +13,4 @@
     4. **Bake sandwiches.** Bake 5 minutes at 375F until cheese is melted. Turn on broiler. Broil 5 minutes until cheese bubbles and edges are spotted brown.
 
 [^1]:
-    ["Croque Monsieur."](https://www.cookscountry.com/recipes/11134-croque-monsieur). Cook's Country. October & November 2018. Accessed 2020.
+    ["Croque Monsieur."](https://www.cookscountry.com/recipes/11134-croque-monsieur) *Cook's Country.* October & November 2018. Accessed 2020.

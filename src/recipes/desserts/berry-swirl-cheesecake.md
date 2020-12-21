@@ -26,4 +26,4 @@
     9. **Serve.** Run a knife around edge of cake. Unmold cake. Serve.
 
 [^1]:
-    Perelman, Deb. ["Raspberry Swirl Cheesecake."](https://smittenkitchen.com/2014/08/raspberry-swirl-cheesecake/). Smitten Kitchen. 25 April 2017. Accessed 2019.
+    Perelman, Deb. ["Raspberry Swirl Cheesecake."](https://smittenkitchen.com/2014/08/raspberry-swirl-cheesecake/) *Smitten Kitchen.* 25 April 2017. Accessed 2019.

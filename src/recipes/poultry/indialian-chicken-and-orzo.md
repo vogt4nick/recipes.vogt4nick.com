@@ -25,4 +25,4 @@
     7. **Garnish** with basil and parmesan.
 
 [^1]:
-    ["One Pan Creamy Italian Orzo & Chicken."](https://www.reddit.com/r/GifRecipes/comments/95wr6x). Reddit. 2018. Accessed 2020.
+    ["One Pan Creamy Italian Orzo & Chicken."](https://www.reddit.com/r/GifRecipes/comments/95wr6x) *Reddit.* 2018. Accessed 2020.

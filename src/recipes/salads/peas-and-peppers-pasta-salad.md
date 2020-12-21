@@ -8,4 +8,4 @@
     1. **Combine ingredients** in a large bowl. Mix evenly.
 
 [^1]:
-    Perelman, Deb. ["Summer Pea and Roasted Red Pepper Pasta Salad."](https://smittenkitchen.com/2009/08/summer-pea-and-roasted-red-pepper-pasta-salad/). Smitten Kitchen. 8 August 2009. Accessed 2020.
+    Perelman, Deb. ["Summer Pea and Roasted Red Pepper Pasta Salad."](https://smittenkitchen.com/2009/08/summer-pea-and-roasted-red-pepper-pasta-salad/) *Smitten Kitchen.* 8 August 2009. Accessed 2020.

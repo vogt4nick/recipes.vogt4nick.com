@@ -27,4 +27,4 @@
     * Roasted chickpeas
 
 [^1]:
-    ["Alicia's Aloo Gobi."](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/). All Recipes. 6 Sep 2015. Accessed 2019.
+    ["Alicia's Aloo Gobi."](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/) *All Recipes.* 6 Sep 2015. Accessed 2019.

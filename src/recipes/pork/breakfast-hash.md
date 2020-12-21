@@ -18,4 +18,4 @@
     5. **Garnish and serve** with poached eggs, chives, and salsa.
 
 [^1]:
-    López-Alt, J. Kenji ["The Food Lab: How to Make the Best Potato Hash."](https://www.seriouseats.com/2014/04/the-food-lab-how-to-make-the-best-potato-hash.html). Serious Eats. 24 April 2014. Accessed 2020.
+    López-Alt, J. Kenji. ["The Food Lab: How to Make the Best Potato Hash."](https://www.seriouseats.com/2014/04/the-food-lab-how-to-make-the-best-potato-hash.html) *Serious Eats.* 24 April 2014. Accessed 2020.

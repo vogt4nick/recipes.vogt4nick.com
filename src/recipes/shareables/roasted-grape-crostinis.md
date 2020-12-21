@@ -18,4 +18,4 @@
     5. **Garnish** with roasted grapes, cheese, and basil.
 
 [^1]:
-    ["Roasted Grape Crostini."](https://www.tasteofhome.com/recipes/roasted-grape-crostini/) Taste of Home. 9 December 15. Accessed November 2020.
+    Elder, Janice. ["Roasted Grape Crostini."](https://www.tasteofhome.com/recipes/roasted-grape-crostini/) *Taste of Home.* 9 December 15. Accessed November 2020.

@@ -26,4 +26,4 @@
     Serve them by slicing the "loaf" like some kind of yooper beef wellington. If you prefer smaller, handheld pasties, reduce the meat mixture by half.
 
 [^1]:
-    ["Cornish Pasty."](https://www.hairybikers.com/recipes/view/cornish-pasty). Hairy Bikers. December 2015. Accessed 2019.
+    ["Cornish Pasty."](https://www.hairybikers.com/recipes/view/cornish-pasty) *Hairy Bikers.* December 2015. Accessed 2019.

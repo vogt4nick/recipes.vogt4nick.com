@@ -27,4 +27,4 @@ title: Käsespätzle
     6. **Garnish & serve** with crispy shallots and chives.
 
 [^1]:
-    Vetter, Delaney. ["Käsespätzle (Cheesy Spaetzle With Caramelized Onions & Crispy Shallots)."](https://food52.com/recipes/82616-spaetzle-recipe-with-cheese-onions). Food 52. 26 February 2020. Accessed 2020.
+    Vetter, Delaney. ["Käsespätzle (Cheesy Spaetzle With Caramelized Onions & Crispy Shallots)."](https://food52.com/recipes/82616-spaetzle-recipe-with-cheese-onions) *Food 52.* 26 February 2020. Accessed 2020.

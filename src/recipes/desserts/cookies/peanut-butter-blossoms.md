@@ -30,4 +30,4 @@
 !!! info "Yields 24 cookies."
 
 [^1]:
-    ["Classic Peanut Butter Blossoms."](https://sallysbakingaddiction.com/classic-peanut-butter-blossoms/#tasty-recipes-69682) *Sally's Baking Addiction.* 9 December 2016. Accessed December 2020.
+    McKenney, Sally. ["Classic Peanut Butter Blossoms."](https://sallysbakingaddiction.com/classic-peanut-butter-blossoms/#tasty-recipes-69682) *Sally's Baking Addiction.* 9 December 2016. Accessed December 2020.

@@ -4,9 +4,11 @@
         * 2 ml Kosher Salt
         * 2 ml Baking Powder
         * 1 ml Baking Soda
+        * 1 ml Cinnamon, ground
+        * 1 ml Nutmeg, grated
     * 1 Banana, very ripe
     * 1 Egg
-    * 65 g White Sugar
+    * 30 g White Sugar
     * 60 ml Milk
     * 1 ml Vanilla Extract
     * 60 ml Butter, unsalted, melted
@@ -26,4 +28,4 @@
     !!! caution "Over-whisking can result in tough, rubbery pancakes."
 
 [^1]:
-    Mitzewich, John. ["Banana Bread Pancakes – Based on a True Story"](https://foodwishes.blogspot.com/2020/10/banana-bread-pancakes-based-on-true.html). Food Wishes. 6 October 2020. Accessed October 2020.
+    Mitzewich, John. ["Banana Bread Pancakes – Based on a True Story."](https://foodwishes.blogspot.com/2020/10/banana-bread-pancakes-based-on-true.html) *Food Wishes.* 6 October 2020. Accessed October 2020.

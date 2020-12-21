@@ -19,4 +19,4 @@
     3. **Cook.** Coat bottom of slow cooker with two-thirds of available tomato sauce. Add *stuffed meatballs* in two layers. Coat meatballs with remaining tomato sauce. Cook on HIGH for 2h 30m.
 
 [^1]:
-    ["Mozzarella Stuffed Meatballs."](https://www.reddit.com/r/GifRecipes/comments/dfeca6/mozzarella_stuffed_meatballs/). Reddit. 2019. Accessed 2019.
+    ["Mozzarella Stuffed Meatballs."](https://www.reddit.com/r/GifRecipes/comments/dfeca6/mozzarella_stuffed_meatballs/). *Reddit.* 2019. Accessed 2019.

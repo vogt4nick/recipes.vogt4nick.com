@@ -17,4 +17,4 @@
 
 [^1]: {{ cite.hazan_italian_cooking }}
 [^2]:
-    Tasty. ["The Best Homemade Pasta You'll Ever Eat."](https://www.youtube.com/watch?v=YNHqjFyk5gU) YouTube.
+    *Tasty.* ["The Best Homemade Pasta You'll Ever Eat."](https://www.youtube.com/watch?v=YNHqjFyk5gU) 29 July 2018. Accessed November 2020.

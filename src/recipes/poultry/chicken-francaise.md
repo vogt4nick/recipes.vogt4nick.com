@@ -30,5 +30,5 @@
     4. **Coat, garnish, and serve.** Add *fried chicken* to *francaise sauce*. Coat evenly. Garnish with remaining parsley and serve.
 
 [^1]:
-    ["The Best Chicken Francaise Recipe."](http://www.recipe30.com/chicken-francaise.html/). Recipe 30. 21 October 2015. Accessed 2020.
+     Mielle, Joel. ["The Best Chicken Francaise Recipe."](http://www.recipe30.com/chicken-francaise.html/) *Recipe 30.* 21 October 2015. Accessed 2020.
 [^2]: Walter, Elise.

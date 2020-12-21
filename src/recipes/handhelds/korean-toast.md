@@ -31,4 +31,4 @@
     7. **Slice** diagonally and serve.
 
 [^1]:
-    Mitzewich, John. ["Korean Street Toast – Word on the Street Toast Is..."](https://foodwishes.blogspot.com/2020/12/korean-street-toast-word-on-street.html) Food Wishes. 1 December 2020. Accessed December 2020.
+    Mitzewich, John. ["Korean Street Toast – Word on the Street Toast Is..."](https://foodwishes.blogspot.com/2020/12/korean-street-toast-word-on-street.html) *Food Wishes.* 1 December 2020. Accessed December 2020.

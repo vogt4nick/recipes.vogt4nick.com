@@ -14,4 +14,4 @@
     2. **Cook schwarma**. Heat frying pan over high heat. Add chicken and marinade mixture. Cook 5-7 minutes until done, stirring frequently.
 
 [^1]:
-    Chef Ahmad's Kitchen. ["Chicken Shawarma and Lebanese Bread."](https://www.youtube.com/watch?v=Im6JH8-ZcgI). YouTube. 9 August 2017. Accessed October 2020.
+    *Chef Ahmad's Kitchen.* ["Chicken Shawarma and Lebanese Bread."](https://www.youtube.com/watch?v=Im6JH8-ZcgI) 9 August 2017. Accessed October 2020.

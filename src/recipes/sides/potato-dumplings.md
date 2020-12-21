@@ -14,4 +14,4 @@
         Dumplings need space to float in the pot that is why you need a wide pot rather than a tall pot.
 
 [^1]:
-    ["Knödel / German home-made dumplings."](http://www.bavariankitchen.com/sides/knoedel.aspx). Bavarian Kitchen. 26 December 2009. Accessed 2019.
+    ["Knödel / German home-made dumplings."](http://www.bavariankitchen.com/sides/knoedel.aspx) *Bavarian Kitchen.* 26 December 2009. Accessed 2019.

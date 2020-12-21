@@ -39,4 +39,4 @@
     6. **Bake casserole** 30 minutes, uncovered, at 375 F until green beans are tender.
 
 [^1]:
-    Mitzewich, John. ["French Onion Green Bean Casserole – It’s Soupy!."](https://foodwishes.blogspot.com/2011/11/french-onion-green-bean-casserole-its.html) Food Wishes. 7 November 2011. Accessed November 2020.
+    Mitzewich, John. ["French Onion Green Bean Casserole – It’s Soupy!"](https://foodwishes.blogspot.com/2011/11/french-onion-green-bean-casserole-its.html) *Food Wishes.* 7 November 2011. Accessed November 2020.

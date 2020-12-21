@@ -2,8 +2,6 @@
 title: B.O.C. monsieur
 ---
 
-!!! info "A loaded, open-faced sandwich. Pronounced *BOHK* monsieur."
-
 === "Ingredients"
     * Beef Broth
         * 1000 ml Beef Stock
@@ -29,3 +27,5 @@ title: B.O.C. monsieur
     5. **Toast sandwich loaves.** Grease sandwich loaves by pressing sandwich loaves into cooking onions. Layer garlic on top of each loaf. Bake loaves at 400F for 5 minutes until edges are crusted and garlic is toasted. Referenced next as *sandwich bread*.
     6. **Craft sandwiches** by layering *caramelized onions*, *diced bacon*, and gruyere cheese over *sandwich bread*. Broil 2 minutes until gruyere cheese is melted and bubbly.
     7. **Garnish** sandwiches with remaining bacon bits and scallion greens. Serve with beef broth.
+
+!!! info "A loaded, open-faced sandwich. Pronounced *BOHK* monsieur."
