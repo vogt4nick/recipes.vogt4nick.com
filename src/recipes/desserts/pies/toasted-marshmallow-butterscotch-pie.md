@@ -3,7 +3,7 @@
         * 30 ml Heavy Cream
         * 55 g Bittersweet Chocolate Chips
     * Filling
-        * 110 g Butter, unsalted
+        * 110 g Unsalted Butter
         * 250 g Dark Brown Sugar
         * 40 g Yellow Cornmeal, finely ground
         * 2 ml Kosher Salt

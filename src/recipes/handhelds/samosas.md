@@ -2,11 +2,11 @@
     * Dough
         * 125 g All-Purpose Flour
         * 2 ml Kosher Salt
-        * 30 ml Butter, unsalted, cut into bits
+        * 30 ml Unsalted Butter, cut into bits
         * 15 ml Yogurt
         * 45 ml Water, cold (5C)
     * Filling
-        * 30 ml Butter, unsalted
+        * 30 ml Unsalted Butter
         * 55 g Yellow Onion, minced
         * 30 g Jalapeño Pepper, diced
         * 8 ml Garlic, minced

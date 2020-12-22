@@ -9,7 +9,7 @@
     * For Cooling
         * 15 ml Butter, cold
     * For Final Emulsion
-        * 120 ml Butter, unsalted, melted
+        * 120 ml Unsalted Butter, melted
 
 === "Directions"
     1. **Simmer water** in stockpot. Maintain at a bare simmer.

@@ -3,7 +3,7 @@
         * 160 g All-Purpose Flour
         * 2 ml Baking Soda
         * 2 ml Kosher Salt
-    * 110 g Butter, unsalted, room temperature, sliced into ribbons
+    * 110 g Unsalted Butter, room temperature, sliced into ribbons
     * 50 g White Sugar
     * 100 g Light Brown Sugar
     * 1 Egg, room temperature

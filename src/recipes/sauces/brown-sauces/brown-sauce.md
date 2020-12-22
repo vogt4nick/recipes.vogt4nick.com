@@ -3,7 +3,7 @@
 
 === "Ingredients"
     * 45 g Bacon, diced
-    * 90 ml Butter, unsalted, clarified
+    * 90 ml Unsalted Butter, clarified
     * 80 g Carrot, minced
     * 80 g Celery, minced
     * 80 g Onion, minced

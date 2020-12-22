@@ -1,13 +1,13 @@
 === "Ingredients"
     * Sauteed Mushrooms
-        * 15 ml Butter, unsalted
+        * 15 ml Unsalted Butter
         * 10 ml Oil
         * 100 g Mushrooms and/or stems, minced
         * 30 g Scallions or Shallots, minced
         * 100 ml Dry White Wine
     * 20 ml Tomato Paste
     * 300 ml [Brown Sauce](./brown-sauce.md)
-    * 30 ml Butter, unsalted, room temperature
+    * 30 ml Unsalted Butter, room temperature
     * Garnish
         * 45 ml Parsley
 

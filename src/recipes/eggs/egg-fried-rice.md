@@ -11,7 +11,7 @@
     * Seasonings for Rice
         * 2 ml Garlic, chopped
         * 2 ml Ginger, chopped
-        * 5 ml Butter, unsalted
+        * 5 ml Unsalted Butter
         * 2 ml Kosher Salt
     * Sauces
         * 30 ml Rice Wine

@@ -3,12 +3,12 @@
 
 === "Ingredients"
     * 1200 ml Vegetable Stock, simmering
-    * 15 ml Butter, unsalted
+    * 15 ml Unsalted Butter
     * 30 ml Vegetable Oil
     * 30 g Onion, minced
     * 400 g Arborio Rice, unrinsed
     * Garnish
-        * 30 ml Butter, unsalted
+        * 30 ml Unsalted Butter
         * 80 g Parmesan Cheese, grated
         * 15 g White Truffle, shaved (optional)
 

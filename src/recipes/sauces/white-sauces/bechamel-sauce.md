@@ -1,7 +1,7 @@
 === "Ingredients"
     * 480 ml Milk
     * 1 ml Kosher Salt
-    * 30 ml Butter, unsalted
+    * 30 ml Unsalted Butter
     * 45 ml All-Purpose Flour
 
 === "Directions"

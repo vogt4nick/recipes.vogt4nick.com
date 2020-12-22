@@ -6,7 +6,7 @@
     | 2       | Egg Whites                  |
     | 2 ml    | Kosher Salt                 |
     | ---     | ---                         |
-    | 30 ml   | Butter, unsalted            |
+    | 30 ml   | Unsalted Butter             |
     | 60 g    | Onion, chopped              |
     | 300 g   | Artichoke Hearts            |
     | ---     | ---                         |
@@ -24,7 +24,7 @@
     | 1500 ml | Water                       |
     | 30 ml   | Kosher Salt                 |
     | ---     | ---                         |
-    | 15 ml   | Butter, unsalted, chopped   |
+    | 15 ml   | Unsalted Butter, chopped    |
     | 180 g   | Plum Tomatoes, chopped      |
     | 60 ml   | Water                       |
     | 80 ml   | Heavy Cream                 |

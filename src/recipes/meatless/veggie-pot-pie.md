@@ -1,10 +1,10 @@
 === "Ingredients"
     * [Savory Pie Crust](../breads/crusts/pie-crust.md), chilled
     * Blond Roux
-        * 110 ml Butter, unsalted
+        * 110 ml Unsalted Butter
         * 110 ml All-Purpose Flour
     * Sauteed Vegetables
-        * 30 ml Butter, unsalted
+        * 30 ml Unsalted Butter
         * 110 g Mushroom, roughly chopped
         * 110 g Onion, minced
         * 110 g Carrot, chopped

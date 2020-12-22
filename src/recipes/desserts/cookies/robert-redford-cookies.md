@@ -11,7 +11,7 @@ title: Robert Redford cookies
         * 8 ml Kosher Salt
         * 1 ml Cinnamon, ground
         * 1 ml Nutmeg, ground
-    * 220 g Butter, unsalted, room temperature
+    * 220 g Unsalted Butter, room temperature
     * 150 g Light Brown Sugar
     * 150 g White Sugar
     * 2 Eggs, room temperature

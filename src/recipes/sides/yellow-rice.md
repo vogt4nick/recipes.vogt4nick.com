@@ -3,7 +3,7 @@
         * 8 ml Turmeric
         * 4 ml Cumin
         * 1 ml Cinnamon (optional)
-    * 30 ml Butter, unsalted
+    * 30 ml Unsalted Butter
     * 10 ml Garlic, minced
     * 180 g Jasmine Rice, rinsed
     * 360 ml Chicken Stock

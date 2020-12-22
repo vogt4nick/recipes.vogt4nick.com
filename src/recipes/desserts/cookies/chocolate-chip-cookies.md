@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 120 ml Butter, unsalted, melted
+    * 120 ml Unsalted Butter, melted
     * 5 ml Kosher Salt
     * 75 ml White Sugar
     * 50 ml Brown Sugar, packed

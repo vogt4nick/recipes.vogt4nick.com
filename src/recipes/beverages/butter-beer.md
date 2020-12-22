@@ -7,7 +7,7 @@
         * 2 ml Cloves, whole
         * 2 ml Nutmeg, grated
         * 2 ml Ginger, minced
-    * 110 g Butter, unsalted, chopped
+    * 110 g Unsalted Butter, chopped
 
 === "Directions"
     1. **Mix egg mixture.** Whisk egg yolks and sugar until light and frothy. Set aside.

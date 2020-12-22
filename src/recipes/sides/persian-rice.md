@@ -6,7 +6,7 @@
     * 1 Russet Potato, peeled, sliced 7-10 mm crosswise
     * 1 ml Cumin Seed, ground
     * 1 ml Kosher Salt
-    * 30 ml Butter, unsalted, sliced
+    * 30 ml Unsalted Butter, sliced
     * Garnish
         * 3 threads Saffron, ground, mixed with 1 1/2 tablespoons hot water
         * 15 ml Parsley, dried

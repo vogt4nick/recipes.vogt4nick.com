@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 15 ml Butter, unsalted
+    * 15 ml Unsalted Butter
     * 8 ml Sugar
     * 110 g White Onion, minced
     * 1 Green Apple, peeled, chopped

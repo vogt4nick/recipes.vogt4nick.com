@@ -4,7 +4,7 @@
     * 225 g Parsnips, roughly chopped
     * 15 ml Salt
     * 80 ml Milk, whole
-    * 30 ml Butter, unsalted
+    * 30 ml Unsalted Butter
     * 5 ml Rosemary, chopped
     * 1 ml Kosher Salt
     * 1 ml Black Pepper

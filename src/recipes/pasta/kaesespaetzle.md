@@ -3,13 +3,13 @@ title: Käsespätzle
 ---
 
 === "Ingredients"
-    * 30 ml Butter, unsalted
+    * 30 ml Unsalted Butter
     * 180 g Onion, sliced
     * 60 ml Vegetable Oil
     * 180 g Shallot, sliced
     * 1 ml Kosher Salt
     * 600 g [Spätzle](spaetzle.md)
-    * 15 ml Butter, unsalted
+    * 15 ml Unsalted Butter
     * 120 g Gruyere, grated
     * 120 g Emmental, grated
     * 5 ml Kosher Salt

@@ -10,7 +10,7 @@
         * 100 g Brown Sugar
         * 2 ml Cinnamon, ground
         * 3 ml Kosher Salt
-        * 140 g Butter, unsalted, chilled, chopped into 5 g pieces
+        * 140 g Unsalted Butter, chilled, chopped into 5 g pieces
     * Filling
         * 150 g White Sugar
         * 30 g Tapioca Flour

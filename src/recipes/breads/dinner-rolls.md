@@ -5,11 +5,11 @@
         * 15 ml White Sugar
     * 15 ml White Sugar
     * 1 Egg
-    * 60 ml Butter, unsalted, room temperature, divided
+    * 60 ml Unsalted Butter, room temperature, divided
     * 5 ml Kosher Salt
     * 380 g Flour
     * Glaze (optional)
-        * 30 ml Butter, unsalted, melted
+        * 30 ml Unsalted Butter, melted
         * 15 ml Honey
 
 === "Directions"

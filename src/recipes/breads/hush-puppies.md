@@ -9,7 +9,7 @@
         * 2 Eggs, beaten
         * 80 ml Milk
         * 60 g Onion, minced
-        * 30 ml Butter, unsalted, melted
+        * 30 ml Unsalted Butter, melted
 
 === "Directions"
     1. **Preheat oven** to 450 F (230 C).

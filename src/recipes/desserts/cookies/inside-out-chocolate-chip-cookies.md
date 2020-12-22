@@ -1,6 +1,6 @@
 === "Instructions"
     * Wet Mix
-        * 120 ml Butter, unsalted, room temperature
+        * 120 ml Unsalted Butter, room temperature
         * 100 g White Sugar
         * 100 g Brown Sugar
         * 1 Egg, room temperature

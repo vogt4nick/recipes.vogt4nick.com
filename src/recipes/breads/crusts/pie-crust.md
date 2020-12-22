@@ -2,7 +2,7 @@
     * 320 g All-Purpose Flour
     * 5 ml White Sugar
     * 5 ml Kosher Salt
-    * 220 g Butter, unsalted, chilled, divided into 5 g chunks
+    * 220 g Unsalted Butter, chilled, divided into 5 g chunks
     * 120 ml Water, cold (0-5 C)
 
     !!! tip "Choose a butter with high butterfat percentage, e.g. Plugrá."

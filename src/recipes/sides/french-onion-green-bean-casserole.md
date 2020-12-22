@@ -1,6 +1,6 @@
 === "Ingredients"
     * [Caramelized Onions](../../references/techniques/caramelized-onions.md)
-        * 30 ml Butter, unsalted
+        * 30 ml Unsalted Butter
         * 400 g Yellow Onion, sliced
         * 2 ml Kosher Salt
         * 1 ml Black Pepper, ground
@@ -14,7 +14,7 @@
         * 1 ml Black Pepper, ground
     * Gratin
         * 75 g Bread Crumbs
-        * 30 ml Butter, unsalted, melted
+        * 30 ml Unsalted Butter, melted
         * 55 g Gruyere, grated
         * 40 g Parmesan, grated
     * 900 g Green Beans, trimmed, blanched

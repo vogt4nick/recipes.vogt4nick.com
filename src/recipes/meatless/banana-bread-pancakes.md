@@ -11,10 +11,10 @@
     * 30 g White Sugar
     * 60 ml Milk
     * 1 ml Vanilla Extract
-    * 60 ml Butter, unsalted, melted
+    * 60 ml Unsalted Butter, melted
     * 120 ml Chopped Walnuts
     * For cooking
-        * 15 ml Butter, unsalted
+        * 15 ml Unsalted Butter
     * For serving
         * Maple Syrup
         * Banana, sliced

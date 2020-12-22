@@ -4,7 +4,7 @@
         * 15 ml [Italian Herbs](../seasonings/italian-herbs.md)
         * 1 Bay Leaf
     * 225 g Sausage Rope, roughly chopped
-    * 30 ml Butter, unsalted
+    * 30 ml Unsalted Butter
     * 110 g Onion, minced
     * 110 g Carrots, minced
     * 110 g Celery, minced

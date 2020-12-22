@@ -1,7 +1,7 @@
 === "Ingredients"
     * 225 g Flour
     * 5 ml Baking Powder
-    * 120 ml Butter, unsalted, cold
+    * 120 ml Unsalted Butter, cold
     * 1 Egg Yolk
     * 5 ml Salt
     * 60 ml Water, cold

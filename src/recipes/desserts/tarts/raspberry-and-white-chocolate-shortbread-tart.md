@@ -1,6 +1,6 @@
 === "Ingredients"
     * 675g, Shortbread Dough
-        * 230 g Butter, unsalted, room temperature
+        * 230 g Unsalted Butter, room temperature
         * 100 g White Sugar
         * 50 g Brown Sugar
         * 10 ml Vanilla Extract

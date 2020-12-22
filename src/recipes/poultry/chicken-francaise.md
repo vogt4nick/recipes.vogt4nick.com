@@ -14,7 +14,7 @@
     * 240 ml Chicken Stock
     * 15 ml Garlic, minced
     * 15 ml Lime Juice
-    * 30 ml Butter, unsalted
+    * 30 ml Unsalted Butter
     * 15 ml Parsley, chopped
 
     ??? question "How do I 'butterfly cut' chicken breast?"

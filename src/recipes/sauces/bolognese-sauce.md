@@ -8,7 +8,7 @@
 
 === "Ingredients"
     * 15 ml Vegetable Oil
-    * 45 ml Butter, unsalted
+    * 45 ml Unsalted Butter
     * 110 g Onion, chopped
     * 110 g Celery, chopped
     * 110 g Carrot, chopped

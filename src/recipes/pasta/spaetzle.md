@@ -9,7 +9,7 @@ title: Spätzle
     * 333 g All Purpose Flour
     * 4 Eggs
     * 133 ml Milk
-    * 15 ml Butter, unsalted
+    * 15 ml Unsalted Butter
     * 5 ml Kosher Salt
 
 === "Directions"

@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 15 ml Butter, unsalted (optional)
+    * 15 ml Unsalted Butter (optional)
     * 15 ml Canola Oil
     * 120 g Yellow Onion, minced
     * 2 ml Cumin

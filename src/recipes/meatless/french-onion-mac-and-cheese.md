@@ -1,12 +1,12 @@
 === "Ingredients"
     * [Caramelized Onions](../../references/techniques/caramelized-onions.md)
-        * 30 g Butter, unsalted
+        * 30 g Unsalted Butter
         * 900 g Onions, sliced
         * 180 ml White Wine
         * 15 ml Thyme Leaves
     * 225 g Macaroni, dry, parboiled
     * Cheese Sauce
-        * 60 g Butter, unsalted
+        * 60 g Unsalted Butter
         * 60 ml All-Purpose Flour
         * 800 ml Whole Milk, cold
         * 100 g Gruyere, grated

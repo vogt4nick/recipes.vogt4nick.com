@@ -3,7 +3,7 @@
     * Olive Oil
     * Kosher Salt
     * For Serving
-        * Butter, unsalted
+        * Unsalted Butter
         * Black Pepper, ground
         * Cayenne
         * Cheddar Cheese, grated

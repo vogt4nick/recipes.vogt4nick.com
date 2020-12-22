@@ -4,7 +4,7 @@
     | 800 ml | Beef Stock                                   |
     | 1      | Bay Leaf                                     |
     | ---    | ---                                          |
-    | 30 ml  | Butter, unsalted                             |
+    | 30 ml  | Unsalted Butter                             |
     | 110 g  | Yellow Onion, minced                         |
     | 30 ml  | Garlic, minced                               |
     | 450 g  | Pork, chopped into 15 mm pieces              |

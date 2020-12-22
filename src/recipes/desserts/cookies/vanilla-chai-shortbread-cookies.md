@@ -1,6 +1,6 @@
 === "Ingredients"
     * Batter
-        * 240 ml Butter, unsalted
+        * 240 ml Unsalted Butter
         * 60 g Powdered Sugar
         * 250 g All-Purpose Flour
         * 3 ml Kosher Salt

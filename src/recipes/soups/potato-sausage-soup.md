@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 45 ml Butter, unsalted
+    * 45 ml Unsalted Butter
     * 200 g Sausage, sliced
     * 200 g Onion, minced
     * 5 ml Kosher Salt

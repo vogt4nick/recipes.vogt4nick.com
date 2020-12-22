@@ -4,7 +4,7 @@
         * 10 ml Cinnamon, ground
         * 5 ml Nutmeg, grated
         * 5 ml Ginger, ground
-    * 200 g Butter, unsalted, room temperature
+    * 200 g Unsalted Butter, room temperature
     * 200 g All-Purpose Flour
 
 === "Directions"

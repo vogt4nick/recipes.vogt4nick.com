@@ -5,7 +5,7 @@ title: BBRRR chicken
     * 1000 ml Salt Water, warm
     * Chicken Breasts
     * Garlic Butter
-        * 30 ml Butter, unsalted, melted
+        * 30 ml Unsalted Butter, melted
         * 10 ml Garlic
     * Seasoning
         * 2 ml Paprika

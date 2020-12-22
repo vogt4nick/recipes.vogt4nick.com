@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 225 g Butter, unsalted, room temperature, whipped
+    * 225 g Unsalted Butter, room temperature, whipped
     * 4 ml Vanilla Extract
     * 1 ml Kosher Salt
     * 400 g Sweetened Condensed Milk

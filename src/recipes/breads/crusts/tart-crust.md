@@ -2,7 +2,7 @@
     * 155 g All-Purpose Flour
     * 3 ml Kosher Salt
     * 30 ml White Sugar
-    * 140 g Butter, unsalted, cold, divided into 5 g chunks
+    * 140 g Unsalted Butter, cold, divided into 5 g chunks
     * 1 Egg Yolk
     * 45 ml Ice Water
 

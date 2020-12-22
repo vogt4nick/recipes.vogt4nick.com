@@ -1,7 +1,7 @@
 === "Ingredients"
     * Pie Crust
         * 250 g Chocolate Cookie Crumbs
-        * 90 ml Butter, melted, unsalted
+        * 90 ml Unsalted Butter, melted
         * 45 ml White Sugar
         * 1 ml Kosher Salt
     * Berry Puree

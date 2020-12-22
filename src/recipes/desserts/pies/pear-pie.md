@@ -22,7 +22,7 @@
     * Sugar-Flour
         * 5 ml Turbinado Sugar
         * 5 ml All-Purpose Flour
-    * 30 ml Butter, unsalted, chilled, chopped
+    * 30 ml Unsalted Butter, chilled, chopped
     * For Lid
         * 1 [Pie Dough Ball](../../breads/crusts/pie-crust.md), rolled out
     * Egg Wash

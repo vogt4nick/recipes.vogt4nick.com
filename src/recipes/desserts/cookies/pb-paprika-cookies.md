@@ -10,7 +10,7 @@ title: PB paprika cookies
         * 6 ml Kosher Salt
         * 2 ml Paprika
     * Batter
-        * 240 ml Butter, unsalted, room temperature
+        * 240 ml Unsalted Butter, room temperature
         * 300 g Creamy Peanut Butter
         * 150 g Brown Sugar
         * 150 g White Sugar

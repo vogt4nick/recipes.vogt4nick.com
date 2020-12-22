@@ -7,7 +7,7 @@
             * 3 Eggs, room temperature
             * 240 ml Heavy Cream, room temperature
             * 15 ml Vanilla Extract
-        * 110 g Butter, unsalted, melted, and cooled to room temperature
+        * 110 g Unsalted Butter, melted, and cooled to room temperature
         * 30 ml White Sugar
         * 60 ml Espresso Powder
         * 60 ml Yellow Cornmeal, finely ground

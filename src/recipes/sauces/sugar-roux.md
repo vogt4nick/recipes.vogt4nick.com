@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 30 ml Butter, unsalted
+    * 30 ml Unsalted Butter
     * 15 ml Sugar
     * 80 ml All-Purpose Flour
     * 15 ml Red Wine

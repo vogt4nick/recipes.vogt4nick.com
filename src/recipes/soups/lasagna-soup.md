@@ -3,7 +3,7 @@
         * 500 ml Beef Stock
         * 5 ml [Italian Herbs](../seasonings/italian-herbs.md)
     * 15 ml Olive Oil
-    * 45 ml Butter, unsalted
+    * 45 ml Unsalted Butter
     * 110 g Onion, minced
     * 5 ml Garlic, minced
     * 330 g Beef, ground

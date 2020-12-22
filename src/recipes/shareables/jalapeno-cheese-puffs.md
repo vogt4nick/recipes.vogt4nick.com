@@ -4,7 +4,7 @@ title: Jalapeño cheese puffs
 === "Ingredients"
     * Batter
         * 180 ml Milk
-        * 60 ml Butter, unsalted
+        * 60 ml Unsalted Butter
         * 10 ml Kosher Salt
         * 240 g All Purpose Flour, sifted
     * Mix-ins
