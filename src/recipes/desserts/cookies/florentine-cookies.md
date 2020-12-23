@@ -2,7 +2,7 @@
     * Dry Mix
         * 40 g Pistachios, toasted
         * 60 g Dried Sour Cherries
-        * 60 g Candied Ginger[^3]
+        * 60 g [Candied Ginger](../candied-ginger.md)
         * 20 g All Purpose Flour
         * 30 g Coconut Flakes
         * 120 g Almonds, sliced
@@ -33,6 +33,4 @@
 [^2]:
     Berry, Mary. ["Mary's florentines."](https://www.bbc.co.uk/food/recipes/marys_florentines_49833) *BBC Food.* August 2014. Accessed December 2020.
 [^3]:
-    Brown, Alton. ["Candied Ginger."](https://www.foodnetwork.com/recipes/alton-brown/candied-ginger-recipe-1944906) *Food Network.* May 2017. Accessed December 2020.
-[^4]:
     Mitzewich, John. ["Lace Cookies – Or Florentine If You’re Fancy."](https://foodwishes.blogspot.com/2020/12/lace-cookies-or-florentine-if-youre.html) *Food Wishes.* 18 December 2020. Accessed December 2020.
