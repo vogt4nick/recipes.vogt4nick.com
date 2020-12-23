@@ -4,7 +4,7 @@
     * 4 ml White Sugar
     * 6 ml Kosher Salt
     * 30 ml Vegetable Oil
-    * 315 g All Purpose Flour
+    * 315 g All-Purpose Flour
 
 === "Directions"
     1. **Activate yeast**. Add yeast, sugar, water in mixing bowl. Mix. Rest 10 minutes until yeast activates.

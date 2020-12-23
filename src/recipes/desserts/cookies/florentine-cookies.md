@@ -3,7 +3,7 @@
         * 40 g Pistachios, toasted
         * 60 g Dried Sour Cherries
         * 60 g [Candied Ginger](../candied-ginger.md)
-        * 20 g All Purpose Flour
+        * 20 g All-Purpose Flour
         * 30 g Coconut Flakes
         * 120 g Almonds, sliced
     * 70 g Unsalted Butter

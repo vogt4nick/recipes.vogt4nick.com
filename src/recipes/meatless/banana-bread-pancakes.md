@@ -1,6 +1,6 @@
 === "Ingredients"
     * Flour mixture
-        * 160 g All Purpose Flour
+        * 160 g All-Purpose Flour
         * 2 ml Kosher Salt
         * 2 ml Baking Powder
         * 1 ml Baking Soda

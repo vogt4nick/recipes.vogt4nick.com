@@ -6,7 +6,7 @@ title: Jalapeño cheese puffs
         * 180 ml Milk
         * 60 ml Unsalted Butter
         * 10 ml Kosher Salt
-        * 240 g All Purpose Flour, sifted
+        * 240 g All-Purpose Flour, sifted
     * Mix-ins
         * 2 Eggs, room temperature, whisked
         * 120 g Cheddar Cheese

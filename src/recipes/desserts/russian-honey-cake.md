@@ -10,7 +10,7 @@
         * 12 g Baking Soda
         * 4 ml Kosher Salt, finely ground
         * 5 ml Cinnamon, ground
-        * 465 g All Purpose Flour
+        * 465 g All-Purpose Flour, sifted
     * Frosting
         * 1000 ml Heavy Whipping Cream, cold
         * 180 g Sour Cream

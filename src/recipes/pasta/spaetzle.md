@@ -6,7 +6,7 @@ title: Spätzle
     One way you can tell [the] texture was perfect: the batter won't drip through until you push it with the spatula. ...if it drips before you push, add some flour so you don't have mush.
 
 === "Ingredients"
-    * 333 g All Purpose Flour
+    * 333 g All-Purpose Flour
     * 4 Eggs
     * 133 ml Milk
     * 15 ml Unsalted Butter

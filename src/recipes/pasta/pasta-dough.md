@@ -2,7 +2,7 @@
 
 === "Ingredients"
     * 2 Eggs
-    * 125 g All Purpose Flour
+    * 125 g All-Purpose Flour
 
 === "Directions"
     1. **Prepare mix.** Pour the flour onto a work surface, shape it into a mound, and scoop out a deep hollow in its center. Break the eggs into the hollow.
