@@ -16,3 +16,4 @@ venv.bak/
 /site
 
 .vscode
+.DS_Store
