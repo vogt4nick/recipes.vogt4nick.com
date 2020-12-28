@@ -25,5 +25,8 @@ title: Jalapeño cheese puffs
 
     !!! tip "Be careful not to overmix the eggs and cheese into the batter!"
 
+??? note "Yields 12 jalapeño poppers."
+    ![Nutrition Label](../../assets/nutrition-labels/jalapeno-cheese-puffs.png){: width=400px loading=lazy}
+
 [^1]:
     Lupescu, Valya Dudycz, Stephen H. Segal, and Dingding Hu. [*Forking Good: An Unofficial Cookbook for Fans of The Good Place.*](https://www.amazon.com/dp/1683691555) Philadelphia, PA: Quirk Books, 2019.
