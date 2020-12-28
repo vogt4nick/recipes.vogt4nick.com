@@ -19,7 +19,8 @@ title: Spätzle
     ??? question "What kind of sieve do I need?"
         You can use a colander with large holes (like us) or you can use the back of a cheese grater like Chef John (see [video clip](http://www.youtube.com/watch?v=Lwn97mpBCu8&t=1m57s))
 
-!!! info "Yields about 750 g"
+??? info "Yields 4 servings."
+    ![Nutrition Label](../../assets/nutrition-labels/spaetzle.png){: width=400px loading=lazy}
 
 !!! info "Store in refrigerator up to 72 hours."
 
