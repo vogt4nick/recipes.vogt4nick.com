@@ -2,7 +2,7 @@
     * 900 g Round Steak, 3 mm slices
     * Marinade
         * 60 ml Soy Sauce
-        * 30 ml Worcester Sauce
+        * 30 ml Worcestershire Sauce
         * 30 ml Liquid Smoke
         * 30 ml Brown Sugar
         * 10 ml Kosher Salt
