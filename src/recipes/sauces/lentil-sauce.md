@@ -1,17 +1,14 @@
-???+ quote "Diana Shaw in [*The Essential Vegetarian Cookbook*](https://smile.amazon.com/dp/051788268X)."
-    Serve this simple, full-flavored sauce of gnocchi or short pasta such as gnoccheti, orecchiette, or penne rigate.
-
 === "Ingredients"
-    * 30mL Extra Virgin Olive Oil
-    * 200g Onion, minced
+    * 30 mL Extra Virgin Olive Oil
+    * 200 g Onion, minced
     * 2 Garlic Cloves, minced
-    * 400g Tomatoes, peeled, seeded, chopped
+    * 400 g Tomatoes, peeled, seeded, chopped
     * Spices
-        * 60mL Fresh Parsley
-        * 5mL Sage, dried
+        * 60 mL Fresh Parsley
+        * 5 mL Sage, dried
         * 2 Cloves, whole
-    * 150g Dry Lentils du Puy
-    * 300mL Vegetable Stock
+    * 150 g Dry Lentils du Puy
+    * 300 mL [Vegetable Stock](../soups/stocks/vegetable-stock.md)
 
     ??? question "Substitutions"
         Substitute water for stock if necessary.
@@ -24,8 +21,8 @@
     ??? question "What if the lentils are still hard at the center?"
         Add 50mL - 100mL water and gently stir to combine. Continue cooking until lentils are cooked.
 
-??? example "Companion Foods"
-    Serve over pasta shells or other small (but not too small) pasta.
+???+ quote "Diana Shaw in [*The Essential Vegetarian Cookbook*](https://smile.amazon.com/dp/051788268X)."
+    Serve this simple, full-flavored sauce of gnocchi or short pasta such as gnoccheti, orecchiette, or penne rigate.
 
 [^1]:
     Shaw, Diana. [*The Essential Vegetarian Cookbook.*](https://amazon.com/dp/051788268X) New York, NY: Clarkson Potter Publishers, 1997.
