@@ -12,7 +12,7 @@
         * 3 Garlic Cloves, minced
         * 5 ml Ginger, grated
         * 10 ml Curry Powder
-        * 1 ml Black Pepper, ground
+        * 1 ml Black Peppercorn, ground
         * <1 ml Kosher Salt
         * 55 g Green Peas
         * 225 g Starchy Potatoes, peeled, 1 cm cubes, parboiled

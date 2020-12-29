@@ -4,7 +4,7 @@
     * 100 ml Extra Virgin Olive Oil
     * 50 ml Sherry Vinegar
     * Salt
-    * Black Pepper, ground
+    * Black Peppercorn, ground
 
     ??? question "Substitutions"
         Substitute red wine vinegar 1:1 for sherry vinegar.

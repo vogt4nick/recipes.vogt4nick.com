@@ -4,7 +4,7 @@
         * 450 g Beef, ground
         * 6 Garlic Cloves, minced
         * 10 ml Salt
-        * 5 ml Black Pepper
+        * 5 ml Black Peppercorn, ground
         * 120 ml Parsely, chopped
         * 240 ml Bread Crumbs
         * 60 ml Parmesan

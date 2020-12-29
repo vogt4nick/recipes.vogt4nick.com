@@ -8,7 +8,7 @@
         * 45 ml White Sugar
         * 5 ml Dijon Mustard
         * 2 ml Kosher Salt
-        * 1 ml Black Pepper, ground
+        * 1 ml Black Peppercorn, ground
 
 === "Directions"
     1. **Mix dressing** ingredients together in a bowl.

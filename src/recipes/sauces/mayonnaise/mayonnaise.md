@@ -12,7 +12,7 @@
         * 15 ml Lemon Juice or Wine Vinegar, room temperature
         * 1 ml Dijon Mustard
         * <1 ml Kosher Salt
-        * <1 ml Black Pepper
+        * <1 ml Black Peppercorn, ground
 
 === "Directions"
     1. **Beat eggs.** Add egg yolks to a warm mixing bowl. Whisk 2 minutes until eggs are thick and sticky. Add lemon juice, salt, and mustard. Whisk 30 seconds.

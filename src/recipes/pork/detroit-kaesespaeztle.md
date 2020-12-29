@@ -5,7 +5,7 @@ title: Detroit käsespätzle
 === "Ingredients"
     * 220 g [Pulled Pork](../../references/techniques/pulled-pork.md), chopped
     * 750 g [Spätzle](../pasta/spaetzle.md)
-    * Black Pepper, ground
+    * Black Peppercorn, ground
     * 110 g Melty Cheese, grated
 
     !!! note "Käsespätzle traditionally uses gruyere and emmental."

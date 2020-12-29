@@ -4,7 +4,7 @@
     * 45 ml Red Wine Vinegar
     * 15 ml Shallots, minced
     * 3 ml Kosher Salt
-    * 2 ml Black Pepper, ground
+    * 2 ml Black Peppercorn, ground
 
 === "Directions"
     1. **Puree vinaigrette.** Add red bell pepper in a food processor. Puree until smooth. Add remaining ingredients. Puree until smooth.

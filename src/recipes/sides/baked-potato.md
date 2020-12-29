@@ -4,7 +4,7 @@
     * Kosher Salt
     * For Garnish
         * Unsalted Butter
-        * Black Pepper, ground
+        * Black Peppercorn, ground
         * Cayenne Pepper, ground
         * Cheddar Cheese, grated
         * Sour Cream

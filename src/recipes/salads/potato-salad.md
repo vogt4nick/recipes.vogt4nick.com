@@ -8,7 +8,7 @@
         * 5 ml White Sugar
         * 5 ml Parsley
         * 3 ml Kosher Salt
-        * 2 ml Black Pepper, ground
+        * 2 ml Black Peppercorn, ground
     * Garnish
         * 50 ml Red Onion, sliced
 

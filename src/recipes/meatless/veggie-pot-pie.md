@@ -12,7 +12,7 @@
     * 120 ml Water
     * 15 ml Herbs de Provence
     * 2 ml Kosher Salt
-    * 2 ml Black Pepper
+    * 2 ml Black Peppercorn, ground
     * 220 g Potatoes, peeled, roughly chopped, parboiled
     * 220 g Green Peas
 

@@ -6,7 +6,7 @@
     * 50 ml Parsley, dried
     * 5 ml Thyme, dried
     * 5 ml Rosemary, dried
-    * 1 ml Black Pepper, ground
+    * 1 ml Black Peppercorn, ground
     * 1 ml Cayenne Pepper, ground
 
 !!! tip "Store in an airtight container."

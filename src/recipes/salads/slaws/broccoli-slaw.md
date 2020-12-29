@@ -10,7 +10,7 @@
         * 3 ml Kosher Salt
         * 40 g Red Onion, minced
     * Garnish
-        * Black Pepper, ground
+        * Black Peppercorn, ground
 
     ??? question "Substitutions"
         Substitute 5 ml white vinegar and 100 ml milk for 100 ml buttermilk

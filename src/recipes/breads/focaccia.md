@@ -8,7 +8,7 @@
     * 225 g Sun-Dried Tomatoes
     * 225 g Kalamata Olives
     * 5 ml Coarse Salt
-    * 5 ml Black Pepper, coarse ground
+    * 5 ml Black Peppercorn, coarsely ground
     * 45 ml Rosemary, fresh
     * 15 ml Olive Oil
 

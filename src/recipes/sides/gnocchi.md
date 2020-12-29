@@ -10,7 +10,7 @@
         * 15 ml Olive Oil
     * For Garnish
         * 15 ml Olive Oil
-        * 5 ml Black Pepper
+        * 5 ml Black Peppercorn, ground
         * 5 ml Parsley, dried, ground
 
 === "Directions"

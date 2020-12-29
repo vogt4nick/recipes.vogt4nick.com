@@ -7,7 +7,7 @@
     * 10 ml Parsley, chopped
     * 60 g Parmesan, grated
     * <1 ml Salt
-    * <1 ml Pepper
+    * <1 ml Black Peppercorn, ground
     * 90 ml Olive Oil
     * 2 Chicken Breasts, boneless, skinless, butterfly cut
     * 240 ml Light-Bodied White Wine (pinot grigio)

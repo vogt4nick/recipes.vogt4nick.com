@@ -10,7 +10,7 @@ title: BBRRR chicken
     * Seasoning
         * 2 ml Paprika
         * 2 ml Kosher Salt
-        * 2 ml Pepper
+        * 2 ml Black Peppercorn, ground
 
 === "Directions"
     1. **Preheat oven** to 450F (230C).

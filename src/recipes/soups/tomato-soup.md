@@ -2,7 +2,7 @@
     * 10 ml Extra Virgin Olive Oil
     * 100 g Onion, minced
     * 1 ml Kosher Salt
-    * 1 ml Black Pepper
+    * 1 ml Black Peppercorn, ground
     * 900 g Tomatoes, peeled, quartered
     * 500 ml [Vegetable Stock](#vegetable-stock-v)
     * 10 ml Parsley

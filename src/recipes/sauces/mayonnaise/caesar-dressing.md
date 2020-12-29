@@ -7,7 +7,7 @@
     * 5 ml Dijon Mustard
     * 30 g Parmigiano-Reggiano, grated
     * 1 ml Kosher Salt
-    * 1 ml Black Pepper, ground
+    * 1 ml Black Peppercorn, ground
 
 === "Fancy Ingredients"
     * 2 [Egg Yolks, poached](../../eggs/poached-eggs.md)
@@ -18,7 +18,7 @@
     * 60 g Extra Virgin Olive Oil
     * 60 ml Lemon Juice
     * 15 ml Water, cold
-    * 5 ml Black Pepper, ground
+    * 5 ml Black Peppercorn, ground
     * 1 ml Kosher Salt
 
 === "Directions"

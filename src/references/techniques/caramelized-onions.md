@@ -3,7 +3,7 @@
     * 2 Onions, sliced
     * 5 ml White Sugar (optional)
     * 2 ml Kosher Salt
-    * 1 ml Black Pepper, ground
+    * 1 ml Black Peppercorn, ground
     * 30 ml Wine or Water
 
 === "Directions"

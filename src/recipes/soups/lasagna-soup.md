@@ -8,7 +8,7 @@
     * 2 Garlic Cloves, minced
     * 330 g Beef, ground
     * 5 ml Kosher Salt
-    * 2 ml Black Pepper, ground
+    * 2 ml Black Peppercorn, ground
     * < 1 ml Nutmeg, ground
     * 500 g Tomatoes, peeled, chopped
     * 100 g Dry Rigatoni or Fusilli Pasta, cooked

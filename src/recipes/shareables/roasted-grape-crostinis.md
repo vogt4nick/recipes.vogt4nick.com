@@ -4,7 +4,7 @@
         * 30 ml Sherry Vinegar
         * 30 ml Olive Oil
         * 3 ml Kosher Salt
-        * 1 ml Black Pepper, ground
+        * 1 ml Black Peppercorn, ground
     * 5 ml Orange Zest
     * 1 Baguette, 12 mm slices
     * 60 g Manchego or Romano Cheese

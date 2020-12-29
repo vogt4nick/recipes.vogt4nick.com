@@ -6,7 +6,7 @@
         * 1 Garlic Clove, minced
         * 5 ml Chili Powder
         * Kosher Salt
-        * Black Pepper, ground
+        * Black Peppercorn, ground
         * 15 ml Lime Juice
     * Garnish
         * Cilantro Leaves, fresh

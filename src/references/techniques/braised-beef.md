@@ -3,7 +3,7 @@
     * 1200 g Chuck Beef
     * Rub
         * Kosher Salt
-        * Black Pepper, ground
+        * Black Peppercorn, ground
     * Roux
         * Flour
         * 1000 ml Beef Stock, cool

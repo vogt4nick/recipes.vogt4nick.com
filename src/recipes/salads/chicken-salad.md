@@ -8,7 +8,7 @@
       * 60 ml Extra Virgin Olive Oil
       * 15 ml Herbs de Provence
       * 2 ml Kosher Salt
-      * 2 ml Black Pepper, ground
+      * 2 ml Black Peppercorn, ground
 
 === "Directions"
     1. **Mix** Mix together chicken, shallots, and black olives in a bowl.

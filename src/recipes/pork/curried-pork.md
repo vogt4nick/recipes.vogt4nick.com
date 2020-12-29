@@ -3,7 +3,7 @@
     * 5 ml Paprika
     * 2 ml Cayenne Pepper, ground
     * 2 ml Salt
-    * 2 ml Black Pepper
+    * 2 ml Black Peppercorn, ground
     * 225 g Pork, chopped
     * 90 ml Canola Oil
     * 110 g Yellow Onion, minced

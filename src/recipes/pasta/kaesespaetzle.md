@@ -13,7 +13,7 @@ title: Käsespätzle
     * 120 g Gruyere, grated
     * 120 g Emmental, grated
     * 5 ml Kosher Salt
-    * 5 ml Black Pepper
+    * 5 ml Black Peppercorn, ground
     * 60 g Gruyere, sliced
     * 60 g Emmental, sliced
     * 60 ml Chives

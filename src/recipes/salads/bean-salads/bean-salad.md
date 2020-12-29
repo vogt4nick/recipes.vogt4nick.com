@@ -7,7 +7,7 @@
     * 15 ml Red Wine Vinegar or Lemon Juice
     * 50 g Extra Virgin Olive Oil
     * 2 ml Kosher Salt
-    * 2 ml Black Pepper
+    * 2 ml Black Peppercorn, ground
     * Garnish
         * Parsley, fresh
 

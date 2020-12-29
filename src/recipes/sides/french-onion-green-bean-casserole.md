@@ -3,7 +3,7 @@
         * 30 ml Unsalted Butter
         * 400 g Yellow Onion, sliced
         * 2 ml Kosher Salt
-        * 1 ml Black Pepper, ground
+        * 1 ml Black Peppercorn, ground
         * 15 ml Red Wine Vinegar
     * Sauce
         * 500 ml [Bechamel Sauce](../sauces/white-sauces/bechamel-sauce.md)
@@ -11,7 +11,7 @@
         * 1 ml Thyme, dried
         * 1 ml Cayenne Pepper, ground
         * 1 ml Kosher Salt
-        * 1 ml Black Pepper, ground
+        * 1 ml Black Peppercorn, ground
     * Gratin
         * 75 g Bread Crumbs
         * 30 ml Unsalted Butter, melted
@@ -19,7 +19,7 @@
         * 40 g Parmesan, grated
     * 900 g Green Beans, trimmed, blanched
     * Kosher Salt
-    * Black Pepper, ground
+    * Black Peppercorn, ground
     * 55 g Gruyere, grated
 
 === "Directions"

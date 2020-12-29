@@ -9,7 +9,7 @@
         * 8 ml Onion Powder
         * 8 ml Cumin Seed, ground
         * 2 ml Salt
-        * 2 ml Pepper
+        * 2 ml Black Peppercorn, ground
         * 30 ml Water, cold
         * 400 g Refried Beans
         * 400 g Chicken, cooked, diced

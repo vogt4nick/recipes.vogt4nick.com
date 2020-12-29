@@ -2,7 +2,7 @@
     * 15 ml Unsalted Butter, room temperature
     * 1800 g Beef Short Ribs
     * <1 ml Sea Salt
-    * <1 ml Black Pepper
+    * <1 ml Black Peppercorn, ground
     * 15 ml Unsalted Butter, room temperature
     * 330 g Red Onion, chopped
     * 330 g Parsnips, 15 mm cubes
@@ -13,7 +13,7 @@
     * 15 ml Unsalted Butter, room temperature
     * 15 ml Flour
     * <1 ml Sea Salt
-    * <1 ml Black Pepper
+    * <1 ml Black Peppercorn, ground
 
 === "Directions"
     1. **Preheat oven** to 325°F.

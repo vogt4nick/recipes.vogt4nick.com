@@ -2,7 +2,7 @@
     * [Baguette](../breads/baguettes.md), sliced
     * Olive Oil
     * Kosher Salt
-    * Black Pepper, ground
+    * Black Peppercorn, ground
 
 === "Directions"
     1. **Preheat oven** to 350 F (175 C).

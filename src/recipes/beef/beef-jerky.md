@@ -6,7 +6,7 @@
         * 30 ml Liquid Smoke
         * 30 ml Brown Sugar
         * 10 ml Kosher Salt
-        * 5 ml Black Pepper, ground
+        * 5 ml Black Peppercorn, ground
         * 5 ml Meat Tenderizer
         * 5 ml Garlic Powder
         * 5 ml Onion Powder

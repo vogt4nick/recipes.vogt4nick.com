@@ -7,7 +7,7 @@
     * 1 Egg, beaten
     * Seasonings for Egg & Vegetables
         * 2 ml Kosher Salt
-        * 2 ml Black Pepper, ground
+        * 2 ml Black Peppercorn, ground
     * Seasonings for Rice
         * 1 Garlic Clove, chopped
         * 2 ml Ginger, chopped

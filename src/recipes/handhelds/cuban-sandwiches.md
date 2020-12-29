@@ -3,7 +3,7 @@
     * Spread
         * Mayonnaise
         * Mustard
-        * Black Pepper
+        * Black Peppercorn, ground
     * Swiss Cheese, sliced
     * Smoked Ham, sliced
     * Dill Pickles, sliced

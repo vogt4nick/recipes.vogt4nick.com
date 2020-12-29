@@ -7,7 +7,7 @@
     1 Garlic Clove, crushed
     10 Parsley Sprigs
     2 ml Salt
-    2 ml Black Pepper, ground
+    2 ml Black Peppercorn, ground
     1000 ml Water
 
 === "Directions"

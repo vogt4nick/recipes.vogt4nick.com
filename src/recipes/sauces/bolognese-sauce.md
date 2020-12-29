@@ -14,7 +14,7 @@
     * 110 g Carrot, chopped
     * 330 g Ground Beef
     * 4 ml Kosher Salt
-    * 2 ml Black Pepper, ground
+    * 2 ml Black Peppercorn, ground
     * 240 ml Whole Milk
     * 1 pinch Nutmeg
     * 240 ml Dry White Wine

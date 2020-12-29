@@ -2,7 +2,7 @@
     * 500 g Beef Chuck
     * Marinade
         * 1 ml Kosher Salt
-        * 2 Pepper Corns
+        * 2 Black Peppercorns
         * 2 Allspice Corns
         * 2 Cloves
         * 1 Bay Leaf
@@ -14,7 +14,7 @@
         * 80 g Carrot, chopped
     * 45 ml Vegetable Oil
     * 2 ml Kosher Salt
-    * 1 ml Black Pepper, ground
+    * 1 ml Black Peppercorn, ground
     * 80 g White Onion, sliced
     * 80 g Celery, roughly chopped
     * 80 g Carrot, roughly chopped

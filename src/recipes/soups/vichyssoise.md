@@ -3,7 +3,7 @@
     * 300 g Potatoes, peeled, chopped
     * 100 g Leeks, halved, rinsed, sliced width-wise
     * 2 ml Kosher Salt
-    * 2 ml Black Pepper, ground
+    * 2 ml Black Peppercorn, ground
     * 800 ml Vegetable Stock
     * 200 ml Heavy Cream
     * For Garnish

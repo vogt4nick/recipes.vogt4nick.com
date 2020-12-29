@@ -7,7 +7,7 @@
     * 30 ml Unsalted Butter
     * 5 ml Rosemary, chopped
     * 1 ml Kosher Salt
-    * 1 ml Black Pepper
+    * 1 ml Black Peppercorn, ground
 
 === "Directions"
     1. **Preheat oven** to 400F (205C).

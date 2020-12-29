@@ -8,7 +8,7 @@
         * 120 ml Heavy Cream
     * Seasonings
         * 2 ml Kosher Salt
-        * 2 ml Black Pepper, ground
+        * 2 ml Black Peppercorn, ground
         * 1 ml Cayenne Pepper, ground
     * 110 g Cheddar Cheese, grated
 

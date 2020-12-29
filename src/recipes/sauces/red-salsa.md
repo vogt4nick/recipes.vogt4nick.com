@@ -6,7 +6,7 @@
     * 900 g Tomatoes, peeled, seeded, cored, chopped
     * 15 ml White Sugar
     * 2 ml Kosher Salt
-    * 5 ml Black Pepper, ground
+    * 5 ml Black Peppercorn, ground
     * 60 ml Cilantro Leaves, fresh
     * 45 ml Lime Juice
 

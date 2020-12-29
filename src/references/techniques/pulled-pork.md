@@ -2,7 +2,7 @@
     * 3000 g Pork Shoulder, bone-in
     * Seasonings
         * 30 ml Kosher Salt
-        * 15 ml Black Pepper, ground
+        * 15 ml Black Peppercorn, ground
         * 15 ml Paprika
         * 15 ml Brown Sugar
         * 10 ml Onion Powder

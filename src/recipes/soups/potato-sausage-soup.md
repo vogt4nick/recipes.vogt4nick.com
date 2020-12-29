@@ -9,7 +9,7 @@
     * 1200 ml Chicken Stock
     * 200 g Green Cabbage, chopped
     * 600 g Russet Potatoes, peeled, chopped
-    * Black Pepper, ground
+    * Black Peppercorn, ground
     * Cayenne Pepper, ground
     * 1 Bay Leaf
     * 30 ml White Vinegar, distilled

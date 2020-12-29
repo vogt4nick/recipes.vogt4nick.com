@@ -13,7 +13,7 @@
         * 60 ml Mirin
         * 45 ml White Sugar
         * 2 Garlic Cloves, minced
-        * Black Pepper, ground
+        * Black Peppercorn, ground
     * Veggies
         * 300 g Waxy Potatoes, roughly chopped
         * 300 g Daikon Radish, roughly chopped

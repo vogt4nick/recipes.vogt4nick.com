@@ -4,7 +4,7 @@
         * 45 g All-Purpose Flour
         * 5 ml Baking Powder
         * 4 ml Kosher Salt
-        * 1 ml Black Pepper, ground
+        * 1 ml Black Peppercorn, ground
     * Egg Mixture
         * 2 Eggs, beaten
         * 80 ml Milk

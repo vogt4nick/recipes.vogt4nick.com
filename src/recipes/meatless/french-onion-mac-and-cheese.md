@@ -13,7 +13,7 @@
         * 200 g Cheddar, grated
         * 7 ml Dijon Mustard
         * 2 ml Kosher Salt
-        * 2 ml Black Pepper
+        * 2 ml Black Peppercorn, ground
     * 100 g Gruyere, grated
     * 100 g Breadcrumbs
     * 15 ml Thyme Leaves
