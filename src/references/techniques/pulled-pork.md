@@ -7,7 +7,7 @@
         * 15 ml Brown Sugar
         * 10 ml Onion Powder
         * 5 ml Garlic Powder
-        * 5 ml Cayenne
+        * 5 ml Cayenne Pepper, ground
 
     ---
 

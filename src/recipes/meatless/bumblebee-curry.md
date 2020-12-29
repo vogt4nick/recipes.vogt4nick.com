@@ -4,7 +4,7 @@
         * 6 ml Kosher Salt
         * 6 ml Turmeric, ground
         * 2 ml Cardamom, ground
-        * 2 ml Cayenne
+        * 2 ml Cayenne Pepper, ground
         * 2 ml Cinnamon, ground
         * 2 ml Ginger, grated
         * 2 ml Paprika

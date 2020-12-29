@@ -9,7 +9,7 @@
         * 500 ml [Bechamel Sauce](../sauces/white-sauces/bechamel-sauce.md)
         * 1 ml Nutmeg, grated
         * 1 ml Thyme, dried
-        * 1 ml Cayenne
+        * 1 ml Cayenne Pepper, ground
         * 1 ml Kosher Salt
         * 1 ml Black Pepper, ground
     * Gratin

@@ -7,7 +7,7 @@
         * 2 ml White Sugar
         * 1 ml Kosher Salt
         * < 1 ml Black Pepper, ground
-        * < 1 ml Cayenne
+        * < 1 ml Cayenne Pepper, ground
     * 2 Apples, chopped
     * 120 g Celery Root or Celery Stalks, chopped, soaking in cool water
     * 120 g Grapes, quartered

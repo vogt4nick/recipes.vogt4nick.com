@@ -9,7 +9,7 @@
     * Seasonings
         * 2 ml Kosher Salt
         * 2 ml Black Pepper, ground
-        * 1 ml Cayenne
+        * 1 ml Cayenne Pepper, ground
     * 110 g Cheddar Cheese, grated
 
 === "Directions"

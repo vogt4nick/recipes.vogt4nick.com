@@ -1,7 +1,7 @@
 === "Ingredients"
     * 15 ml Curry Powder
     * 5 ml Paprika
-    * 2 ml Cayenne Pepper
+    * 2 ml Cayenne Pepper, ground
     * 2 ml Salt
     * 2 ml Black Pepper
     * 225 g Pork, chopped
