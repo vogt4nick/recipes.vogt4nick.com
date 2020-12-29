@@ -6,7 +6,7 @@ title: Jalapeño cheese puffs
         * 180 ml Milk
         * 60 ml Unsalted Butter
         * 10 ml Kosher Salt
-        * 250 g Tapioca Flour, sifted
+        * 250 g Tapioca Flour
     * Mix-ins
         * 2 Eggs, room temperature, whisked
         * 120 g Cheddar Cheese, grated

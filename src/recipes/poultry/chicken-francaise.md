@@ -2,7 +2,7 @@
     Review [how to extinguish grease fires](https://www.wikihow.com/Put-out-a-Grease-Fire#Snuffing-out-the-Fire_sub) before cooking, and keep an open carton of baking soda at the ready.
 
 === "Ingredients"
-    * 120 ml Flour, sifted
+    * 120 ml All-Purpose Flour
     * 2 Eggs
     * 10 ml Parsley, chopped
     * 60 g Parmesan, grated

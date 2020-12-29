@@ -3,7 +3,7 @@
         * 5 ml Active Dry Yeast
         * 5 ml Sugar
         * 180 ml Water, about 40C
-        * 250 g Flour, sifted
+        * 250 g All-Purpose Flour
         * 5 ml Salt
         * <1 ml Baking Soda
         * 30 ml Canola Oil

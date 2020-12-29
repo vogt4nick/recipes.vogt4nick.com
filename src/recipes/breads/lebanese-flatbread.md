@@ -1,12 +1,12 @@
 === "Ingredients"
     * Sponge
-        * 60 g Bread Flour, sifted
+        * 60 g Bread Flour
         * 5 ml Active Dry Yeast
         * 5 ml White Sugar
         * 120 ml Water, warm
     * 4 ml Kosher Salt
     * 15 ml Olive Oil
-    * 120 g Bread Flour, sifted
+    * 120 g Bread Flour
 
 === "Directions"
     1. **Mix sponge**. Add sponge ingredients to a large bowl. Whisk until smooth. Cover. Rest 30-60 minutes until bubbly.

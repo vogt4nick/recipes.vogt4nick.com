@@ -9,7 +9,7 @@
     * 2 Cloves
     * <1 ml Salt
     * 120 ml Red Wine
-    * 15 ml Flour
+    * 15 ml All-Purpose Flour
     * 15 ml Marmelade (optional)
 
 === "Directions"

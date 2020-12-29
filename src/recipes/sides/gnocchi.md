@@ -2,7 +2,7 @@
     * 450 g [Russet Potatoes, baked](baked-potato.md), peeled
     * 30 g Ricotta (optional)
     * 1 Egg, beaten
-    * 150 ml Flour, sifted
+    * 80 g All-Purpose Flour
     * 2 ml Salt
     * 2 ml Thyme, dried
     * For Boiling Gnocchi

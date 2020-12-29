@@ -11,7 +11,7 @@
     * 750 ml Zinfandel Wine
     * 480 ml Beef Stock
     * 15 ml Unsalted Butter, room temperature
-    * 15 ml Flour
+    * 15 ml All-Purpose Flour
     * <1 ml Sea Salt
     * <1 ml Black Peppercorn, ground
 

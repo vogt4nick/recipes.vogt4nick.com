@@ -3,7 +3,7 @@
     * 200 g Sausage, sliced
     * 200 g Onion, minced
     * 5 ml Kosher Salt
-    * 45 ml Flour
+    * 45 ml All-Purpose Flour
     * 2 Garlic Cloves, minced
     * 10 ml Paprika
     * 1200 ml Chicken Stock
