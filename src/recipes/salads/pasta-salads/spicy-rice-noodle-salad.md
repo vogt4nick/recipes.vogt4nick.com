@@ -9,9 +9,9 @@
     * 175 g Thin Rice Noodle, cooked, rinsed, drained
     * 120 g Carrots, julienned
     * 4 Green Onions, chopped
-    * 80 ml Fresh Basil, chopped
-    * 80 ml Fresh Coriander Leaves, chopped
-    * 80 ml Fresh Mint, chopped
+    * 80 ml Basil Leaves, chopped
+    * 80 ml Coriander Leaves, chopped
+    * 80 ml Mint, chopped
     * 80 g Peanuts, chopped
     * 5 ml Sesame Oil
     * 600 g Boneless Skinless Chicken Thighs, grilled (optional)

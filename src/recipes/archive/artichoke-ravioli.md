@@ -1,36 +1,36 @@
 === "Ingredients"
-    | Amount  | Ingredient                  |
-    | :------ | :-------------------------- |
-    | 190 g   | All-Purpose Flour           |
-    | 1       | Eggs                        |
-    | 2       | Egg Whites                  |
-    | 2 ml    | Kosher Salt                 |
-    | ---     | ---                         |
-    | 30 ml   | Unsalted Butter             |
-    | 60 g    | Onion, chopped              |
-    | 300 g   | Artichoke Hearts            |
-    | ---     | ---                         |
-    | 30 g    | Parmigiano-Reggiano, grated |
-    | 80 ml   | Italian Parsley, chopped    |
-    | 1       | Egg Yolk                    |
-    | 2 ml    | Lemon Juice                 |
-    | 1 ml    | Kosher Salt                 |
-    | 1 ml    | Black Pepper                |
-    | 3 ml    | Nutmeg, grated              |
-    | ---     | ---                         |
-    | 1       | Egg White                   |
-    | 10 ml   | Water                       |
-    | ---     | ---                         |
-    | 1500 ml | Water                       |
-    | 30 ml   | Kosher Salt                 |
-    | ---     | ---                         |
-    | 15 ml   | Unsalted Butter, chopped    |
-    | 180 g   | Plum Tomatoes, chopped      |
-    | 60 ml   | Water                       |
-    | 80 ml   | Heavy Cream                 |
-    | 30 g    | Parmigiano-Reggiano, grated |
-    | 1 ml    | Kosher Salt                 |
-    | 1 ml    | Black Pepper                |
+    | Amount  | Ingredient                      |
+    | :------ | :------------------------------ |
+    | 190 g   | All-Purpose Flour               |
+    | 1       | Eggs                            |
+    | 2       | Egg Whites                      |
+    | 2 ml    | Kosher Salt                     |
+    | ---     | ---                             |
+    | 30 ml   | Unsalted Butter                 |
+    | 60 g    | Onion, chopped                  |
+    | 300 g   | Artichoke Hearts                |
+    | ---     | ---                             |
+    | 30 g    | Parmigiano-Reggiano, grated     |
+    | 80 ml   | Italian Parsley Leaves, chopped |
+    | 1       | Egg Yolk                        |
+    | 2 ml    | Lemon Juice                     |
+    | 1 ml    | Kosher Salt                     |
+    | 1 ml    | Black Pepper                    |
+    | 3 ml    | Nutmeg, grated                  |
+    | ---     | ---                             |
+    | 1       | Egg White                       |
+    | 10 ml   | Water                           |
+    | ---     | ---                             |
+    | 1500 ml | Water                           |
+    | 30 ml   | Kosher Salt                     |
+    | ---     | ---                             |
+    | 15 ml   | Unsalted Butter, chopped        |
+    | 180 g   | Plum Tomatoes, chopped          |
+    | 60 ml   | Water                           |
+    | 80 ml   | Heavy Cream                     |
+    | 30 g    | Parmigiano-Reggiano, grated     |
+    | 1 ml    | Kosher Salt                     |
+    | 1 ml    | Black Pepper                    |
 
 === "Directions"
     1. **Mix Pasta Dough.** Add flour, salt to food processor. Pulse briefly. Add eggs. Pulse briefly. Incrementally add water until a firm - but not sticky - dough ball forms. Process dough 15 seconds.

@@ -3,7 +3,7 @@
     * 2 ml Baking Soda
     * 900 g Russet Potatoes, peeled, quartered
     * 90 ml Cooking Fat
-    * 16 ml Rosemary
+    * 16 ml Rosemary Leaves
     * 8 ml Black Peppercorn, ground
     * 8 ml Kosher Salt
     * For Serving

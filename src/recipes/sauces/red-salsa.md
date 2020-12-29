@@ -7,7 +7,7 @@
     * 15 ml White Sugar
     * 2 ml Kosher Salt
     * 5 ml Black Peppercorn, ground
-    * 60 ml Fresh Coriander Leaves
+    * 60 ml Coriander Leaves, chopped
     * 45 ml Lime Juice
 
 === "Directions"

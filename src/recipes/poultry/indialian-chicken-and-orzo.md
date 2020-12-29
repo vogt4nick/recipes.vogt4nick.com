@@ -12,7 +12,7 @@
         * 80 ml Heavy Cream
     * 200 g Broccoli
     * Garnish
-        * 15 ml Basil
+        * 15 ml Basil Leaves, chopped
         * 15 ml Parmesan, grated
 
 === "Directions"

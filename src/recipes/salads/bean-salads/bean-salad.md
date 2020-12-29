@@ -9,7 +9,7 @@
     * 2 ml Kosher Salt
     * 2 ml Black Peppercorn, ground
     * Garnish
-        * Fresh Parsley
+        * Fresh Parsley Leaves, chopped
 
     !!! tip "This recipes works for all legumes."
 

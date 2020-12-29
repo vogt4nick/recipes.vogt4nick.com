@@ -7,7 +7,7 @@
         * 2 Cloves
         * 1 Bay Leaf
         * 4 Juniper Berries
-        * 5 ml Rosemary
+        * 5 ml Rosemary Leaves
         * 330 ml Water, cold
         * 90 ml White Vinegar
         * 80 g White Onion, minced

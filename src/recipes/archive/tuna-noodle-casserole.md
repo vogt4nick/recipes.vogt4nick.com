@@ -8,7 +8,7 @@
     | 180 g  | Bow Tie Pasta                  |
     | 5 ml   | Dill                           |
     | 5 ml   | Onion Flakes, dried            |
-    | 5 ml   | Oregano                        |
+    | 5 ml   | Oregano Leaves                 |
 
 === "Directions"
     1. Spread cream of mushroom Spread ingredients over 9" x 13" casserole dish. Add remaining ingredients. Mix. Bake at 325° F for 50 minutes.

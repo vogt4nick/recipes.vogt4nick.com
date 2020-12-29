@@ -9,7 +9,7 @@
     * 30 ml Unsalted Butter, sliced
     * Garnish
         * 3 threads Saffron, ground, mixed with 1 1/2 tablespoons hot water
-        * 15 ml Parsley, dried
+        * 15 ml Parsley Leaves, chopped
 
     !!! question "Substitute 2 ml curry powder for saffron."
 

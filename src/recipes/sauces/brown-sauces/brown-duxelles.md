@@ -9,7 +9,7 @@
     * 300 ml [Brown Sauce](./brown-sauce.md)
     * 30 ml Unsalted Butter, room temperature
     * Garnish
-        * 45 ml Parsley
+        * 45 ml Parsley Leaves, chopped
 
     !!! info "Yields about 400 ml."
 

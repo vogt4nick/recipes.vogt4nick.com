@@ -12,7 +12,7 @@
     * 30 g Red Onion, sliced
     * Garnish
         * Red Pepper Flakes
-        * Oregano, dried
+        * Oregano Leaves
 
 === "Directions"
     1. **Prepare kitchen.** If necessary, rest dough at room temperature at least 60 minutes before baking pizza. Place pizza steel on oven's upper rack. Preheat oven to 550F (290C). Prepare a lightly floured surface at least 60 cm wide.

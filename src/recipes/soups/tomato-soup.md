@@ -5,9 +5,9 @@
     * 1 ml Black Peppercorn, ground
     * 900 g Tomatoes, peeled, quartered
     * 500 ml [Vegetable Stock](#vegetable-stock-v)
-    * 10 ml Parsley
+    * 10 ml Parsley Leaves, chopped
     * For Garnish
-        * Basil
+        * Basil Leaves, chopped
 
 === "Directions"
     1. **Saute vegetables.** Heat oil in stockpan over medium heat. Add onion, salt, pepper. Coat evenly. Saute 8 minutes, stirring every 3 minutes. Add tomatoes. Cook 15 minutes, stirring every 5 minutes, until tomatoes break down.

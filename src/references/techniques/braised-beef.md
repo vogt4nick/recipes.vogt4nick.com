@@ -11,7 +11,7 @@
         * Garlic Cloves
         * Bay Leaf
         * Thyme
-        * Rosemary
+        * Rosemary Leaves
     * Veggies
         * Onion, roughly chopped
         * Carrot, roughly chopped

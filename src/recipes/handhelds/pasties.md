@@ -10,7 +10,7 @@
     * 50 g Yellow Onion, minced
     * 50 g Carrot, chopped
     * 100 g Ground Beef
-    * 15 ml Parsley
+    * 15 ml Parsley Leaves, chopped
     * 1 Egg
 
     !!! question "Substitute carrots for parsnips"

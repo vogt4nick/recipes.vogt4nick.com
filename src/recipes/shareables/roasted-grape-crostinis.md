@@ -8,7 +8,7 @@
     * 5 ml Orange Zest
     * 1 Baguette, 12 mm slices
     * 60 g Manchego or Romano Cheese
-    * Fresh Basil, thinly sliced
+    * Fresh Basil Leaves, thinly sliced
 
 === "Directions"
     1. **Preheat oven** to 400 F (205 C).

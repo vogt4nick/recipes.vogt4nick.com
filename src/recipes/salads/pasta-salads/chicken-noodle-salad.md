@@ -16,9 +16,9 @@
     * 2 ml Kosher Salt
     * For Seasoning
         * 80 g Peanuts, roasted, chopped
-        * 80 ml Fresh Basil, chopped
-        * 80 ml Fresh Coriander Leaves, chopped
-        * 80 ml Fresh Mint, chopped
+        * 80 ml Basil Leaves, chopped
+        * 80 ml Coriander Leaves, chopped
+        * 80 ml Mint Leaves, chopped
 
     !!! tip "One of the secrets of a great noodle salad, is your other ingredients having a similar width to your noodles.[^1]"
 

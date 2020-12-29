@@ -4,7 +4,7 @@
 === "Ingredients"
     * 120 ml All-Purpose Flour
     * 2 Eggs
-    * 10 ml Parsley, chopped
+    * 10 ml Parsley Leaves, chopped
     * 60 g Parmesan, grated
     * <1 ml Salt
     * <1 ml Black Peppercorn, ground
@@ -15,7 +15,7 @@
     * 6 Garlic Cloves, minced
     * 15 ml Lime Juice
     * 30 ml Unsalted Butter
-    * 15 ml Parsley, chopped
+    * 15 ml Parsley Leaves, chopped
 
     ??? question "How do I 'butterfly cut' chicken breast?"
         Good Housekeeping [step-by-step instructions with pictures](https://www.goodhousekeeping.com/food-recipes/cooking/tips/g1952/butterfly-chicken-breast/).

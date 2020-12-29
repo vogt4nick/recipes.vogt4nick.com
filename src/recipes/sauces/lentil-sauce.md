@@ -4,9 +4,9 @@
     * 2 Garlic Cloves, minced
     * 400 g Tomatoes, peeled, seeded, chopped
     * Spices
-        * 60 mL Fresh Parsley
-        * 5 mL Sage, dried
-        * 2 Cloves, whole
+        * 60 mL Fresh Parsley Leaves, chopped
+        * 5 mL Sage Leaves, chopped
+        * 2 Cloves
     * 150 g Dry Lentils du Puy
     * 300 mL [Vegetable Stock](../soups/stocks/vegetable-stock.md)
 

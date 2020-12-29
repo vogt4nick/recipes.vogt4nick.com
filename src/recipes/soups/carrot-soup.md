@@ -10,7 +10,7 @@
         * 2 ml Salt
         * 1 pinch Red Pepper Flakes
     * Garnish
-        * 30 ml Fresh Parsley, chopped
+        * 30 ml Parsley Leaves, chopped
         * Lemon Tahini Sauce
             * 45 ml [Tahini Paste](../sauces/tahini-paste.md)
             * 30 ml Lemon Juice

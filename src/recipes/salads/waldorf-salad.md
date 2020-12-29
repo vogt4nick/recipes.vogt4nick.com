@@ -1,9 +1,9 @@
 === "Ingredients"
     * Dressing
-        * 180 g Mayonnaise
+        * 180 g [Mayonnaise](../sauces/mayonnaise/mayonnaise.md)
         * 60 g Sour Cream
         * 20 ml Lemon Juice
-        * 15 ml Fresh Tarragon, minced
+        * 15 ml Tarragon Leaves, minced
         * 2 ml White Sugar
         * 1 ml Kosher Salt
         * < 1 ml Black Peppercorn, ground

@@ -4,7 +4,7 @@
     * 500 ml [Beef Stock](../soups/stocks/meat-stock.md)
     * 5 ml Kosher Salt
     * 15 ml Tomato Paste
-    * 5 ml Parsley, dried
+    * 5 ml Parsley Leaves, chopped
     * Marinade
         * 10 ml Neutral Oil
         * 10 ml Paprika

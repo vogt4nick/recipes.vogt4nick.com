@@ -14,7 +14,7 @@
     * 100 g Dry Rigatoni or Fusilli Pasta, cooked
     * 30 g Parmesan, grated
     * Garnish
-        * Parsley Sprigs
+        * Parsley Leaves, chopped
         * Parmesan
 
 === "Directions"

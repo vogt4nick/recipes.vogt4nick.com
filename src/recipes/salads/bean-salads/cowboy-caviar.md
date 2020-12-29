@@ -6,7 +6,7 @@
         * 5 ml Kosher Salt
         * 2 Garlic Cloves, minced
         * 5 ml Lime Juice
-        * 2 ml Oregano, dried
+        * 2 ml Oregano Leaves
     * 400 g Black Eyed Peas, soaked
     * 400 g Black Beans, soaked, slightly undercooked
     * 400 g Corn Kernels

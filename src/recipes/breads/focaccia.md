@@ -9,7 +9,7 @@
     * 225 g Kalamata Olives
     * 5 ml Coarse Salt
     * 5 ml Black Peppercorn, coarsely ground
-    * 45 ml Fresh Rosemary
+    * 45 ml Rosemary Leaves
     * 15 ml Olive Oil
 
 === "Directions"

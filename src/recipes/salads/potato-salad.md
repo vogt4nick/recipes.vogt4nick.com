@@ -6,7 +6,7 @@
         * 45 ml White Vinegar
         * 45 ml Vegetable Oil
         * 5 ml White Sugar
-        * 5 ml Parsley
+        * 5 ml Parsley Leaves, chopped
         * 3 ml Kosher Salt
         * 2 ml Black Peppercorn, ground
     * Garnish

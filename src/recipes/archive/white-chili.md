@@ -7,7 +7,7 @@
     | 15 m    | Garlic, minced               |
     | 30 ml   | Lime Juice                   |
     | 60 ml   | Coriander, chopped           |
-    | 15 ml   | Oregano                      |
+    | 15 ml   | Oregano Leaves               |
     | 15 ml   | Cumin                        |
     | 5 ml    | Red Pepper Flakes, optional  |
     | 170 g   | Jalapeno Peppers, diced      |

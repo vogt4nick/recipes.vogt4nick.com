@@ -9,7 +9,7 @@
         * 50 g Celery, chopped
         * 1 Garlic Clove, smashed
     * Seasoning
-        * 2 ml Parsley, dried
+        * 2 ml Parsley Sprigs
         * 1 Bay Leaf
         * 1 Clove, dried
         * < 1 ml Thyme, dried

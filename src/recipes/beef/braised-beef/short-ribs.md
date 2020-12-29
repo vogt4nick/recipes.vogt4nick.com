@@ -7,7 +7,7 @@
     * 330 g Red Onion, chopped
     * 330 g Parsnips, 15 mm cubes
     * 12 Garlic Cloves, chopped
-    * 30 ml Rosemary, chopped
+    * 30 ml Rosemary Leaves
     * 750 ml Zinfandel Wine
     * 480 ml Beef Stock
     * 15 ml Unsalted Butter, room temperature

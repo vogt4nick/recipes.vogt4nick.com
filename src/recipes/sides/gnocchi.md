@@ -11,7 +11,7 @@
     * For Garnish
         * 15 ml Olive Oil
         * 5 ml Black Peppercorn, ground
-        * 5 ml Parsley, dried, ground
+        * 5 ml Parsley Leaves, minced
 
 === "Directions"
     1. **Prepare pota-dough.** Mash potatoes into large bowl. Add ricotta, egg, flour, salt, thyme. Mix. Transfer dough to well-floured surface. Knead gently.
