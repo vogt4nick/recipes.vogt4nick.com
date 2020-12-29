@@ -7,7 +7,7 @@
     * 10 ml Vegetable Oil
     * 50 g Cashews, whole
     * Garnish
-        * Cilantro
+        * Coriander Leaves, chopped
         * Cashews
 
 === "Directions"

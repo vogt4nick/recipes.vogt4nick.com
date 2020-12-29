@@ -1,6 +1,6 @@
 === "Ingredients"
     * 45 ml Yellow Spices
-        * 12 ml Cilantro, dried
+        * 12 ml Coriander Seed, ground
         * 6 ml Kosher Salt
         * 6 ml Turmeric, ground
         * 2 ml Cardamom, ground

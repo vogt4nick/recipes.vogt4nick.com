@@ -15,7 +15,7 @@
     * 30 g Serrano Peppers, minced
     * Garnish
         * 200 g Avocado, chopped
-        * Cilantro
+        * Coriander Leaves, chopped
 
     ??? question "Substitutions"
         Substitute seeded tomatoes for cherry tomatoes

@@ -20,7 +20,7 @@
         * 5 ml Fish Sauce
     * Garnish
         * Scallions, chopped
-        * Cilantro, dried
+        * Coriander Leaves, chopped
 
     !!! question "Substitute white wine, stock, or water for rice wine."
 

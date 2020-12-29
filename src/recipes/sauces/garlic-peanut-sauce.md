@@ -3,7 +3,7 @@
     * 100 g Onion, minced
     * 2 Garlic Cloves, minced
     * 15 ml Lemon Zest
-    * 15 ml Coriander, ground
+    * 15 ml Coriander Seed, ground
     * 30 ml Sambal Oelek or [Szechuan Sauce](szechuan-sauce.md)
     * 120 ml Coconut Milk, unsweetened
     * 15 ml Tamarind Paste

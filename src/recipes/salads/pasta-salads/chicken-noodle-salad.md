@@ -17,7 +17,7 @@
     * For Seasoning
         * 80 g Peanuts, roasted, chopped
         * 80 ml Fresh Basil, chopped
-        * 80 ml Fresh Cilantro, chopped
+        * 80 ml Fresh Coriander Leaves, chopped
         * 80 ml Fresh Mint, chopped
 
     !!! tip "One of the secrets of a great noodle salad, is your other ingredients having a similar width to your noodles.[^1]"

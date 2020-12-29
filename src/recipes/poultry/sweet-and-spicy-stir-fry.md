@@ -19,7 +19,7 @@ title: Sweet & spicy stir fry
         * 110 g Red Bell Pepper, chopped
         * 60 ml Water, cold
     * Garnish
-        * Cilantro, chopped
+        * Coriander Leaves, chopped
 
 === "Directions"
     1. **Marinade chicken.** Mix seasonings and chicken in ziplock bag. Coat evenly. Refrigerate for no more than 24 hours. Let cold chicken rest for 20 minutes at room temperature before cooking. Referenced later as *marinated chicken*.

@@ -9,7 +9,7 @@
     * 2 ml Cumin Seed, ground
     * 360 g Rice, cooked
     * Garnish
-        * Cilantro
+        * Coriander Leaves, chopped
 
 === "Directions"
     1. **Combine.** Heat oil in skillet over medium heat. Add onion, cumin, garlic. Coat evenly. Saute 8 minutes, stirring every 3 minutes. Add prepared beans, salt, remaining cumin. Stir evenly. Cook 5 minutes. Remove from heat. Add rice. Stir evenly.

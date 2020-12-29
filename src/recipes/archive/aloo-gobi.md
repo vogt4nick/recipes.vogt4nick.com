@@ -7,7 +7,7 @@
     | 3 ml   | Cumin                            |
     | 200 g  | Tomatoes, diced                  |
     | 400 ml | Coconut Milk                     |
-    | 15 ml  | Cilantro                         |
+    | 15 ml  | Coriander Leaves, chopped        |
     | 8 ml   | Salt                             |
     | 8 ml   | Turmeric                         |
     | 5 ml   | Cayenne Pepper                   |

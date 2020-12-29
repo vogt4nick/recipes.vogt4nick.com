@@ -4,7 +4,7 @@
     | 800 ml | Beef Stock                                   |
     | 1      | Bay Leaf                                     |
     | ---    | ---                                          |
-    | 30 ml  | Unsalted Butter                             |
+    | 30 ml  | Unsalted Butter                              |
     | 110 g  | Yellow Onion, minced                         |
     | 30 ml  | Garlic, minced                               |
     | 450 g  | Pork, chopped into 15 mm pieces              |
@@ -18,7 +18,7 @@
     | 3 ml   | Black Pepper                                 |
     | ---    | ---                                          |
     | 120 ml | Sour Cream                                   |
-    | 60 ml  | Cilantro                                     |
+    | 60 ml  | Coriander Leaves, chopped                    |
 
     ??? question "Substitutions"
         * Substitute 30 ml butter for bacon drippings in a pinch.

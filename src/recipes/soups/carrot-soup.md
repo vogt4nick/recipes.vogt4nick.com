@@ -6,7 +6,7 @@
     * 1000 ml Vegetable Stock
     * Seasonings
         * 3 ml Cumin Seed, ground
-        * 2 ml Coriander, ground
+        * 2 ml Coriander Seed, ground
         * 2 ml Salt
         * 1 pinch Red Pepper Flakes
     * Garnish
