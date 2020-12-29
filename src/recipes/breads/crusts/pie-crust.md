@@ -49,7 +49,8 @@
     4. Remove the dough form the bowl, place it on a lightly floured counter, and use your bench scraper to divide it into two equal pieces. Gently pat each into a 2-inch-thick disc, working quickly to seal any broken edges before wrapping them tightly in a double layer of plastic wrap. If you're portioning for a lattice-topped pie, shape one half into a 2-inch-thick disc and the other half into a 6 by 3-inch rectangle. Refrigerate the dough for at least 2 hours or, ideally, overnight. When you got to roll out the crust, you want the discs to feel as hard and cold as the butter did when you removed it from the fridge to make the dough. This will make the roll-out way easier.
     5. You can keep the pie dough in the fridge for a few days or in the freezer for up to 1 year. If frozen, remove the dough and place it in the refrigerator to thaw one full day before you intend to use it. If you're planning to make only one single-crust pie, wrap the discs separately and place one in the freezer.
 
-!!! note "Yields two 9-inch single-crust pie crusts."
+??? info "Yields two 9-inch single-crust pie crusts or 6 hand pie crusts."
+    ![Nutrition Label](../../../assets/nutrition-labels/pie-crust.png){: width=400px loading=lazy}
 
 [^1]: {{ cite.bittman_how_to_cook_everything }}
 [^2]: {{ cite.ludwinski_sister_pie }}
