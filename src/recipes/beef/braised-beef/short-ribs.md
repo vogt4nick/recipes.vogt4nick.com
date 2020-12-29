@@ -9,7 +9,7 @@
     * 12 Garlic Cloves, chopped
     * 30 ml Rosemary Leaves
     * 750 ml Zinfandel Wine
-    * 480 ml Beef Stock
+    * 480 ml [Beef Stock](../../soups/stocks/meat-stock.md)
     * 15 ml Unsalted Butter, room temperature
     * 15 ml All-Purpose Flour
     * <1 ml Sea Salt

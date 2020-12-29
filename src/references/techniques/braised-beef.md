@@ -6,7 +6,7 @@
         * Black Peppercorn, ground
     * Roux
         * Flour
-        * 1000 ml Beef Stock, cool
+        * 1000 ml [Beef Stock](../../recipes/soups/stocks/meat-stock.md), cool
     * Seasonings
         * Garlic Cloves
         * Bay Leaf

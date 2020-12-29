@@ -2,7 +2,7 @@
     You must never stop stirrig and you must be sure to wipe the bottom of the pot completely clean frequently, or the rice will stick to it.
 
 === "Ingredients"
-    * 1200 ml Vegetable Stock, simmering
+    * 1200 ml [Vegetable Stock](../soups/stocks/vegetable-stock.md), simmering
     * 15 ml Unsalted Butter
     * 30 ml Vegetable Oil
     * 30 g Onion, minced

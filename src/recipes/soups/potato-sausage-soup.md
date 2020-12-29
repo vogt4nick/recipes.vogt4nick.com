@@ -6,7 +6,7 @@
     * 45 ml All-Purpose Flour
     * 2 Garlic Cloves, minced
     * 10 ml Paprika
-    * 1200 ml Chicken Stock
+    * 1200 ml [Chicken Stock](stocks/meat-stock.md)
     * 200 g Green Cabbage, chopped
     * 600 g Russet Potatoes, peeled, chopped
     * Black Peppercorn, ground
@@ -14,7 +14,7 @@
     * 1 Bay Leaf
     * 30 ml White Vinegar, distilled
     * To Garnish
-        * 120 ml Sour Cream
+        * 120 ml [Crème Fraîche](../sauces/creme-fraiche.md) or Sour Cream
         * 30 ml Scallions, sliced (optional)
 
 === "Directions"

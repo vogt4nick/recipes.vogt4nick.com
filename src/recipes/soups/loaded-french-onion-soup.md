@@ -1,6 +1,6 @@
 === "Ingredients"
     * Beef Broth
-        * 1000 ml Beef Stock
+        * 1000 ml [Beef Stock](stocks/meat-stock.md)
         * 15 ml Herbs de Provence
         * 1 Bay Leaf
     * Bacon Bits

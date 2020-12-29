@@ -6,7 +6,7 @@
     * 30 ml Unsalted Butter
     * 4 Garlic Cloves, minced
     * 180 g Jasmine Rice, rinsed
-    * 360 ml Chicken Stock
+    * 360 ml [Chicken Stock](../soups/stocks/meat-stock.md)
     * 1 Bay Leaf
 
 === "Directions"

@@ -1,7 +1,7 @@
 === "Ingredients"
     * Dressing
         * 180 g [Mayonnaise](../sauces/mayonnaise/mayonnaise.md)
-        * 60 g Sour Cream
+        * 60 g [Crème Fraîche](../sauces/creme-fraiche.md) or Sour Cream
         * 20 ml Lemon Juice
         * 15 ml Tarragon Leaves, minced
         * 2 ml White Sugar

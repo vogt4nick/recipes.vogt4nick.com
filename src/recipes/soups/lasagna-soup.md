@@ -1,6 +1,6 @@
 === "Ingredients"
     * Broth
-        * 500 ml Beef Stock
+        * 500 ml [Beef Stock](stocks/meat-stock.md)
         * 5 ml [Italian Herbs](../seasonings/italian-herbs.md)
     * 15 ml Olive Oil
     * 45 ml Unsalted Butter

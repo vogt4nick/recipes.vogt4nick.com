@@ -8,7 +8,7 @@
     * 80 g Celery, minced
     * 80 g Onion, minced
     * 60 ml All-Purpose Flour
-    * 1500 ml Brown Stock, boiling
+    * 1500 ml [Beef Stock](../../soups/stocks/meat-stock.md), boiling
     * 30 ml Tomato Paste
     * 15 ml Herbs de Provence
 

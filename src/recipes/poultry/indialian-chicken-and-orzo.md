@@ -8,7 +8,7 @@
         * 2 Garlic Cloves, minced
         * 30 g Sun-Dried Tomatoes, chopped
         * 135 g Orzo, rinsed
-        * 360 ml Chicken Stock
+        * 360 ml [Chicken Stock](../soups/stocks/meat-stock.md)
         * 80 ml Heavy Cream
     * 200 g Broccoli
     * Garnish

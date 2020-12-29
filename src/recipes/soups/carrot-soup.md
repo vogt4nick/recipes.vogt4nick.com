@@ -3,7 +3,7 @@
     * 750 g Carrots, peeled, minced
     * 250 g Yellow Onion, minced
     * 2 Garlic Cloves, smashed
-    * 1000 ml Vegetable Stock
+    * 1000 ml [Vegetable Stock](stocks/vegetable-stock.md)
     * Seasonings
         * 3 ml Cumin Seed, ground
         * 2 ml Coriander Seed, ground
