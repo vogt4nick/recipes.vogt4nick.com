@@ -2,7 +2,7 @@
     * 100 g   | Chickpeas, dry, soaked
     * 15 ml   | Canola Oil
     * 2 ml    | Coarse Salt
-    * 1 ml    | Cumin
+    * 1 ml    | Cumin Seed, ground
 
 === "Directions"
     1. **Prepare kitchen**. Preheat oven to 425F (220C). Lightly grease a foiled sheetpan.

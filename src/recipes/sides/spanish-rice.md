@@ -6,7 +6,7 @@
     * Seasonings
         * 2 Garlic Cloves, minced
         * 6 ml Chili Powder
-        * 4 ml Cumin, ground
+        * 4 ml Cumin Seed, ground
         * 2 ml Cayenne
         * 2 ml Kosher Salt
     * 400 ml [Chicken Stock](../soups/stocks/meat-stock.md), boiling

@@ -2,11 +2,11 @@
     * 15 ml Unsalted Butter (optional)
     * 15 ml Canola Oil
     * 120 g Yellow Onion, minced
-    * 2 ml Cumin
+    * 2 ml Cumin Seed, ground
     * 5 ml Garlic, minced
     * 240 g Black Beans, cooked
     * 2 ml Kosher Salt
-    * 2 ml Cumin
+    * 2 ml Cumin Seed, ground
     * 360 g Rice, cooked
     * Garnish
         * Cilantro

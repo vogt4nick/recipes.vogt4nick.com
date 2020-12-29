@@ -8,7 +8,7 @@
         * 3 Scallion Whites
         * 1 ml Sichuan peppercorn
         * 4 Cloves
-        * 1 ml Cumin Seeds (optional)
+        * 1 ml Cumin Seed (optional)
         * <1 ml Fennel Seeds (optional)
         * 1 Amomum tsao-ko, a.k.a. Cao Guo (optional)
         * 3 Amomum kravanh, a.k.a. White Dou Kou (optional)

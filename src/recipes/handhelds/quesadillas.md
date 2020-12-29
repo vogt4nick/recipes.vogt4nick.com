@@ -9,7 +9,7 @@
         * 10 ml Neutral Oil
         * 10 ml Paprika
         * 5 ml Garlic, minced
-        * 5 ml Cumin, ground
+        * 5 ml Cumin Seed, ground
         * 5 ml Chili Powder
         * 5 ml Marjoram, dried
     * Sauteed Peppers

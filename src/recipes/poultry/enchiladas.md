@@ -7,7 +7,7 @@
     * Filling
         * 200 g Cream Cheese, softened
         * 8 ml Onion Powder
-        * 8 ml Cumin
+        * 8 ml Cumin Seed, ground
         * 2 ml Salt
         * 2 ml Pepper
         * 30 ml Water, cold

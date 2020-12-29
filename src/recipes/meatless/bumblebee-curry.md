@@ -11,7 +11,7 @@
     * 30 ml Olive Oil
     * 110 g Yellow Onion, minced
     * 10 ml Garlic, minced
-    * 2 ml Cumin, ground
+    * 2 ml Cumin Seed, ground
     * 200 g Tomatoes, chopped
     * 400 ml Coconut Milk
 

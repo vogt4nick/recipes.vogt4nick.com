@@ -1,7 +1,7 @@
 === "Ingredients"
     * Spices
         * 8 ml Turmeric
-        * 4 ml Cumin
+        * 4 ml Cumin Seed, ground
         * 1 ml Cinnamon (optional)
     * 30 ml Unsalted Butter
     * 10 ml Garlic, minced
