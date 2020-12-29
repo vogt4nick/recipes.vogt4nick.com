@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 100 g Alkaline Noodles, dry, undercooked, cold
+    * 100 g Dry Alkaline Noodles, undercooked, cold
     * 80 g Cucumber, peeled, shredded
     * Seasonings
         * 15 ml Soy Sauce

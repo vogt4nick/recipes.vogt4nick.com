@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 100 g   | Chickpeas, dry, soaked
+    * 100 g   | Dry Chickpeas, soaked, cooked
     * 15 ml   | Canola Oil
     * 2 ml    | Coarse Salt
     * 1 ml    | Cumin Seed, ground

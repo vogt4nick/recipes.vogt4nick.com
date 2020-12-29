@@ -10,7 +10,7 @@
         * 60mL Fresh Parsley
         * 5mL Sage, dried
         * 2 Cloves, whole
-    * 150g Lentils du Puy, dry
+    * 150g Dry Lentils du Puy
     * 300mL Vegetable Stock
 
     ??? question "Substitutions"

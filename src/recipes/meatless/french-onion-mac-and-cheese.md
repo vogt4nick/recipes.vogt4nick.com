@@ -4,7 +4,7 @@
         * 900 g Onions, sliced
         * 180 ml White Wine
         * 15 ml Thyme Leaves
-    * 225 g Macaroni, dry, parboiled
+    * 225 g Dry Macaroni, parboiled
     * Cheese Sauce
         * 60 g Unsalted Butter
         * 60 ml All-Purpose Flour
