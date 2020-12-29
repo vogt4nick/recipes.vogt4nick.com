@@ -13,14 +13,14 @@ title: Carbonnades à la Flamande
     * 500 ml Lager
     * 30 ml Brown Sugar
     * Herbs Bouquet
-        * 15 ml Parsley, fresh
-        * 5 ml Thyme, fresh
+        * 15 ml Fresh Parsley
+        * 5 ml Fresh Thyme
         * 1 Bay Leaf
     * Vinegar Slurry
         * 20 ml Cornstarch
         * 30 ml Vinegar
     * To Garnish
-        * Parsley, fresh
+        * Fresh Parsley
 
 === "Directions"
     1. **Brown beef.** Heat lard over high heat in skillet until almost smoking. Dividing as necessary, brown the beef slices. Set aside.

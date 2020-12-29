@@ -9,13 +9,13 @@
     * 2 ml Kosher Salt
     * 2 ml Black Peppercorn, ground
     * Garnish
-        * Parsley, fresh
+        * Fresh Parsley
 
     !!! tip "This recipes works for all legumes."
 
 === "Directions"
     1. **Combine.** Add onion, red wine vinegar, olive oil, salt, pepper to large bowl. Stir to combine. Add legumes. Toss gently.
     2. **Cool** to room temperature, gently stirring every 20 minutes.
-    3. **Garnish & serve** with fresh parsley.
+    3. **Garnish & serve** with parsley.
 
 [^1]: {{ cite.bittman_how_to_cook_everything }}

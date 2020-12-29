@@ -7,7 +7,7 @@
     * 15 ml White Sugar
     * 2 ml Kosher Salt
     * 5 ml Black Peppercorn, ground
-    * 60 ml Cilantro Leaves, fresh
+    * 60 ml Fresh Cilantro
     * 45 ml Lime Juice
 
 === "Directions"

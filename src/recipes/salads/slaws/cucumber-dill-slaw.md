@@ -1,7 +1,7 @@
 === "Ingredients"
     * 800 g Cabbage, cored, shredded
     * 400 g English Cucumber, thinly sliced
-    * 30 ml Dill, fresh
+    * 30 ml Fresh Dill
     * Dressing
         * 120 ml White Wine Vinegar
         * 20 ml Kosher Salt

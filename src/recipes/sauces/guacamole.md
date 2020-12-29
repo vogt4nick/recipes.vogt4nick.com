@@ -9,7 +9,7 @@
         * Black Peppercorn, ground
         * 15 ml Lime Juice
     * Garnish
-        * Cilantro Leaves, fresh
+        * Fresh Cilantro
 
 === "Directions"
     1. **Combine.** Mash avocados together in a bowl. Stir in shallots, chile, seasonings.

@@ -7,7 +7,7 @@
     * 2 Garlic Cloves, minced
     * 400g Tomatoes, peeled, seeded, chopped
     * Spices
-        * 60mL Parsley, fresh
+        * 60mL Fresh Parsley
         * 5mL Sage, dried
         * 2 Cloves, whole
     * 150g Lentils du Puy, dry

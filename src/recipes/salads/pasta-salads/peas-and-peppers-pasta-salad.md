@@ -1,8 +1,8 @@
 === "Ingredients"
     * 400 g Conchiglie Pasta, cooked al dente
-    * 100 g Snow Pea Pods, ends trimmed, blanched, drained, chopped
-    * 200 g Peas, fresh, shelled, blanched, drained
-    * 300 ml [Roasted Red Pepper Vinaigrette](../../sauces/vinaigrettes/roasted-red-pepper-vinaigrette.md)
+    * 300 g [Roasted Red Pepper Vinaigrette](../../sauces/vinaigrettes/roasted-red-pepper-vinaigrette.md)
+    * 200 g Green Peas, shelled, blanched, drained
+    * 100 g Snow Pea Pods, trimmed, blanched, drained, chopped
 
 === "Directions"
     1. **Combine ingredients** in a large bowl. Mix evenly.
