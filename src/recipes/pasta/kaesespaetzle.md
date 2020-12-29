@@ -22,7 +22,7 @@ title: Käsespätzle
     1. **Preheat oven** to 400F (205C). Lay out paper towels to dry parfried shallots.
     2. **Carmelize onions.** Melt butter in small saucepan over medium heat. Add onions and coat evenly. Cook 60 minutes, stirring every 5 minutes, until deep golden brown.
     3. **Parfry shallots.** Heat vegetable oil in another saucepan over medium heat. Add shallots. Parfry, stirring constantly, until deep golden brown. Transfer shallots to paper towels and pat dry. Sprinkle with salt.
-    4. **Combine käsespätzle.** Melt remaining butter in oven-safe skillet over medium-low heat. Add spätzle. Saute until starting to brown. Remove skillet from heat. Add salt, pepper, onions, and first portions of gruyere, emmental cheese. Stir gently.
+    4. **Combine käsespätzle.** Melt remaining butter in oven-safe skillet over medium-low heat. Add spätzle. Sauté until starting to brown. Remove skillet from heat. Add salt, pepper, onions, and first portions of gruyere, emmental cheese. Stir gently.
     5. **Bake käsespätzle.** Layer remaining gruyere, emmental. Bake 15 minutes at 400F until bubbly and golden.
     6. **Garnish & serve** with crispy shallots and chives.
 

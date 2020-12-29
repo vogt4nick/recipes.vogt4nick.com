@@ -11,7 +11,7 @@
     * 45 ml Lime Juice
 
 === "Directions"
-    1. **Saute vegetables.** Heat oil in a saucepan over medium heat. Saute chili pepper, onion, garlic for 5 minutes.
+    1. **Sauté vegetables.** Heat oil in a saucepan over medium heat. Sauté chili pepper, onion, garlic for 5 minutes.
     2. **Simmer.** Add tomatoes, sugar, salt, black pepper. Simmer 20 minutes, stirring occasionally, until the mixture has thickened.
     3. **Season & serve.** Stir in cilantro, lime juice.
 

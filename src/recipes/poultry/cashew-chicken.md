@@ -12,5 +12,5 @@
 
 === "Directions"
     1. **Marinate chicken.** Add chicken breast, soy sauce, brown sugar, red pepper flakes to ziploc bag. Marinate in refrigerator 24 hours.
-    2. **Saute chicken.** Heat canola oil in skillet over medium-high heat. Add marinated chicken. Saute 2 minutes, stirring every 60 seconds. Add cashews. Saute 3 minutes, stirring every 60 seconds.
+    2. **Sauté chicken.** Heat canola oil in skillet over medium-high heat. Add marinated chicken. Sauté 2 minutes, stirring every 60 seconds. Add cashews. Sauté 3 minutes, stirring every 60 seconds.
     3. **Garnish & serve** with cilantro.

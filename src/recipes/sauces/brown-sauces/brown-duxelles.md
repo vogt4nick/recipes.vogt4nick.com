@@ -1,5 +1,5 @@
 === "Ingredients"
-    * Sauteed Mushrooms
+    * Sautéed Mushrooms
         * 15 ml Unsalted Butter
         * 10 ml Oil
         * 100 g Mushrooms and/or stems, minced
@@ -14,7 +14,7 @@
     !!! info "Yields about 400 ml."
 
 === "Directions"
-    1. **Saute mushrooms.** Heat fats in saucepan over medium-high heat. Add mushrooms and scallions. Saute 5 minutes, stirring frequently. Add white wine. Boil rapidly until it has reduced almost completely.
+    1. **Sauté mushrooms.** Heat fats in saucepan over medium-high heat. Add mushrooms and scallions. Sauté 5 minutes, stirring frequently. Add white wine. Boil rapidly until it has reduced almost completely.
     2. **Add sauce.** Reduce heat to low. Add tomato paste. Stir to combine. Add brown sauce. Stir. Simmer 5 minutes uncovered.
     3. **Garnish.** Stir in butter. Garnish with parsley.
 

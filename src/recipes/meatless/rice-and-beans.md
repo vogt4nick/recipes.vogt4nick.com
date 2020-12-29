@@ -12,5 +12,5 @@
         * Coriander Leaves, chopped
 
 === "Directions"
-    1. **Combine.** Heat oil in skillet over medium heat. Add onion, cumin, garlic. Coat evenly. Saute 8 minutes, stirring every 3 minutes. Add prepared beans, salt, remaining cumin. Stir evenly. Cook 5 minutes. Remove from heat. Add rice. Stir evenly.
+    1. **Combine.** Heat oil in skillet over medium heat. Add onion, cumin, garlic. Coat evenly. Sauté 8 minutes, stirring every 3 minutes. Add prepared beans, salt, remaining cumin. Stir evenly. Cook 5 minutes. Remove from heat. Add rice. Stir evenly.
     2. **Garnish & serve** with cilantro.

@@ -14,7 +14,7 @@
         Substitute water for stock if necessary.
 
 === "Directions"
-    1. **Saute vegetables**. Heat oil in large skillet over medium-high heat. Add onion, garlic. Saute 10 minutes. Add tomatoes and spices. Stir to combine. Cook 10 minutes until tomatoes begin to soften into a thick sauce.
+    1. **Sauté vegetables**. Heat oil in large skillet over medium-high heat. Add onion, garlic. Sauté 10 minutes. Add tomatoes and spices. Stir to combine. Cook 10 minutes until tomatoes begin to soften into a thick sauce.
     2. **Cook lentils**. Add lentils and stock. Bring to simmer. Reduce heat to medium-low. Cover. Simmer 30 minutes until lentils are tender and the liquid has been absorbed.
     3. **Season to taste** with salt and pepper.
 

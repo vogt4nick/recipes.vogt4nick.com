@@ -17,7 +17,7 @@
 
 === "Directions"
     1. **Preheat oven** to 325°F.
-    2. **Saute ribs.** Melt butter over medium-high heat in dutch oven. Season ribs with coarse salt and pepper. Add to dutch oven in single layer. Cook 10 minutes until brown on all sides. Transfer ribs to large bowl.
+    2. **Sauté ribs.** Melt butter over medium-high heat in dutch oven. Season ribs with coarse salt and pepper. Add to dutch oven in single layer. Cook 10 minutes until brown on all sides. Transfer ribs to large bowl.
     3. **Prepare stock.** Add 1 tablespoon butter to pot. Add onions. Coat evenly. Cook 6 minutes. Add parsnips. Mix. Cook 6 minutes. Add garlic. Mix. Cook 60 seconds until fragrant. Add rosemary, wine, and beef stock. Stir. Heat to boiling.
     4. **Braise ribs.** Arrange ribs as single layer in dutch oven. Reduce to simmer. Roast in oven, covered, 150 minutes. Transfer ribs to large bowl. Spoon fat from pan juices.
     5. **Prepare gravy.** Boil remaining juices 10 minutes until just beginning to thicken. Add butter and flour to small bowl. Mix into smooth paste. Whisk paste into juices. Simmer 5 minutes.
