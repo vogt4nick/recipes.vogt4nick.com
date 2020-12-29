@@ -7,8 +7,8 @@ title: Crème fraîche
 
 === "Directions"
     1. **Mix** ingredients together.
-    2. **Rest** 24 hours in a warm spot until thick (75 F or 22 C).
-    3. **Chill** 24 hours before using.
+    2. **Rest** 24 hours, covered, in a warm spot until thick (75 F or 22 C).
+    3. **Chill** 24 hours, covered, before using.
 
 !!! info "Store up to two weeks chilled."
 
