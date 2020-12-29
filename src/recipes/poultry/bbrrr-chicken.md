@@ -6,7 +6,7 @@ title: BBRRR chicken
     * Chicken Breasts
     * Garlic Butter
         * 30 ml Unsalted Butter, melted
-        * 10 ml Garlic
+        * 4 Garlic Cloves, minced
     * Seasoning
         * 2 ml Paprika
         * 2 ml Kosher Salt

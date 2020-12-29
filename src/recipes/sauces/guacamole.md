@@ -3,7 +3,7 @@
     * 50 g Shallots, minced
     * 50 g Jalapeño Chile, seeded, minced
     * Seasonings
-        * 2 ml Garlic, minced
+        * 1 Garlic Clove, minced
         * 5 ml Chili Powder
         * Kosher Salt
         * Black Pepper, ground

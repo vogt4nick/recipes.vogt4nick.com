@@ -9,7 +9,7 @@
         * 30 ml Canola Oil
         * 40 ml Yogurt, plain
     * 5 ml Canola Oil
-    * 30 ml Garlic, minced
+    * 12 Garlic Cloves, minced
     * 60 ml Extra Virgin Olive Oil
 
 === "Directions"

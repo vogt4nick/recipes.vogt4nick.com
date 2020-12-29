@@ -9,7 +9,7 @@
         * 2 ml Kosher Salt
         * 2 ml Black Pepper, ground
     * Seasonings for Rice
-        * 2 ml Garlic, chopped
+        * 1 Garlic Clove, chopped
         * 2 ml Ginger, chopped
         * 5 ml Unsalted Butter
         * 2 ml Kosher Salt

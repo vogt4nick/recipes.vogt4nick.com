@@ -12,7 +12,7 @@
     * 2 Chicken Breasts, boneless, skinless, butterfly cut
     * 240 ml Light-Bodied White Wine (pinot grigio)
     * 240 ml Chicken Stock
-    * 15 ml Garlic, minced
+    * 6 Garlic Cloves, minced
     * 15 ml Lime Juice
     * 30 ml Unsalted Butter
     * 15 ml Parsley, chopped

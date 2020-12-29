@@ -3,7 +3,7 @@
     * 15 ml Canola Oil
     * 120 g Yellow Onion, minced
     * 2 ml Cumin Seed, ground
-    * 5 ml Garlic, minced
+    * 2 Garlic Cloves, minced
     * 240 g Black Beans, cooked
     * 2 ml Kosher Salt
     * 2 ml Cumin Seed, ground

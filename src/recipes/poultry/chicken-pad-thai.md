@@ -6,7 +6,7 @@
     * 80 g Rice Sticks
     * 60 ml Canola Oil
     * 60 g Chicken Breast, chopped
-    * 5 ml Garlic, chopped (optional)
+    * 2 Garlic Cloves, chopped (optional)
     * 1 Egg
     * 15 g Peanuts, roughly ground
     * 15 g Beansprouts

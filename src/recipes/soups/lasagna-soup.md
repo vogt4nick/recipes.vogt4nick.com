@@ -5,7 +5,7 @@
     * 15 ml Olive Oil
     * 45 ml Unsalted Butter
     * 110 g Onion, minced
-    * 5 ml Garlic, minced
+    * 2 Garlic Cloves, minced
     * 330 g Beef, ground
     * 5 ml Kosher Salt
     * 2 ml Black Pepper, ground

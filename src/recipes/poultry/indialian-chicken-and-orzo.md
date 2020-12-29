@@ -5,7 +5,7 @@
         * 15 ml Butter
     * Sauce
         * 70 g Scallions, chopped
-        * 5 ml Garlic, minced
+        * 2 Garlic Cloves, minced
         * 30 g Sun-Dried Tomatoes, chopped
         * 135 g Orzo, rinsed
         * 360 ml Chicken Stock

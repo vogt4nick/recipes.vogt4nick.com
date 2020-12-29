@@ -2,7 +2,7 @@
     * Beef Stock
         * 1350 g Short Ribs, bone-in, trimmed, chopped into 6-8 cm long pieces
         * 100 g White Onion
-        * 10 g Garlic, crushed
+        * 4 Garlic Cloves, crushed
         * 5 g Ginger, sliced
         * 1440 ml Water
     * Braising Sauce
@@ -12,7 +12,7 @@
         * 80 ml Soy Sauce
         * 60 ml Mirin
         * 45 ml White Sugar
-        * 5 g Garlic, minced
+        * 2 Garlic Cloves, minced
         * Black Pepper, ground
     * Veggies
         * 300 g Waxy Potatoes, roughly chopped

@@ -19,7 +19,7 @@
     * 80 g Celery, roughly chopped
     * 80 g Carrot, roughly chopped
     * 120 ml Water, cold
-    * 10 ml Garlic, crushed
+    * 4 Garlic Cloves, crushed
     * 15 ml Red Wine
     * Garnish
         * 15 ml Scallion greens, chopped (optional)

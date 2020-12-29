@@ -7,7 +7,7 @@
         * 100 g Onions, chopped
         * 50 g Carrots, chopped
         * 50 g Celery, chopped
-        * 2 g Garlic
+        * 1 Garlic Clove, smashed
     * Seasoning
         * 2 ml Parsley, dried
         * 1 Bay Leaf

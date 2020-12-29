@@ -2,7 +2,7 @@
     * Meat Mixture
         * 450 g Italian Sausage
         * 450 g Beef, ground
-        * 15 ml Garlic, minced
+        * 6 Garlic Cloves, minced
         * 10 ml Salt
         * 5 ml Black Pepper
         * 120 ml Parsely, chopped

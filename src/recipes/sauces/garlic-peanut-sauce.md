@@ -1,7 +1,7 @@
 === "Ingredients"
     * 15 ml Vegetable Oil
     * 100 g Onion, minced
-    * 5 g Garlic, minced
+    * 2 Garlic Cloves, minced
     * 15 ml Lemon Zest
     * 15 ml Coriander, ground
     * 30 ml Sambal Oelek or [Szechuan Sauce](szechuan-sauce.md)

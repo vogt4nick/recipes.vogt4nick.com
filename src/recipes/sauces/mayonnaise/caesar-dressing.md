@@ -11,7 +11,7 @@
 
 === "Fancy Ingredients"
     * 2 [Egg Yolks, poached](../../eggs/poached-eggs.md)
-    * 2 Garlic Cloves
+    * 2 Garlic Cloves, minced
     * 3 Anchovy Fillets
     * 180 g [Mayonnaise](mayonnaise.md)
     * 60 g Parmigiano-Reggiano, grated

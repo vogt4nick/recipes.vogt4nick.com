@@ -12,7 +12,7 @@
         * White Pepper, ground
     * Garlic Butter
         * 60 ml Unsalted Butter, melted
-        * 15 ml Garlic, minced
+        * 6 Garlic Cloves, minced
     * Bize-Sized [Crostinis](../sides/crostinis.md)
         * 450 g Baguette, sliced thick
 

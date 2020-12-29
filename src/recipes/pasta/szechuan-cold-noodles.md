@@ -8,7 +8,7 @@
         * 10 ml Vinegar
         * 7 ml Sesame Oil
         * 7 ml [Tahini Paste](../sauces/tahini-paste.md)
-        * 5 g Garlic, minced
+        * 2 Garlic Cloves, minced
         * 1 ml Kosher Salt
     * Garnish
         * Scallions, chopped

@@ -4,7 +4,7 @@
     * 200 g Onion, minced
     * 5 ml Kosher Salt
     * 45 ml Flour
-    * 5 g Garlic, minced
+    * 2 Garlic Cloves, minced
     * 10 ml Paprika
     * 1200 ml Chicken Stock
     * 200 g Green Cabbage, chopped

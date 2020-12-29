@@ -2,7 +2,7 @@
     * Sauteed Veggies
         * 15 ml Extra Virgin Olive Oil
         * 100 g Mushrooms, sliced
-        * 5 ml Garlic, chopped
+        * 2 Garlic Cloves, chopped
         * Sea Salt
     * 1 [Elise's Pizza Dough](../breads/pizza-dough/elise's-pizza-dough.md)
     * 100 g Tomato Sauce

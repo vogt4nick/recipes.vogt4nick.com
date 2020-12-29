@@ -6,7 +6,7 @@
     * 15 ml Unsalted Butter, room temperature
     * 330 g Red Onion, chopped
     * 330 g Parsnips, 15 mm cubes
-    * 30 g Garlic Cloves, chopped
+    * 12 Garlic Cloves, chopped
     * 30 ml Rosemary, chopped
     * 750 ml Zinfandel Wine
     * 480 ml Beef Stock

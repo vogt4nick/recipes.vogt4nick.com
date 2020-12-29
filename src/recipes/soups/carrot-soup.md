@@ -2,7 +2,7 @@
     * 30 ml Olive Oil
     * 750 g Carrots, peeled, minced
     * 250 g Yellow Onion, minced
-    * 5 g Garlic Cloves, smashed
+    * 2 Garlic Cloves, smashed
     * 1000 ml Vegetable Stock
     * Seasonings
         * 3 ml Cumin Seed, ground

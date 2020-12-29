@@ -4,7 +4,7 @@
 === "Ingredients"
     * 30mL Extra Virgin Olive Oil
     * 200g Onion, minced
-    * 5mL Garlic, minced
+    * 2 Garlic Cloves, minced
     * 400g Tomatoes, peeled, seeded, chopped
     * Spices
         * 60mL Parsley, fresh

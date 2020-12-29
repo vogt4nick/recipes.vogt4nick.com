@@ -9,7 +9,7 @@
         * 30 ml Unsalted Butter
         * 55 g Yellow Onion, minced
         * 30 g Jalapeño Pepper, diced
-        * 8 ml Garlic, minced
+        * 3 Garlic Cloves, minced
         * 5 ml Ginger, grated
         * 10 ml Curry Powder
         * 1 ml Black Pepper, ground

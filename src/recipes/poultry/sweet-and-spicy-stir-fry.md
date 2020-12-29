@@ -7,7 +7,7 @@ title: Sweet & spicy stir fry
         * 30 ml Canola Oil
         * 15 ml Pumpkin Seed Oil (optional)
         * 15 ml Brown Sugar
-        * 5 ml Garlic, minced
+        * 2 Garlic Cloves, minced
         * 5 ml Ginger, grated
         * 5 ml Crushed Red Pepper
         * 225 g Chicken Breast, cubed

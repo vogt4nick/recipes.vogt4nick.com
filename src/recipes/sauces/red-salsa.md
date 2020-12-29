@@ -2,7 +2,7 @@
     * 60 ml Vegetable Oil
     * 50 g Serrano Chili Pepper, seeded, chopped
     * 450 g Onion, chopped
-    * 15 ml Garlic, minced
+    * 6 Garlic Cloves, minced
     * 900 g Tomatoes, peeled, seeded, cored, chopped
     * 15 ml White Sugar
     * 2 ml Kosher Salt

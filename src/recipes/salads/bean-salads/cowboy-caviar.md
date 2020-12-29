@@ -4,7 +4,7 @@
         * 50 ml White Wine Vinegar
         * 15 ml Honey
         * 5 ml Kosher Salt
-        * 5 ml Garlic, minced
+        * 2 Garlic Cloves, minced
         * 5 ml Lime Juice
         * 2 ml Oregano, dried
     * 400 g Black Eyed Peas, soaked

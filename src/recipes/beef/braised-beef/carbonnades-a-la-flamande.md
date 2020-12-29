@@ -8,7 +8,7 @@ title: Carbonnades à la Flamande
     * 600 g Onion, sliced
     * 2 ml Kosher Salt
     * 1 ml Black Pepper, ground
-    * 10 ml Garlic, crushed
+    * 4 Garlic Cloves, crushed
     * 240 ml [Beef Stock](../../soups/stocks/meat-stock.md), simmering
     * 500 ml Lager
     * 30 ml Brown Sugar

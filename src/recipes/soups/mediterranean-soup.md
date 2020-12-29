@@ -8,7 +8,7 @@
     * 110 g Onion, minced
     * 110 g Carrots, minced
     * 110 g Celery, minced
-    * 5 ml Garlic, minced
+    * 2 Garlic Cloves, minced
     * 2 ml Kosher Salt
     * 2 ml White Pepper
     * 30 ml Water
