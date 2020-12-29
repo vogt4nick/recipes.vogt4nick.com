@@ -9,7 +9,7 @@
         * 4 ml Cumin, ground
         * 2 ml Cayenne
         * 2 ml Kosher Salt
-    * 450 ml [Chicken Stock](../soups/stocks/meat-stock.md), boiling
+    * 400 ml [Chicken Stock](../soups/stocks/meat-stock.md), boiling
     * 100 ml Tomato Sauce
 
 === "Directions"
