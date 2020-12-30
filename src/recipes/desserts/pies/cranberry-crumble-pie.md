@@ -29,10 +29,10 @@
 === "Directions"
     1. **Mix compote** ingredients in a saucepan. Cook over medium-low heat until cranberries begin to burst. Remove from heat. Chill until needed.
     2. **Mix crumble.** Mix oats, flour, sugar, and spices in a bowl. Stir in butter to coat evenly. Use a pastry blender to further divide mixture evenly until butter is incorporated. Careful not to overwork the crumble, continue to break down butter using your fingers just until the butter is no longer visible. Chill until needed.
-    3. **Preheat oven** to 350 F (175 C).
+    3. **Preheat oven** to 350°F (177°C).
     4. **Mix filling.** Mix sugar, spices, salt, and flour in a bowl. Stir in fruit and compote.
     5. **Assemble pie.** Spread cream cheese on bottom of pie crust. Brush the crimped edge with egg. Layer filling on top of cream cheese, spreading evenly to fill the pie crust. Layer fruit with crumble, leaving a small hole in the center of the pie. Place assembled pie onto a parchment-lined sheetpan.
-    6. **Bake** 60-70 minutes at 350 F until the pie juices begin to bubble in the center and the crumble is a uniform, deep golden brown. Remove from heat.
+    6. **Bake** 60-70 minutes at 350°F until the pie juices begin to bubble in the center and the crumble is a uniform, deep golden brown. Remove from heat.
     7. **Cool** 4-6 hours on a wire rack.
     8. **Serve** with vanilla ice cream.
 

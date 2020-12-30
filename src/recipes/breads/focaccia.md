@@ -18,7 +18,7 @@
     3. **Proof dough.** Transfer dough to large bowl. Cover with plastic wrap. Rest 1-2 hours at 25C until dough doubles in size.
     4. **Preheat oven** to 395F (200C).
     5. **Season dough.** Add salt to 9" x 13" baking pan with high sides. Spread evenly. Add dough. Grease hands with olive oil, and gently push dough to fill whole pan. Add tomatoes and olives. Garnish with salt, pepper, rosemary, and olive oil.
-    6. **Bake focaccia** 30 minutes at 400 F.
+    6. **Bake focaccia** 30 minutes at 400°F.
 
 [^1]:
     Ramsay, Gordon. ["Gordon Ramsay's Guide To Baking | Ultimate Cookery Course."](https://www.youtube.com/watch?v=WR1MDeP-qSc) *YouTube.* 14 January 2020.

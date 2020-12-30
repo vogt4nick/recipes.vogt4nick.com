@@ -10,9 +10,9 @@
 === "Directions"
     1. **Mix dough.** Combine spices. Mix spices and butter until aerated and fluffy. Stir in the flour until incorporated.
     2. **Chill**, covered, at least 30 minutes.
-    3. **Preheat oven** to 350 F (175 C).
+    3. **Preheat oven** to 350°F (177°C).
     4. **Shape sheets.** Dividing into four equal parts, roll dough into a cylinder 3 cm in diameter (1.25 inches). Flatten into sheets 6 mm thick (0.25 inches). Etch a linear design with the back of a fork if desired. Transfer to sheetpan dressed with parchment paper.
-    5. **Bake** 15-17 minutes at 350 F until edges are golden brown. Remove from heat. Cool 5 minutes on baking sheet.
+    5. **Bake** 15-17 minutes at 350°F until edges are golden brown. Remove from heat. Cool 5 minutes on baking sheet.
     6. **Slices** baked sheets into 10 biscuits. Transfer biscuits to a cooling rack until cooled completely.
 
 [^1]:

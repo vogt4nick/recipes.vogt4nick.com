@@ -18,7 +18,7 @@
         * 5 ml Water
 
 === "Directions"
-    1. **Preheat oven** to 325 F (160 C).
+    1. **Preheat oven** to 325°F (163°C).
     2. **Reduce coffee syrup.** Combine brown sugar, coffee in saucepan over medium heat. Whisk until sugar dissolves and mixture has reduced by one-third. Pour into a mixing bowl to cool slightly.
     3. **Whisk egg mixture** in a separate bowl until combined.
     4. **Mix filling.** Combine coffee syrup, egg mixture, and remaining filling ingredients.

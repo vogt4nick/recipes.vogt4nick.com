@@ -13,9 +13,9 @@
     * 110 g Cheddar Cheese, grated
 
 === "Directions"
-    1. **Preheat oven** to 350 F (175 C).
+    1. **Preheat oven** to 350°F (177°C).
     2. **Mix filling.** Add fillings and seasonings in a large mixing bowl. Whisk until blended.
-    3. **Build quiche.** Place the piecrust on a parchement-lined sheetpan. Layer sausage on bottom of pie crust. Layer sautéed vegetables. Pour in the the filling. Layer cheese on top. Bake 50 - 60 minutes at 350 F until almost firm and lightly brown on top.
+    3. **Build quiche.** Place the piecrust on a parchement-lined sheetpan. Layer sausage on bottom of pie crust. Layer sautéed vegetables. Pour in the the filling. Layer cheese on top. Bake 50 - 60 minutes at 350°F until almost firm and lightly brown on top.
     4. **Cool** 2 - 4 hours on a wire rack until cooled to room temperature.
     5. **Serve** warm or at room-temperature.
 

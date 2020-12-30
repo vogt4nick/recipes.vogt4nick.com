@@ -15,12 +15,12 @@
         * 25 g White Chocolate, finely chopped
 
 === "Directions"
-    1. **Preheat oven** to 390 F (200 C).
+    1. **Preheat oven** to 390°F (200°C).
     2. **Blitz dry mix.** Add pistachios, cherries, and candied ginger to a food processor. Blitz 5 seconds until it resembles a small rubble. Add flour. Blitz again to combine. Transfer dry mix to bowl. Mix in coconut and almonds.
-    3. **Caramelize sugar.** Combine butter, sugar, and salt together in a saucepan on low heat. Cook with minimal stirring until the mixture is 120 C (250 F). Remove from heat. Stir in cream until combined.
+    3. **Caramelize sugar.** Combine butter, sugar, and salt together in a saucepan on low heat. Cook with minimal stirring until the mixture is 120°C (250°F). Remove from heat. Stir in cream until combined.
     4. **Mix batter.** Stir caramelized sugar and dry mix together until well mixed.
     5. **Shape cookies.** Arrange 5 cm (2-inch) cookie cutter on a parchment-lined sheetpan. Pour 15 ml of batter into the cookie cutter and shape into an even thickness. Remove cutter. Repeat until you have 6 circles of mixture, allowing plenty of remove between each for the mixture to spread during baking.
-    6. **Bake** 8-10 minutes at 390 F until golden brown. Remove from heat, and push the edges of the biscuit into a neat, round shape while the cookie is still hot.
+    6. **Bake** 8-10 minutes at 390°F until golden brown. Remove from heat, and push the edges of the biscuit into a neat, round shape while the cookie is still hot.
     7. **Cool** 5 minutes before transfering to a wire rack to cool completely.
     8. **Melt chocolate.** Gently melt dark chocolate and white chocolate separately over double boilers.
     9. **Decorate.** Dip the base of each florentine into the dark chocolate. Transfer to a wire rack -- chocolate side up -- to cool. Once set, drizzle white chocolate over the dark chocolate. Continue cooling to set before serving.

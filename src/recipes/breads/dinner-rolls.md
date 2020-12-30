@@ -1,6 +1,6 @@
 === "Ingredients"
     * Poolish
-        * 240 ml Milk, warm (45 C)
+        * 240 ml Milk, warm (45°C)
         * 11 ml Active Dry Yeast
         * 15 ml White Sugar
     * 15 ml White Sugar
@@ -18,7 +18,7 @@
     3. **Rest dough.** Transfer dough to a greased bowl and coat evenly. Cover. Rest 2 hours until dough doubles in size.
     4. **Shape rolls.** Punch dough to release the air. Dividing into about 15 equal pieces, shape each piece into a smooth ball.
     5. **Rest rolls.** Arrange dough balls in a greased 9"x13" baking pan. Cover. Rest 1 hour.
-    6. **Preheat oven** to 350 F (175 C).
+    6. **Preheat oven** to 350°F (177°C).
     7. **Bake rolls** 20-25 minutes, rotating midway, until golden brown.
     8. **Glaze rolls** with honey butter mixture.
     9. **Cool rolls** at least 5 minutes before serving.

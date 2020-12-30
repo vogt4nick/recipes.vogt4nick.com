@@ -14,11 +14,11 @@
     * 30 ml Milk
 
 === "Directions"
-    1. **Preheat oven** to 325 F (160 C).
+    1. **Preheat oven** to 325°F (163°C).
     2. **Combine dry mix.** Whisk together flour mixture. Set aside.
     3. **Mix batter.** Combine mashed bananas, sugar, butter, egg, and vanilla extract. Whisk 2 minutes until sugar is dissolved and mixture is smooth and creamy. Mix in walnuts, milk, and flour mixture until just combined.
     4. **Shape loaf.** Pour batter into a greased loaf pan.
-    5. **Bake** 60 minutes at 325 F until a toothpick inserted in the center comes out clean.
+    5. **Bake** 60 minutes at 325°F until a toothpick inserted in the center comes out clean.
     6. **Cool** 20 minutes before removing from loaf pan.
 
 [^1]:

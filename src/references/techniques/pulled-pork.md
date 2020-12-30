@@ -37,11 +37,11 @@
 
     1. **Brine** and cover pork in fridge for 12 hours.
     2. **Rub** dry pork shoulder with seasonings.
-    3. **Smoke** pork 10-12 hours in smoker at 210 F (100 C).
+    3. **Smoke** pork 10-12 hours in smoker at 210°F (99°C).
     4. **Rest** 60 minutes at room temperature, tented with foil.
 
     ??? question "Can I substitute white sugar or kosher salt?"
-        Yes, but you won't get the same result. White sugar and kosher salt do not readily dissolve into water near 0 C. Molasses and pickling salt, however, do stay dissolved into water at low temperatures.
+        Yes, but you won't get the same result. White sugar and kosher salt do not readily dissolve into water near 0°C. Molasses and pickling salt, however, do stay dissolved into water at low temperatures.
 
 
 [^1]:

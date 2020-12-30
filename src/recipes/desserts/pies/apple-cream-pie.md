@@ -11,8 +11,8 @@
     * 1 [Pie Crust](../../breads/crusts/pie-crust.md)
 
 === "Directions"
-    1. **Preheat oven** to 400 F (205 C).
+    1. **Preheat oven** to 400°F (205°C).
     2. **Mix filling.** Mix sugar, flour, cinnamon, and nutmeg. Stir in milk and eggs until dry ingredients are incorporated.
     3. **Layer pie.** Spread grated apples on bottom of pie crust. Drizzle with butter. Pour filling over apples.
-    4. **Bake** 10 minutes at 400 F. Reduce heat to 350 F (175 C). Bake 30-40 minutes. Remove from heat.
+    4. **Bake** 10 minutes at 400°F. Reduce heat to 350°F (177°C). Bake 30-40 minutes. Remove from heat.
     5. **Cool** 4 hours until room temperature.

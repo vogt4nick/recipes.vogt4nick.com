@@ -30,7 +30,7 @@ title: PB paprika cookies
     3. **Mix cookie dough.** Slowly mix in flour mixture until all dry ingredients are incorporated.
     4. **Chill cookie dough.** Wrap cookie dough tightly in plastic wrap. Chill 24-72 hours.
     5. **Warm cookie dough.** Take cookie dough out of refrigerator 2-3 hours before baking.
-    6. **Preheat oven** to 350 F (175 C).
+    6. **Preheat oven** to 350°F (177°C).
     7. **Shape cookies** into 5 cm dough balls. Transfer to parchment-lined sheetpan. Slightly flatten cookies and use fork to etch a # design.
     8. **Garnish cookies.** Mix garnish. Dress cookies with garnish.
     9. **Bake** 16-18 minutes until edges begin to turn golden brown and tops are no longer wet.

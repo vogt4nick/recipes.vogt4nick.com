@@ -1,7 +1,7 @@
 Oven roasting isn't particularly difficult, but I always, always, always forget the procedure for different veg and legumes. So here we are.
 
 === "General Directions"
-    1. **Preheat oven** to 450 f (230 C). Dress sheet pan with aluminum foil.
+    1. **Preheat oven** to 450°F (232°C). Dress sheet pan with aluminum foil.
     2. **Prepare**. See "specifics".
     3. **Add cooking fat**. In order of preference: Lard, ghee, extra virgin olive oil, vegetable oil. IMO less is more.
     4. **Add seasonings**. Baseline seasonings: Kosher salt, black pepper, cayenne.

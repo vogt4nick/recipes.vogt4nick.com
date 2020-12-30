@@ -23,7 +23,7 @@
     * 55 g Gruyere, grated
 
 === "Directions"
-    1. **Preheat oven** to 375 F (190 C).
+    1. **Preheat oven** to 375°F (190°C).
     2. **Caramelize onions.**
     3. **Blanch green beans.** Air dry in colander.
     4. **Prepare white sauce.** Season with additional spices.
@@ -36,7 +36,7 @@
         * Mix butter and bread crumbs. Layer.
         * Layer gruyere.
         * Layer parmesan.
-    6. **Bake casserole** 30 minutes, uncovered, at 375 F until green beans are tender.
+    6. **Bake casserole** 30 minutes, uncovered, at 375°F until green beans are tender.
 
 [^1]:
     Mitzewich, John. ["French Onion Green Bean Casserole – It’s Soupy!"](https://foodwishes.blogspot.com/2011/11/french-onion-green-bean-casserole-its.html) *Food Wishes.* 7 November 2011. Accessed November 2020.

@@ -30,17 +30,17 @@
     * 60 g Bittersweet Chocolate Chips
 
 === "Directions"
-    1. **Preheat oven** to 350 F (175 C).
+    1. **Preheat oven** to 350°F (177°C).
     2. **Make ganache.** Stir ingredients in a double boiler until melted and smooth. Scrape into the crust. Rest until ganache is set, chilling if necessary.
     3. **Mix filling.** Mix butter, sugar, cornmeal, and salt until combined and there are no cornmeal clumps. In separate bowl, mix eggs, egg yolk, milk, cream, and vanilla. Slowly whisk egg mixture into the butter mixture until incorporated. Brush pie crust crimps with egg wash and pour filling into the pie crust.
-    4. **Bake pie** 50 - 60 minutes at 350 F until the edges have puffed and the center jiggles only slightly when shaken. Remove from heat.
+    4. **Bake pie** 50 - 60 minutes at 350°F until the edges have puffed and the center jiggles only slightly when shaken. Remove from heat.
     5. **Cool pie** on a cooling rack.
     6. **Whip marshmallow creme.** Add egg white, corn syrup, and salt. Vigorously whip several minutes until the mixture is thick and almost doubled in volume. Slowly whisk in powdered sugar until blended. Set aside 240 ml for meringue.
     7. **Make meringue.** Whisk egg whites, sugar, cream of tartar, and salt in a double boiler until sugar is dissolved and mixture is warm.
     8. **Whisk meringue.** Vigorously whip meringue mixture several minutes until voluminous, shiny, and stiff peaks form.
     9. **Combine creme and meringue.** Add 240 ml marshmallow creme. Use a silicone spatula to gently fold creme into the meringue.
     10. **Layer meringue.** Scrape all of the meringue into the center of the cooled pie, and gently spread it all the way up to the crimps. Etch a decorative swirl.
-    11. **Broil pie** at 500 F (260 C) for 3 - 4 minutes until light brown.
+    11. **Broil pie** at 500°F (260°C) for 3 - 4 minutes until light brown.
     12. **Decorate** with chocolate chips.
     13. **Cool pie** at least 4 hours until room temperature.
 

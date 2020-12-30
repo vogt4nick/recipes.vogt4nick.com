@@ -21,7 +21,7 @@
         * 350 g Dark Chocolate, chopped
 
 === "Directions"
-    1. **Preheat oven** to 350 F (175 C).
+    1. **Preheat oven** to 350°F (177°C).
     2. **Mix dry mix.** Whisk dry mix and spices until combined.
     3. **Mix wet mix.** Cream butter and sugars until homogenous, fluffy, and voluminous. Add vanilla. One at a time, mix in eggs. Whip until just combined.
     4. **Combine.** Add dry mix to wet mix. Gently stir until just incorporated. Gently stir in chocolate.

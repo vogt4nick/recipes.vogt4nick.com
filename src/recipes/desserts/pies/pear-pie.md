@@ -34,9 +34,9 @@
     2. **Chill filling.** Cover mixture with plastic wrap or transfer to airtight container. Chill at least 3 days and up to one year.
     3. **Build pie.** Cast sugar-flour into the bottom of crust. Fill crust with aged pear mixture. Dot the mixture with sugar cubes. Place the lid on top. Crimp.
     4. **Chill pie** 15 minutes in freezer.
-    5. **Preheat oven** to 450 F (230 C).
+    5. **Preheat oven** to 450°F (232°C).
     6. **Decorate pie.** Brush the top and crimped edge with egg wash. Use a paring knife to cut steam vents in your chosen design.
-    7. **Bake.** Transfer pie to a parchment-lined sheetpan. Bake 15 - 20 minutes at 450 F until the crust is evenly golden brown. Reduce heat to 325 F (160 C), and continue baking 50 - 70 minutes until the pie juices are bubbling in the center.
+    7. **Bake.** Transfer pie to a parchment-lined sheetpan. Bake 15 - 20 minutes at 450°F until the crust is evenly golden brown. Reduce heat to 325°F (163°C), and continue baking 50 - 70 minutes until the pie juices are bubbling in the center.
     8. **Cool** 4 - 6 hours on a wire rack until room temperature.
 
     ??? quote "Lisa Ludwinski on crimping crust:[^1]"
