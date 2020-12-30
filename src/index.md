@@ -22,13 +22,13 @@ Served with [Lyonnaise salad](recipes/salads/green-salads/lyonnaise-salad.md) an
 
 #### [Cuban Sandwich](recipes/handhelds/cuban-sandwiches.md)
 
-#### Grilled Cheese (V)
+#### Grilled Cheese
 
 ---
 
 ## Entrées
 
-#### [Bumblebee Curry (V+)](recipes/meatless/bumblebee-curry.md)
+#### [Bumblebee Curry](recipes/meatless/bumblebee-curry.md)
 
 Served with black rice, [roasted potatoes (V/V+)](recipes/sides/roasted-potatoes.md), and roasted chickpeas in one course.
 
@@ -52,11 +52,11 @@ Meat, beans, and available vegetables baked over tortilla chips with cheddar che
 
 #### Pot Roast
 
-#### [Risotto (V)](recipes/meatless/white-risotto.md)
+#### [Risotto](recipes/meatless/white-risotto.md)
 
 Served with caesar salad in two courses.
 
-#### [Veggie Pot Pie (V)](recipes/meatless/veggie-pot-pie.md)
+#### [Veggie Pot Pie](recipes/meatless/veggie-pot-pie.md)
 
 Served with arugula fruit salad and toasted cinnamon pie crusts in three courses.
 
