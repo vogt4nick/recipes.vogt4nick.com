@@ -23,8 +23,5 @@
     5. **Prepare gravy.** Boil remaining juices 10 minutes until just beginning to thicken. Add butter and flour to small bowl. Mix into smooth paste. Whisk paste into juices. Simmer 5 minutes.
     6. **Garnish and serve** ribs with gravy.
 
-??? example "Companion Foods"
-    Pairs nicely with [mashed potatoes](../../sides/mashed-potatoes.md), and keeps well in fridge for leftovers.
-
 [^1]:
     Kelley, Jeanne Thiel. ["Zinfandel-Braised Beef Short Ribs with Rosemary-Parsnip Mashed Potatoes."](https://www.epicurious.com/recipes/food/views/zinfandel-braised-beef-short-ribs-with-rosemary-parsnip-mashed-potatoes-352635) *Epicurious.* 19 April 2009. Accessed December 2019.

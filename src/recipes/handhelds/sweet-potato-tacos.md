@@ -1,7 +1,7 @@
 === "Ingredients"
     * 220 g Refried Beans
     * 110 g Mozzarella, shredded, optional
-    * 900 g [Roasted Sweet Potatoes](../sides/roasted-potatoes.md)
+    * 900 g [Roasted Sweet Potatoes](../sides/potatoes/roasted-potatoes.md)
     * 8 Small Tortillas (about 15 cm or 6")
     * 15 ml Lime Juice
     * 60 ml Coriander Leaves, chopped

@@ -19,4 +19,4 @@ Oven roasting isn't particularly difficult, but I always, always, always forget 
 
 
 ???+ note "Specialized recipes have their own pages."
-    e.g. [Roasted Potatoes](../../recipes/sides/roasted-potatoes.md) and [BBRRR Chicken](../../recipes/poultry/bbrrr-chicken.md)
+    e.g. [Roasted Potatoes](../../recipes/sides/potatoes/roasted-potatoes.md) and [BBRRR Chicken](../../recipes/poultry/bbrrr-chicken.md)

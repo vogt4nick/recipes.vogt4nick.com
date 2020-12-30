@@ -30,17 +30,17 @@ Served with [Lyonnaise salad](recipes/salads/green-salads/lyonnaise-salad.md) an
 
 #### [Bumblebee Curry](recipes/meatless/bumblebee-curry.md)
 
-Served with black rice, [roasted potatoes (V/V+)](recipes/sides/roasted-potatoes.md), and roasted chickpeas in one course.
+Served with black rice, [roasted potatoes (V/V+)](recipes/sides/potatoes/roasted-potatoes.md), and roasted chickpeas in one course.
 
 #### [Chicken Pad Thai](recipes/poultry/chicken-pad-thai.md)
 
 #### [Chicken Schwarma](recipes/poultry/chicken-schwarma.md)
 
-Served with [roasted vegetables](references/techniques/oven-roasted-vegetables.md), [persian rice](recipes/sides/persian-rice.md), and [lebanese flatbread](recipes/breads/lebanese-flatbread.md) in one course.
+Served with [roasted vegetables](references/techniques/oven-roasted-vegetables.md), [persian rice](recipes/sides/rice/persian-rice.md), and [lebanese flatbread](recipes/breads/lebanese-flatbread.md) in one course.
 
 #### [Curried Pork](recipes/pork/curried-pork.md)
 
-Served with [yellow rice](recipes/sides/yellow-rice.md) and blanched broccoli in one course.
+Served with [yellow rice](recipes/sides/rice/yellow-rice.md) and blanched broccoli in one course.
 
 #### [Enchiladas](recipes/poultry/enchiladas.md)
 

@@ -21,10 +21,5 @@
     3. **Mix curry.** Add tomatoes. Stir. Add coconut milk. Stir. Add *yellow spices*. Stir.
     4. **Simmer.** Cook 4 minutes until mixture begins to boil. Stir. Reduce heat to low. Partially cover. Simmer 60 minutes.
 
-??? example "Companion Foods"
-    * Black rice
-    * [Roasted potatoes](../sides/roasted-potatoes.md)
-    * Roasted chickpeas
-
 [^1]:
     ["Alicia's Aloo Gobi."](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/) *All Recipes.* 6 Sep 2015. Accessed 2019.

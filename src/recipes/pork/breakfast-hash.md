@@ -3,7 +3,7 @@
     * 200 g Mushrooms, sliced
     * 200 g Bell Pepper, chopped
     * 200 g Onion, sliced
-    * 900 g [Roasted Potatoes](../sides/roasted-potatoes.md)
+    * 900 g [Roasted Potatoes](../sides/potatoes/roasted-potatoes.md)
     * 2 ml Kosher Salt
     * 2 ml Black Peppercorn, ground
     * 4 [Eggs, poached](../eggs/poached-eggs.md)
