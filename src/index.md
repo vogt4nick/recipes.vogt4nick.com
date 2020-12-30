@@ -110,8 +110,6 @@ Why don't you start your day the Gergich way?
 
 #### [Peanut Butter Blossoms](recipes/desserts/cookies/peanut-butter-blossoms.md)
 
-#### [Pear Pie](recipes/desserts/pies/pear-pie.md)
-
 #### [Robert Redford Cookies](recipes/desserts/cookies/robert-redford-cookies.md)
 
 #### [Vanilla Chai Shortbread Cookies](recipes/desserts/cookies/vanilla-chai-shortbread-cookies.md)
