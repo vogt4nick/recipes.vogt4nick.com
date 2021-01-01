@@ -1,6 +1,6 @@
 === "Ingredients"
     * 10 ml Active Dry Yeast
-    * 240 ml Water, warm (30C)
+    * 240 ml Water, warm (30°C)
     * 4 ml White Sugar
     * 6 ml Kosher Salt
     * 30 ml Vegetable Oil

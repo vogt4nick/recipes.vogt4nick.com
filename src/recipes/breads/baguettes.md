@@ -22,7 +22,7 @@
     7. **Shape loaves.** Prepare a lightly floured surface. Transfer pre-shaped loaves to prepared surface. [Shape each baguette](https://www.youtube.com/watch?v=xlN5CgQcvAg) into a 10 cm diameter baguette.
     8. **Proof twice.** Transfer loaves to a sheet pan dressed with semolina. Proof 60 minutes at room temperature until the loaves have grown to 1.5x times their original size but still spring back when poked.
     9.  **Arrange oven.** Place one oven rack in the lowest position and one in the middle position. Place an empty sheet pan in the bottom rack; we'll use it to boil water later. Place a pizza stone on the top rack.
-    10. **Preheat oven** to 500F (260C).
+    10. **Preheat oven** to 500°F (260°C).
     11. **Score loaves.** With the seam side down, score loaf using a bread lame, razor blade, or a very sharp knife. Cut 3 evenly spaced diagonal slashes 1 cm deep on the surface of the loaf.
     12. **Bake.**  Place sheet pan in oven on middle rack. Pour hot water into the empty sheet pan on the bottom rack. Bake 20 minutes until baguettes' ridges turn dark, coffee brown.
     13. **Cool baguettes.** Transfer baguettes to cooling rack. Cool 40 minutes at room temperature.

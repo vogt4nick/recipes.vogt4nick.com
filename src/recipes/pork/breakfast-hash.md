@@ -11,10 +11,10 @@
     * 60 ml Hot Salsa
 
 === "Directions"
-    1. **Preheat oven** to 350F (175C).
+    1. **Preheat oven** to 350°F (177°C).
     2. **Cook sausage.** Heat oven-safe skillet over medium heat. Add sausage. Cook 15 minute until very crisp. Remove sausage from heat, leaving fat in skillet as *lard*. Reserve as *cooked sausage*.
     3. **Fry vegetables.** Heat *rendered fat* in same skillet over medium-high heat. Add vegetables to skillet. Fry 6 minutes. Remove from heat. Reserve as *sautéed vegetables*.
-    4. **Bake hash.** Remove skillet from heat. Layer skillet with roasted potatoes, *cooked sausage*, *sautéed vegetables*, salt, pepper. Bake 10 minutes at 350F.
+    4. **Bake hash.** Remove skillet from heat. Layer skillet with roasted potatoes, *cooked sausage*, *sautéed vegetables*, salt, pepper. Bake 10 minutes at 350°F.
     5. **Garnish and serve** with poached eggs, chives, and salsa.
 
 [^1]:

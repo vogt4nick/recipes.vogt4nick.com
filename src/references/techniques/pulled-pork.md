@@ -13,7 +13,7 @@
 
     1. **Rub** dry pork shoulder with seasonings.
     2. **Wrap** in 2 layers of parchment paper. Wrap in 3 layers of aluminum foil.
-    3. **Roast** at 225F (110C) for 3h 50m minutes per kilogram; e.g. 11h 30m for 3000 g pork shoulder.
+    3. **Roast** at 225°F (107°C) for 3h 50m minutes per kilogram; e.g. 11h 30m for 3000 g pork shoulder.
     4. **Rest** 60 minutes at room temperature. Remove wrappings. Pull and serve.
 
     !!! caution "Cooking time is not accurate for meat less than 2 kg."

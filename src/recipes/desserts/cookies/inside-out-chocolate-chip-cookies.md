@@ -17,10 +17,10 @@
     1. **Combine wet mix.** Add butter, sugars to mixing bowl. Mix quickly until fluffy and light colored. Add egg, vanilla extract. Mix. Set aside as *wet mix*.
     2. **Mix batter.** Add flour, cocoa powder, baking soda, salt to clean mixing bowl. Mix to combine. Slowly mixing, slowly add *wet mix*. Quickly mixing, add milk. Quickly mixing, add chocolate chips.
     3. **Chill batter.** Cover batter and bowl with plastic wrap. Chill 3-72 hours, ideally overnight.
-    4. **Prepare baking materials.** Preheat oven to 350F (175C). Dress baking sheets with parchment paper.
+    4. **Prepare baking materials.** Preheat oven to 350°F (177°C). Dress baking sheets with parchment paper.
     5. **Rest batter** 20 minutes at room temperature.
     6. **Form dough balls.** Shape dough balls with a tablespoon. Arrange 5-8 cm apart.
-    7. **Bake cookies** 12 minutes at 350F.
+    7. **Bake cookies** 12 minutes at 350°F.
     8. **Rest cookies** 5 minutes at room temperature.
 
 [^1]:

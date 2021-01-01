@@ -13,10 +13,10 @@ title: BBRRR chicken
         * 2 ml Black Peppercorn, ground
 
 === "Directions"
-    1. **Preheat oven** to 450F (230C).
+    1. **Preheat oven** to 450°F (232°C).
     2. **Brine chicken.** Add water and salt to large bowl. Mix. Add chicken breasts. Brine for 15-30 minutes. Remove the chicken from brine. Pat dry with paper towels.
     3. **Mix garlic butter.** Mix butter and garlic together in a small bowl.
-    4. **Roast chicken.** Arrange brined chicken on greased sheet pan. Brush garlic butter evenly on both sides. Season chicken evenly with seasonings. Roast 20 minutes at 450F until cooked.
+    4. **Roast chicken.** Arrange brined chicken on greased sheet pan. Brush garlic butter evenly on both sides. Season chicken evenly with seasonings. Roast 20 minutes at 450°F until cooked.
     5. **Rest chicken.** Transfer the chicken to a clean plate. Tent with aluminum foil. Rest 5-10 minutes.
 
     ??? question "Can I brine the chicken in advance?"

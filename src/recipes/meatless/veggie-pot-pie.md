@@ -17,8 +17,8 @@
     * 220 g Green Peas
 
 === "Directions"
-    1. **Prepare kitchen.** Preheat oven to 350F (180C).
+    1. **Prepare kitchen.** Preheat oven to 350°F (177°C).
     2. **Prepare blond roux.** Melt butter in saucepan over medium heat. Sift flour carefully, whisking continuously. Whisk 8 minutes until smells toasty and appears light brown. Dilute with milk. Cover. Remove from heat. Set aside as *blond roux*.
     3. **Sauté vegetables.** Melt butter in oven-safe, deep pan over medium-high heat. Add mushrooms. Sauté 2 minutes, stirring every 30 seconds. Reduce heat to medium. Add onion, carrot, celery. Sauté 8 minutes until fragrant.
     4. **Dress pot pie.** Remove pan from heat. Add water and spices. Stir up fond. Add *blond roux*. Stir gently into sauted vegetables. Add green peas, *parboiled potatoes*. Stir gently. Roll *chilled dough* into disk 6 mm (1/4") thick, discarding excess dough as necessary. Layer pie crust.
-    5. **Bake pot pie** 30 minutes at 350F.
+    5. **Bake pot pie** 30 minutes at 350°F.

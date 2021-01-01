@@ -16,12 +16,12 @@
         * 15 ml Parmesan, grated
 
 === "Directions"
-    1. **Prepare oven** to 350F (175C).
+    1. **Prepare oven** to 350°F (177°C).
     2. **Prepare chicken.** Season chicken with tandoori seasoning. Rest 20 minutes at room temperature.
     3. **Sear chicken.** Melt butter over medium-high heat in large, oven-safe frying pan. Add chicken to frying pan, skin-side down first. Cook 4 minutes until brown. Flip. Cook 4 minutes. Remove from skillet. Set aside as *seared chicken*.
     4. **Prepare orzo and sauce**. Heat the same frying pan over medium-low heat. Add green onions. Cook 2 minutes. Add garlic. Cook 2 minutes until soft. Add orzo and sun-dried tomatoes. Cook 3 minutes. Add chicken stock and cream. Stir.
-    5. **Bake chicken & orzo.** Add *seared chicken* to frying pan skin side up. Bake 40 minutes in oven at 350F.
-    6. **Bake broccoli.** Add broccoli to frying pan. Cook in oven at 350F for 10 minutes.
+    5. **Bake chicken & orzo.** Add *seared chicken* to frying pan skin side up. Bake 40 minutes in oven at 350°F.
+    6. **Bake broccoli.** Add broccoli to frying pan. Cook in oven at 350°F for 10 minutes.
     7. **Garnish** with basil and parmesan.
 
 [^1]:

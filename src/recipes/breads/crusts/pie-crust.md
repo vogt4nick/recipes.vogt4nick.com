@@ -31,8 +31,8 @@
     1. **Prepare pie crust** following the relevant directions. The pie crust must be chilled before baking.
     2. **Preheat oven** to 425°F (218°C).
     3. **Weigh down pie crust.** Press pie crust firmly into the pie plate. Lightly grease one side a large sheet of foil with butter. Press the foil onto the crust butter-side down. Pour some dry rice or beans into the foil.
-    4. **Bake at 425F** for 12 minutes. Remove from oven. Remove weights and foil.
-    5. **Bake at 350F**. Reduce oven to 350°F (177°C). Bake 10 minutes until the crust turns golden brown color.
+    4. **Bake at 425°F** for 12 minutes. Remove from oven. Remove weights and foil.
+    5. **Bake at 350°F**. Reduce oven to 350°F (177°C). Bake 10 minutes until the crust turns golden brown color.
     6. **Cool to room-temperature** on a wire rack before filling.
 
     !!! info "Continue baking until crust is golden brown if the pie's filling requires no additional baking."
