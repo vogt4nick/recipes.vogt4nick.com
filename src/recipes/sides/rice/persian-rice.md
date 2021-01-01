@@ -1,23 +1,19 @@
 === "Ingredients"
-    * 300 g Basmati Rice, rinsed
-    * 100 g Lentils (optional)
+    * 200 g Basmati Rice, rinsed, soaked 20 minutes
+    * 100 g Lentils or Basmati Rice
     * Salt Water
-    * 30 ml Olive Oil
-    * 1 Russet Potato, peeled, sliced 7-10 mm crosswise
-    * 1 ml Cumin Seed, ground
-    * 1 ml Kosher Salt
-    * 30 ml Unsalted Butter, sliced
+    * 15 ml Olive Oil
+    * 15 ml Unsalted Butter, sliced
     * Garnish
-        * 3 threads Saffron, ground, mixed with 1 1/2 tablespoons hot water
-        * 15 ml Parsley Leaves, chopped
+        * 2 threads Saffron, ground, mixed with 15 ml hot water
+        * 10 ml Parsley Leaves, chopped
 
     !!! question "Substitute 2 ml curry powder for saffron."
 
 === "Directions"
-    1. **Parboil rice.** Heat salt water to boiling in stockpot. Add rice and lentils. Parboil 7 minutes, stirring occasionally. Drain rice.
-    2. **Prepare potato base.** Heat olive oil in stockpot over medium high heat. Arrange potato slices in single layer on bottom of stockpot. Dash with cumin and salt.
-    3. **Steam rice.** Reduce heat to low. Gently add parboiled rice over potato slices. Arrange butter slices evenly over rice. Cover stockpot with a dry towel. Cover with lid. Steam 45 minutes.
-    4. **Garnish.** Take about 250 ml steamed rice from stockpot. Mix with saffron. Top white rice with saffron rice and parsley. Serve with fried potatoes from base.
+    1. **Parboil rice.** Heat salt water to boiling in saucepan. Add rice and lentils. Parboil 7 minutes, stirring occasionally. Drain rice.
+    2. **Steam rice.** Heat olive oil in saucepan over medium heat. Gently layer parboiled rice. Arrange butter slices evenly over rice. Cover stockpot with a dry towel. Cover with lid. Reduce heat to low. Steam 45 minutes.
+    3. **Prepare garnish.** Take some steamed rice from stockpot. Mix with saffron. Top white rice with saffron rice and parsley.
 
     ??? caution "Do not pack the rice before steaming!"
         "If you pack the rice, it don't come nice." -Chef John[^1]
