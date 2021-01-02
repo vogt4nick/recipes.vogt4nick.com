@@ -1,29 +1,30 @@
 === "Ingredients"
-    * 225 g All-Purpose Flour
-    * 5 ml Baking Powder
-    * 120 ml Unsalted Butter, cold
-    * 1 Egg Yolk
-    * 5 ml Salt
-    * 60 ml Water, cold
-    * 1000 ml Salt Water
-    * 150 g Root vegetables, chopped
-    * 50 g Yellow Onion, minced
-    * 50 g Carrot, chopped
-    * 100 g Ground Beef
-    * 15 ml Parsley Leaves, chopped
-    * 1 Egg
+    * 600 g [Pie Doughs](../breads/crusts/pie-crust.md), kneaded an additional 2 minutes, chilled thoroughly
+    * Filling
+        * 100 g Parsnips, chopped
+        * 100 g Potatoes, chopped
+        * 100 g Turnips, chopped
+        * 100 g Celery or Radishes, minced
+        * 100 g Onion, minced
+        * 200 g Ground Beef
+        * 30 ml Parsley or Celery/Radish Greens, chopped
+    * For Egg Wash
+        * 2 Eggs, beaten
+        * 10 ml Water
 
-    !!! question "Substitute carrots for parsnips"
+    ??? tip "The pie dough is intentionally overworked!"
+        Ordinary pie dough is too delicate and flaky to stand up to 100 g of filling.
 
 === "Directions"
-    1. **Prepare kitchen.** Preheat oven to 350°F (177°C). Beat remaining egg in a small bowl. Set aside as *egg wash*.
-    2. **Prepare pasty dough.** Add flour, baking powder, butter, egg yolk, salt, water to food processor. Chop 30 seconds until mixture resembles bread crumbs. Gradually add cold water 15 ml at a time as necessary. Chop 60 seconds until mixture resembles dough. Remove dough from food processor. Roll dough into a ball. Wrap in plastic wrap. Chill 10-20 minutes in freezer. Referenced later as *chilled pasty dough*.
-    3. **Prepare filling.** Boil salt water in stockpan. Add root vegetables. Parboil 5 minutes until tender. Drain. Rinse with cold water. Mix onion, celery, and beef. Mix evenly. Referenced later as *pasty filling*.
-    4. **Shape pasty.** Prepare a lightly floured surface. Transfer dough to surface. Roll dough into large, 6 mm thick disc. Add *pasty filling* in a line down the middle of the disc. Brush the edge of pasty disc with some egg wash. Draw the edges of the pasty together. Crimp and seal so that the seal sits on top of the filling. Make a small hole in the top of the pasty. Brush with remaining egg wash.
-    5. **Bake pasty.** Arrange pasty on greased baking tray. Bake 30 minutes at 350°F until golden-brown.
+    1. **Preheat oven** to 350 F (175 C).
+    2. **Mix filling** ingredients.
+    3. **Shape pasty.** Repeat for six hand pies: Transfer dough to a lightly floured surface. Rollout dough into large 6 mm disc. Brush inside face with egg wash. Add filling in a line down the middle of the disc. Wrap, crimp, and seal pasty so that the seal sits on top of the filling. Brush outside face with remaining egg wash. Transfer to parchment-lined sheetpan.
+    4. **Bake** 60 minutes at 350 F until golden brown.
+    5. **Cool** 15 minutes before serving.
 
-??? warning "These make large pasties about the size of a loaf of bread"
-    Serve them by slicing the "loaf" like some kind of yooper beef wellington. If you prefer smaller, handheld pasties, reduce the meat mixture by half.
+!!! info "Yields 7 Pasties"
 
 [^1]:
-    ["Cornish Pasty."](https://www.hairybikers.com/recipes/view/cornish-pasty) *Hairy Bikers.* December 2015. Accessed 2019.
+    King, Si, and Dave Myers. ["Cornish Pasty."](https://www.hairybikers.com/recipes/view/cornish-pasty) *Hairy Bikers.* December 2015. Accessed 2019.
+[^2]:
+    Mitzewich, John. ["The Cornish Pasty – Going to Fall Down a Mineshaft? This is the Meat Pie For You!"](https://foodwishes.blogspot.com/2014/12/the-cornish-pasty-if-youre-going-to.html) *Food Wishes.* 15 December 2015. Accessed December 2020.
