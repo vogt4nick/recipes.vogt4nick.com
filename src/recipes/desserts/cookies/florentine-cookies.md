@@ -26,11 +26,16 @@
     9. **Decorate.** Dip the base of each florentine into the dark chocolate. Transfer to a wire rack -- chocolate side up -- to cool. Once set, drizzle white chocolate over the dark chocolate. Continue cooling to set before serving.
 
     !!! caution "Watch the bake carefully!"
-        If the Florentines are pale in the centre, they will be soft and chewy. If they are over-browned, they will be too brittle.
+        If the Florentines are pale in the centre, they will be soft and chewy. If they are over-browned, they will be too brittle and the fruits will dry out.
+
+??? info "Yields 18 Florentines."
+    ![Nutrition Label](../../../assets/nutrition-labels/florentine-cookies.png){: width=400px loading=lazy}
 
 [^1]:
     Bedlow, Lottie. ["Lottie’s Quarantine Florentines for Nana & Papa."](https://thegreatbritishbakeoff.co.uk/recipes/all/lottie-quarantine-florentines-for-nana-and-papa/) *The Great British Bake Off.* October 2020. Accessed December 2020.
 [^2]:
     Berry, Mary. ["Mary's florentines."](https://www.bbc.co.uk/food/recipes/marys_florentines_49833) *BBC Food.* August 2014. Accessed December 2020.
 [^3]:
+    Berry, Mary, and Paul Hollywood. "Masterclass 1." *The Great British Bake Off: Masterclass.* Season 1. Episode 1. *BBC One.* 29 Oct 2015. Accessed January 2021.
+[^4]:
     Mitzewich, John. ["Lace Cookies – Or Florentine If You’re Fancy."](https://foodwishes.blogspot.com/2020/12/lace-cookies-or-florentine-if-youre.html) *Food Wishes.* 18 December 2020. Accessed December 2020.
