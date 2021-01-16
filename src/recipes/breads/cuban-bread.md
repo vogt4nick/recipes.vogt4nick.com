@@ -8,7 +8,7 @@
     * 180 ml Water, warm
     * 45 ml Lard
     * 10 ml Kosher Salt, fine
-    * 190 g All-Purpose Flour
+    * 360 g All-Purpose Flour
 
 === "Directions"
     1. **Mix starter**. Mix to combine starter ingredients. Refrigerate overnight (or at least 6 hours).
