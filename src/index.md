@@ -10,7 +10,7 @@ Assorted hard and soft cheeses, deli meats, crackers, fruits, nuts, and spreads.
 
 #### [Dinner Rolls](recipes/breads/dinner-rolls.md)
 
-#### [Jalapeño Cheese Puffs](recipes/shareables/jalapeno-cheese-puffs.md)
+#### [Jalapeño Cheese Puffs](recipes/shareables/jalapeno-gougeres.md)
 
 ---
 
