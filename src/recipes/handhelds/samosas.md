@@ -34,4 +34,4 @@
 
     !!! tip "Use the top of a mason jar to cut dough into perfect circles."
 
-[^1]: {{ cite.bittman_how_to_cook_everything }}
+[^1]: {{ cite.bittman_how_to_cook_everything }} Accessed January 2020.

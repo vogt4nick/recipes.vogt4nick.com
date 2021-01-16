@@ -18,4 +18,4 @@
     2. **Add sauce.** Reduce heat to low. Add tomato paste. Stir to combine. Add brown sauce. Stir. Simmer 5 minutes uncovered.
     3. **Garnish.** Stir in butter. Garnish with parsley.
 
-[^1]: {{ cite.child_french_cooking }}
+[^1]: {{ cite.child_french_cooking }} Accessed May 2020.

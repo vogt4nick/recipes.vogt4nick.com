@@ -44,4 +44,4 @@
     12. **Decorate** with chocolate chips.
     13. **Cool pie** at least 4 hours until room temperature.
 
-[^1]: {{ cite.ludwinski_sister_pie }}
+[^1]: {{ cite.ludwinski_sister_pie }} Accessed December 2020.

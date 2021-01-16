@@ -32,4 +32,4 @@ title: Robert Redford cookies
     7. **Bake cookies** 16 - 18 minutes at 350°F until edges are just slightly golden.
     8. **Cool cookies** on a wire rack before serving.
 
-[^1]: {{ cite.ludwinski_sister_pie }}
+[^1]: {{ cite.ludwinski_sister_pie }} Accessed February 2020.

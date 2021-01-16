@@ -19,6 +19,6 @@
     4. **Cool** 2 - 4 hours on a wire rack until cooled to room temperature.
     5. **Serve** warm or at room-temperature.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }}
+[^1]: {{ cite.bittman_how_to_cook_everything }} Accessed July 2020.
 [^2]:
     ["Diagnose my watery quiche."](https://boards.straightdope.com/t/diagnose-my-watery-quiche/554453) *The Straight Dope Message Board: Cafe Society.* 20 September 2010. Accessed December 2020.

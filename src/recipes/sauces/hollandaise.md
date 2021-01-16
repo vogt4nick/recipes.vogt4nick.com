@@ -22,4 +22,4 @@
     ??? question "I have no thermometer. How do I know its 160°F?
         Per Julia, whisk until "you can begin to see the bottom of the bowl between strokes and the mixture forms a light cream on the wires of the whisk... If it seems to be thickening too quickly, or even suggest a lumpy quality, immediately plunge the bottom of the pan in cold water, beating the yolks to cool them."
 
-[^1]: {{ cite.child_french_cooking }}
+[^1]: {{ cite.child_french_cooking }} Accessed April 2020.

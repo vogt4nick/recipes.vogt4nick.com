@@ -22,4 +22,4 @@
 
 !!! info "Refrigerate up to 48 hours."
 
-[^1]: {{ cite.bittman_how_to_cook_everything }}
+[^1]: {{ cite.bittman_how_to_cook_everything }} Accessed June 2020.

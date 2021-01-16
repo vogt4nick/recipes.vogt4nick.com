@@ -40,4 +40,4 @@ title: PB paprika cookies
 
     !!! info "Store in an airtight container up to 5 days."
 
-[^1]: {{ cite.ludwinski_sister_pie }}
+[^1]: {{ cite.ludwinski_sister_pie }} Accessed April 2020.

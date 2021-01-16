@@ -21,4 +21,4 @@
     4. **Reduce sauce.** Remove from heat. Add tomato paste. Stir to combine. Add brown stock and herbs. Stir. Cover partially. Simmer 2 hours or more over low heat.
     5. **Strain, degrease, and season.** Strain sauce through colander. Degrease thoroughly. Season as desired, if necessary.
 
-[^1]: {{ cite.child_french_cooking }}
+[^1]: {{ cite.child_french_cooking }} Accessed May 2020.

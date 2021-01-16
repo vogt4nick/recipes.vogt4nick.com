@@ -21,4 +21,4 @@
     ??? question "I don't see a crust forming"
         If after the first few minutes you don't see any sign of a crust beginning to form, increase the oven temperature to 450°F (232°C). Bake no longer than 15 minutes altogether.
 
-[^1]: {{ cite.hazan_italian_cooking }}
+[^1]: {{ cite.hazan_italian_cooking }} Accessed May 2020.

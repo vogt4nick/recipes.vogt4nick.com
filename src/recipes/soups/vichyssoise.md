@@ -19,5 +19,5 @@
     4. **Chill soup.** Refrigerate until cool; i.e. no more than 48 hours.
     5. **Garnish & serve** with chives.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }}
-[^2]: {{ cite.child_french_cooking }}
+[^1]: {{ cite.bittman_how_to_cook_everything }} Accessed March 2020.
+[^2]: {{ cite.child_french_cooking }} Accessed March 2020.

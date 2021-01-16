@@ -13,4 +13,4 @@
     2. **Combine slaw.** Add cabbage, cucumber, dill in a large bowl. Mix. Add dressing. Mix.
     3. **Marinate** 60-120 minutes at room-temperature.
 
-[^1]: {{ cite.perelman_the_smitten_kitchen_cookbook }}
+[^1]: {{ cite.perelman_the_smitten_kitchen_cookbook }} Accessed July 2020.

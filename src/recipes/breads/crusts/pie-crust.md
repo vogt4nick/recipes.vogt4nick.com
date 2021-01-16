@@ -57,5 +57,5 @@
 ??? tip "Choose Julia for everyday use, and choose Lisa for special occasions."
     Lisa's dough is intended for thick pie crusts large crimping designs and decoration. Julia's dough yields a thinner crust.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }}
-[^2]: {{ cite.ludwinski_sister_pie }}
+[^1]: {{ cite.bittman_how_to_cook_everything }} Accessed December 2020.
+[^2]: {{ cite.ludwinski_sister_pie }} Accessed December 2020.

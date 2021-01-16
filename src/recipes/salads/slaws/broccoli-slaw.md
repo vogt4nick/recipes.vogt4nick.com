@@ -20,4 +20,4 @@
     2. **Combine slaw** ingredients and dressing together in a large bowl. Mix.
     3. **Garnish** with black pepper.
 
-[^1]: {{ cite.perelman_the_smitten_kitchen_cookbook }}
+[^1]: {{ cite.perelman_the_smitten_kitchen_cookbook }} Accessed July 2020.

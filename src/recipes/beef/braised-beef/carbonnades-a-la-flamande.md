@@ -40,6 +40,6 @@ title: Carbonnades à la Flamande
 
 !!! note "Serve with mashed potatoes or buttered noodles."
 
-[^1]: {{ cite.child_french_cooking }}
+[^1]: {{ cite.child_french_cooking }} Accessed November 2020.
 [^2]:
     Ramsay, Gordon. ["Winter Beef Recipes To Keep You Warm."](https://www.youtube.com/watch?v=eTqGvxI-QFY) 19 November 2020. Accessed November 2020.

@@ -37,4 +37,4 @@
     ??? question "Why do we weigh down the pie crust?"
         The pie crust can bubble and lose its shape while baking. Weighing it down helps safeguard a crust that looks as good as it tastes.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }}
+[^1]: {{ cite.bittman_how_to_cook_everything }} Accessed December 2020.

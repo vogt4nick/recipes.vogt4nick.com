@@ -30,4 +30,4 @@
 
 !!! info "Store up to 3 days under plastic wrap at room temperature."
 
-[^1]: {{ cite.ludwinski_sister_pie }}
+[^1]: {{ cite.ludwinski_sister_pie }} Accessed December 2020.

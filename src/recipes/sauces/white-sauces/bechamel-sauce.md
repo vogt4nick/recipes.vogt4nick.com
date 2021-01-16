@@ -12,4 +12,4 @@
 
 !!! info "Yields about 500 ml."
 
-[^1]: {{ cite.child_french_cooking }}
+[^1]: {{ cite.child_french_cooking }} Accessed May 2020.
