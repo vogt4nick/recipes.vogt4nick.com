@@ -41,6 +41,7 @@ site_name: Nick's Recipes
 site_url: http://recipes.vogt4nick.com/
 theme:
   name: material
+  favicon: assets/images/shallow-pan-of-food-32x32.png
   features:
     - header.autohide
     - navigation.instant
@@ -49,8 +50,8 @@ theme:
   icon:
     logo: material/silverware
   palette:
-    primary: blue
-    accent: blue
+    primary: amber
+    accent: amber
   # Necessary for search to work properly
   include_search_page: false
   search_index_only: true
