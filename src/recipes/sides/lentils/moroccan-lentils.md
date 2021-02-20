@@ -8,7 +8,7 @@
         * 5 ml Cumin Seed, ground
         * 2 ml Black Peppercorn, ground
         * 1 Bay Leaf
-    * 240 g [Chicken Stock](../soups/stocks/meat-stock.md)
+    * 240 g [Chicken Stock](../../soups/stocks/meat-stock.md)
     * 360 g Tomatoes, peeled, chopped
     * 200 g Brown Lentils, soaked, drained
     * 2 ml Kosher Salt
@@ -21,4 +21,4 @@
 
 !!! info "Store in refrigerator up to 3 days."
 
-[^1]: {{ cite.bittman_how_to_cook_everything }} Accessed February 2021.
+[^1]: {{ cite.bittman_how_to_cook_everything }} 431-432. Accessed February 2021.

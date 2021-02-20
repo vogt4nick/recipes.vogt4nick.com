@@ -11,7 +11,7 @@
         * 100 g Onion, minced
         * 1 ml Kosher Salt
         * 45 ml Flour
-        * 500 ml [Vegetable Stock](../soups/stocks/vegetable-stock.md), cold
+        * 500 ml [Vegetable Stock](../../soups/stocks/vegetable-stock.md), cold
         * 8 ml White Vinegar
         * 2 ml Dijon Mustard
 
