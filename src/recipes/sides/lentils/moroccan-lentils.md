@@ -10,7 +10,7 @@
         * 1 Bay Leaf
     * 240 g [Chicken Stock](../../soups/stocks/meat-stock.md)
     * 360 g Tomatoes, peeled, chopped
-    * 200 g Brown Lentils, soaked, drained
+    * 200 g Dry Brown Lentils, soaked, drained
     * 2 ml Kosher Salt
     * To Garnish
         * Fresh Coriander Leaves, chopped

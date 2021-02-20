@@ -1,7 +1,7 @@
 === "Ingredients"
     * Soaked Lentils
         * 400 ml Water, hot
-        * 100 g Dry Brown Lentils
+        * 100 g Dry Brown Lentils, soaked, drained
         * 15 ml Apple Cider Vinegar
         * 5 ml Kosher Salt
         * 1 Bay Leaf

@@ -7,7 +7,7 @@
     * 1 Bay Leaf
     * 120 ml Dry White Wine
     * 480 ml [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
-    * 200 g Brown Lentils, soaked, drained
+    * 200 g Dry Brown Lentils, soaked, drained
     * Kosher Salt
     * Black Peppercorn, ground
     * Celery Leaves or Parsley
