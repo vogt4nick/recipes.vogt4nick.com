@@ -10,7 +10,7 @@ title: B.O.C. monsieur
     * Sandwich Loaves
         * 1 [Baguette](../breads/baguettes.md), crosscut, cut into 20 cm lengths
         * 8 Garlic Cloves, minced
-    * [Caramelized Onions](../../references/techniques/caramelized-onions.md)
+    * [Caramelized Onions](../sides/caramelized-onions.md)
         * 300 g Yellow Onion, sliced
         * 200 g White Onion, sliced
         * 100 g Shallots, sliced

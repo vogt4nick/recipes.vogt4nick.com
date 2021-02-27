@@ -5,7 +5,7 @@
         * 1 Bay Leaf
     * Bacon Bits
         * 225 g Bacon, thick cut, diced
-    * [Caramelized Onions](../../references/techniques/caramelized-onions.md)
+    * [Caramelized Onions](../sides/caramelized-onions.md)
         * 300 g Yellow Onion, sliced
         * 200 g Red Onion, sliced
         * 100 g Shallots, sliced
