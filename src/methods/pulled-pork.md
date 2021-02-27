@@ -45,4 +45,6 @@
 
 
 [^1]:
-    Inspired by [Chef John](https://foodwishes.blogspot.com/2016/08/paper-pork-shoulder-its-wrap.html) and [Alton Brown](https://www.foodnetwork.com/recipes/alton-brown/pulled-pork-recipe-1914045).
+    Brown, Alton. ["Pulled Pork."](https://web.archive.org/web/20201001082852/https://www.foodnetwork.com/recipes/alton-brown/pulled-pork-recipe-1914045) *Food Network.* 18 May 2017. Accessed October 2020.
+[^2]:
+    Mitzewich, John. ["Paper Pork Shoulder – It’s a Wrap."](https://foodwishes.blogspot.com/2016/08/paper-pork-shoulder-its-wrap.html) *Food Wishes.* 19 August 2016. Accessed October 2020.
