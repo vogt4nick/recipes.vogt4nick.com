@@ -1,5 +1,3 @@
-Oven roasting isn't particularly difficult, but I always, always, always forget the procedure for different veg and legumes. So here we are.
-
 === "General Directions"
     1. **Preheat oven** to 450°F (232°C). Dress sheet pan with aluminum foil.
     2. **Prepare**. See "specifics".
@@ -18,5 +16,5 @@ Oven roasting isn't particularly difficult, but I always, always, always forget 
     * **Zucchini**. Chop into thumb-sized pieces. Roast 20 minutes, flipping twice.
 
 
-???+ note "Specialized recipes have their own pages."
+???+ note "Specialized recipes have their own recipes."
     e.g. [Roasted Potatoes](../recipes/sides/potatoes/roasted-potatoes.md) and [BBRRR Chicken](../recipes/poultry/bbrrr-chicken.md)
