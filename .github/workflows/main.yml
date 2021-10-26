@@ -1,5 +1,8 @@
-name: Build
+name: Build & Deploy
 on: [push]
+
+env:
+  MKDOCS_SITE_DIR: /home/runner/work/recipes.vogt4nick.com/recipes.vogt4nick.com/site
 
 jobs:
   build:
@@ -16,4 +19,29 @@ jobs:
       - name: Install dependencies
         run: poetry install
       - name: Build docs
-        run: poetry run mkdocs build
+        run: poetry run mkdocs build --site-dir ${{ env.MKDOCS_SITE_DIR }}
+      - name: Archive site
+        uses: actions/upload-artifact@master
+        with:
+          name: site
+          path: ${{ env.MKDOCS_SITE_DIR }}
+  deploy:
+    if: github.ref == 'refs/heads/recipes.vogt4nick.com'
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download site
+        uses: actions/download-artifact@master
+        with:
+          name: site
+          path: ${{ env.MKDOCS_SITE_DIR }}
+      - uses: actions/setup-python@v2
+      - name: Install awscli
+        run: pip install --user awscli==1.21.3
+      - name: Deploy docs
+        run: aws s3 sync ${{ env.MKDOCS_SITE_DIR }} s3://recipes.vogt4nick.com --region=us-east-1 --delete --acl public-read --no-progress --size-only
+        # --size-only will only upload changed files
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}
