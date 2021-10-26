@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: poetry install
       - name: Build docs
-        run: poetry run mkdocs build --site-dir ${{ env.MKDOCS_SITE_DIR }}
+        run: poetry run mkdocs build --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
       - name: Archive site
         uses: actions/upload-artifact@master
         with:
