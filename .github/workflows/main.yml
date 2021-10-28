@@ -17,7 +17,7 @@ jobs:
         with:
           poetry-version: 1.1.11
       - name: Install dependencies
-        run: poetry install
+        run: poetry install --no-dev
       - name: Build docs
         run: poetry run mkdocs build --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
       - name: Archive site
