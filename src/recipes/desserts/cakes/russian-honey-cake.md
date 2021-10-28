@@ -13,7 +13,7 @@
         * 465 g All-Purpose Flour
     * Frosting
         * 1000 ml Heavy Whipping Cream, cold
-        * 180 g [Crème Fraîche](../sauces/creme-fraiche.md) or Sour Cream
+        * 180 g [Crème Fraîche](../../sauces/creme-fraiche.md) or Sour Cream
 
 === "Directions"
     1. **Chill utentils.** Chill mixing bowl and whisk before using.
