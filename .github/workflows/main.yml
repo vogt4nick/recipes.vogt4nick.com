@@ -39,8 +39,7 @@ jobs:
       - name: Install awscli
         run: pip install --user awscli==1.21.3
       - name: Deploy docs
-        run: aws s3 sync ${{ env.MKDOCS_SITE_DIR }} s3://recipes.vogt4nick.com --region=us-east-1 --delete --acl public-read --no-progress --size-only
-        # --size-only will only upload changed files
+        run: aws s3 sync ${{ env.MKDOCS_SITE_DIR }} s3://recipes.vogt4nick.com --region=us-east-1 --delete --acl public-read --no-progress
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
