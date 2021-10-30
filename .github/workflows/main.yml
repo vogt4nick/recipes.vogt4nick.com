@@ -15,8 +15,8 @@ jobs:
       - name: Cache poetry dependencies
         uses: actions/cache@v1
         with:
+          key: ${{ runner.OS }}-poetry-cache-${{ hashFiles('poetry.lock') }}
           path: /opt/hostedtoolcache/Python/3.8.12/x64/bin/poetry
-          key: ${{ runner.OS }}-poetry-cache-${{ hashFiles('**/poetry.lock') }}
           restore-keys: |
             ${{ runner.OS }}-poetry-cache-
       - name: Install poetry
