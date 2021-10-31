@@ -29,7 +29,7 @@ jobs:
           name: site
           path: ${{ env.MKDOCS_SITE_DIR }}
   deploy:
-    if: github.ref == 'refs/heads/recipes.vogt4nick.com'
+    if: github.ref == 'refs/heads/main'
     needs: build
     runs-on: ubuntu-latest
     steps:
