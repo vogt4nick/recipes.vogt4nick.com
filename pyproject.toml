@@ -11,7 +11,7 @@ repository = "https://github.com/vogt4nick/recipes.vogt4nick.com"
 version = "0.0.0"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "~3.8"
 mkdocs = "^1.1.2"
 mkdocs-awesome-pages-plugin = "^2.4.0"
 mkdocs-material = "^6.1.6"
