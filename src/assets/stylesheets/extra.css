@@ -2,3 +2,7 @@
     margin-top: 1em; /* default setting */
     margin-bottom: 2em;
 }
+
+.md-grid {
+    max-width: 1000px;
+}
