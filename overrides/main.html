@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block announce %}
+    {% if config.theme.language == 'de' %}
+        ✨ Unser österreichisches Rezeptbuch ist auf recipes.vogt4nick.com/at
+        umgezogen. ✨
+        {% else %}
+        ✨ Our recipe book has expanded to include our Austrian cookbook! 🇦🇹
+        <br>
+        These recipes are written in (Austrian) German and kept separate from
+        our English recipes. You can access them by changing the language.
+    {% endif %}
+{% endblock %}
