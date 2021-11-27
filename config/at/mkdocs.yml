@@ -1,0 +1,76 @@
+docs_dir: ../../src/at
+extra:
+  alternate:
+    - name: Englisch
+      link: /en/
+      lang: en
+    - name: Österreichisches Deutsch
+      link: /at/
+      lang: at
+  cite:
+    bitterman_die_österreichische_küche: >-
+      Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
+      [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).
+      1. Edition.
+      Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG, 15 September 2018.
+extra_css:
+  - assets/stylesheets/extra.css
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+plugins:
+  - awesome-pages:
+      collapse_single_pages: false
+      filename: pages.yml
+      strict: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      locale: de
+      type: timeago
+      timezone: Europe/Vienna
+  - macros
+  - minify:
+      minify_html: true
+      minify_css: true
+      css_files:
+        - assets/stylesheets/extra.css
+  - search:
+      lang:
+        - de
+site_dir: ../../site/at
+site_name: dem Nick seine Rezepte
+site_url: http://rezepte.vogt4nick.com/
+theme:
+  name: material
+  custom_dir: ../../overrides/
+  favicon: assets/images/shallow-pan-of-food-32x32.png
+  features:
+    - header.autohide
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+  icon:
+    logo: material/silverware
+  language: de
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: österreich-licht
+      toggle:
+        icon: material/weather-sunny
+        name: In den Dunkelmodus wechseln
+    - media: "(prefers-color-scheme: dark)"
+      scheme: österreich-dunkel
+      toggle:
+        icon: material/weather-night
+        name: In den Lichtmodus wechseln
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true

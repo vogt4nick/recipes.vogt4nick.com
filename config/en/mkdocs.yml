@@ -1,5 +1,12 @@
-docs_dir: src
+docs_dir: ../../src/en
 extra:
+  alternate:
+    - name: Austrian German
+      link: /at/
+      lang: at
+    - name: English
+      link: /en/
+      lang: en
   cite:
     bittman_how_to_cook_everything: >-
       Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
@@ -40,10 +47,12 @@ plugins:
   - search:
       lang:
         - en
+site_dir: ../../site/en
 site_name: Nick's Recipes
 site_url: http://recipes.vogt4nick.com/
 theme:
   name: material
+  custom_dir: ../../overrides/
   favicon: assets/images/shallow-pan-of-food-32x32.png
   features:
     - header.autohide
