@@ -8,6 +8,11 @@ extra:
       link: /en/
       lang: en
   cite:
+    bitterman_die_österreichische_küche: >-
+      Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
+      [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).
+      1. Edition.
+      Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG, 15 September 2018.
     bittman_how_to_cook_everything: >-
       Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
     child_french_cooking: >-
@@ -33,11 +38,11 @@ plugins:
       collapse_single_pages: false
       filename: pages.yml
       strict: true
-  - git-revision-date-localized:
-      enable_creation_date: true
-      locale: en
-      type: timeago
-      timezone: Europe/Vienna
+  # - git-revision-date-localized:
+  #     enable_creation_date: true
+  #     locale: en
+  #     type: timeago
+  #     timezone: Europe/Vienna
   - macros
   - minify:
       minify_html: true
