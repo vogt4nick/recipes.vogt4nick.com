@@ -3,6 +3,7 @@
     * 100 ml Milch, heiß
     * 1 Stk Knoblauchzehe, fein gewürfelt (optional)
     * 40 g Zwiebel, fein gewürfelt
+    * 5 ml Butter
     * 60 g schmelzbarer Käse, klein gewürfelt
     * 1 Ei, verquirlt
     * Zum Würzen
@@ -14,6 +15,7 @@
         * 1 Prise Salz
         * 1 Prise Pfeffer
     * Butterschmaltz oder Öl zum Backen
+    * 500 ml Gemüsebrühe zum Servieren
 
     !!! info "Diese Zutaten sind für zwei (2) Personen geeignet."
 
@@ -23,8 +25,9 @@
     3. **Rasten.** Die Masse 30 Minuten rasten lassen.
     4. **Die Knödel formen.** Aus der eher weichen Masse mit leicht befeuchteten Händen zuerst kleine Knödel drehen und diese dann flach drücken.
     5. **Die Mischung braten.** In einer Pfanne das Öl erhitzen. Teighäufchen in das heiße Fett setzen, platt drücken, und langsam goldbraun backen.
+    6. **Servieren.** In einer flachen Schale mit Gemüsebrühe servieren.
 
-??? question "Wie kann ich dieses Gericht servieren?"
+??? question "Wie kann ich sonst dieses Gericht servieren?"
     Die Kaspressknödel schmecken als Suppeneinlage, als Beilage, oder auch als Hauptgericht mit Sauerkraut oder [Kräuterdip](../soßen/kräuterdip.md). Gerne werden sie auch mit grünem Salat und ein paar Radieschen serviert.[^gutekueche]
 
 [^bitterman]:
