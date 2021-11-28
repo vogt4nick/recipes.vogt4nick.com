@@ -1,3 +1,9 @@
+## v21.1.1 (2021-11-28)
+
+### Fix
+
+- **mkdocs.yml**: clarify action when switching languages
+
 ## v21.1.0 (2021-11-27)
 
 ### Fix
