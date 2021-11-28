@@ -1,12 +1,9 @@
 docs_dir: ../../src/en
 extra:
   alternate:
-    - name: Austrian German
+    - name: Switch to Austrian Cookbook
       link: /at/
       lang: at
-    - name: English
-      link: /en/
-      lang: en
   cite:
     bitterman_die_österreichische_küche: >-
       Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
