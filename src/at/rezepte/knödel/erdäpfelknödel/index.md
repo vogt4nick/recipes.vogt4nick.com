@@ -1,3 +1,6 @@
+---
+title: Erdäpfelknödel
+---
 === "Zutaten"
     * Salzwasser
     * 500 g mehlige Erdäpfel, geschält

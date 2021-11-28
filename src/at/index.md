@@ -6,7 +6,7 @@ hide:
 
 ## [Kaiserschmarren](rezepte/süßspeisen/kaiserschmarren.md)
 
-## [Kaspressknödel](rezepte/knödel/kaspressknödel.md)
+## [Kaspressknödel](rezepte/knödel/semmelknödel/kaspressknödel.md)
 
 Serviert in Gemüsebrühe.
 
