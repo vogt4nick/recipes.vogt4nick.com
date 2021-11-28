@@ -1,3 +1,14 @@
+## v21.2.0 (2021-11-28)
+
+### Feat
+
+- **at/eiernockerl**: add eiernockerl recipe
+- **at/nockerl**: add nockerl recipe
+
+### Fix
+
+- **at/knödel**: organize knödel recipes into sections
+
 ## v21.1.1 (2021-11-28)
 
 ### Fix
