@@ -28,7 +28,7 @@
     6. **Servieren.** In einer flachen Schale mit Gemüsebrühe servieren.
 
 ??? question "Wie kann ich sonst dieses Gericht servieren?"
-    Die Kaspressknödel schmecken als Suppeneinlage, als Beilage, oder auch als Hauptgericht mit Sauerkraut oder [Kräuterdip](../soßen/kräuterdip.md). Gerne werden sie auch mit grünem Salat und ein paar Radieschen serviert.[^gutekueche]
+    Die Kaspressknödel schmecken als Suppeneinlage, als Beilage, oder auch als Hauptgericht mit Sauerkraut oder [Kräuterdip](../../soßen/kräuterdip.md). Gerne werden sie auch mit grünem Salat und ein paar Radieschen serviert.[^gutekueche]
 
 [^bitterman]:
     {{ cite.bitterman_die_österreichische_küche }}

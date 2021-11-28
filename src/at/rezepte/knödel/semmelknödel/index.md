@@ -1,3 +1,6 @@
+---
+title: Semmelknödel
+---
 === "Zutaten"
     * 150 g Semmelwürfel
     * 250 ml Milch
