@@ -1,3 +1,9 @@
+## v21.2.1 (2021-11-30)
+
+### Fix
+
+- redirect recipes.vogt4nick.com to english site
+
 ## v21.2.0 (2021-11-28)
 
 ### Feat
