@@ -1,3 +1,9 @@
+## v21.2.2 (2021-12-01)
+
+### Fix
+
+- **en/mkdocs.yml**: change site color to msu green
+
 ## v21.2.1 (2021-11-30)
 
 ### Fix
