@@ -1,3 +1,9 @@
+## v21.2.3 (2021-12-01)
+
+### Fix
+
+- **extra.css**: use light green hyperlinks in english site
+
 ## v21.2.2 (2021-12-01)
 
 ### Fix
