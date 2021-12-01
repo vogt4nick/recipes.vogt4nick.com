@@ -69,17 +69,15 @@ theme:
   language: en
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
+      scheme: msu-licht
       toggle:
         icon: material/weather-sunny
-        name: In den Dunkelmodus wechseln
+        name: Switch to Dark Mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: deep purple
+      scheme: msu-dunkel
       toggle:
         icon: material/weather-night
-        name: In den Lichtmodus wechseln
+        name: Switch to Light Mode
   # Necessary for search to work properly
   include_search_page: false
   search_index_only: true
