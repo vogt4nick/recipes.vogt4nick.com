@@ -18,7 +18,7 @@
     !!! note "Ingredients make 6 dumplings for 2 people."
 
 === "Imperial"
-    * 2 c. Bread Cubes, 1/4" diameter
+    * 3 c. Bread Cubes, 1/4" diameter
     * 1/2 c. Milk, warm
     * 1 Garlic Clove, minced
     * 1/4 c. Sweet Onion, finely diced
