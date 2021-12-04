@@ -1,20 +1,12 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+# Python environments
 .python-version
+.venv
 
 # mkdocs documentation
-/site
+site/
 
+# vscode artifacts
 .vscode
+
+# MacOS artifacts
 .DS_Store
