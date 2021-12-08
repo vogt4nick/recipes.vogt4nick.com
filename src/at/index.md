@@ -4,13 +4,11 @@ hide:
   - navigation
 ---
 
-## [Kaiserschmarren](rezepte/süßspeisen/kaiserschmarren.md)
+## [Eiernockerl](rezepte/knödel/nockerl/eiernockerl.md)
 
 ## [Kaspressknödel](rezepte/knödel/semmelknödel/kaspressknödel.md)
 
 Serviert in Gemüsebrühe.
-
-## [Kürbissuppe](rezepte/suppen/kürbissuppe.md)
 
 ## [Linzer Torte](rezepte/süßspeisen/linzer-torte.md)
 
