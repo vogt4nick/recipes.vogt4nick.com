@@ -1,3 +1,9 @@
+## v21.3.1 (2021-12-08)
+
+### Fix
+
+- **at/menu**: update menu to reflect current favorite recipes
+
 ## v21.3.0 (2021-12-05)
 
 ### Feat
