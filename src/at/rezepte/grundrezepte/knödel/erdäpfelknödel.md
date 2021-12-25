@@ -1,6 +1,3 @@
----
-title: Erdäpfelknödel
----
 === "Zutaten"
     * Salzwasser
     * 500 g mehlige Erdäpfel, geschält
@@ -25,6 +22,8 @@ title: Erdäpfelknödel
     ["Erdäpfelknödel.](https://www.gutekueche.at/erdaepfelknoedel-rezept-2153)
     *Gute Kueche.*
     27 Februar 2015.
+[^oberndorfer]:
+    {{ cite.oberndorfer_knödel }} 26-7.
 [^gerykocht]:
     Remias, Frankie.
     ["Waldviertlerknödel - das Original."](https://www.youtube.com/watch?v=pX3jKBJj2F8)
