@@ -14,6 +14,10 @@ extra:
       Oberndorfer, Florian, and Zabert Sandmann.
       [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X)
       München Zs, 2021.
+    müller_walser_mein_erstes_kochbuch: >-
+      Müller, Anna, and Olga Walser.
+      [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
+      Verlag E. DORNER Gmbh, 2017.
 extra_css:
   - assets/stylesheets/extra.css
 markdown_extensions:
