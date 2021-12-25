@@ -10,6 +10,10 @@ extra:
       [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).
       1. Edition.
       Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG, 15 September 2018.
+    oberndorfer_knödel: >-
+      Oberndorfer, Florian, and Zabert Sandmann.
+      [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X)
+      München Zs, 2021.
 extra_css:
   - assets/stylesheets/extra.css
 markdown_extensions:

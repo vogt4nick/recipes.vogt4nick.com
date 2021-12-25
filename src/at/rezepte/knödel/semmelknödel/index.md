@@ -34,5 +34,7 @@ title: Semmelknödel
 ??? question "Wie kann ich dieses Gericht servieren?"
     Semmelknödel passen hervorragend zu Schweinsbraten, Rinderbraten und auch zu fast allen Wildgerichten.
 
+[^oberndorfer]:
+    {{ cite.oberndorfer_knödel }} 22-23, 29.
 [^gutekueche]:
     ["Semmelknödel."](https://www.gutekueche.at/klassischer-semmelknoedel-rezept-876) *Gute Kueche.* 1 März 2015.
