@@ -1,8 +1,8 @@
 ---
-title: Eiernockerl
+title: Eierspätzle
 ---
 === "Zutaten"
-    * 2 Portionen [Nockerl](index.md)
+    * 2 Portionen [Spätzle](../grundrezepte/teig/nockerlteig/spätzle.md)
     * Butter
     * 1 Ei, verquirlt
     * 30 g Sauerrahm
