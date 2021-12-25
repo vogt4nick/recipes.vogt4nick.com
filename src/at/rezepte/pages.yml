@@ -1,1 +1,10 @@
 title: Rezepte
+arrange:
+  - index.md
+  - grundrezepte
+  - soßen
+  - salate
+  - suppen
+  - hauptspeisen
+  - beilagen
+  - süßspeisen
