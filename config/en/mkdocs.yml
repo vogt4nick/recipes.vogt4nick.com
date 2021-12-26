@@ -35,11 +35,6 @@ plugins:
       collapse_single_pages: false
       filename: pages.yml
       strict: true
-  # - git-revision-date-localized:
-  #     enable_creation_date: true
-  #     locale: en
-  #     type: timeago
-  #     timezone: Europe/Vienna
   - macros
   - minify:
       minify_html: true
