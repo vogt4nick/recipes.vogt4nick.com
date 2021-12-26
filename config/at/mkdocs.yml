@@ -52,7 +52,6 @@ theme:
   favicon: assets/images/shallow-pan-of-food-32x32.png
   features:
     - header.autohide
-    - navigation.expand
     - navigation.indexes
     - navigation.instant
     - navigation.tabs
