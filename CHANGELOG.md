@@ -1,3 +1,10 @@
+## v21.4.0 (2021-12-26)
+
+### Feat
+
+- remove git revision date plugin
+- remove auto-expanded navigation sections
+
 ## v21.3.2 (2021-12-11)
 
 ### Fix
