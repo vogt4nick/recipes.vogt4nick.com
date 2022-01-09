@@ -10,8 +10,6 @@ Assorted hard and soft cheeses, deli meats, crackers, fruits, nuts, and spreads.
 
 #### [Dinner Rolls](recipes/breads/dinner-rolls.md)
 
-#### [Jalapeño Cheese Puffs](recipes/shareables/jalapeno-gougeres.md)
-
 ---
 
 ## Sandwiches
@@ -38,10 +36,6 @@ Served with black rice, [roasted potatoes (V/V+)](recipes/sides/potatoes/roasted
 
 Served with [roasted vegetables](methods/oven-roasted-vegetables.md), [persian rice](recipes/sides/rice/persian-rice.md), and [lebanese flatbread](recipes/breads/lebanese-flatbread.md) in one course.
 
-#### [Curried Pork](recipes/pork/curried-pork.md)
-
-Served with [yellow rice](recipes/sides/rice/yellow-rice.md) and blanched broccoli in one course.
-
 #### [Enchiladas](recipes/poultry/enchiladas.md)
 
 #### [Käsespätzle](recipes/pork/detroit-kaesespaeztle.md)
@@ -55,10 +49,6 @@ Meat, beans, and available vegetables baked over tortilla chips with cheddar che
 #### [Risotto](recipes/meatless/white-risotto.md)
 
 Served with caesar salad in two courses.
-
-#### [Veggie Pot Pie](recipes/meatless/veggie-pot-pie.md)
-
-Served with arugula fruit salad and toasted cinnamon pie crusts in three courses.
 
 ---
 
