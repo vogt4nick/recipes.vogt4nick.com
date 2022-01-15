@@ -32,7 +32,7 @@ title: Linzer Torte
     10. **Gitter formen.** Rollen aus dem Teigrest vom Kühlschrank formen. Sie auf den Durchmesser der Torte grob kürzen und auf die Marmelade legen.
     11. **Mit Ei waschen.** Bepinseln Sie das Teiggitter mit verquirltem Ei.
     12. **Mandeln streuen.** Am äußerem Tortenrand gehobelte Mandeln streuen.
-    13. **Die Torte backen.** Die Torte bei 190°C ca. 40-45 Minuten backen.
+    13. **Die Torte backen.** Die Torte bei 190ºC ca. 40-45 Minuten backen.
     14. **Die Torte auskühlen lassen.**
 
 [^bitterman]:

@@ -4,7 +4,7 @@
     | 15 ml | Extra Virgin Olive Oil
 
 === "Directions"
-    1. **Prepare materials.** Preheat oven to 350°F (177°C). Prepare a sheetpan dressed with parchment paper.
+    1. **Prepare materials.** Preheat oven to 350ºF (177ºC). Prepare a sheetpan dressed with parchment paper.
     2. **Toast sesame seeds.** Add sesame seeds to sheetpan. Spread evenly. Toast 12 minutes, tossing halfway through.
     3. **Pulverize sesame seeds.** Dividing as necessary, pulverize toasted sesame seeds into a powder with a mortar & pestle.
     4. **Puree tahini paste.** Combine sesame powder and olive oil. Whisk well.

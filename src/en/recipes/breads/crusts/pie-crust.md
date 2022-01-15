@@ -3,7 +3,7 @@
     * 2 ml Kosher Salt
     * 2 ml White Sugar
     * 110 g Unsalted Butter, chilled, chopped
-    * 90 ml Water, cold (0-5°C)
+    * 90 ml Water, cold (0-5ºC)
 
     !!! info "Yields two 9-inch single-crust pie crusts or 6 hand pie crusts."
 
@@ -12,7 +12,7 @@
     * 5 ml White Sugar
     * 5 ml Kosher Salt
     * 220 g Unsalted Butter, chilled, divided into 5 g chunks
-    * 120 ml Water, cold (0-5°C)
+    * 120 ml Water, cold (0-5ºC)
 
     ??? info "Yields two 9-inch single-crust pie crusts or 6 hand pie crusts."
         ![Nutrition Label](../../../assets/nutrition-labels/pie-crust.png){: width=400px loading=lazy}
@@ -41,10 +41,10 @@
 
 === "Blind Bake Directions"
     1. **Prepare pie crust** following the relevant directions. The pie crust must be chilled before baking.
-    2. **Preheat oven** to 425°F (218°C).
+    2. **Preheat oven** to 425ºF (218ºC).
     3. **Weigh down pie crust.** Press pie crust firmly into the pie plate. Lightly grease one side a large sheet of foil with butter. Press the foil onto the crust butter-side down. Pour some dry rice or beans into the foil.
-    4. **Bake at 425°F** for 12 minutes. Remove from oven. Remove weights and foil.
-    5. **Bake at 350°F**. Reduce oven to 350°F (177°C). Bake 10 minutes until the crust turns golden brown color.
+    4. **Bake at 425ºF** for 12 minutes. Remove from oven. Remove weights and foil.
+    5. **Bake at 350ºF**. Reduce oven to 350ºF (177ºC). Bake 10 minutes until the crust turns golden brown color.
     6. **Cool to room-temperature** on a wire rack before filling.
 
     !!! info "Continue baking until crust is golden brown if the pie's filling requires no additional baking."

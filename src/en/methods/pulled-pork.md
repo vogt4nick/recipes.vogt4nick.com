@@ -13,7 +13,7 @@
 
     1. **Rub** dry pork shoulder with seasonings.
     2. **Wrap** in 2 layers of parchment paper. Wrap in 3 layers of aluminum foil.
-    3. **Roast** at 225°F (107°C) for 3h 50m minutes per kilogram; e.g. 11h 30m for 3000 g pork shoulder.
+    3. **Roast** at 225ºF (107ºC) for 3h 50m minutes per kilogram; e.g. 11h 30m for 3000 g pork shoulder.
     4. **Rest** 60 minutes at room temperature. Remove wrappings. Pull and serve.
 
     !!! caution "Cooking time is not accurate for meat less than 2 kg."
@@ -37,11 +37,11 @@
 
     1. **Brine** and cover pork in fridge for 12 hours.
     2. **Rub** dry pork shoulder with seasonings.
-    3. **Smoke** pork 10-12 hours in smoker at 210°F (99°C).
+    3. **Smoke** pork 10-12 hours in smoker at 210ºF (99ºC).
     4. **Rest** 60 minutes at room temperature, tented with foil.
 
     ??? question "Can I substitute white sugar or kosher salt?"
-        Yes, but you won't get the same result. White sugar and kosher salt do not readily dissolve into water near 0°C. Molasses and pickling salt, however, do stay dissolved into water at low temperatures.
+        Yes, but you won't get the same result. White sugar and kosher salt do not readily dissolve into water near 0ºC. Molasses and pickling salt, however, do stay dissolved into water at low temperatures.
 
 
 [^1]:
