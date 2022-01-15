@@ -28,8 +28,8 @@
     6. **Roll out dough.** Transfer dough to a lightly floured surface. Gently shape into a rectangle with the long side nearest you. Use a rolling pin to shape the dough into a 45 x 30 cm (18 x 12-inch) rectangle.
     7. **Assemble rolls.** Brush the dough with the the melted butter, leaving a 1 inch border along the top edge. Sprinkle the brown sugar mixture over the dough, also avoiding the top border. Gently press the filling into the dough. Beginning with the long edge nearest you, roll the dough away from you into a tight cylinder. Firmly pinch the seam to seal and roll the cylinder seam-side down. Very gently squeeze the cylinder to create even thickness. Using a serrated knife, gently cut the cylinder 8 rolls. Transfer rolls to a greased 9" x 13" pan.
     8. **Chill** at least 6 hours, covered.
-    9. **Proof.** Uncover rolls. Heat oven to 200°F (93°C). Turn off oven, and add rolls to oven. Proof 30 minutes until slightly puffy.
-    10. **Bake.** Without taking the rolls out of the oven, increase the oven temperature to 350°F (177°C). Bake 25-30 minutes until the internal temperature reaches 190°F (85°C). Remove from heat.
+    9. **Proof.** Uncover rolls. Heat oven to 200ºF (93ºC). Turn off oven, and add rolls to oven. Proof 30 minutes until slightly puffy.
+    10. **Bake.** Without taking the rolls out of the oven, increase the oven temperature to 350ºF (177ºC). Bake 25-30 minutes until the internal temperature reaches 190ºF (85ºC). Remove from heat.
     11. **Cool** 30 minutes.
     12. **Whip icing.** Beat cream cheese until creamy. Mix in milk until combined. Sift in sugar and whip until smooth.
     13. **Serve.** Spread icing over the rolls and serve immediately.

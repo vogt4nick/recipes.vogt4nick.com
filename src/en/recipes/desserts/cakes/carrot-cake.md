@@ -14,8 +14,8 @@
         * [Russian Buttercream](../russian-buttercream.md)
 
 === "Directions"
-    1. **Preheat oven** to 350°F (177°C).
+    1. **Preheat oven** to 350ºF (177ºC).
     2. **Mix batter.** Whip eggs, sugar, and oil until smooth. Combine dry mix and add to mixture. One at a time, stir in grated carrots, walnuts, and pineapple.
-    3. **Bake** 35-45 minutes at 350°F. Remove from heat.
+    3. **Bake** 35-45 minutes at 350ºF. Remove from heat.
     4. **Rest** at least 30 minutes until cool.
     5. **Frost** with russian butter cream.

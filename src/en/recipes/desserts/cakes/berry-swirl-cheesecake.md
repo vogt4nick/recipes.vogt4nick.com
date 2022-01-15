@@ -15,8 +15,8 @@
         * 4 Eggs, room temperature
 
 === "Directions"
-    1. **Prepare materials.** Heat oven to 350°F (177°C). Wrap exterior of a 9-inch springform pan (including base) tightly in a triple layer of foil; set aside.
-    2. **Pre-bake crust.** Add crumbs, melted butter, sugar, and salt to a medium bowl. Mix. Press crumb mixture firmly into bottom of pan and up the sides to about 25 mm (1") from the top of the pan. Bake 10 minutes at 350°F until set. Cool in pan on cooling rack. Set aside as *prepared crust*.
+    1. **Prepare materials.** Heat oven to 350ºF (177ºC). Wrap exterior of a 9-inch springform pan (including base) tightly in a triple layer of foil; set aside.
+    2. **Pre-bake crust.** Add crumbs, melted butter, sugar, and salt to a medium bowl. Mix. Press crumb mixture firmly into bottom of pan and up the sides to about 25 mm (1") from the top of the pan. Bake 10 minutes at 350ºF until set. Cool in pan on cooling rack. Set aside as *prepared crust*.
     3. **Reduce heat.** Reduce oven to 325 degrees.
     4. **Puree berries.** Add berries and sugar to food processor. Puree until smooth. Sieve seeds from mixture. Add berry puree to piping bag. Set aside as *berry puree*.
     5. **Mix filling.** Add cream cheese to large bowl. Mix at medium speed with paddle 3 minutes until fluffy. Mix at low speed while adding remaining sugar in a slow, steady stream. Add salt and vanilla. Mix. Add eggs and mix, one at a time.

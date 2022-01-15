@@ -18,7 +18,7 @@
     * 50 g Green Chiles, chopped
 
 === "Directions"
-    1. **Preheat oven** to 350°F (177°C).
+    1. **Preheat oven** to 350ºF (177ºC).
     2. **Prepare sauce.** Add cream of chicken, sour cream, milk, and green chiles to large bowl. Mix evenly. Referenced later as *enchilada sauce*.
     3. **Prepare filling.** Add cheese, spices, and water to large bowl. Mix until smooth. Add beans and chicken. Mix evenly. Referenced later as *chicken mixture*.
     4. **Bake enchiladas.** Grease 13" x 9" baking dish. Add 100 g of *chicken mixture* to each tortilla. Roll and place seam side down in baking dish. Cover with *enchilada sauce*. Bake, uncovered, 35 minutes until heated through.

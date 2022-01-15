@@ -17,9 +17,9 @@
     4. **Proof dough**. Transfer kneaded dough to an oiled bowl. Cover. Rest 2 hours until dough has doubled in size.
     5. **Form loaves**. Transfer proofed dough to a floured surface. Dividing into two halves, flatten and shape proofed dough into a roughly 30 cm long rectangle and roll tightly into a loaf. Flatten slightly, if desired.
     6. **Proof loaves**. Transfer loaves to a sheet pan dressed with parchment paper and semolina. Cover and proof about 2 hours until doubled in size.
-    7. **Preheat oven** to 400°F (205°C).
+    7. **Preheat oven** to 400ºF (205ºC).
     8. **Dress loaves**. Uncover. Slice loaves lengthwise with a knife or razorblade. Spritz with water.
-    9. **Bake loaves** 25 minutes at 400°F. Remove from heat.
+    9. **Bake loaves** 25 minutes at 400ºF. Remove from heat.
     10. **Rest loaves** 15 minutes.
 
 [^1]:
