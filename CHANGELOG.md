@@ -1,3 +1,9 @@
+## v22.2.0 (2022-01-15)
+
+### Feat
+
+- **en/mkdocs.yml**: remove navigation sections
+
 ## v22.1.0 (2022-01-09)
 
 ### Feat
