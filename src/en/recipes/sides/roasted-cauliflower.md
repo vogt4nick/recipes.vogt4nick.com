@@ -14,4 +14,4 @@
     ["Roast Cauliflower Chickpea Curry."](https://chetnamakan.co.uk/roast-cauliflower-chickpea-curry/)
     chetnamakan.co.uk.
 
---8<-- "src/en/includes/abbreviations.md"
+--8<-- "overrides/includes/temperatures.md"
