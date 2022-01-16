@@ -21,9 +21,5 @@
     3. **Chill** 3 hours until filling is firm. Garnish with remaining orange peel.
     4. **Garnish and serve.** Remove tart from pan. Garnish with orange peel and piped buttercream. Cut tart into wedges; serve cold.
 
-=== "Photos"
-    ![Orange Chocolate Tart](../../../assets/images/orange-chocolate-tart.jpg){: loading=lazy width="800px"}
-    ![Orange Chocolate Tart Slice](../../../assets/images/orange-chocolate-tart-slice.jpg){: loading=lazy width="800px"}
-
 [^1]:
     Fenzl, Barbara Pool. ["Dark Chocolate and Orange Tart with Toasted Almonds."](https://www.bonappetit.com/recipe/dark-chocolate-and-orange-tart-with-toasted-almonds) *Bon Appetit.* 7 April 2008.
