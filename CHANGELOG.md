@@ -1,3 +1,16 @@
+## v22.3.0 (2022-01-16)
+
+### Feat
+
+- **en**: redesign site
+- **en/roasted-cauliflower**: init recipe
+
+### Fix
+
+- **en**: remove photos
+- **en**: remove nutrition labels
+- **en**: remove access date from citations
+
 ## v22.2.0 (2022-01-15)
 
 ### Feat
