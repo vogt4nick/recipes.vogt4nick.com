@@ -3,7 +3,7 @@ title: Detroit käsespätzle
 ---
 
 === "Ingredients"
-    * 220 g [Pulled Pork](../../methods/pulled-pork.md), chopped
+    * 220 g [Pulled Pork](pulled-pork.md), chopped
     * 750 g [Spätzle](../pasta/spaetzle.md)
     * Black Peppercorn, ground
     * 110 g Melty Cheese, grated
