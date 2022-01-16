@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 1000 ml [Stock](../recipes/soups/stocks/meat-stock.md)
+    * 1000 ml [Stock](stocks/meat-stock.md)
     * 150 g Dry Beans, soaked, drained
     * 150 g Onion, chopped
     * 50 g Carrot, chopped
