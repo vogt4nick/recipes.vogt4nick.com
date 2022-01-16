@@ -57,6 +57,7 @@ theme:
     - header.autohide
     - navigation.indexes
     - navigation.instant
+    - navigation.sections
     - navigation.tabs
     - toc.integrate
   icon:
