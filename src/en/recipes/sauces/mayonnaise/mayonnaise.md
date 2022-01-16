@@ -19,4 +19,4 @@
     2. **Emulsify mixture.** In 5 ml increments, add oil to mixture and whisk until sauce has thickened before adding more oil. After 100 ml oil has been incorporated, the sauce will thicken into a very heavy cream. In 20 ml increments, add oil to mixture and whisk until sauce has thickened before adding more oil. Add boiling water to prevent curdling.
     3. **Season mayonnaise** to taste.
 
-[^1]: {{ cite.child_french_cooking }} Accessed May 2020.
+[^1]: {{ cite.child_french_cooking }}

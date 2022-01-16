@@ -26,4 +26,4 @@
     ![Orange Chocolate Tart Slice](../../../assets/images/orange-chocolate-tart-slice.jpg){: loading=lazy width="800px"}
 
 [^1]:
-    Fenzl, Barbara Pool. ["Dark Chocolate and Orange Tart with Toasted Almonds."](https://www.bonappetit.com/recipe/dark-chocolate-and-orange-tart-with-toasted-almonds) *Bon Appetit.* 7 April 2008. Accessed December 2020.
+    Fenzl, Barbara Pool. ["Dark Chocolate and Orange Tart with Toasted Almonds."](https://www.bonappetit.com/recipe/dark-chocolate-and-orange-tart-with-toasted-almonds) *Bon Appetit.* 7 April 2008.

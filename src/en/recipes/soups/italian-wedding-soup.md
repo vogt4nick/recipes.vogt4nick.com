@@ -36,4 +36,4 @@ If you don’t have the cheese rind you can substitute 1/4 cup grated cheese. Lo
     4. **Garnish** with grated parmesan and serve.
 
 [^1]:
-    Ash, John. ["Recipes: My Mad Men Menu."](https://chefjohnash.com/recipes-my-mad-men-menu/) *Chef John Ash.* December 2020. Accessed January 2020.
+    Ash, John. ["Recipes: My Mad Men Menu."](https://chefjohnash.com/recipes-my-mad-men-menu/) *Chef John Ash.* December 2020.

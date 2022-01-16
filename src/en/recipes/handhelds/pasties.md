@@ -25,6 +25,6 @@
 !!! info "Yields 7 Pasties"
 
 [^1]:
-    King, Si, and Dave Myers. ["Cornish Pasty."](https://www.hairybikers.com/recipes/view/cornish-pasty) *Hairy Bikers.* December 2015. Accessed 2019.
+    King, Si, and Dave Myers. ["Cornish Pasty."](https://www.hairybikers.com/recipes/view/cornish-pasty) *Hairy Bikers.* December 2015.
 [^2]:
-    Mitzewich, John. ["The Cornish Pasty – Going to Fall Down a Mineshaft? This is the Meat Pie For You!"](https://foodwishes.blogspot.com/2014/12/the-cornish-pasty-if-youre-going-to.html) *Food Wishes.* 15 December 2015. Accessed December 2020.
+    Mitzewich, John. ["The Cornish Pasty – Going to Fall Down a Mineshaft? This is the Meat Pie For You!"](https://foodwishes.blogspot.com/2014/12/the-cornish-pasty-if-youre-going-to.html) *Food Wishes.* 15 December 2015.

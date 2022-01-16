@@ -22,4 +22,4 @@
     8. **Ice cookies.** Dip cookies in icing halfway. Allow excess icing to drip away, and transfer to parchment or wax paper to set.
 
 [^1]:
-    Hubbell, Rebecca. ["Easy Vanilla Chai Shortbread Cookies."](https://www.sugarandsoul.co/vanilla-chai-shortbread-cookies-recipe/) *Sugar & Soul.* 16 December 2015. Accessed 2019.
+    Hubbell, Rebecca. ["Easy Vanilla Chai Shortbread Cookies."](https://www.sugarandsoul.co/vanilla-chai-shortbread-cookies-recipe/) *Sugar & Soul.* 16 December 2015.

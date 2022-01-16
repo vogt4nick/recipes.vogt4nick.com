@@ -28,4 +28,4 @@
     !!! caution "Over-whisking can result in tough, rubbery pancakes."
 
 [^1]:
-    Mitzewich, John. ["Banana Bread Pancakes – Based on a True Story."](https://foodwishes.blogspot.com/2020/10/banana-bread-pancakes-based-on-true.html) *Food Wishes.* 6 October 2020. Accessed October 2020.
+    Mitzewich, John. ["Banana Bread Pancakes – Based on a True Story."](https://foodwishes.blogspot.com/2020/10/banana-bread-pancakes-based-on-true.html) *Food Wishes.* 6 October 2020.

@@ -28,8 +28,8 @@
     Raw eggs cannot be preserved and will turn after a few days even if they're refrigerated.
 
 [^1]:
-    Martin, Ali. ["Caesar Dressing."](https://www.gimmesomeoven.com/caesar-dressing-recipe/). *Gimme Some Oven.* 2 September 2020. Accessed September 2020.
+    Martin, Ali. ["Caesar Dressing."](https://www.gimmesomeoven.com/caesar-dressing-recipe/). *Gimme Some Oven.* 2 September 2020.
 [^2]:
-    Mitzewich, John. ["Caesar Salad Dressing."](https://www.thespruceeats.com/caesar-salad-dressing-recipe-101888) *The Spruce Eats.* 14 April 2020. Accessed December 2020.
+    Mitzewich, John. ["Caesar Salad Dressing."](https://www.thespruceeats.com/caesar-salad-dressing-recipe-101888) *The Spruce Eats.* 14 April 2020.
 [^3]:
-    Schecter, Anita. ["Grilled Caesar Salad."](https://www.thespruceeats.com/grilled-caesar-salad-4589073) *The Spruce Eats.* 13 September 2019. Accessed December 2020.
+    Schecter, Anita. ["Grilled Caesar Salad."](https://www.thespruceeats.com/grilled-caesar-salad-4589073) *The Spruce Eats.* 13 September 2019.

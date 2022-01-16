@@ -34,4 +34,4 @@
 
 !!! tip "Serve with fettuccine, rigatoni, conchiglie, or fusilli."
 
-[^1]: {{ cite.hazan_italian_cooking }} Accessed November 2020.
+[^1]: {{ cite.hazan_italian_cooking }}

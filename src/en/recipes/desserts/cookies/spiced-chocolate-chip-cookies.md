@@ -35,6 +35,6 @@
     ![Nutrition Label](../../../assets/nutrition-labels/spiced-chocolate-chip-cookies.png){: width=400px loading=lazy}
 
 [^1]:
-    Adarme, Adrianna. ["Chai Masala Chocolate Chip Cookies."](https://www.acozykitchen.com/chai-chocolate-chip-cookies#wprm-recipe-container-38047) *A Cozy Kitchen.* 19 October 2017. Accessed December 2020.
+    Adarme, Adrianna. ["Chai Masala Chocolate Chip Cookies."](https://www.acozykitchen.com/chai-chocolate-chip-cookies#wprm-recipe-container-38047) *A Cozy Kitchen.* 19 October 2017.
 [^2]:
-    Mostrom, Lindsay. ["The Best Soft Chocolate Chip Cookies."](https://pinchofyum.com/the-best-soft-chocolate-chip-cookies) *Pinch of Yum.* 11 May 2015. Accessed 2019.
+    Mostrom, Lindsay. ["The Best Soft Chocolate Chip Cookies."](https://pinchofyum.com/the-best-soft-chocolate-chip-cookies) *Pinch of Yum.* 11 May 2015.

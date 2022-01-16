@@ -25,4 +25,4 @@
     5. **Correct to taste** with remaining bacon and seasonings.
 
 [^1]:
-    Mitzewich, John. ["New Year’s Day Spinach Salad with Hot Bacon Dressing – Good Luck with That!"](https://foodwishes.blogspot.com/2011/12/new-years-day-spinach-salad-with-hot.html) 29 December 2011. Accessed January 2021.
+    Mitzewich, John. ["New Year’s Day Spinach Salad with Hot Bacon Dressing – Good Luck with That!"](https://foodwishes.blogspot.com/2011/12/new-years-day-spinach-salad-with-hot.html) 29 December 2011.

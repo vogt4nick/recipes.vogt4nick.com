@@ -26,4 +26,4 @@
 !!! tip "This sauce has many names; usually some variation of Chinese/Szechuan Chili Sauce/Oil."
 
 [^1]:
-    Luo, Elaine. ["Chinese Chili Oil."](https://www.chinasichuanfood.com/chinese-chili-oil/) *China Sichuan Food.* 19 April 2016. Accessed 2020.
+    Luo, Elaine. ["Chinese Chili Oil."](https://www.chinasichuanfood.com/chinese-chili-oil/) *China Sichuan Food.* 19 April 2016.

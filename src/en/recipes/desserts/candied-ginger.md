@@ -14,4 +14,4 @@
 !!! info "Store up to 2 weeks in an airtight container."
 
 [^1]:
-    Brown, Alton. ["Candied Ginger."](https://www.foodnetwork.com/recipes/alton-brown/candied-ginger-recipe-1944906) *Food Network.* May 2017. Accessed December 2020.
+    Brown, Alton. ["Candied Ginger."](https://www.foodnetwork.com/recipes/alton-brown/candied-ginger-recipe-1944906) *Food Network.* May 2017.

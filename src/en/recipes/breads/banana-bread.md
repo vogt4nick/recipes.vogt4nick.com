@@ -22,5 +22,5 @@
     6. **Cool** 20 minutes before removing from loaf pan.
 
 [^1]:
-    Mitzewich, John. ["Daylight Saving Has Me Going Bananas."](https://foodwishes.blogspot.com/2010/03/day-light-saving-has-me-going-bananas.html) *Food Wishes.* 14 March 2010. Accessed December 2020.
+    Mitzewich, John. ["Daylight Saving Has Me Going Bananas."](https://foodwishes.blogspot.com/2010/03/day-light-saving-has-me-going-bananas.html) *Food Wishes.* 14 March 2010.
 [^2]: Walter, Elise.

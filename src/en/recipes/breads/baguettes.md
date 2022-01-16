@@ -78,24 +78,24 @@
     **Dough maturation** refers (not entirely) to **fermentation time**[^3]. Consider the yeast fermenting in the starter and in the proofing steps. The starter method incorporates yeast into the bread dough in such a way that maximizes the effective **fermentation time** and flavor production.[^11] The proofing method serves two purposes. The first proof is to let the dough rest so that it's less springy and more readily divided and shaped. The second and third proofs are to continue developing a chewy gluten structure, to trap air pockets, and to draw still more complex flavor from the fermenting yeast.
 
 [^1]:
-    Alder, Darryl. ["Science of the Autolyse."](https://www.abigailsoven.com/science-of-the-autolyse/) Abigail's Oven. 26 July 2020. Accessed 27 November 2020.
+    Alder, Darryl. ["Science of the Autolyse."](https://www.abigailsoven.com/science-of-the-autolyse/) Abigail's Oven. 26 July 2020.
 [^2]:
-    Alpern, Barb. ["Kneading wet dough by hand."](https://www.kingarthurbaking.com/blog/2017/06/19/kneading-wet-dough-by-hand) *King Arthur Baking Company.* 19 June 2017. Accessed December 2020.
+    Alpern, Barb. ["Kneading wet dough by hand."](https://www.kingarthurbaking.com/blog/2017/06/19/kneading-wet-dough-by-hand) *King Arthur Baking Company.* 19 June 2017.
 [^3]:
     Calvel, Raymond, Ronald L. Wirtz, and James MacGuire. [*The Taste of Bread: A Translation of Le Goût Du Pain, Comment Le Préserver, Comment Le Retrouver.*]((https://www.amazon.com/dp/B0160F1NWW)) New York: Springer Science Business Media, LLC, 2013.
 [^4]:
-    Färbinger, Markus. ["A Masterclass: Baguettes & Ciabattas."](https://www.youtube.com/watch?v=xlN5CgQcvAg).  *Michael Chèze Productions.* 29 August 2017. Accessed 2020.
+    Färbinger, Markus. ["A Masterclass: Baguettes & Ciabattas."](https://www.youtube.com/watch?v=xlN5CgQcvAg).  *Michael Chèze Productions.* 29 August 2017.
 [^5]:
-    Ferst, Devra. ["Baguette Essentials: French Baker Eric Kayser Explains the 5 Crucial Things to Look for in the Perfect Baguette."](https://www.tastingtable.com/dine/national/perfect-baguette-bread-crust-eric-kayser-new-york-paris) Tasting Table. 26 January 2016. Accessed 27 November 2020.
+    Ferst, Devra. ["Baguette Essentials: French Baker Eric Kayser Explains the 5 Crucial Things to Look for in the Perfect Baguette."](https://www.tastingtable.com/dine/national/perfect-baguette-bread-crust-eric-kayser-new-york-paris) Tasting Table. 26 January 2016.
 [^6]:
     Gisslen, Wayne. [*Professional Baking.*](https://www.amazon.com/dp/1119148448) Hoboken, NJ: Wiley, 2017.
 [^7]:
-    Hamel, PJ. ["Classic Baguettes."](https://www.kingarthurflour.com/recipes/classic-baguettes-recipe) King Arthur Baking. 5 October 2010. Accessed 27 November 2020.
+    Hamel, PJ. ["Classic Baguettes."](https://www.kingarthurflour.com/recipes/classic-baguettes-recipe) King Arthur Baking. 5 October 2010.
 [^8]:
-    Hollywood, Paul. ["Paul Hollywood's Baguettes."](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-baguettes/) The Great British Bake Off. 19 August 2015. Accessed 28 November 2020.
+    Hollywood, Paul. ["Paul Hollywood's Baguettes."](https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-baguettes/) The Great British Bake Off. 19 August 2015.
 [^9]:
     ["King Arthur Flour's Baguette Baking Series."](https://www.youtube.com/watch?v=masipMhrV5c&list=PLE2D447C3F9AAD68F) *YouTube.* 6 February 2011.
 [^10]:
-    ["Classic French Baguette Recipe: Learn How to Make Baguettes at Home."](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home) *MasterClass.* 8 November 2020. Accessed 27 November 2020.
+    ["Classic French Baguette Recipe: Learn How to Make Baguettes at Home."](https://www.masterclass.com/articles/classic-french-baguette-recipe-learn-how-to-make-baguettes-at-home) *MasterClass.* 8 November 2020.
 [^11]:
     McGee, Harold. [*On Food and Cooking: The Science and Lore of the Kitchen.*](https://www.amazon.com/dp/0684800012) New York: Scribner, 2004.

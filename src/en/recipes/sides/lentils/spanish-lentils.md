@@ -23,4 +23,4 @@
 
 !!! info "Store in refrigerator up to 3 days."
 
-[^1]: {{ cite.bittman_how_to_cook_everything }} 431-432. Accessed February 2021.
+[^1]: {{ cite.bittman_how_to_cook_everything }} 431-432.

@@ -33,4 +33,4 @@
     3. **Combine ingredients**. Stir fried vegetables back to wok. Add rice wine. Cook 60 seconds, stirring continuously. Remove from heat. Add remaining sauces. Stir to combine.
     4. **Garnish & serve** with scallions.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }} Accessed August 2020.
+[^1]: {{ cite.bittman_how_to_cook_everything }}
