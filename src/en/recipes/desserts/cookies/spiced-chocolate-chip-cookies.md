@@ -31,8 +31,7 @@
 
     !!! tip "Chill dough 30 minutes before baking if the kitchen is hot and the dough is loose and greasy."
 
-??? info "Yields 24 cookies."
-    ![Nutrition Label](../../../assets/nutrition-labels/spiced-chocolate-chip-cookies.png){: width=400px loading=lazy}
+!!! info "Yields 24 cookies."
 
 [^1]:
     Adarme, Adrianna. ["Chai Masala Chocolate Chip Cookies."](https://www.acozykitchen.com/chai-chocolate-chip-cookies#wprm-recipe-container-38047) *A Cozy Kitchen.* 19 October 2017.

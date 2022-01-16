@@ -14,8 +14,7 @@
     * 220 g Unsalted Butter, chilled, divided into 5 g chunks
     * 120 ml Water, cold (0-5ºC)
 
-    ??? info "Yields two 9-inch single-crust pie crusts or 6 hand pie crusts."
-        ![Nutrition Label](../../../assets/nutrition-labels/pie-crust.png){: width=400px loading=lazy}
+    !!! info "Yields two 9-inch single-crust pie crusts or 6 hand pie crusts."
 
 === "Directions"
     Paraphrased from Lisa's directions in *Sister Pie*[^2]
