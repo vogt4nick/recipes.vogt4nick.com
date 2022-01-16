@@ -34,7 +34,7 @@ Served with black rice, [roasted potatoes (V/V+)](recipes/sides/potatoes/roasted
 
 #### [Chicken Schwarma](recipes/poultry/chicken-schwarma.md)
 
-Served with [roasted vegetables](methods/oven-roasted-vegetables.md), [persian rice](recipes/sides/rice/persian-rice.md), and [lebanese flatbread](recipes/breads/lebanese-flatbread.md) in one course.
+Served with [roasted vegetables](recipes/sides/oven-roasted-vegetables.md), [persian rice](recipes/sides/rice/persian-rice.md), and [lebanese flatbread](recipes/breads/lebanese-flatbread.md) in one course.
 
 #### [Enchiladas](recipes/poultry/enchiladas.md)
 
