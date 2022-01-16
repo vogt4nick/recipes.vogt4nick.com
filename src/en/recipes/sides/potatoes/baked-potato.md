@@ -24,4 +24,4 @@
     6. **Garnish and serve.**
 
 [^1]:
-    Prakash, Sheela. ["The Secret to Better Baked Potatoes? Cook Them Like the British Do."](https://www.thekitchn.com/jacket-potato-22943799) *The Kitchn.* 4 September 2020. Accessed December 2020.
+    Prakash, Sheela. ["The Secret to Better Baked Potatoes? Cook Them Like the British Do."](https://www.thekitchn.com/jacket-potato-22943799) *The Kitchn.* 4 September 2020.

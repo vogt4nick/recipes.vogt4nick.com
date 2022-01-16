@@ -40,4 +40,4 @@
 
 !!! tip "Preserve stock by reducing and freezing cubes in ice tray."
 
-[^1]: {{ cite.child_french_cooking }} Accessed April 2020.
+[^1]: {{ cite.child_french_cooking }}

@@ -19,4 +19,4 @@
     2. **Season.** Remove from heat. Stir in seasonings until evenly mixed.
 
 [^1]:
-    Arlena. ["German Sauerbraten Recipe."](http://www.bavariankitchen.com/meats/sauerbraten.aspx). *Bavarian Kitchen.* 26 December 2009. Accessed 2019.
+    Arlena. ["German Sauerbraten Recipe."](http://www.bavariankitchen.com/meats/sauerbraten.aspx). *Bavarian Kitchen.* 26 December 2009.

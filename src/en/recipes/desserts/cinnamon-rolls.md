@@ -37,4 +37,4 @@
     !!! tip "Knead in additional flour as necessary, but be mindful that a wetter dough will yield lighter, fluffier cinnamon rolls."
 
 [^1]:
-    Brown, Alton. ["Overnight Cinnamon Rolls."](https://altonbrown.com/recipes/overnight-cinnamon-rolls/) *Alton Brown* October 2020. Accessed December 2020.
+    Brown, Alton. ["Overnight Cinnamon Rolls."](https://altonbrown.com/recipes/overnight-cinnamon-rolls/) *Alton Brown* October 2020.

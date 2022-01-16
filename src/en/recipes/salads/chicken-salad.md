@@ -15,4 +15,4 @@
     2. **Chill** ingredients in refrigerator for a day. Remove from fridge 15 minutes before continuing.
     3. **Season**, mix evenly, and serve.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }} Accessed August 2020.
+[^1]: {{ cite.bittman_how_to_cook_everything }}

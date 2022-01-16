@@ -21,4 +21,4 @@
     6. **Bake** 10-20 minutes at 300ºF to desired texture.
 
 [^1]:
-    Mitzewich, John. ["Garlic Parmesan Croutons, My Beyoncé Imitation, and How Did Cesar's Salad Become Caesar Salad?"](https://foodwishes.blogspot.com/2010/01/garlic-parmesan-croutons-my-beyonce.html) *Food Wishes.* 18 January 2010. Accessed December 2020.
+    Mitzewich, John. ["Garlic Parmesan Croutons, My Beyoncé Imitation, and How Did Cesar's Salad Become Caesar Salad?"](https://foodwishes.blogspot.com/2010/01/garlic-parmesan-croutons-my-beyonce.html) *Food Wishes.* 18 January 2010.

@@ -14,4 +14,4 @@
     * 80 g Walnuts, toasted, chopped
 
 [^1]:
-    Mitzewich, John. ["A Waldorf Salad by Any Other Name"](https://foodwishes.blogspot.com/2015/10/a-waldorf-salad-by-any-other-name.html) *Food Wishes.* 29 October 2015. Accessed December 2020.
+    Mitzewich, John. ["A Waldorf Salad by Any Other Name"](https://foodwishes.blogspot.com/2015/10/a-waldorf-salad-by-any-other-name.html) *Food Wishes.* 29 October 2015.

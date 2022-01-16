@@ -20,4 +20,4 @@
     5. **Garnish** with scallion greens.
 
 [^1]:
-    Mitzewich, John. ["Side Dish Stagnation? Spicy Tomato Rice to the Rescue!"](https://foodwishes.blogspot.com/2009/02/side-dish-stagnation-spicy-tomato-rice.html) *Food Wishes.* 6 February 2009. Accessed December 2020.
+    Mitzewich, John. ["Side Dish Stagnation? Spicy Tomato Rice to the Rescue!"](https://foodwishes.blogspot.com/2009/02/side-dish-stagnation-spicy-tomato-rice.html) *Food Wishes.* 6 February 2009.

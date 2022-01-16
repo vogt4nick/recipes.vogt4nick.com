@@ -10,4 +10,4 @@
     3. **Bake** 60 minutes at 425ºF.
     4. **Season** with salt and pepper and serve with butter.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }} 358. Accessed February 2021.
+[^1]: {{ cite.bittman_how_to_cook_everything }} 358.

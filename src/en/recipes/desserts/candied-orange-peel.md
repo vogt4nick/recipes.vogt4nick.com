@@ -14,6 +14,6 @@
     !!! tip "We blanch the orange to sanitize it."
 
 [^1]:
-    Fenzl, Barbara Pool. ["Dark Chocolate and Orange Tart with Toasted Almonds."](https://www.bonappetit.com/recipe/dark-chocolate-and-orange-tart-with-toasted-almonds) *Bon Appetit.* 7 April 2008. Accessed December 2020.
+    Fenzl, Barbara Pool. ["Dark Chocolate and Orange Tart with Toasted Almonds."](https://www.bonappetit.com/recipe/dark-chocolate-and-orange-tart-with-toasted-almonds) *Bon Appetit.* 7 April 2008.
 [^2]:
-    Fowler, Damon Lee. ["Simple Candied Orange Peel."](https://www.epicurious.com/recipes/food/views/simple-candied-orange-peel-350798) *Epicurious.* December 2008. Accessed December 2020.
+    Fowler, Damon Lee. ["Simple Candied Orange Peel."](https://www.epicurious.com/recipes/food/views/simple-candied-orange-peel-350798) *Epicurious.* December 2008.

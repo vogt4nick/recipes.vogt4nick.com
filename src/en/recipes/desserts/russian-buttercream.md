@@ -12,4 +12,4 @@
 !!! info "Yields about 600 g."
 
 [^1]:
-    White, Chelsey. ["Russian Buttercream."](https://chelsweets.com/2020/01/06/russian-buttercream/) *Chelsweets.* 6 January 2020. Accessed December 2020.
+    White, Chelsey. ["Russian Buttercream."](https://chelsweets.com/2020/01/06/russian-buttercream/) *Chelsweets.* 6 January 2020.

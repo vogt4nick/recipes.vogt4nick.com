@@ -27,4 +27,4 @@
 
 [^1]: Vogt, Brenda.
 [^2]:
-    ["Creamy Chicken Enchiladas."](https://www.tasteofhome.com/recipes/creamy-chicken-enchiladas/) *Taste of Home.* 10 April 2008. Accessed 2020.
+    ["Creamy Chicken Enchiladas."](https://www.tasteofhome.com/recipes/creamy-chicken-enchiladas/) *Taste of Home.* 10 April 2008.

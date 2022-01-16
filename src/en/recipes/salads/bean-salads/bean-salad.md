@@ -18,4 +18,4 @@
     2. **Cool** to room temperature, gently stirring every 20 minutes.
     3. **Garnish & serve** with parsley.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }} Accessed June 2020.
+[^1]: {{ cite.bittman_how_to_cook_everything }}

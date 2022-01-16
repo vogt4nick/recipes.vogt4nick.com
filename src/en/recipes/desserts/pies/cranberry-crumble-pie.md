@@ -51,4 +51,4 @@
 
     !!! info "Store leftover pie up to 2 days covered at room temperature."
 
-[^1]: {{ cite.ludwinski_sister_pie }} Accessed November 2020.
+[^1]: {{ cite.ludwinski_sister_pie }}

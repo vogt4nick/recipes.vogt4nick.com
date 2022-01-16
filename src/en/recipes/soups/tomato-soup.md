@@ -15,4 +15,4 @@
     3. **Puree** with immersion blender.
     4. **Garnish & serve** with remaining spices.
 
-[^1]: {{ cite.child_french_cooking }} Accessed June 2020.
+[^1]: {{ cite.child_french_cooking }}

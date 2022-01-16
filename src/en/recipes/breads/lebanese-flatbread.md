@@ -22,4 +22,4 @@
     ![Nutrition Label](../../assets/nutrition-labels/lebanese-flatbread.png){: width=400px loading=lazy}
 
 [^1]:
-    Mitzewich, John. ["Lebanese Mountain Bread – A Peak Flatbread Experience."](https://foodwishes.blogspot.com/2017/07/lebanese-mountain-bread-peak-flatbread.html) *Food Wishes.* 11 July 2017. Accessed 2020.
+    Mitzewich, John. ["Lebanese Mountain Bread – A Peak Flatbread Experience."](https://foodwishes.blogspot.com/2017/07/lebanese-mountain-bread-peak-flatbread.html) *Food Wishes.* 11 July 2017.

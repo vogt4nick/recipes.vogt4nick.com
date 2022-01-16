@@ -15,4 +15,4 @@
     1. Add all ingredients to large stockpan. Bring to boil and reduce to simmer. Simmer, partially covered, 60-90 minutes until the beans are very tender but still keep their shape, adding water as necessary.
     2. Season to taste with salt and pepper. Puree with hand blender if desired.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }} 136. Accessed February 2021.
+[^1]: {{ cite.bittman_how_to_cook_everything }} 136.

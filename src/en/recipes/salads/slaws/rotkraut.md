@@ -18,4 +18,4 @@
     3. **Thicken slaw.** Filter flour over cabbage. Add marmelade. Mix.
 
 [^1]:
-    Arlena. ["Rotkohl, Blaukraut, Rotkraut - Red Cabbage."](http://www.bavariankitchen.com/vegetables/rotkohl.aspx). *Bavarian Kitchen.* 13 January 2010. Accessed 2019.
+    Arlena. ["Rotkohl, Blaukraut, Rotkraut - Red Cabbage."](http://www.bavariankitchen.com/vegetables/rotkohl.aspx). *Bavarian Kitchen.* 13 January 2010.

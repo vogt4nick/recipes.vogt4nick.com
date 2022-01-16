@@ -23,6 +23,6 @@
 !!! note "Our preferred commercial blend is [Rajah Garam Masala](https://www.amazon.com/dp/B00E5XM6WS)."
 
 [^1]:
-    Jain, Manjula. ["Garam Masala."](https://www.manjulaskitchen.com/garam-masala/) *Manjula's Kitchen.* 20 July 2012. Accessed December 2020.
+    Jain, Manjula. ["Garam Masala."](https://www.manjulaskitchen.com/garam-masala/) *Manjula's Kitchen.* 20 July 2012.
 [^2]:
-    *Masterclass.* ["What Is Garam Masala? Homemade Garam Masala Spice Blend Recipe and How to Cook With Garam Masala."](https://www.masterclass.com/articles/what-is-garam-masala-homemade-garam-masala-spice-blend-recipe-and-how-to-cook-with-garam-masala) 8 November 2020. Accessed December 2020.
+    *Masterclass.* ["What Is Garam Masala? Homemade Garam Masala Spice Blend Recipe and How to Cook With Garam Masala."](https://www.masterclass.com/articles/what-is-garam-masala-homemade-garam-masala-spice-blend-recipe-and-how-to-cook-with-garam-masala) 8 November 2020.

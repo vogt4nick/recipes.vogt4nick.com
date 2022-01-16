@@ -13,4 +13,4 @@ title: Crème fraîche
 !!! info "Store up to two weeks chilled."
 
 [^1]:
-    Mitzewich, John. ["Homemade Crème Fraiche – Nobody's Ever Made it Just Once."](https://foodwishes.blogspot.com/2011/03/homemade-creme-fraiche-nobodys-ever.html) *Food Wishes.* 25 March 2011. Accessed December 2020.
+    Mitzewich, John. ["Homemade Crème Fraiche – Nobody's Ever Made it Just Once."](https://foodwishes.blogspot.com/2011/03/homemade-creme-fraiche-nobodys-ever.html) *Food Wishes.* 25 March 2011.

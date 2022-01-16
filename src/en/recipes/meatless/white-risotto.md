@@ -20,4 +20,4 @@
 
 !!! tip "Plate on a platter to steam off any extra liquid before serving."
 
-[^1]: {{ cite.hazan_italian_cooking }} Accessed May 2020.
+[^1]: {{ cite.hazan_italian_cooking }}

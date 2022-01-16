@@ -29,4 +29,4 @@
     4. **Season.** Combining all seasonings by hand.
 
 [^1]:
-    Mitzewich, John. ["Chicken Noodle Salad – Making Friends with Cold Spaghetti."](https://foodwishes.blogspot.com/2019/06/chicken-noodle-salad-making-friends.html) *Food Wishes.* 18 June 2019. Accessed December 2020.
+    Mitzewich, John. ["Chicken Noodle Salad – Making Friends with Cold Spaghetti."](https://foodwishes.blogspot.com/2019/06/chicken-noodle-salad-making-friends.html) *Food Wishes.* 18 June 2019.

@@ -34,4 +34,4 @@
     * Toasted Pita
 
 [^1]:
-    Perelman, Deb. ["Carrot Soup with Tahini and Crisped Chickpeas."](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/) *Smitten Kitchen.* 3 January 2013. Accessed 2020.
+    Perelman, Deb. ["Carrot Soup with Tahini and Crisped Chickpeas."](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/) *Smitten Kitchen.* 3 January 2013.

@@ -45,6 +45,6 @@
         The secret of braising is having little of the meat exposed and 90% of it submerged... They're like little crocodile heads popping up out of the water... Leave the lid [uncovered]... If we had to cover it completely, steam hits the top of the lid and all the water comes running back [on top of the exposed meat].
 
 [^1]:
-    Arlena. ["German Sauerbraten Recipe."](http://www.bavariankitchen.com/meats/sauerbraten.aspx) *Bavarian Kitchen.* 26 December 2009. Accessed 2019.
+    Arlena. ["German Sauerbraten Recipe."](http://www.bavariankitchen.com/meats/sauerbraten.aspx) *Bavarian Kitchen.* 26 December 2009.
 [^2]:
-    Ramsay, Gordon. ["Winter Beef Recipes To Keep You Warm."](https://www.youtube.com/watch?v=eTqGvxI-QFY) 19 November 2020. Accessed November 2020.
+    Ramsay, Gordon. ["Winter Beef Recipes To Keep You Warm."](https://www.youtube.com/watch?v=eTqGvxI-QFY) 19 November 2020.
