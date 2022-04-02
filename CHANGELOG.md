@@ -1,3 +1,9 @@
+## v22.4.0 (2022-04-02)
+
+### Feat
+
+- **en/basmati-rice**: init recipe
+
 ## v22.3.0 (2022-01-16)
 
 ### Feat
