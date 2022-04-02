@@ -1,3 +1,10 @@
+## v22.5.0 (2022-04-02)
+
+### Feat
+
+- **en/red-lentils-and-greens**: init recipe
+- **en/jasmine-rice**: init recipe
+
 ## v22.4.0 (2022-04-02)
 
 ### Feat
