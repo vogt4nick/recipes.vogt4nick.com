@@ -32,12 +32,5 @@ title: Red lentils & greens
     4. **Combine** cooked greens and lentils. Simmer 10 minutes. Taste for salt.
     5. **Serve** lentils over rice. Garnish with
 
-Put it together
-
-    Fill a small coffee cup or bowl with some of the rice and invert onto a plate.
-
-    Spoon the lentils and greens onto the plate besides the rice and garnish with a squeeze of lemon, green onions, and/or cilantro.
-
-
 
 [^1]: ["Spiced Red Lentils and Greens with Basmati Rice."](https://www.ymca.org/what-we-do/youth-development/food-programs/recipes/spiced-red-lentils-and-greens-basmati-rice) *YMCA.* 4 Dec 2021.
