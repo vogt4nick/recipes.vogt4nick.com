@@ -1,3 +1,9 @@
+## v22.5.2 (2022-04-04)
+
+### Fix
+
+- **en/red-lentils-and-greens**: tune recipe
+
 ## v22.5.1 (2022-04-02)
 
 ### Fix
