@@ -1,3 +1,4 @@
+INHERIT: ../base.yml
 docs_dir: ../../src/at
 extra:
   alternate:
@@ -18,48 +19,10 @@ extra:
       Müller, Anna, and Olga Walser.
       [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
       Verlag E. DORNER Gmbh, 2017.
-extra_css:
-  - assets/stylesheets/extra.css
-markdown_extensions:
-  - admonition
-  - attr_list
-  - footnotes
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-plugins:
-  - awesome-pages:
-      collapse_single_pages: false
-      filename: pages.yml
-      strict: true
-  - macros
-  - minify:
-      minify_html: true
-      minify_css: true
-      css_files:
-        - assets/stylesheets/extra.css
-  - search:
-      lang:
-        - de
-  - tags:
-      tags_file: tags.md
 site_dir: ../../site/at
 site_name: dem Nick seine Rezepte
 site_url: http://rezepte.vogt4nick.com/
 theme:
-  name: material
-  custom_dir: ../../overrides/
-  favicon: assets/images/shallow-pan-of-food-32x32.png
-  features:
-    - header.autohide
-    - navigation.indexes
-    - navigation.instant
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-  icon:
-    logo: material/silverware
   language: de
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -72,6 +35,3 @@ theme:
       toggle:
         icon: material/weather-night
         name: In den Lichtmodus wechseln
-  # Necessary for search to work properly
-  include_search_page: false
-  search_index_only: true

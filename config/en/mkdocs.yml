@@ -1,3 +1,4 @@
+INHERIT: ../base.yml
 docs_dir: ../../src/en
 extra:
   alternate:
@@ -20,48 +21,10 @@ extra:
       Ludwinski, Lisa, and E. E. Berger. [*Sister Pie: The Recipes & Stories of a Big-hearted Bakery in Detroit*](https://www.amazon.com/dp/0399579761). California: Lorena Jones Books, an Imprint of Crown Publishing Group, 2018.
     perelman_the_smitten_kitchen_cookbook: >-
       Perelman, Deb. [*The Smitten Kitchen Cookbook*](https://www.amazon.com/dp/030759565X/). New York, NY: Alfred A. Knopf, 2017.
-extra_css:
-  - assets/stylesheets/extra.css
-markdown_extensions:
-  - abbr # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
-  - admonition
-  - attr_list
-  - footnotes
-  - pymdownx.details
-  - pymdownx.snippets # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-plugins:
-  - awesome-pages:
-      collapse_single_pages: false
-      filename: pages.yml
-      strict: true
-  - macros
-  - minify:
-      minify_html: true
-      minify_css: true
-      css_files:
-        - assets/stylesheets/extra.css
-  - search:
-      lang:
-        - en
 site_dir: ../../site/en
 site_name: Nick's Recipes
 site_url: http://recipes.vogt4nick.com/
 theme:
-  name: material
-  custom_dir: ../../overrides/
-  favicon: assets/images/shallow-pan-of-food-32x32.png
-  features:
-    - header.autohide
-    - navigation.indexes
-    - navigation.instant
-    - navigation.sections
-    - navigation.tabs
-    - toc.integrate
-  icon:
-    logo: material/silverware
   language: en
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -74,6 +37,3 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to Light Mode
-  # Necessary for search to work properly
-  include_search_page: false
-  search_index_only: true

@@ -1,0 +1,43 @@
+extra_css:
+  - assets/stylesheets/extra.css
+markdown_extensions:
+  - abbr # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
+  - admonition
+  - attr_list
+  - footnotes
+  - pymdownx.details
+  - pymdownx.snippets # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+plugins:
+  - awesome-pages:
+      collapse_single_pages: false
+      filename: pages.yml
+      strict: true
+  - macros
+  - minify:
+      minify_html: true
+      minify_css: true
+      css_files:
+        - assets/stylesheets/extra.css
+  - search:
+      lang:
+        - de
+        - en
+theme:
+  name: material
+  custom_dir: ../../overrides/
+  favicon: assets/images/shallow-pan-of-food-32x32.png
+  features:
+    - header.autohide
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - toc.integrate
+  icon:
+    logo: material/silverware
+  # Necessary for search to work properly
+  include_search_page: false
+  search_index_only: true

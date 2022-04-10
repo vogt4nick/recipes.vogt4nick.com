@@ -1,6 +1,5 @@
+INHERIT: ../base.yml
 docs_dir: ../../src/root
 site_dir: ../../site
 site_name: Redirect
 site_url: http://recipes.vogt4nick.com/
-theme:
-  name: material
