@@ -1,3 +1,7 @@
+---
+tags:
+    - vegatarisch
+---
 === "Zutaten"
     * 150 g glattes Weizenmehl
     * 125 g Butter, kühl und in Stücke geschnittene

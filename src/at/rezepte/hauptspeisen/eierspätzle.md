@@ -1,5 +1,7 @@
 ---
 title: Eierspätzle
+tags:
+    - vegatarisch
 ---
 === "Zutaten"
     * 2 Portionen [Spätzle](../grundrezepte/teig/nockerlteig/spätzle.md)

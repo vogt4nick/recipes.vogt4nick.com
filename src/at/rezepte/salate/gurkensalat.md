@@ -1,3 +1,7 @@
+---
+tags:
+    - vegatarisch
+---
 === "Zutaten"
     * 400 g Gurken, dünne geschnitten
     * 60 g Zwiebel, dünne Ringe geschnitten

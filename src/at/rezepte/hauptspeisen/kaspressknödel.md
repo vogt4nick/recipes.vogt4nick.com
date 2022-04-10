@@ -1,3 +1,7 @@
+---
+tags:
+    - vegatarisch
+---
 === "Zutaten"
     * 100 g Semmelwürfel
     * 100 ml Milch, heiß

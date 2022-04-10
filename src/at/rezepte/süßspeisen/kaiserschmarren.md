@@ -1,3 +1,7 @@
+---
+tags:
+    - vegatarisch
+---
 === "Zutaten"
     * 20 g Rosinen
     * 30 ml Schuss Rum

@@ -1,5 +1,7 @@
 ---
 title: Semmelknödel
+tags:
+    - vegatarisch
 ---
 === "Zutaten"
     * Zum Andünsten

@@ -1,3 +1,7 @@
+---
+tags:
+    - vegatarisch
+---
 === "Zutaten"
     * 1 Stk Hokkaidokürbis, in 2-3 cm Würfel geschnitten
     * 1 Stk Zwiebel, fein gewürfelt

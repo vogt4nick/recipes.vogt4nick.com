@@ -1,5 +1,7 @@
 ---
 title: Gemischter Salat
+tags:
+    - vegatarisch
 ---
 === "Zutaten"
     * 400 g grüner Salat, gehackt

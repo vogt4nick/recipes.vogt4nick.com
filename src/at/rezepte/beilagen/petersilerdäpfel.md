@@ -1,3 +1,7 @@
+---
+tags:
+    - vegatarisch
+---
 === "Zutaten"
     * Wasser
     * 400 g festkochende Erdäpfel

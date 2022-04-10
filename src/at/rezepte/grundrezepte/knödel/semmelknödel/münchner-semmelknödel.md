@@ -1,5 +1,7 @@
 ---
 title: Münchener Semmelknödel
+tags:
+    - vegatarisch
 ---
 === "Zutaten"
     * Zum Rösten

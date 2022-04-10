@@ -42,6 +42,8 @@ plugins:
   - search:
       lang:
         - de
+  - tags:
+      tags_file: tags.md
 site_dir: ../../site/at
 site_name: dem Nick seine Rezepte
 site_url: http://rezepte.vogt4nick.com/

@@ -1,5 +1,7 @@
 ---
 title: Linzer Torte
+tags:
+    - vegatarisch
 ---
 === "Zutaten"
     * 200 g Butter, zimmerwarm
