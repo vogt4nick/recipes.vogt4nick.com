@@ -1,3 +1,9 @@
+## v22.6.1 (2022-04-10)
+
+### Fix
+
+- **at**: change directory structure
+
 ## v22.6.0 (2022-04-10)
 
 ### Feat
