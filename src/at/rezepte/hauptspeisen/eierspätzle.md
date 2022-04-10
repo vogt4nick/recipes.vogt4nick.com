@@ -4,7 +4,7 @@ tags:
     - vegatarisch
 ---
 === "Zutaten"
-    * 2 Portionen [Spätzle](../grundrezepte/teig/nockerlteig/spätzle.md)
+    * 2 Portionen [Spätzle](../teig/grundrezepte/nockerlteig/spätzle.md)
     * Butter
     * 1 Ei, verquirlt
     * 30 g Sauerrahm
