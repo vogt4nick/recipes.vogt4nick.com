@@ -1,3 +1,9 @@
+## v22.7.0 (2022-04-10)
+
+### Feat
+
+- **at/basilikumknödel**: init recipe
+
 ## v22.6.1 (2022-04-10)
 
 ### Fix
