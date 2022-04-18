@@ -1,9 +1,9 @@
 === "Ingredients"
     * 500 g Cauliflower, cut into florets and the stem cut into small pieces
-    * 30 ml Neutral Oil
-    * 2 ml Kosher Salt
-    * 2 ml Turmeric, ground
-    * 15 ml Harissa or [Garam Masala](../../sauces-seasonings/seasonings/garam-masala.md)
+    * 25 g Neutral Oil
+    * 1/2 t Kosher Salt
+    * 1/2 t Turmeric, ground
+    * 1 T Harissa or [Garam Masala](../../sauces-seasonings/seasonings/garam-masala.md)
 
 === "Directions"
     1. **Combine ingredients** and coat cauliflower uniformly.

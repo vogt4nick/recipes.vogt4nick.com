@@ -3,15 +3,15 @@
         * 60 g Cabbage, sliced thin
         * 30 g Carrot, julienned
         * 15 g Scallions, sliced thin
-        * 2 ml Kosher Salt
-        * 1 ml Black Peppercorn, ground
-        * 1 ml Cayenne Pepper, ground
+        * 1/2 t Kosher Salt
+        * 1/4 t Black Peppercorn, ground
+        * 1/4 t Cayenne Pepper, ground
     * 2 Eggs, beaten
     * Toast
         * 2 slices White Bread
-        * 30 ml Butter
-    * 15 ml Butter
-    * 2 ml White Sugar
+        * 30 g Butter
+    * 1 T Butter
+    * 1/2 t White Sugar
     * Smoked Ham, sliced
     * Cheddar Cheese
     * Ketchup

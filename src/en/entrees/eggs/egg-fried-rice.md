@@ -1,23 +1,23 @@
 === "Ingredients"
-    * 30 ml Peanut Oil
+    * 25 g Peanut Oil
     * 50 g Carrots, chopped
     * 50 g Red Bell Pepper, cored, seeded, chopped
     * 100 g Peas, frozen, thawed
     * 360 g White Rice, cooked, cold
     * 1 Egg, beaten
     * Seasonings for Egg & Vegetables
-        * 2 ml Kosher Salt
-        * 2 ml Black Peppercorn, ground
+        * 1/2 t Kosher Salt
+        * 1/2 t Black Peppercorn, ground
     * Seasonings for Rice
         * 1 Garlic Clove, chopped
-        * 2 ml Ginger, chopped
-        * 5 ml Unsalted Butter
-        * 2 ml Kosher Salt
+        * 1/2 t Ginger, chopped
+        * 1 t Unsalted Butter
+        * 1/2 t Kosher Salt
     * Sauces
-        * 30 ml Rice Wine
-        * 15 ml Soy Sauce
-        * 5 ml Sesame Oil
-        * 5 ml Fish Sauce
+        * 2 T Rice Wine
+        * 1 T Soy Sauce
+        * 1 t Sesame Oil
+        * 1 t Fish Sauce
     * Garnish
         * Scallions, chopped
         * Coriander Leaves, chopped

@@ -2,8 +2,8 @@
     * 1 Orange
     * Water, boiling
     * Simple Syrup
-        * 60 ml White Sugar
-        * 30 ml Water
+        * 50 g White Sugar
+        * 30 g Water
 
 === "Directions"
     1. **Peel orange** in strips, avoiding as much of the pith as possible. Cut peel into matchstick-sized pieces.

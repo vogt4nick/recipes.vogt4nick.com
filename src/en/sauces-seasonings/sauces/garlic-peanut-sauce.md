@@ -1,18 +1,18 @@
 === "Ingredients"
-    * 15 ml Vegetable Oil
+    * 15 g Vegetable Oil
     * 100 g Onion, minced
     * 2 Garlic Cloves, minced
-    * 15 ml Lemon Zest
-    * 15 ml Coriander Seed, ground
-    * 30 ml Sambal Oelek or [Szechuan Sauce](szechuan-sauce.md)
-    * 120 ml Coconut Milk, unsweetened
-    * 15 ml Tamarind Paste
-    * 15 ml White Sugar
-    * 35 ml Peanut Butter
+    * 15 g Lemon Zest
+    * 1 T Coriander Seed, ground
+    * 30 g Sambal Oelek or [Szechuan Sauce](szechuan-sauce.md)
+    * 120 g Coconut Milk, unsweetened
+    * 15 g Tamarind Paste
+    * 15 g White Sugar
+    * 35 g Peanut Butter
     * Kosher Salt
 
     ??? question "Substitutions"
-        Substitute 10 ml balsamic or red wine vinegar for 15 ml Zhenjiang vinegar
+        Substitute 2 teaspoons balsamic or red wine vinegar for 1 tablespoon Zhenjiang vinegar
 
 === "Directions"
     1. **Sweat onions.** Heat vegetable oil in a wok over medium-low heat. Add onion, garlic. Sweat 8 minutes until it starts to brown.

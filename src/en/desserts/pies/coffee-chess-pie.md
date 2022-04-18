@@ -2,20 +2,20 @@
     * Filling
         * Coffee Syrup
             * 200 g Light Brown Sugar
-            * 240 ml [Cold Brew Coffee](../../beverages/cold-brew-coffee.md)
+            * 240 g [Cold Brew Coffee](../../beverages/cold-brew-coffee.md)
         * Egg Mixture
             * 3 Eggs, room temperature
-            * 240 ml Heavy Cream, room temperature
-            * 15 ml Vanilla Extract
+            * 240 g Heavy Cream, room temperature
+            * 15 g Vanilla Extract
         * 110 g Unsalted Butter, melted, and cooled to room temperature
-        * 30 ml White Sugar
-        * 60 ml Espresso Powder
-        * 60 ml Yellow Cornmeal, finely ground
-        * 1 ml Kosher Salt
+        * 35 g White Sugar
+        * 30 g Espresso Powder
+        * 30 g Yellow Cornmeal, finely ground
+        * 1/4 t Kosher Salt
     * 1 [Pie crust, blind baked](../../dough/crusts/pie-crust.md)
     * Egg Wash
         * 1 Egg, beaten
-        * 5 ml Water
+        * 1 t Water
 
 === "Directions"
     1. **Preheat oven** to 325ºF (163ºC).

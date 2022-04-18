@@ -6,16 +6,16 @@ title: Robert Redford cookies
         * 160 g All-Purpose Flour
         * 60 g Whole Wheat Flour
         * 180 g Rolled Oats
-        * 8 ml Baking Powder
-        * 4 ml Baking Soda
-        * 8 ml Kosher Salt
-        * 1 ml Cinnamon, ground
-        * 1 ml Nutmeg, ground
+        * 1/2 T Baking Powder
+        * 1/2 T Kosher Salt
+        * 1 t Baking Soda
+        * 1/4 t Cinnamon, ground
+        * 1/4 t Nutmeg, ground
     * 220 g Unsalted Butter, room temperature
     * 150 g Light Brown Sugar
     * 150 g White Sugar
     * 2 Eggs, room temperature
-    * 10 ml Vanilla Extract
+    * 2 t Vanilla Extract
     * 100 g Pretzel Rods, broken
     * 120 g Milk Chocolate, chopped
     * 55 g Walnuts, toasted, roughly chopped

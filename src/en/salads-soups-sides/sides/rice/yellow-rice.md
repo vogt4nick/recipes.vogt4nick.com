@@ -1,12 +1,12 @@
 === "Ingredients"
     * Spices
-        * 8 ml Turmeric
-        * 4 ml Cumin Seed, ground
-        * 1 ml Cinnamon (optional)
-    * 30 ml Unsalted Butter
+        * 1/2 T Turmeric
+        * 1 t Cumin Seed, ground
+        * 1/4 t Cinnamon (optional)
+    * 25 g Unsalted Butter
     * 4 Garlic Cloves, minced
     * 180 g Jasmine Rice, rinsed
-    * 360 ml [Chicken Stock](../../soups/stocks/meat-stock.md)
+    * 360 g [Chicken Stock](../../soups/stocks/meat-stock.md)
     * 1 Bay Leaf
 
 === "Directions"

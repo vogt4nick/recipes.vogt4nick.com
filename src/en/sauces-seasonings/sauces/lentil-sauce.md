@@ -1,14 +1,14 @@
 === "Ingredients"
-    * 30 mL Extra Virgin Olive Oil
+    * 25 g Extra Virgin Olive Oil
     * 200 g Onion, minced
     * 2 Garlic Cloves, minced
     * 400 g Tomatoes, peeled, seeded, chopped
     * Spices
-        * 60 mL Fresh Parsley Leaves, chopped
-        * 5 mL Sage Leaves, chopped
+        * 30 g Fresh Parsley Leaves, chopped
+        * 1 sprig Sage Leaves, chopped
         * 2 Cloves
     * 150 g Dry Lentils du Puy
-    * 300 mL [Vegetable Stock](../../salads-soups-sides/soups/stocks/vegetable-stock.md)
+    * 300 g [Vegetable Stock](../../salads-soups-sides/soups/stocks/vegetable-stock.md)
 
     ??? question "Substitutions"
         Substitute water for stock if necessary.

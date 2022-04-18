@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 1000 ml [Chicken Stock](stocks/meat-stock.md)
+    * 1000 g [Chicken Stock](stocks/meat-stock.md)
     * Spices
         * 5 g Ginger, peeled, chopped
         * 10 Szechuan or Black Peppercorns
@@ -7,11 +7,11 @@
         * 2 Star Anise
         * 1 Cinnamon Stick
     * Slurry
-        * 15 ml Cornstarch
-        * 30 ml Water, warm
+        * 1 T Cornstarch
+        * 2 T Water, warm
     * Egg Mixture
         * 4 Eggs, beaten
-        * 5 ml Cornstarch
+        * 1 t Cornstarch
     * Garnish
         * Scallions, sliced
 

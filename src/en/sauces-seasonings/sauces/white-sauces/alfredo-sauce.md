@@ -1,5 +1,5 @@
-!!! info "Yields about 500 ml."
+!!! info "Yields about 500 g."
 
 === "Ingredients"
-    * 480 ml [Bechamel Sauce](./bechamel-sauce.md)
-    * 60 ml Parmesan Cheese, grated
+    * 480 g [Bechamel Sauce](./bechamel-sauce.md)
+    * 60 g Parmesan Cheese, grated

@@ -1,15 +1,15 @@
 === "Ingredients"
-    * 30 ml Olive Oil
+    * 25 g Olive Oil
     * 120 g Onion, minced
     * 90 g Celery, minced
     * 60 g Carrot, minced
     * Aromatics
         * 1 Bay Leaf
         * 10 g Garlic, minced
-        * 15 ml Paprika
-        * 2 ml Saffron
-    * 120 ml Red Wine or Sherry
-    * 480 ml [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
+        * 1 T Paprika
+        * 1/2 t Saffron
+    * 120 g Red Wine or Sherry
+    * 500 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
     * 200 g Dry Brown Lentils, soaked, drained
     * Kosher Salt
     * Black Peppercorn, ground

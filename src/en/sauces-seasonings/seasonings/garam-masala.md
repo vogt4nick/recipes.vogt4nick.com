@@ -8,7 +8,7 @@
     * 8 g Mace or Nutmeg, grated
     * 8 g Nutmeg, grated
 
-    !!! info "Yields about 240 ml"
+    !!! info "Yields about 240 g"
 
 === "Directions"
     1. **Blend once.** Add bay leaves, cumin, and cardamom to blender. Blend 60 seconds until ingredients are ground and uniform.
@@ -18,7 +18,7 @@
     * 40 g Cumin Seed, ground
     * 10 g Allspice Peppercorns, ground
 
-    !!! info "Yields about 100 ml"
+    !!! info "Yields about 100 g"
 
 !!! note "Our preferred commercial blend is [Rajah Garam Masala](https://www.amazon.com/dp/B00E5XM6WS)."
 

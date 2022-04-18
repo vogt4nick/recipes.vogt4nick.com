@@ -2,15 +2,15 @@
 title: BBRRR chicken
 ---
 === "Ingredients"
-    * 1000 ml Salt Water, warm
+    * 1000 g Salt Water, warm
     * Chicken Breasts
     * Garlic Butter
-        * 30 ml Unsalted Butter, melted
+        * 25 g Unsalted Butter, melted
         * 4 Garlic Cloves, minced
     * Seasoning
-        * 2 ml Paprika
-        * 2 ml Kosher Salt
-        * 2 ml Black Peppercorn, ground
+        * 1/2 t Paprika
+        * 1/2 t Kosher Salt
+        * 1/2 t Black Peppercorn, ground
 
 === "Directions"
     1. **Preheat oven** to 450ºF (232ºC).

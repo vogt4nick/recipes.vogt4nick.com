@@ -1,7 +1,7 @@
 === "Ingredients"
-    * 45 ml Tequila
-    * 45 ml Grenadine Syrup
-    * 180 ml Orange Juice
+    * 45 g Tequila
+    * 45 g Grenadine Syrup
+    * 180 g Orange Juice
     * For Garnish
         * Orange Slice
         * Maraschino Cherry

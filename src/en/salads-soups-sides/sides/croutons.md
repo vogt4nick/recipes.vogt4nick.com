@@ -5,11 +5,11 @@
     * 200 g Stale [Baguette](../../dough/baguettes.md), cut into pieces
     * Seasonings
         * 50 g Parmigiano-Reggiano, grated
-        * 2 ml [Italian Herbs](../../sauces-seasonings/seasonings/italian-herbs.md)
-        * 2 ml Paprika
-        * 2 ml Kosher Salt
-        * 2 ml Black Peppercorns, ground
-        * 1 ml Cayenne Pepper, ground
+        * 1/2 t [Italian Herbs](../../sauces-seasonings/seasonings/italian-herbs.md)
+        * 1/2 t Paprika
+        * 1/2 t Kosher Salt
+        * 1/2 t Black Peppercorns, ground
+        * 1/4 t Cayenne Pepper, ground
     * 25 g Parmigiano-Reggiano, grated (optional)
 
 === "Directions"

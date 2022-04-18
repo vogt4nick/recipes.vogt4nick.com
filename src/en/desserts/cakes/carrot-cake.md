@@ -3,9 +3,9 @@
     * 400 g White Sugar
     * 220 g Vegetable Oil
     * Dry Mix
-        * 5 ml Kosher Salt
-        * 5 ml Baking Soda
-        * 5 ml Cinnamon, ground
+        * 1 t Kosher Salt
+        * 1 t Baking Soda
+        * 1 t Cinnamon, ground
         * 250 g All-Purpose Flour
     * 220 g Carrots, grated
     * 110 g Walnuts, chopped

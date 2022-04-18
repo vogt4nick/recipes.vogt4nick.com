@@ -1,9 +1,9 @@
 === "Ingredients"
-    * 10 ml Active Dry Yeast
-    * 240 ml Water, warm (30ºC)
-    * 4 ml White Sugar
-    * 6 ml Kosher Salt
-    * 30 ml Vegetable Oil
+    * 2 t Active Dry Yeast
+    * 240 g Water, warm (30ºC)
+    * 3/4 t White Sugar
+    * 1 1/4 t Kosher Salt
+    * 25 g Vegetable Oil
     * 315 g All-Purpose Flour
 
 === "Directions"

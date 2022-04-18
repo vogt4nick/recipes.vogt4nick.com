@@ -1,6 +1,6 @@
 === "Ingredients"
     * Sautéed Veggies
-        * 15 ml Extra Virgin Olive Oil
+        * 15 g Extra Virgin Olive Oil
         * 100 g Mushrooms, sliced
         * 2 Garlic Cloves, chopped
         * Sea Salt

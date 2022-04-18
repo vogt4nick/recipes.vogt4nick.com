@@ -1,10 +1,10 @@
 === "Ingredients"
     * Marinated Chicken
         * 200 g Chicken Breast, chopped
-        * 50 ml Soy Sauce
+        * 50 g Soy Sauce
         * 10 g Brown Sugar
-        * 5 ml Red Pepper Flakes
-    * 10 ml Vegetable Oil
+        * 1 t Red Pepper Flakes
+    * 10 g Vegetable Oil
     * 50 g Cashews, whole
     * Garnish
         * Coriander Leaves, chopped

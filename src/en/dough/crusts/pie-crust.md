@@ -1,18 +1,18 @@
 === "Julia's Ingredients"
     * 200 g All-Purpose Flour
-    * 2 ml Kosher Salt
-    * 2 ml White Sugar
+    * 1/2 t Kosher Salt
+    * 1/2 t White Sugar
     * 110 g Unsalted Butter, chilled, chopped
-    * 90 ml Water, cold (0-5ºC)
+    * 90 g Water, cold (0-5ºC)
 
     !!! info "Yields two 9-inch single-crust pie crusts or 6 hand pie crusts."
 
 === "Lisa's Ingredients"
     * 320 g All-Purpose Flour
-    * 5 ml White Sugar
-    * 5 ml Kosher Salt
+    * 1 t White Sugar
+    * 1 t Kosher Salt
     * 220 g Unsalted Butter, chilled, divided into 5 g chunks
-    * 120 ml Water, cold (0-5ºC)
+    * 120 g Water, cold (0-5ºC)
 
     !!! info "Yields two 9-inch single-crust pie crusts or 6 hand pie crusts."
 

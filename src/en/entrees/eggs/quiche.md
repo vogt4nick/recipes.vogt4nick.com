@@ -4,12 +4,12 @@
     * Sautéed Vegetables (optional)
     * Egg Filling
         * 6 Eggs, room temperature
-        * 120 ml Whole Milk
-        * 120 ml Heavy Cream
+        * 120 g Whole Milk
+        * 120 g Heavy Cream
     * Seasonings
-        * 2 ml Kosher Salt
-        * 2 ml Black Peppercorn, ground
-        * 1 ml Cayenne Pepper, ground
+        * 1/2 t Kosher Salt
+        * 1/2 t Black Peppercorn, ground
+        * 1/4 t Cayenne Pepper, ground
     * 110 g Cheddar Cheese, grated
 
 === "Directions"

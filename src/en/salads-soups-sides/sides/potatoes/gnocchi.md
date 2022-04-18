@@ -3,15 +3,15 @@
     * 30 g Ricotta (optional)
     * 1 Egg, beaten
     * 80 g All-Purpose Flour
-    * 2 ml Salt
-    * 2 ml Thyme, dried
+    * 1/2 t Salt
+    * 1/2 t Thyme, dried
     * For Boiling Gnocchi
-        * 1000 ml Water
-        * 15 ml Olive Oil
+        * 1000 g Water
+        * 15 g Olive Oil
     * For Garnish
-        * 15 ml Olive Oil
-        * 5 ml Black Peppercorn, ground
-        * 5 ml Parsley Leaves, minced
+        * 15 g Olive Oil
+        * 1 t Black Peppercorn, ground
+        * 1 Sprig Parsley Leaves, minced
 
 === "Directions"
     1. **Prepare pota-dough.** Mash potatoes into large bowl. Add ricotta, egg, flour, salt, thyme. Mix. Transfer dough to well-floured surface. Knead gently.

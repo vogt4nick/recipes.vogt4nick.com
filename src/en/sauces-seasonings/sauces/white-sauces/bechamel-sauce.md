@@ -1,8 +1,8 @@
 === "Ingredients"
-    * 480 ml Milk
-    * 1 ml Kosher Salt
-    * 30 ml Unsalted Butter
-    * 45 ml All-Purpose Flour
+    * 480 g Milk
+    * 1/4 t Kosher Salt
+    * 25 g Unsalted Butter
+    * 25 g All-Purpose Flour
 
 === "Directions"
     1. **Simmer milk.** Combine milk, salt in a saucepan. Bring to simmer.
@@ -10,6 +10,6 @@
     3. **Boil to thicken.** Add simmering milk to roux. Bring to boil over medium-high heat. Quickly whisk 60 seconds. Immediately remove from heat. Gently whisk 15 seconds. Season with salt & pepper to taste.
 
 
-!!! info "Yields about 500 ml."
+!!! info "Yields about 500 g."
 
 [^1]: {{ cite.child_french_cooking }}

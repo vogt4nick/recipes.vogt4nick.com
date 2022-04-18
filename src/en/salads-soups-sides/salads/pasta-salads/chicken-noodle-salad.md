@@ -1,24 +1,24 @@
 === "Ingredients"
     * Dressing
-        * 120 ml Rice Vinegar
-        * 15 ml Brown Sugar
-        * 15 ml Soy Sauce
-        * 15 ml Fish Sauce
-        * 15 ml Sriracha
-        * 15 ml Hoisin
+        * 120 g Rice Vinegar
+        * 10 g Brown Sugar
+        * 15 g Soy Sauce
+        * 15 g Fish Sauce
+        * 15 g Sriracha
+        * 15 g Hoisin
         * 3 Garlic Cloves, minced
-        * 5 ml Sesame Oil
+        * 5 g Sesame Oil
     * 220 g Dry Spaghetti, cooked, rinsed, drained
     * 220 g [BBRRR Chicken](../../../entrees/poultry/bbrrr-chicken.md), shredded
     * 120 g Carrots, grated
     * 1 Red Bell Pepper, thinly sliced
     * 4 Green Onions, thinly sliced
-    * 2 ml Kosher Salt
+    * 1/2 t Kosher Salt
     * For Seasoning
         * 80 g Peanuts, roasted, chopped
-        * 80 ml Basil Leaves, chopped
-        * 80 ml Coriander Leaves, chopped
-        * 80 ml Mint Leaves, chopped
+        * 50 g Basil Leaves, chopped
+        * 50 g Coriander Leaves, chopped
+        * 50 g Mint Leaves, chopped
 
     !!! tip "One of the secrets of a great noodle salad, is your other ingredients having a similar width to your noodles.[^1]"
 

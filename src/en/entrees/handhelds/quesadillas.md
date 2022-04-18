@@ -1,17 +1,17 @@
 === "Ingredients"
     * 400 g Beef Shin, diced
     * 150 g Onion, roughly chopped
-    * 500 ml [Beef Stock](../../salads-soups-sides/soups/stocks/meat-stock.md)
-    * 5 ml Kosher Salt
-    * 15 ml Tomato Paste
-    * 5 ml Parsley Leaves, chopped
+    * 500 g [Beef Stock](../../salads-soups-sides/soups/stocks/meat-stock.md)
+    * 1 t Kosher Salt
+    * 1 T Tomato Paste
+    * 1 Sprig Parsley Leaves, chopped
     * Marinade
-        * 10 ml Neutral Oil
-        * 10 ml Paprika
+        * 10 g Neutral Oil
+        * 2 t Paprika
         * 2 Garlic Cloves, minced
-        * 5 ml Cumin Seed, ground
-        * 5 ml Chili Powder
-        * 5 ml Marjoram, dried
+        * 1 t Cumin Seed, ground
+        * 1 t Chili Powder
+        * 1 t Marjoram, dried
     * Sautéed Peppers
         * 100 g Orange Bell Pepper, sliced
         * 100 g Yellow Bell Pepper, sliced

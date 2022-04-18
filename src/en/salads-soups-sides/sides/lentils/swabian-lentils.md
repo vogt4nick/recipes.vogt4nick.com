@@ -1,18 +1,18 @@
 === "Ingredients"
     * Lentils, soaked, drained
-        * 400 ml Water, hot
+        * 400 g Water, hot
         * 200 g Dry Brown Lentils, soaked, drained
         * 2 g Baking Soda
-        * 5 ml Kosher Salt
+        * 1 t Kosher Salt
         * 2 Bay Leaf
-        * 5 Juniper Berries or 5 ml Dry Rosemary Leaves
-    * 30 ml Unsalted Butter
+        * 5 Juniper Berries or 1 Sprig Rosemary Leaves
+    * 25 g Unsalted Butter
     * 120 g Onion, minced
     * 180 g Apple, peeled, chopped
-    * 45 ml Flour
-    * 480 ml [Vegetable Stock](../../soups/stocks/vegetable-stock.md), cold
-    * 15 ml White Vinegar
-    * 5 ml Dijon Mustard
+    * 25 g Flour
+    * 500 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md), cold
+    * 15 g White Vinegar
+    * 5 g Dijon Mustard
     * Kosher Salt
     * Black Peppercorn, ground
 

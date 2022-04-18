@@ -1,12 +1,12 @@
 === "Ingredients"
-    * 170 ml Dressing
-        * 100 ml Extra Virgin Olive Oil
-        * 50 ml White Wine Vinegar
-        * 15 ml Honey
-        * 5 ml Kosher Salt
+    * 150 g Dressing
+        * 80 g Extra Virgin Olive Oil
+        * 50 g White Wine Vinegar
+        * 15 g Honey
+        * 1 t Kosher Salt
         * 2 Garlic Cloves, minced
-        * 5 ml Lime Juice
-        * 2 ml Oregano Leaves
+        * 1 t Lime Juice
+        * 1/2 t Oregano Leaves
     * 400 g Black Eyed Peas, soaked
     * 400 g Black Beans, soaked, slightly undercooked
     * 400 g Corn Kernels

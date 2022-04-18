@@ -3,13 +3,13 @@ title: Sweet & spicy stir fry
 ---
 === "Ingredients"
     * Marinated Chicken
-        * 45 ml Soy Sauce
-        * 30 ml Canola Oil
-        * 15 ml Pumpkin Seed Oil (optional)
-        * 15 ml Brown Sugar
+        * 45 g Soy Sauce
+        * 25 g Canola Oil
+        * 15 g Pumpkin Seed Oil (optional)
+        * 10 g Brown Sugar
         * 2 Garlic Cloves, minced
-        * 5 ml Ginger, grated
-        * 5 ml Crushed Red Pepper
+        * 5 g Ginger, grated
+        * 1 t Crushed Red Pepper
         * 225 g Chicken Breast, cubed
     * Steamed Veggies
         * 225 g Broccoli, golf-ball sized florets
@@ -17,7 +17,7 @@ title: Sweet & spicy stir fry
         * 110 g Carrots, chopped
         * 110 g Celery, chopped
         * 110 g Red Bell Pepper, chopped
-        * 60 ml Water, cold
+        * 60 g Water, cold
     * Garnish
         * Coriander Leaves, chopped
 

@@ -1,13 +1,13 @@
 === "Ingredients"
     * 450 g [Russet Potatoes, baked](baked-potato.md), peeled, roughly chopped
-    * 10 ml Canola Oil
+    * 10 g Canola Oil
     * 225 g Parsnips, roughly chopped
-    * 15 ml Salt
-    * 80 ml Milk, whole
-    * 30 ml Unsalted Butter
-    * 5 ml Rosemary Leaves, chopped
-    * 1 ml Kosher Salt
-    * 1 ml Black Peppercorn, ground
+    * 1 T Salt
+    * 80 g Milk, whole
+    * 25 g Unsalted Butter
+    * 1 Sprig Rosemary Leaves, chopped
+    * 1/4 t Kosher Salt
+    * 1/4 t Black Peppercorn, ground
 
 === "Directions"
     1. **Preheat oven** to 400ºF (204ºC).

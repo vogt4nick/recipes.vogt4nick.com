@@ -1,18 +1,18 @@
 === "Ingredients"
     * 220 g Bacon, roughly chopped
-    * 30 ml Neutral Oil
+    * 25 g Neutral Oil
     * 80 g Onions, minced
-    * 1 ml Kosher Salt
+    * 1/4 t Kosher Salt
     * 2 Garlic Cloves, minced
-    * 120 ml Water
-    * 60 ml Apple Cider Vinegar
-    * 60 ml Red Wine Vinegar
-    * 60 ml Maple Syrup or White Sugar
-    * 30 ml Dijon Mustard
-    * 2 ml Black Peppercorns, ground
+    * 120 g Water
+    * 60 g Apple Cider Vinegar
+    * 60 g Red Wine Vinegar
+    * 60 g Maple Syrup
+    * 30 g Dijon Mustard
+    * 1/2 t Black Peppercorns, ground
     * For Slurry
-        * 5 ml Cornstarch
-        * 10 ml Water, cold
+        * 1 t Cornstarch
+        * 10 g Water, cold
     * For Seasoning
         * Kosher Salt
         * Black Peppercorns, ground

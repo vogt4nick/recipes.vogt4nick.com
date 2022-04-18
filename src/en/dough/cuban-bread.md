@@ -1,13 +1,13 @@
 === "Ingredients"
     * Starter
-        *  120 ml Water, warm
+        *  120 g Water, warm
         *  60 g All-Purpose Flour
-        *  3 ml Active Dry Yeast
-    * 12 ml Active Dry Yeast
-    * 10 ml White Sugar
-    * 180 ml Water, warm
-    * 45 ml Lard
-    * 10 ml Kosher Salt, fine
+        *  1/4 t Active Dry Yeast
+    * 2 1/2 T Active Dry Yeast
+    * 2 t White Sugar
+    * 180 g Water, warm
+    * 40 g Lard
+    * 2 t Kosher Salt, fine
     * 360 g All-Purpose Flour
 
 === "Directions"

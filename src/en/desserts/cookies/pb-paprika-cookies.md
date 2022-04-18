@@ -5,22 +5,22 @@ title: PB paprika cookies
     * Flour Mixture
         * 240 g All-Purpose Flour
         * 80 g Whole Wheat Flour
-        * 6 ml Baking Powder
-        * 4 ml Baking Soda
-        * 6 ml Kosher Salt
-        * 2 ml Paprika
+        * 1 1/4 t Baking Powder
+        * 3/4 t Baking Soda
+        * 1 1/4 t Kosher Salt
+        * 1/2 t Paprika
     * Batter
-        * 240 ml Unsalted Butter, room temperature
+        * 220 g Unsalted Butter, room temperature
         * 300 g Creamy Peanut Butter
         * 150 g Brown Sugar
         * 150 g White Sugar
         * 2 Eggs, room temperature
-        * 8 ml Pure Vanilla Extract
+        * 1/2 T Pure Vanilla Extract
     * Garnish
-        * 10 ml Paprika
-        * 6 ml Sea Salt
-        * 15 ml Turbinado Sugar
-        * 15 ml White Sugar
+        * 2 t Paprika
+        * 1 t Sea Salt
+        * 1 T Turbinado Sugar
+        * 1 T White Sugar
 
     !!! question "Substitute brown sugar 1:1 for turbinado sugar."
 

@@ -1,10 +1,10 @@
 === "Ingredients"
-    * 60 ml Whiskey
-    * 30 ml Sweet Vermouth
+    * 60 g Whiskey
+    * 30 g Sweet Vermouth
     * 1 Dash Bitters (optional)
     * For Garnish
-        * 1 Maraschino Cherries
-        * Cherry Juice
+        * 1 Maraschino Cherry
+        * 5 g Cherry Juice
 
 ??? tip "Pair with savory, meaty entrees."
     e.g. [B.O.C. Monsieur](../../entrees/handhelds/boc-monsieur.md), [Sauerbraten](../../entrees/beef/sauerbraten.md).

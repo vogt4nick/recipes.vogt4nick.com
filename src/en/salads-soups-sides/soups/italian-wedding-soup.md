@@ -3,25 +3,25 @@ If you don’t have the cheese rind you can substitute 1/4 cup grated cheese. Lo
 === "Ingredients"
     * Meatballs
         * 280 g Ground Dark Meat Turkey or Chicken
-        * 10 ml Soy Sauce
+        * 10 g Soy Sauce
         * 45 g Scallions, minced
-        * 10 ml Fresh Mint Leaves, minced
-        * 30 ml Fresh Dill Leaves, minced
-        * 10 ml Lemon Zest
+        * 1 sprig Fresh Mint Leaves, minced
+        * 2 sprigs Fresh Dill Leaves, minced
+        * 5 g Lemon Zest
         * Kosher Salt
         * Black Peppercorns, ground
     * Soup
-        * 30 ml Extra Virgin Olive Oil
+        * 25 g Extra Virgin Olive Oil
         * 120 g Onion, minced
         * 60 g Carrot, chopped
         * 60 g Celery, minced
         * Celery Leaves, chopped
         * 30 g Parmigiano-Reggiano Rind
-        * 2 ml Fennel Seeds, crushed
-        * 1200 ml [Chicken Stock](stocks/meat-stock.md)
-        * 120 ml Dry White Wine
+        * 1/2 t Fennel Seeds, crushed
+        * 1200 g [Chicken Stock](stocks/meat-stock.md)
+        * 120 g Dry White Wine
         * 40 g Dry Stellini Pasta
-        * 30 ml Fresh Dill Leaves, chopped
+        * 2 sprigs Dill Leaves, chopped
         * 120 g Young Kale, chopped
         * Kosher Salt
         * Black Peppercorns, ground

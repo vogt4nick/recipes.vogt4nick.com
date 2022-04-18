@@ -7,18 +7,18 @@
     * Cook, uncovered, at the merest simmer for a long, long time; no less than 3 hours is necessary. More is better.
 
 === "Ingredients"
-    * 15 ml Vegetable Oil
-    * 45 ml Unsalted Butter
+    * 15 g Vegetable Oil
+    * 40 g Unsalted Butter
     * 110 g Onion, chopped
     * 110 g Celery, chopped
     * 110 g Carrot, chopped
     * 330 g Ground Beef
-    * 4 ml Kosher Salt
-    * 2 ml Black Peppercorn, ground
-    * 240 ml Whole Milk
+    * 1 t Kosher Salt
+    * 1/2 t Black Peppercorn, ground
+    * 240 g Whole Milk
     * 1 pinch Nutmeg
-    * 240 ml Dry White Wine
-    * 360 ml Tomatoes, peeled, crushed
+    * 240 g Dry White Wine
+    * 360 g Tomatoes, peeled, crushed
 
 === "Directions"
     1. **Sweat vegetables.** Cook onion in butter and oil over medium heat until translucent. Stir in celery, carrot. Cook 2 minutes.
@@ -28,7 +28,7 @@
 
     !!! caution "Be very careful not to burn the milk solids."
 
-    !!! note "If the sauce begins to dry out and stick, add 100 ml water."
+    !!! note "If the sauce begins to dry out and stick, add 100 g Water."
 
     !!! tip "At the end, no water at all must be left and the fat must separate from the sauce."
 
