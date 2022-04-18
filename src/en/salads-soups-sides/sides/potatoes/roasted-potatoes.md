@@ -1,13 +1,13 @@
 === "Ingredients"
-    * 30 ml Salt
-    * 2 ml Baking Soda
+    * 2 T Salt
+    * 1/2 t Baking Soda
     * 900 g Russet Potatoes, peeled, quartered
-    * 90 ml Cooking Fat
-    * 16 ml Rosemary Leaves
-    * 8 ml Black Peppercorn, ground
-    * 8 ml Kosher Salt
+    * 80 g Cooking Fat
+    * 3 sprigs Rosemary Leaves
+    * 1/2 T Black Peppercorn, ground
+    * 1/2 T Kosher Salt
     * For Serving
-        * 90 ml Sour Cream (optional)
+        * 90 g Sour Cream (optional)
 
 === "Directions"
     1. **Prepare materials.** Preheat oven to 450ºF (232ºC). Prepare a foiled sheetpan.

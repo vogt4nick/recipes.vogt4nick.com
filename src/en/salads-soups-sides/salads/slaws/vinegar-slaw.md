@@ -3,12 +3,12 @@
     * 100 g Shallot, thinly sliced
     * 50 g Carrot, grated
     * Dressing
-        * 100 ml Apple Cider Vinegar
-        * 30 ml Vegetable Oil
-        * 45 ml White Sugar
-        * 5 ml Dijon Mustard
-        * 2 ml Kosher Salt
-        * 1 ml Black Peppercorn, ground
+        * 100 g Apple Cider Vinegar
+        * 25 g Vegetable Oil
+        * 40 g White Sugar
+        * 1 t Dijon Mustard
+        * 1/2 t Kosher Salt
+        * 1/4 t Black Peppercorn, ground
 
 === "Directions"
     1. **Mix dressing** ingredients together in a bowl.

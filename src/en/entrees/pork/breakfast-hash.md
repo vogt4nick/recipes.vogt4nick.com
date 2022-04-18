@@ -4,11 +4,11 @@
     * 200 g Bell Pepper, chopped
     * 200 g Onion, sliced
     * 900 g [Roasted Potatoes](../../salads-soups-sides/sides/potatoes/roasted-potatoes.md)
-    * 2 ml Kosher Salt
-    * 2 ml Black Peppercorn, ground
+    * 1/2 t Kosher Salt
+    * 1/2 t Black Peppercorn, ground
     * 4 [Eggs, poached](../eggs/poached-eggs.md)
-    * 15 ml Chives
-    * 60 ml Hot Salsa
+    * 10 g Chives
+    * 60 g Hot Salsa
 
 === "Directions"
     1. **Preheat oven** to 350ºF (177ºC).

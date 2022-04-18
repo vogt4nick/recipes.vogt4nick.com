@@ -1,21 +1,21 @@
 === "Ingredients"
-    * 45 ml Unsalted Butter
+    * 40 g Unsalted Butter
     * 200 g Sausage, sliced
     * 200 g Onion, minced
-    * 5 ml Kosher Salt
-    * 45 ml All-Purpose Flour
+    * 1 t Kosher Salt
+    * 25 g All-Purpose Flour
     * 2 Garlic Cloves, minced
-    * 10 ml Paprika
-    * 1200 ml [Chicken Stock](stocks/meat-stock.md)
+    * 2 t Paprika
+    * 1200 g [Chicken Stock](stocks/meat-stock.md)
     * 200 g Green Cabbage, chopped
     * 600 g Russet Potatoes, peeled, chopped
     * Black Peppercorn, ground
     * Cayenne Pepper, ground
     * 1 Bay Leaf
-    * 30 ml White Vinegar, distilled
+    * 30 g White Vinegar, distilled
     * To Garnish
-        * 120 ml [Crème Fraîche](../../sauces-seasonings/sauces/creme-fraiche.md) or Sour Cream
-        * 30 ml Scallions, sliced (optional)
+        * 120 g [Crème Fraîche](../../sauces-seasonings/sauces/creme-fraiche.md) or Sour Cream
+        * 30 g Scallions, sliced (optional)
 
 === "Directions"
     1. **Cook sausage.** Melt butter in stockpot over medium heat. Add sausage. Cook 10-15 minutes until browned. Set aside; be careful to leave butter in stockpot.

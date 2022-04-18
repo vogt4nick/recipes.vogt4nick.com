@@ -1,14 +1,14 @@
 === "Ingredients"
-    * 60 ml Vegetable Oil
+    * 55 g Vegetable Oil
     * 50 g Serrano Chili Pepper, seeded, chopped
     * 450 g Onion, chopped
     * 6 Garlic Cloves, minced
     * 900 g Tomatoes, peeled, seeded, cored, chopped
-    * 15 ml White Sugar
-    * 2 ml Kosher Salt
-    * 5 ml Black Peppercorn, ground
-    * 60 ml Coriander Leaves, chopped
-    * 45 ml Lime Juice
+    * 10 g White Sugar
+    * 1/2 t Kosher Salt
+    * 1 t Black Peppercorn, ground
+    * 30 g Coriander Leaves, chopped
+    * 45 g Lime Juice
 
 === "Directions"
     1. **Sauté vegetables.** Heat oil in a saucepan over medium heat. Sauté chili pepper, onion, garlic for 5 minutes.

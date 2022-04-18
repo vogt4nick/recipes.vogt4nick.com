@@ -1,20 +1,20 @@
 === "Ingredients"
     * Beef Broth
-        * 1000 ml [Beef Stock](stocks/meat-stock.md)
-        * 15 ml [Italian Herbs](../../sauces-seasonings/seasonings/italian-herbs.md)
+        * 1000 g [Beef Stock](stocks/meat-stock.md)
+        * 1 T [Italian Herbs](../../sauces-seasonings/seasonings/italian-herbs.md)
         * 1 Bay Leaf
     * 225 g Sausage Rope, roughly chopped
-    * 30 ml Unsalted Butter
+    * 25 g Unsalted Butter
     * 110 g Onion, minced
     * 110 g Carrots, minced
     * 110 g Celery, minced
     * 2 Garlic Cloves, minced
-    * 2 ml Kosher Salt
-    * 2 ml White Pepper
-    * 30 ml Water
+    * 1/2 t Kosher Salt
+    * 1/2 t White Pepper
+    * 30 g Water
     * 110 g Zucchini, roughly chopped
     * 110 g Orzo, parcooked
-    * 15 ml Parmesan
+    * 15 g Parmesan
 
 === "Directions"
     1. **Simmer beef broth.** Add beef stock, italian seasoning, and bay leaf to saucepan. Simmer, covered, over low heat.

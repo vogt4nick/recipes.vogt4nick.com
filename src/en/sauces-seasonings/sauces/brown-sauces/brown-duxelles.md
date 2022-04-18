@@ -1,17 +1,17 @@
 === "Ingredients"
     * Sautéed Mushrooms
-        * 15 ml Unsalted Butter
-        * 10 ml Oil
+        * 15 g Unsalted Butter
+        * 10 g Oil
         * 100 g Mushrooms and/or stems, minced
         * 30 g Scallions or Shallots, minced
-        * 100 ml Dry White Wine
-    * 20 ml Tomato Paste
-    * 300 ml [Brown Sauce](./brown-sauce.md)
-    * 30 ml Unsalted Butter, room temperature
+        * 100 g Dry White Wine
+    * 20 g Tomato Paste
+    * 300 g [Brown Sauce](./brown-sauce.md)
+    * 25 g Unsalted Butter, room temperature
     * Garnish
-        * 45 ml Parsley Leaves, chopped
+        * 20 g Parsley Leaves, chopped
 
-    !!! info "Yields about 400 ml."
+    !!! info "Yields about 400 g."
 
 === "Directions"
     1. **Sauté mushrooms.** Heat fats in saucepan over medium-high heat. Add mushrooms and scallions. Sauté 5 minutes, stirring frequently. Add white wine. Boil rapidly until it has reduced almost completely.

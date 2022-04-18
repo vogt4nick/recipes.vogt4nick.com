@@ -1,7 +1,7 @@
 === "Ingredients"
     * Eggs
     * Water
-    * 15 ml White Vinegar
+    * 1 T White Vinegar
 
 === "Directions"
     1. **Simmer water** and vinegar in a saucepan. Maintain a bare simmer for the duration of the operation.

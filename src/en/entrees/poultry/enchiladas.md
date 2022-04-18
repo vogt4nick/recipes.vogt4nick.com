@@ -1,16 +1,16 @@
 === "Ingredients"
     * Sauce
         * 300 g Cream of Chicken Soup
-        * 200 ml [Crème Fraîche](../../sauces-seasonings/sauces/creme-fraiche.md) or Sour Cream
-        * 100 ml Milk
+        * 200 g [Crème Fraîche](../../sauces-seasonings/sauces/creme-fraiche.md) or Sour Cream
+        * 100 g Milk
         * 100 g Green Chiles, chopped
     * Filling
         * 200 g Cream Cheese, softened
-        * 8 ml Onion Powder
-        * 8 ml Cumin Seed, ground
-        * 2 ml Salt
-        * 2 ml Black Peppercorn, ground
-        * 30 ml Water, cold
+        * 1/2 T Onion Powder
+        * 1/2 T Cumin Seed, ground
+        * 1/2 t Salt
+        * 1/2 t Black Peppercorn, ground
+        * 30 g Water, cold
         * 400 g Refried Beans
         * 400 g Chicken, cooked, diced
     * 10 Flour Tortillas

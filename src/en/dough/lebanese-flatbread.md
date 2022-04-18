@@ -1,11 +1,11 @@
 === "Ingredients"
     * Sponge
         * 60 g Bread Flour
-        * 5 ml Active Dry Yeast
-        * 5 ml White Sugar
-        * 120 ml Water, warm
-    * 4 ml Kosher Salt
-    * 15 ml Olive Oil
+        * 1 t Active Dry Yeast
+        * 1 t White Sugar
+        * 120 g Water, warm
+    * 1 t Kosher Salt
+    * 1 T Olive Oil
     * 120 g Bread Flour
 
 === "Directions"

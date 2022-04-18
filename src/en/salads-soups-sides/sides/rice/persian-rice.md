@@ -2,13 +2,13 @@
     * 200 g Basmati Rice, rinsed, soaked 20 minutes
     * 100 g Lentils or Basmati Rice
     * Salt Water
-    * 15 ml Olive Oil
-    * 15 ml Unsalted Butter, sliced
+    * 15 g Olive Oil
+    * 15 g Unsalted Butter, sliced
     * Garnish
-        * 2 threads Saffron, ground, mixed with 15 ml hot water
-        * 10 ml Parsley Leaves, chopped
+        * 2 threads Saffron, ground, mixed with 1 tablespoon hot water
+        * 2 sprigs Parsley Leaves, chopped
 
-    !!! question "Substitute 2 ml curry powder for saffron."
+    !!! question "Substitute 1/2 t curry powder for saffron."
 
 === "Directions"
     1. **Parboil rice.** Heat salt water to boiling in saucepan. Add rice and lentils. Parboil 7 minutes, stirring occasionally. Drain rice.

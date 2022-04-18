@@ -11,8 +11,8 @@
         * 6 g Kosher Salt
     * Dry Mix
         * 100 g Light Brown Sugar
-        * 15 ml Cinnamon, ground
-        * 2 ml Kosher Salt
+        * 1 T Cinnamon, ground
+        * 1/2 t Kosher Salt
     * 20 g Unsalted Butter, melted
     * Icing
         * 60 g Cream Cheese, room temperature

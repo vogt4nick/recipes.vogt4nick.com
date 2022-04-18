@@ -1,10 +1,10 @@
 === "Ingredients"
     * 155 g All-Purpose Flour
-    * 3 ml Kosher Salt
-    * 30 ml White Sugar
+    * 1/4 t Kosher Salt
+    * 25 g White Sugar
     * 140 g Unsalted Butter, cold, divided into 5 g chunks
     * 1 Egg Yolk
-    * 45 ml Ice Water
+    * 3 T Ice Water
 
 === "Directions"
     1. **Mix dough.** Briefly pulse flour, salt, sugar in a food processor. Add all butter. Pulse 10 seconds until the mixture is uniform. Add egg yolk and pulse briefly until combined. Transfer mixture to a mixing bowl. Add freezing water. Mix by hand until the dough forms into a ball.

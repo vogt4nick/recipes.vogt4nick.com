@@ -2,12 +2,12 @@
     * Dressing
         * 180 g [Mayonnaise](../../sauces-seasonings/sauces/mayonnaise/mayonnaise.md)
         * 60 g [Crème Fraîche](../../sauces-seasonings/sauces/creme-fraiche.md) or Sour Cream
-        * 20 ml Lemon Juice
-        * 15 ml Tarragon Leaves, minced
-        * 2 ml White Sugar
-        * 1 ml Kosher Salt
-        * < 1 ml Black Peppercorn, ground
-        * < 1 ml Cayenne Pepper, ground
+        * 20 g Lemon Juice
+        * 10 g Tarragon Leaves, minced
+        * 1/2 t White Sugar
+        * 1/4 t Kosher Salt
+        * < 1/4 t Black Peppercorn, ground
+        * < 1/4 t Cayenne Pepper, ground
     * 2 Apples, chopped
     * 120 g Celery Root or Celery Stalks, chopped, soaking in cool water
     * 120 g Grapes, quartered

@@ -2,22 +2,22 @@
     * 420 g Compote, chilled
         * 340 g Cranberries
         * 75 g Brown Sugar
-        * 4 ml Orange Zest
-        * 15 ml Orange Juice
+        * 1 t Orange Zest
+        * 1 T Orange Juice
     * 450 g Crumble, chilled
         * 80 g Rolled Oats
         * 120 g All-Purpose Flour
         * 100 g Brown Sugar
-        * 2 ml Cinnamon, ground
-        * 3 ml Kosher Salt
+        * 1/2 t Cinnamon, ground
+        * 1/4 t Kosher Salt
         * 140 g Unsalted Butter, chilled, chopped into 5 g pieces
     * Filling
         * 150 g White Sugar
         * 30 g Tapioca Flour
-        * 4 ml Nutmeg, ground
-        * 2 ml Cinnamon, ground
-        * 2 ml Allspice, ground
-        * 8 ml Kosher Salt
+        * 1 t Nutmeg, ground
+        * 1/2 t Cinnamon, ground
+        * 1/2 t Allspice, ground
+        * 1/2 T Kosher Salt
         * 225 g Cranberries
         * 100 g Bosc Pear, peeled, grated
     * 1 [Pie Crust, blind baked](../../dough/crusts/pie-crust.md)

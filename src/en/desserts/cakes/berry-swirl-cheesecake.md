@@ -1,18 +1,18 @@
 === "Ingredients"
     * Pie Crust
         * 250 g Chocolate Cookie Crumbs
-        * 90 ml Unsalted Butter, melted
-        * 45 ml White Sugar
-        * 1 ml Kosher Salt
+        * 85 g Unsalted Butter, melted
+        * 35 g White Sugar
+        * 1/4 t Kosher Salt
     * Berry Puree
         * 240 g Raspberries
-        * 15 ml White Sugar
+        * 12 g White Sugar
     * Filling
         * 900 g Cream Cheese, room temperature
-        * 360 ml White Sugar
-        * <1 ml Salt
-        * 5 ml Vanilla Extract
+        * 300 g White Sugar
         * 4 Eggs, room temperature
+        * 1 t Vanilla Extract
+        * 1/8 t Kosher Salt
 
 === "Directions"
     1. **Prepare materials.** Heat oven to 350ºF (177ºC). Wrap exterior of a 9-inch springform pan (including base) tightly in a triple layer of foil; set aside.

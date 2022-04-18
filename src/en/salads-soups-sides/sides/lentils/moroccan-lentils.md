@@ -1,17 +1,17 @@
 === "Ingredients"
-    * 30 ml Olive Oil
+    * 25 g Olive Oil
     * 240 g Onion, minced
     * Spices
         * 10 g Garlic, minced
-        * 5 ml Turmeric, ground
-        * 5 ml Cinnamon, ground
-        * 5 ml Cumin Seed, ground
-        * 2 ml Black Peppercorn, ground
+        * 1 t Turmeric, ground
+        * 1 t Cinnamon, ground
+        * 1 t Cumin Seed, ground
+        * 1/2 t Black Peppercorn, ground
         * 1 Bay Leaf
     * 240 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
     * 360 g Tomatoes, peeled, chopped
     * 200 g Dry Brown Lentils, soaked, drained
-    * 2 ml Kosher Salt
+    * 1/2 t Kosher Salt
     * To Garnish
         * Fresh Coriander Leaves, chopped
 

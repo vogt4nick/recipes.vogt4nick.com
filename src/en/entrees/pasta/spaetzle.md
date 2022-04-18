@@ -8,9 +8,9 @@ title: Spätzle
 === "Ingredients"
     * 333 g All-Purpose Flour
     * 4 Eggs
-    * 133 ml Milk
-    * 15 ml Unsalted Butter
-    * 5 ml Kosher Salt
+    * 133 g Milk
+    * 15 g Unsalted Butter
+    * 1 t Kosher Salt
 
 === "Directions"
     1. **Mix batter.** Combine all ingredients in a mixing bowl. Mix 10 minutes until thick, either by hand or with a stand mixer.

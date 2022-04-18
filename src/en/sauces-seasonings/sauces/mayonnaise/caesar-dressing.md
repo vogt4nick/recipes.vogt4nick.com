@@ -1,13 +1,13 @@
 === "Basic Ingredients"
     * 1 Garlic Clove, minced
-    * 45 ml Olive Oil
-    * 30 ml [Mayonnaise](mayonnaise.md)
-    * 15 ml Worcestershire Sauce
-    * 15 ml Lemon Juice
-    * 5 ml Dijon Mustard
+    * 45 g Olive Oil
+    * 30 g [Mayonnaise](mayonnaise.md)
+    * 15 g Worcestershire Sauce
+    * 15 g Lemon Juice
+    * 1 t Dijon Mustard
     * 30 g Parmigiano-Reggiano, grated
-    * 1 ml Kosher Salt
-    * 1 ml Black Peppercorn, ground
+    * 1/4 t Kosher Salt
+    * 1/4 t Black Peppercorn, ground
 
 === "Fancy Ingredients"
     * 2 [Egg Yolks, poached](../../../entrees/eggs/poached-eggs.md)
@@ -16,10 +16,10 @@
     * 180 g [Mayonnaise](mayonnaise.md)
     * 60 g Parmigiano-Reggiano, grated
     * 60 g Extra Virgin Olive Oil
-    * 60 ml Lemon Juice
-    * 15 ml Water, cold
-    * 5 ml Black Peppercorn, ground
-    * 1 ml Kosher Salt
+    * 60 g Lemon Juice
+    * 15 g Water, cold
+    * 1 t Black Peppercorn, ground
+    * 1/4 t Kosher Salt
 
 === "Directions"
     1. **Combine** all ingredients by whisking or blending in a food processor.

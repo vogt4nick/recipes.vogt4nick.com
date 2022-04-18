@@ -1,7 +1,7 @@
 === "Ingredients"
     * Eggs
     * Water
-    * 30 ml White Vinegar
+    * 2 T White Vinegar
     * Ice Water
 
 === "Directions"

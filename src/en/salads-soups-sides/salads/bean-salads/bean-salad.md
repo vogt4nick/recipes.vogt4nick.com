@@ -4,10 +4,10 @@
 === "Ingredients"
     * 300 g Legumes, slightly undercooked, warm
     * 25 g Red Onion or Shallots
-    * 15 ml Red Wine Vinegar or Lemon Juice
+    * 15 g Red Wine Vinegar or Lemon Juice
     * 50 g Extra Virgin Olive Oil
-    * 2 ml Kosher Salt
-    * 2 ml Black Peppercorn, ground
+    * 1/2 t Kosher Salt
+    * 1/2 t Black Peppercorn, ground
     * Garnish
         * Fresh Parsley Leaves, chopped
 

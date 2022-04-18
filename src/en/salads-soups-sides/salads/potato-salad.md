@@ -1,16 +1,16 @@
 === "Ingredients"
     * 500 g Russet Potatoes, cooked, peeled, thinly sliced
-    * 500 ml [Beef Stock](../soups/stocks/meat-stock.md), hot
+    * 500 g [Beef Stock](../soups/stocks/meat-stock.md), hot
     * 100 g Sweet Onion, minced
     * Seasonings
-        * 45 ml White Vinegar
-        * 45 ml Vegetable Oil
-        * 5 ml White Sugar
-        * 5 ml Parsley Leaves, chopped
-        * 3 ml Kosher Salt
-        * 2 ml Black Peppercorn, ground
+        * 45 g White Vinegar
+        * 40 g Vegetable Oil
+        * 1 t White Sugar
+        * 1 Sprig Parsley Leaves, chopped
+        * 1/4 t Kosher Salt
+        * 1/2 t Black Peppercorn, ground
     * Garnish
-        * 50 ml Red Onion, sliced
+        * 30 g Red Onion, sliced
 
 === "Directions"
     1. **Mix ingredients.** Add potatoes, onion, seasonings, and beef stock to a large mixing bowl. Mix gently until it starts to thicken.

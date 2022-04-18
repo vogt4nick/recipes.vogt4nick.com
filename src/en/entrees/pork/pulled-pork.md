@@ -1,13 +1,13 @@
 === "Chef John"
     * 3000 g Pork Shoulder, bone-in
     * Seasonings
-        * 30 ml Kosher Salt
-        * 15 ml Black Peppercorn, ground
-        * 15 ml Paprika
-        * 15 ml Brown Sugar
-        * 10 ml Onion Powder
-        * 5 ml Garlic Powder
-        * 5 ml Cayenne Pepper, ground
+        * 2 T Kosher Salt
+        * 1 T Black Peppercorn, ground
+        * 1 T Paprika
+        * 1 T Brown Sugar
+        * 2 t Onion Powder
+        * 1 t Garlic Powder
+        * 1 t Cayenne Pepper, ground
 
     ---
 
@@ -24,14 +24,14 @@
     * Brine
         * 225 g Molasses
         * 340 g Pickling Salt
-        * 1800 ml Water, distilled
+        * 1800 g Water, distilled
     * Seasonings
-        * 15 ml Chili Powder
-        * 15 ml Onion Powder
-        * 15 ml Paprika Powder
-        * 5 ml Cumin Seed, ground
-        * 5 ml Fennel Seed, ground
-        * 5 ml Coriander Seed, ground
+        * 1 T Chili Powder
+        * 1 T Onion Powder
+        * 1 T Paprika Powder
+        * 1 t Cumin Seed, ground
+        * 1 t Fennel Seed, ground
+        * 1 t Coriander Seed, ground
 
     ---
 

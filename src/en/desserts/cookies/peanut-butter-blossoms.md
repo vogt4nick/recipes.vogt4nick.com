@@ -1,14 +1,14 @@
 === "Ingredients"
     * Dry Mix
         * 160 g All-Purpose Flour
-        * 2 ml Baking Soda
-        * 2 ml Kosher Salt
+        * 1/2 t Baking Soda
+        * 1/2 t Kosher Salt
     * 110 g Unsalted Butter, room temperature, sliced into ribbons
     * 50 g White Sugar
     * 100 g Light Brown Sugar
     * 1 Egg, room temperature
     * 195 g Creamy Peanut Butter
-    * 5 ml Vanilla Extract
+    * 1 t Vanilla Extract
     * 24 Chocolate Kiss Candies, unwrapped
     * For Coating
         * 100 g White Sugar

@@ -3,17 +3,17 @@
     * 1 [Orange Peel, candied](../candied-orange-peel.md), chopped
     * Almond Mixture
         * 70 g Almonds, sliced, toasted, roughly chopped
-        * 10 ml White Sugar
-        * 5 ml Cinnamon, ground
+        * 2 t White Sugar
+        * 1 t Cinnamon, ground
     * Filling
-        * 240 ml Heavy Whipping Cream
+        * 240 g Heavy Whipping Cream
         * 240 g Dark Chocolate, 80%
-        * 15 ml Orange Liqueur
+        * 1 T Orange Liqueur
     * Garnish
         * [Orange Peel, candied](../candied-orange-peel.md)
         * [Russian Buttercream](../russian-buttercream.md)
 
-    !!! question "Substitute 4 ml orange extract for 15 ml orange liqueur."
+    !!! question "Substitute 1 teaspoon orange extract for 1 tablespoon orange liqueur."
 
 === "Directions"
     1. **Layer almond mixture.** Mix almonds, sugar, cinnamon in small bowl. Sprinkle orange peel over bottom of shortbread crust. Repeat with almond mixture.

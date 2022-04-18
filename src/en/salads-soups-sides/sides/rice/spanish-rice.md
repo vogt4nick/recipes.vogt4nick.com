@@ -1,16 +1,16 @@
 === "Ingredients"
-    * 15 ml Unsalted Butter
+    * 15 g Unsalted Butter
     * 300 g Long-Grain White Rice, soaked 20 minutes
     * 2 Jalapeños, minced
     * 2 Scallions, thinly sliced, greens reserved
     * Seasonings
         * 2 Garlic Cloves, minced
-        * 6 ml Chili Powder
-        * 4 ml Cumin Seed, ground
-        * 2 ml Cayenne Pepper, ground
-        * 2 ml Kosher Salt
-    * 400 ml [Chicken Stock](../../soups/stocks/meat-stock.md), boiling
-    * 100 ml Tomato Sauce
+        * 1/2 T Chili Powder
+        * 1 t Cumin Seed, ground
+        * 1/2 t Cayenne Pepper, ground
+        * 1/2 t Kosher Salt
+    * 400 g [Chicken Stock](../../soups/stocks/meat-stock.md), boiling
+    * 100 g Tomato Sauce
 
 === "Directions"
     1. **Season.** Melt butter in a saucepan over medium heat. Stir in rice until coated evenly. Stir in jalapeños, scallion whites, garlic, and seasonings until combined. Toast 5 minutes, stirring once or twice, until fragrant.

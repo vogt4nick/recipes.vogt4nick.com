@@ -9,10 +9,10 @@
         * 50 g Celery, chopped
         * 1 Garlic Clove, smashed
     * Seasoning
-        * 2 ml Parsley Sprigs
+        * 1/2 t Fresh Parsley
         * 1 Bay Leaf
         * 1 Clove, dried
-        * < 1 ml Thyme, dried
+        * < 1/4 t Thyme, dried
 
     ??? question "Do I need to peel the vegetables?"
         No. All solids will be filtered from the stock before its done.

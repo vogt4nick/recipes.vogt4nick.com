@@ -1,7 +1,7 @@
 === "Ingredients"
     * Beef Broth
-        * 1000 ml [Beef Stock](stocks/meat-stock.md)
-        * 15 ml Herbs de Provence
+        * 1000 g [Beef Stock](stocks/meat-stock.md)
+        * 1 T Herbs de Provence
         * 1 Bay Leaf
     * Bacon Bits
         * 225 g Bacon, thick cut, diced
@@ -11,7 +11,7 @@
         * 100 g Shallots, sliced
         * White Pepper, ground
     * Garlic Butter
-        * 60 ml Unsalted Butter, melted
+        * 55 g Unsalted Butter, melted
         * 6 Garlic Cloves, minced
     * Bize-Sized [Crostinis](../sides/crostinis.md)
         * 450 g Baguette, sliced thick

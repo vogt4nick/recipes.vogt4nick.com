@@ -1,18 +1,18 @@
 === "Ingredients"
-    * 30 ml Unsalted Butter
-    * 15 ml Sugar
-    * 80 ml All-Purpose Flour
-    * 15 ml Red Wine
-    * 120 ml Water, cold
+    * 25 g Unsalted Butter
+    * 10 g Sugar
+    * 40 g All-Purpose Flour
+    * 15 g Red Wine
+    * 120 g Water, cold
     * Seasoning
-        * 1 ml Salt
+        * 1/4 t Salt
         * 1 Bay Leaf
         * 4 Juniper Berries
-        * 5 ml White Vinegar (optional)
-        * 15 ml Sour Cream
+        * 1 t White Vinegar (optional)
+        * 1 T Sour Cream
 
     ??? question "Substitutions"
-        Substitute 15 ml gin for juniper berries.
+        Substitute 1 tablespoon gin for juniper berries.
 
 === "Directions"
     1. **Cook sugar roux.** Melt butter in frying pan over medium heat. Add sugar to pan. Mix. Cook 2 minutes, stirring every 30 seconds, until brown. Add flour. Mix evenly. Cook 3 minutes, stirring every 60 seconds, until golden brown. Add wine and water. Mix evenly.

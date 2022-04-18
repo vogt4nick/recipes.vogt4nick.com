@@ -6,8 +6,8 @@
         * 100 g Roasted Red Pepper, julienne
         * 30 g Capers, rinsed, dried, chopped
         * 2 Pepperoncini Peppers, chopped
-        * 45 ml Olive Oil
-        * 15 ml Red Wine Vinegar
+        * 40 g Olive Oil
+        * 1 T Red Wine Vinegar
     * 1 [Focaccia Loaf](../../dough/focaccia.md), halved
     * Deli Meat
         * 100 g Salami, sliced thin

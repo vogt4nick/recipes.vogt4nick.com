@@ -1,9 +1,9 @@
 === "Metric"
     * 100 g Bread Cubes, 5-10 cm diameter
-    * 100 ml Milk, warm
+    * 100 g Milk, warm
     * 1 Garlic Clove, minced
     * 40 g Sweet Onion, finely diced
-    * 5 ml Butter, unsalted
+    * 1 t Butter, unsalted
     * 1/2 c. Melty Cheese, finely diced
     * 1 Egg, beaten
     * Seasonings
@@ -13,7 +13,7 @@
         * Kosher Salt
         * Black Peppercorn, ground
     * Clarified Butter for frying
-    * 500 ml Vegetable Broth for serving
+    * 500 g Vegetable Broth for serving
 
     !!! note "Ingredients make 6 dumplings for 2 people."
 

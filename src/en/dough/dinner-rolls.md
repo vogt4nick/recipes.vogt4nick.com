@@ -1,16 +1,16 @@
 === "Ingredients"
     * Poolish
-        * 240 ml Milk, warm (45ºC)
-        * 11 ml Active Dry Yeast
-        * 15 ml White Sugar
-    * 15 ml White Sugar
+        * 240 g Milk, warm (45ºC)
+        * 2 1/2 T Active Dry Yeast
+        * 1 T White Sugar
+    * 1 T White Sugar
     * 1 Egg
-    * 60 ml Unsalted Butter, room temperature, divided
-    * 5 ml Kosher Salt
+    * 55 g Unsalted Butter, room temperature, divided
+    * 1 t Kosher Salt
     * 380 g All-Purpose Flour
     * Glaze (optional)
-        * 30 ml Unsalted Butter, melted
-        * 15 ml Honey
+        * 25 g Unsalted Butter, melted
+        * 1 T Honey
 
 === "Directions"
     1. **Whisk poolish.** Whisk poolish ingredients together. Cover. Rest 30 minutes.
