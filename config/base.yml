@@ -15,7 +15,6 @@ plugins:
       collapse_single_pages: false
       filename: pages.yml
       strict: true
-  - macros
   - minify:
       minify_html: true
       minify_css: true
