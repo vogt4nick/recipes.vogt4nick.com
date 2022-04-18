@@ -1,16 +1,16 @@
 === "Instructions"
     * Wet Mix
-        * 120 ml Unsalted Butter, room temperature
+        * 110 g Unsalted Butter, room temperature
         * 100 g White Sugar
         * 100 g Brown Sugar
         * 1 Egg, room temperature
-        * 5 ml Vanilla Extract
+        * 1 t Vanilla Extract
     * Batter
         * 125 g All-Purpose Flour
         * 50 g Cocoa Powder, unsweetened
-        * 5 ml Baking Soda
-        * <1 ml Kosher Salt
-        * 15 ml Milk
+        * 1 t Baking Soda
+        * 1/8 t Kosher Salt
+        * 15 g Milk
         * 225 g White Chocolate Chips
 
 === "Directions"

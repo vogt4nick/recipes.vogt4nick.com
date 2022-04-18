@@ -1,13 +1,13 @@
 === "Ingredients"
     * 300 g Chicken Thighs, boneless, skinless, chopped
-    * 45 ml Olive Oil
-    * 30 ml Sour Cream
-    * 15 ml Tomato Paste
-    * 15 ml Lemon Juice
-    * 15 ml Red Wine Vinegar
-    * 5 ml Kosher Salt
-    * 5 ml Garlic Powder
-    * 5 ml [Garam Masala](../../sauces-seasonings/seasonings/garam-masala.md)
+    * 40 g Olive Oil
+    * 30 g Sour Cream
+    * 15 g Tomato Paste
+    * 15 g Lemon Juice
+    * 15 g Red Wine Vinegar
+    * 1 t Kosher Salt
+    * 1 t Garlic Powder
+    * 1 t [Garam Masala](../../sauces-seasonings/seasonings/garam-masala.md)
 
 === "Directions"
     1. **Marinate chicken**. Combine all ingredients in a ziploc bag. Marinate in refrigerator overnight or at least one hour.

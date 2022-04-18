@@ -1,19 +1,19 @@
 === "Ingredients"
-    * 45 ml Yellow Spices
-        * 12 ml Coriander Seed, ground
-        * 6 ml Kosher Salt
-        * 6 ml Turmeric, ground
-        * 2 ml Cardamom, ground
-        * 2 ml Cayenne Pepper, ground
-        * 2 ml Cinnamon, ground
-        * 2 ml Ginger, grated
-        * 2 ml Paprika
-    * 30 ml Olive Oil
+    * 3 T Yellow Spices
+        * 1 T Coriander Seed, ground
+        * 1/2 T Kosher Salt
+        * 1/2 T Turmeric, ground
+        * 1/2 t Cardamom, ground
+        * 1/2 t Cayenne Pepper, ground
+        * 1/2 t Cinnamon, ground
+        * 1/2 t Ginger, grated
+        * 1/2 t Paprika
+    * 25 g Olive Oil
     * 110 g Yellow Onion, minced
     * 4 Garlic Cloves, minced
-    * 2 ml Cumin Seed, ground
+    * 1/2 t Cumin Seed, ground
     * 200 g Tomatoes, chopped
-    * 400 ml Coconut Milk
+    * 400 g Coconut Milk
 
 === "Directions"
     1. **Combine spices** and set aside as *yellow spices*.

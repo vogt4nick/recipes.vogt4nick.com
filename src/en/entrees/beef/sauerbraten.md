@@ -1,31 +1,31 @@
 === "Ingredients"
     * 500 g Beef Chuck
     * Marinade
-        * 1 ml Kosher Salt
+        * 1/4 t Kosher Salt
         * 2 Black Peppercorns
         * 2 Allspice Corns
         * 2 Cloves
         * 1 Bay Leaf
         * 4 Juniper Berries
-        * 5 ml Rosemary Leaves
-        * 330 ml Water, cold
-        * 90 ml White Vinegar
+        * 1 Sprig Rosemary Leaves
+        * 330 g Water, cold
+        * 90 g White Vinegar
         * 80 g White Onion, minced
         * 80 g Carrot, chopped
-    * 45 ml Vegetable Oil
-    * 2 ml Kosher Salt
-    * 1 ml Black Peppercorn, ground
+    * 40 g Vegetable Oil
+    * 1/2 t Kosher Salt
+    * 1/4 t Black Peppercorn, ground
     * 80 g White Onion, sliced
     * 80 g Celery, roughly chopped
     * 80 g Carrot, roughly chopped
-    * 120 ml Water, cold
+    * 120 g Water, cold
     * 4 Garlic Cloves, crushed
-    * 15 ml Red Wine
+    * 1 T Red Wine
     * Garnish
-        * 15 ml Scallion greens, chopped (optional)
+        * 1 T Scallion greens, chopped (optional)
 
     ??? question "Substitutions"
-        * Substitute 15 ml gin for juniper berries.
+        * Substitute 1 T gin for juniper berries.
 
 === "Directions"
     1. **Marinate beef.** Add marinade, beef to glass bowl. Rest 3 days in refrigerator.

@@ -1,11 +1,11 @@
 === "Ingredients"
     * Starter
         * 100 g Bread Flour
-        * 100 ml Water, cool
+        * 100 g Water, cool
         * 2 g [Diastatic Malt Powder](https://www.amazon.com/dp/B01JXZ0PW0) (optional)
-        * < 1 ml Instant Yeast
+        * < 1/4 t Instant Yeast
     * 400 g Bread Flour
-    * 270 ml Water, cool
+    * 270 g Water, cool
     * 13 g Instant Yeast
     * 10 g Kosher Salt
     * 8 g [Diastatic Malt Powder](https://www.amazon.com/dp/B01JXZ0PW0) (optional)

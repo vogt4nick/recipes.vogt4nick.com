@@ -1,13 +1,13 @@
 === "Ingredients"
     * 225 g Unsalted Butter, room temperature, whipped
-    * 4 ml Vanilla Extract
-    * 1 ml Kosher Salt
+    * 1 t Vanilla Extract
+    * 1/4 t Kosher Salt
     * 400 g Sweetened Condensed Milk
 
 === "Directions"
     Whip butter until aerated and fluffy. Mix in vanilla extract and salt until just incorporated. Slowly stir in sweetened condensed milk.
 
-    !!! tip "Mix in up to 120 ml powdered sugar if the frosting is broken or not stiff enough."
+    !!! tip "Mix in up to 60 g powdered sugar if the frosting is broken or not stiff enough."
 
 !!! info "Yields about 600 g."
 

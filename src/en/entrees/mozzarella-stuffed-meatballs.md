@@ -3,13 +3,13 @@
         * 450 g Italian Sausage
         * 450 g Beef, ground
         * 6 Garlic Cloves, minced
-        * 10 ml Salt
-        * 5 ml Black Peppercorn, ground
-        * 120 ml Parsely, chopped
-        * 240 ml Bread Crumbs
-        * 60 ml Parmesan
+        * 2 t Salt
+        * 1 t Black Peppercorn, ground
+        * 40 g Parsly, chopped
+        * 110 g Bread Crumbs
+        * 40 g Parmesan
         * 2 Eggs
-        * 120 ml Milk
+        * 120 g Milk
     * 450 g Mozzarella Cheese, roughly chopped
     * 680 g Tomato Sauce
 

@@ -1,15 +1,15 @@
 === "Ingredients"
     * Diluted Lemon Juice
-        * 10 ml Lemon Juice
-        * 20 ml Water, cold
-        * 1 ml Kosher Salt
+        * 10 g Lemon Juice
+        * 20 g Water, cold
+        * 1/4 t Kosher Salt
     * For Initial Emulsion
         * 3 Egg Yolks
-        * 15 ml Butter, cold
+        * 15 g Butter, cold
     * For Cooling
-        * 15 ml Butter, cold
+        * 15 g Butter, cold
     * For Final Emulsion
-        * 120 ml Unsalted Butter, melted
+        * 110 g Unsalted Butter, melted
 
 === "Directions"
     1. **Simmer water** in stockpot. Maintain at a bare simmer.

@@ -3,16 +3,16 @@
 
 === "Ingredients"
     * 45 g Bacon, diced
-    * 90 ml Unsalted Butter, clarified
+    * 80 g Unsalted Butter, clarified
     * 80 g Carrot, minced
     * 80 g Celery, minced
     * 80 g Onion, minced
-    * 60 ml All-Purpose Flour
-    * 1500 ml [Beef Stock](../../../salads-soups-sides/soups/stocks/meat-stock.md), boiling
-    * 30 ml Tomato Paste
-    * 15 ml Herbs de Provence
+    * 30 g All-Purpose Flour
+    * 1500 g [Beef Stock](../../../salads-soups-sides/soups/stocks/meat-stock.md), boiling
+    * 30 g Tomato Paste
+    * 1 T Herbs de Provence
 
-    !!! info "Yields about 1000 ml."
+    !!! info "Yields about 1000 g."
 
 === "Directions"
     1. **Panfry bacon.** Heat stockpan over medium-high heat. Add bacon. Panfry 10 minutes until browned, but not crispy. Leaving rendered fat in saucepan, remove bacon. Set aside as *bacon bits*.

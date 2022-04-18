@@ -3,15 +3,15 @@
         * 230 g Unsalted Butter, room temperature
         * 100 g White Sugar
         * 50 g Brown Sugar
-        * 10 ml Vanilla Extract
+        * 10 g Vanilla Extract
         * 290 g All-Purpose Flour
-        * 2.5 ml Kosher Salt
+        * 2.1 t Kosher Salt
     * 240 g Raspberry Preserves
     * 240 g Berries, room temperature
     * 100 g White Chocolate Chips
 
     ??? question "What if I'm using frozen berries?"
-        Defrost and strain the juices and coat in 15 ml flour.
+        Defrost and strain the juices and coat in 1 T flour.
 
 === "Directions"
     1. **Setup.** Preheat oven to 350ºF (177ºC). Grease a 9-inch removable-bottom tart pan and place this on a baking sheet.

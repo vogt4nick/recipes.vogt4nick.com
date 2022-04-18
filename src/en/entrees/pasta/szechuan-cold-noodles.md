@@ -2,14 +2,14 @@
     * 100 g Dry Alkaline Noodles, undercooked, cold
     * 80 g Cucumber, peeled, shredded
     * Seasonings
-        * 15 ml Soy Sauce
-        * 15 ml [Szechuan Sauce](../../sauces-seasonings/sauces/szechuan-sauce.md)
-        * 15 ml White Sugar
-        * 10 ml Vinegar
-        * 7 ml Sesame Oil
-        * 7 ml [Tahini Paste](../../sauces-seasonings/sauces/tahini-paste.md)
+        * 1 T Soy Sauce
+        * 1 T [Szechuan Sauce](../../sauces-seasonings/sauces/szechuan-sauce.md)
+        * 10 g White Sugar
+        * 10 g Vinegar
+        * 5 g Sesame Oil
+        * 5 g [Tahini Paste](../../sauces-seasonings/sauces/tahini-paste.md)
         * 2 Garlic Cloves, minced
-        * 1 ml Kosher Salt
+        * 1/4 t Kosher Salt
     * Garnish
         * Scallions, chopped
         * Peanuts, smashed, toasted

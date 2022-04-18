@@ -1,12 +1,12 @@
 === "Ingredients"
     * 800 g Cabbage, cored, shredded
     * 400 g English Cucumber, thinly sliced
-    * 30 ml Dill Leaves
+    * 15 g Dill Leaves
     * Dressing
-        * 120 ml White Wine Vinegar
-        * 20 ml Kosher Salt
-        * 20 ml White Sugar
-        * 120 ml Water, cold
+        * 120 g White Wine Vinegar
+        * 4 t Kosher Salt
+        * 4 t White Sugar
+        * 120 g Water, cold
 
 === "Directions"
     1. **Mix dressing.** Whisk dressing ingredients together in a bowl until solid dissolve.

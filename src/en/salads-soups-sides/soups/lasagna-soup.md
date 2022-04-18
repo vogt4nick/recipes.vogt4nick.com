@@ -1,15 +1,15 @@
 === "Ingredients"
     * Broth
-        * 500 ml [Beef Stock](stocks/meat-stock.md)
-        * 5 ml [Italian Herbs](../../sauces-seasonings/seasonings/italian-herbs.md)
-    * 15 ml Olive Oil
-    * 45 ml Unsalted Butter
+        * 500 g [Beef Stock](stocks/meat-stock.md)
+        * 1 t [Italian Herbs](../../sauces-seasonings/seasonings/italian-herbs.md)
+    * 15 g Olive Oil
+    * 40 g Unsalted Butter
     * 110 g Onion, minced
     * 2 Garlic Cloves, minced
     * 330 g Beef, ground
-    * 5 ml Kosher Salt
-    * 2 ml Black Peppercorn, ground
-    * < 1 ml Nutmeg, ground
+    * 1 t Kosher Salt
+    * 1/2 t Black Peppercorn, ground
+    * < 1/4 t Nutmeg, ground
     * 500 g Tomatoes, peeled, chopped
     * 100 g Dry Rigatoni or Fusilli Pasta, cooked
     * 30 g Parmesan, grated

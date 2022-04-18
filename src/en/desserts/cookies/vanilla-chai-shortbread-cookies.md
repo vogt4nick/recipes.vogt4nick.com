@@ -1,15 +1,15 @@
 === "Ingredients"
     * Batter
-        * 240 ml Unsalted Butter
+        * 220 g Unsalted Butter
         * 60 g Powdered Sugar
         * 250 g All-Purpose Flour
-        * 3 ml Kosher Salt
-        * 25 ml Vanilla Chai Tea, loose leaf
+        * 1/4 t Kosher Salt
+        * 2 T Vanilla Chai Tea, loose leaf
     * Icing
         * 120 g Powdered Sugar
-        * 1 ml Cinnamon, ground
-        * 30 ml Water
-        * 5 ml Vanilla Extract
+        * 1/4 t Cinnamon, ground
+        * 30 g Water
+        * 1 t Vanilla Extract
 
 === "Directions"
     1. **Mix dough.** Mix butter and sugar in a large bowl until aerated cream forms. Add remaining batter ingredients. Mix until a cohesive, soft, tender dough forms.

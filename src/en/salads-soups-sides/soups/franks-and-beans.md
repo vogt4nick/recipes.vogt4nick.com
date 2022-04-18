@@ -1,21 +1,21 @@
 === "Ingredients"
-    * 15 ml Unsalted Butter
+    * 15 g Unsalted Butter
     * 110 g Onion, minced
     * 55 g Mild Pepper, minced
     * 15 g Hot Pepper, minced
     * 1 stem Chard, minced
-    * 2 ml Kosher Salt
-    * 1 ml Black Peppercorn, ground
+    * 1/2 t Kosher Salt
+    * 1/4 t Black Peppercorn, ground
     * 220 g Sausage, sliced
     * Seasonings
-        * 5 ml Brown Sugar
-        * 30 ml Ketchup
-        * 15 ml Mustard
-        * 2 ml Worcester Sauce
-    * 300 ml [Chicken Stock](stocks/meat-stock.md)
+        * 1 t Brown Sugar
+        * 30 g Ketchup
+        * 15 g Mustard
+        * 1/2 t Worcester Sauce
+    * 300 g [Chicken Stock](stocks/meat-stock.md)
     * 220 g Dry Kidney Beans, soaked, nearly cooked
     * 1 leaf Chard, sliced
-    * 30 ml Scallions, sliced
+    * 30 g Scallions, sliced
 
     !!! tip "Lightly score sausage skins from end to end on 4 sides."
         This helps keep them flat when they cook.

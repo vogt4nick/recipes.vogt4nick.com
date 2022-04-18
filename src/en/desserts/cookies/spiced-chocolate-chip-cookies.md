@@ -2,22 +2,22 @@
     * Dry Mix
         * 250 g All-Purpose Flour
         * 125 g Bread Flour
-        * 6 ml Baking Powder
-        * 6 ml Baking Soda
+        * 1 t Baking Powder
+        * 1 t Baking Soda
     * Spices
-        * 8 ml Dry Ginger, ground
-        * 4 ml Cinnamon, ground
-        * 2 ml Cardamom Seeds, ground
-        * 2 ml Cloves, ground
-        * 2 ml Allspice Peppercorns, ground
-        * 2 ml Black Peppercorns, ground
-        * 2 ml Kosher Salt
+        * 1/2 T Dry Ginger, ground
+        * 1 t Cinnamon, ground
+        * 1/2 t Cardamom Seeds, ground
+        * 1/2 t Cloves, ground
+        * 1/2 t Allspice Peppercorns, ground
+        * 1/2 t Black Peppercorns, ground
+        * 1/2 t Kosher Salt
     * Wet Mix
         * 220 g Unsalted Butter, melted, cooled slightly
         * 150 g Brown Sugar
         * 50 g White Sugar
         * 2 Eggs
-        * 10 ml Vanilla Paste
+        * 10 g Vanilla Paste
         * 350 g Dark Chocolate, chopped
 
 === "Directions"

@@ -1,8 +1,8 @@
 === "Ingredients"
     * 500 g Russet Potatoes, peeled, roughly chopped, parboiled
-    * 160 ml All-Purpose Flour
-    * 2 ml Salt
-    * 1 ml Nutmeg, ground (optional)
+    * 80 g All-Purpose Flour
+    * 1/2 t Salt
+    * 1/4 t Nutmeg, ground (optional)
     * 1 Egg, beaten
 
 === "Directions"

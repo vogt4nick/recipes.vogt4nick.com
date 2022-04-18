@@ -4,12 +4,12 @@ title: Crepes
 === "Ingredients"
     * Dry Mix
         * 130 g Flour
-        * 1 ml Salt
-        * 1-5 ml Sugar (optional)
-        * 1 ml Cinnamon (optional)
+        * 1/4 t Salt
+        * 1 t Sugar (optional)
+        * 1/4 t Cinnamon (optional)
     * 2 Eggs, beaten
     * 280 g Milk
-    * 26 g Olive Oil
+    * 25 g Olive Oil
 
     !!! info "These ingredients make four (4) crepes."
 

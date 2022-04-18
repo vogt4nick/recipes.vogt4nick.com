@@ -1,12 +1,12 @@
 === "Ingredients"
-    * 30 ml Olive Oil
+    * 25 g Olive Oil
     * 120 g Onion, minced
     * 120 g Celery, minced
     * 60 g Carrot, minced
     * 10 g Garlic, minced
     * 1 Bay Leaf
-    * 120 ml Dry White Wine
-    * 480 ml [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
+    * 120 g Dry White Wine
+    * 500 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
     * 200 g Dry Brown Lentils, soaked, drained
     * Kosher Salt
     * Black Peppercorn, ground

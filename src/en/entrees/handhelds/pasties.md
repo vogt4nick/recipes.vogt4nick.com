@@ -7,10 +7,10 @@
         * 100 g Celery or Radishes, minced
         * 100 g Onion, minced
         * 200 g Ground Beef
-        * 30 ml Parsley or Celery/Radish Greens, chopped
+        * 15 g Fresh Parsley or Celery/Radish Greens, chopped
     * For Egg Wash
         * 2 Eggs, beaten
-        * 10 ml Water
+        * 2 t Water
 
     ??? tip "The pie dough is intentionally overworked!"
         Ordinary pie dough is too delicate and flaky to stand up to 100 g of filling.

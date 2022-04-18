@@ -1,12 +1,12 @@
 === "Ingredients"
-    * 1000 ml [Stock](stocks/meat-stock.md)
+    * 1000 g [Stock](stocks/meat-stock.md)
     * 150 g Dry Beans, soaked, drained
     * 150 g Onion, chopped
     * 50 g Carrot, chopped
     * 50 g Celery, chopped
     * 50 g Kale, chopped
     * 2 Bay Leaves
-    * 5 ml Fresh Thyme Leaves
+    * 1 Sprig Thyme Leaves
     * Fresh Parsley, chopped
     * Kosher Salt
     * Black Peppercorn, ground

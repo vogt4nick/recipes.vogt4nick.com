@@ -1,21 +1,21 @@
 === "Ingredients"
-    * 30 ml Unsalted Butter
+    * 25 g Unsalted Butter
     * 250 g Smoked Ham, skinned, chopped
     * 100 g Carrots, minced
     * 100 g Celery, minced
     * 100 g Onions, minced
     * 2 Garlic Cloves, minced
-    * 2 ml Kosher Salt
-    * 45 ml All-Purpose Flour
+    * 1/2 t Kosher Salt
+    * 3 T All-Purpose Flour
     * Spices
         * 1 Bay Leaf
-        * 2 ml Black Peppercorns, ground
-        * 2 ml Cayenne Pepper, ground
-        * 2 ml Sage Leaves, chopped
-        * 2 ml Thyme Leaves, chopped
+        * 1/2 t Black Peppercorns, ground
+        * 1/2 t Cayenne Pepper, ground
+        * 1/2 t Sage Leaves, chopped
+        * 1/2 t Thyme Leaves, chopped
     * 200 g Dry Green Split Peas
-    * 750 ml [Chicken Stock](stocks/meat-stock.md)
-    * 10 ml White Vinegar (optional)
+    * 750 g [Chicken Stock](stocks/meat-stock.md)
+    * 2 t White Vinegar (optional)
     * For Serving
         * [Baguettes](../../dough/baguettes.md)
 

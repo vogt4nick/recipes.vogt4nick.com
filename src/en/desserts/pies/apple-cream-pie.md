@@ -1,10 +1,10 @@
 === "Ingredients"
     * Filling
         * 150 g White Sugar
-        * 30 ml All-Purpose Flour
-        * 5 ml Cinnamon, ground
-        * 5 ml Nutmeg, grated
-        * 120 ml Heavy Whipping Cream or Milk
+        * 15 g All-Purpose Flour
+        * 1 t Cinnamon, ground
+        * 1 t Nutmeg, grated
+        * 120 g Heavy Whipping Cream or Milk
         * 2 Eggs, beaten
     * 3 Green Apples, peeled, grated
     * 110 g Unsalted Butter, melted

@@ -1,7 +1,7 @@
 === "Ingredients"
     * 350 g Water, 95ºC
-    * 10 ml Sea Salt
-    * 2 ml Instant Dry Yeast
+    * 2 t Sea Salt
+    * 1/2 t Instant Dry Yeast
     * 500 g 00 Flour
 
     !!! question "Substitute all-purpose flour 1:1 for 00 flour."

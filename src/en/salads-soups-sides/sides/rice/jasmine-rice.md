@@ -2,7 +2,7 @@
     * 200 g Jasmine Rice
     * Cool water, for rinsing
     * 320 g Water
-    * 2 ml Kosher Salt
+    * 1/2 t Kosher Salt
 
 === "Directions"
     1. **Rinse** rice several times until water runs mostly clear.

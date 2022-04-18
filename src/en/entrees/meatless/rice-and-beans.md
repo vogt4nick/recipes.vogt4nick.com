@@ -1,12 +1,12 @@
 === "Ingredients"
-    * 15 ml Unsalted Butter (optional)
-    * 15 ml Canola Oil
+    * 1 T Unsalted Butter (optional)
+    * 1 T Canola Oil
     * 120 g Yellow Onion, minced
-    * 2 ml Cumin Seed, ground
+    * 1/2 t Cumin Seed, ground
     * 2 Garlic Cloves, minced
     * 240 g Black Beans, cooked
-    * 2 ml Kosher Salt
-    * 2 ml Cumin Seed, ground
+    * 1/2 t Kosher Salt
+    * 1/2 t Cumin Seed, ground
     * 360 g Rice, cooked
     * Garnish
         * Coriander Leaves, chopped

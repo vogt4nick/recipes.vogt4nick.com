@@ -3,8 +3,8 @@
     * 110 g Mozzarella, shredded, optional
     * 900 g [Roasted Sweet Potatoes](../../salads-soups-sides/sides/potatoes/roasted-potatoes.md)
     * 8 Small Tortillas (about 15 cm or 6")
-    * 15 ml Lime Juice
-    * 60 ml Coriander Leaves, chopped
+    * 1 T Lime Juice
+    * 4 sprigs Coriander Leaves, chopped
 
 === "Directions"
     1. **Preheat oven** to 425ºF (220ºC).

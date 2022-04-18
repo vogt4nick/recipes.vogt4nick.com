@@ -1,11 +1,11 @@
 === "Ingredients"
-    * 10 ml Extra Virgin Olive Oil
+    * 10 g Extra Virgin Olive Oil
     * 100 g Onion, minced
-    * 1 ml Kosher Salt
-    * 1 ml Black Peppercorn, ground
+    * 1/4 t Kosher Salt
+    * 1/4 t Black Peppercorn, ground
     * 900 g Tomatoes, peeled, quartered
-    * 500 ml [Vegetable Stock](stocks/vegetable-stock.md)
-    * 10 ml Parsley Leaves, chopped
+    * 500 g [Vegetable Stock](stocks/vegetable-stock.md)
+    * 5 g Parsley Leaves, chopped
     * For Garnish
         * Basil Leaves, chopped
 

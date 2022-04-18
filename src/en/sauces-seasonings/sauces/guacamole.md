@@ -4,10 +4,10 @@
     * 50 g Jalapeño Chile, seeded, minced
     * Seasonings
         * 1 Garlic Clove, minced
-        * 5 ml Chili Powder
+        * 1 t Chili Powder
         * Kosher Salt
         * Black Peppercorn, ground
-        * 15 ml Lime Juice
+        * 15 g Lime Juice
     * Garnish
         * Fresh Coriander Leaves
 

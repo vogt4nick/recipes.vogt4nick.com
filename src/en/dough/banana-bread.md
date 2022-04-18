@@ -1,17 +1,17 @@
 === "Ingredients"
     * Dry Mix
         * 180 g All-Purpose Flour
-        * 4 ml Baking Soda
-        * 4 ml Baking Powder
-        * 2 ml Kosher Salt
-        * 1 ml Cinnamon, ground
-        * 1 ml Nutmeg, grated
+        * 1 t Baking Soda
+        * 1 t Baking Powder
+        * 1/2 t Kosher Salt
+        * 1/4 t Cinnamon, ground
+        * 1/4 t Nutmeg, grated
     * 3 Ripe Bananas, peeled, mashed
     * 180 g White Sugar
     * 1 Egg
-    * 1 ml Vanilla Extract
+    * 1/4 t Vanilla Extract
     * 100 g Walnuts, toasted, chopped
-    * 30 ml Milk
+    * 30 g Milk
 
 === "Directions"
     1. **Preheat oven** to 325ºF (163ºC).
