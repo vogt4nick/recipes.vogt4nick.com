@@ -8,6 +8,8 @@
     * 1 T Olive Oil
     * 120 g Bread Flour
 
+    !!! info "Yields 8 flatbreads."
+
 === "Directions"
     1. **Mix sponge**. Add sponge ingredients to a large bowl. Whisk until smooth. Cover. Rest 30-60 minutes until bubbly.
     2. **Mix dough**. Add remaining ingredients to sponge. Stir until a soft and sticky dough ball forms. Kneed 2 minutes until a soft, slightly springy dough forms.
@@ -17,8 +19,6 @@
 
     ??? question "How do I roll the dough so thin?"
         Chef John has a [good video segment](https://www.youtube.com/watch?v=DfObqgc0TnQ&t=4m) on rolling the dough super thin.
-
-!!! info "Yields 8 flatbreads."
 
 [^1]:
     Mitzewich, John. ["Lebanese Mountain Bread – A Peak Flatbread Experience."](https://foodwishes.blogspot.com/2017/07/lebanese-mountain-bread-peak-flatbread.html) *Food Wishes.* 11 July 2017.

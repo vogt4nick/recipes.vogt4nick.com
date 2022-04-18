@@ -6,6 +6,8 @@
     * 25 g Vegetable Oil
     * 315 g All-Purpose Flour
 
+    !!! info "Yields one large pizza or two medium pizzas."
+
 === "Directions"
     1. **Activate yeast**. Add yeast, sugar, water in mixing bowl. Mix. Rest 10 minutes until yeast activates.
     2. **Mix dough**. Add oil and salt. Gradually add flour and mix until dough is no longer sticky.
@@ -14,7 +16,5 @@
 
     ??? question "How do I shape pizza?"
         Choose either [Neopolitan style (video)](https://www.youtube.com/watch?v=ITZWe_mOevw) or [New York style (video)](https://www.youtube.com/watch?v=FNv4kmDzR9k).
-
-!!! info "Yields one large pizza or two medium pizzas."
 
 [^1]: Walter, Elise.

@@ -6,10 +6,10 @@
     * 1/4 t Kosher Salt
     * 1/2 t Black Peppercorn, ground
 
+    !!! info "Yields about 300 g"
+
 === "Directions"
     1. **Puree vinaigrette.** Add red bell pepper in a food processor. Puree until smooth. Add remaining ingredients. Puree until smooth.
-
-!!! info "Yields about 300 g"
 
 [^1]:
     Perelman, Deb. ["Summer Pea and Roasted Red Pepper Pasta Salad."](https://smittenkitchen.com/2009/08/summer-pea-and-roasted-red-pepper-pasta-salad/) *Smitten Kitchen.* 8 August 2009.

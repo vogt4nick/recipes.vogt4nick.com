@@ -15,14 +15,14 @@
     ??? tip "The pie dough is intentionally overworked!"
         Ordinary pie dough is too delicate and flaky to stand up to 100 g of filling.
 
+    !!! info "Yields 7 Pasties"
+
 === "Directions"
     1. **Preheat oven** to 350 F (175 C).
     2. **Mix filling** ingredients.
     3. **Shape pasty.** Repeat for six hand pies: Transfer dough to a lightly floured surface. Rollout dough into large 6 mm disc. Brush inside face with egg wash. Add filling in a line down the middle of the disc. Wrap, crimp, and seal pasty so that the seal sits on top of the filling. Brush outside face with remaining egg wash. Transfer to parchment-lined sheetpan.
     4. **Bake** 60 minutes at 350 F until golden brown.
     5. **Cool** 15 minutes before serving.
-
-!!! info "Yields 7 Pasties"
 
 [^1]:
     King, Si, and Dave Myers. ["Cornish Pasty."](https://www.hairybikers.com/recipes/view/cornish-pasty) *Hairy Bikers.* December 2015.

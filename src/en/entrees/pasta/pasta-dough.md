@@ -1,8 +1,8 @@
-!!! info "Yields about 400 g"
-
 === "Ingredients"
     * 2 Eggs
     * 125 g All-Purpose Flour
+
+    !!! info "Yields about 400 g"
 
 === "Directions"
     1. **Prepare mix.** Pour the flour onto a work surface, shape it into a mound, and scoop out a deep hollow in its center. Break the eggs into the hollow.
