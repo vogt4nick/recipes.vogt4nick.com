@@ -20,6 +20,8 @@
         * 10 g Vanilla Paste
         * 350 g Dark Chocolate, chopped
 
+    !!! info "Yields 24 cookies."
+
 === "Directions"
     1. **Preheat oven** to 350ºF (177ºC).
     2. **Mix dry mix.** Whisk dry mix and spices until combined.
@@ -30,8 +32,6 @@
     7. **Cool** 60 minutes until solid.
 
     !!! tip "Chill dough 30 minutes before baking if the kitchen is hot and the dough is loose and greasy."
-
-!!! info "Yields 24 cookies."
 
 [^1]:
     Adarme, Adrianna. ["Chai Masala Chocolate Chip Cookies."](https://www.acozykitchen.com/chai-chocolate-chip-cookies#wprm-recipe-container-38047) *A Cozy Kitchen.* 19 October 2017.

@@ -1,6 +1,3 @@
-??? info "Yields about 800 g."
-    Note that cooked legumes yield about 2x-3x their dry weight. Here's a [chart](https://www.seriouseats.com/2014/04/is-there-a-ratio-for-converting-between-dried.html) for some beans.
-
 === "Ingredients"
     * 300 g Legumes, slightly undercooked, warm
     * 25 g Red Onion or Shallots
@@ -12,6 +9,9 @@
         * Fresh Parsley Leaves, chopped
 
     !!! tip "This recipes works for all legumes."
+
+    ??? info "Yields about 800 g."
+        Note that cooked legumes yield about 2x-3x their dry weight. Here's a [chart](https://www.seriouseats.com/2014/04/is-there-a-ratio-for-converting-between-dried.html) for some beans.
 
 === "Directions"
     1. **Combine.** Add onion, red wine vinegar, olive oil, salt, pepper to large bowl. Stir to combine. Add legumes. Toss gently.

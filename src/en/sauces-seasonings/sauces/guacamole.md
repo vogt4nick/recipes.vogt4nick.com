@@ -11,11 +11,11 @@
     * Garnish
         * Fresh Coriander Leaves
 
+    !!! info "Yields about 400 g"
+
 === "Directions"
     1. **Combine.** Mash avocados together in a bowl. Stir in shallots, chile, seasonings.
     2. **Garnish** with cilantro.
-
-!!! info "Yields about 400 g"
 
 !!! info "Refrigerate up to 4 hours."
 

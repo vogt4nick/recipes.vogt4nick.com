@@ -13,6 +13,8 @@
     * For Coating
         * 100 g White Sugar
 
+    !!! info "Yields 24 cookies."
+
 === "Directions"
     1. **Combine dry mix.** Set aside.
     2. **Mix dough.** Whip butter for 60 seconds until creamy. Slowly add sugars while whipping until completely creamed and smooth. Mix in egg until combined. Mix in peanut butter and vanilla until combined. Slowly mix in the dry mix until just incorporated.
@@ -26,8 +28,6 @@
 
     ??? tip "If chilling for longer than a few hours..."
         Allow the dough to sit at room temperature for at least 30 minutes before rolling and baking because the dough will be quite hard and the cookies may not spread much.
-
-!!! info "Yields 24 cookies."
 
 [^1]:
     McKenney, Sally. ["Classic Peanut Butter Blossoms."](https://sallysbakingaddiction.com/classic-peanut-butter-blossoms/#tasty-recipes-69682) *Sally's Baking Addiction.* 9 December 2016.

@@ -1,5 +1,3 @@
-!!! tip "Yields ~160 g"
-
 === "Ingredients"
     * 10 g Basil Leaves
     * 10 g Oregano Leaves
@@ -8,5 +6,7 @@
     * 5 g Rosemary Leaves
     * 1 g Black Peppercorn, ground
     * 1 g Cayenne Pepper, ground
+
+    !!! tip "Yields about 160 g"
 
 !!! tip "Store in an airtight container."

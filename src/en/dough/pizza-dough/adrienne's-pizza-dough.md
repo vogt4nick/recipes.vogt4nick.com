@@ -6,6 +6,8 @@
 
     !!! question "Substitute all-purpose flour 1:1 for 00 flour."
 
+    !!! info "Yields about three medium pizzas."
+
 === "Directions"
     1. **Mix dough.** Add water, salt to large (>5L) dough tub. Stir until dissolved. Add yeast. Rest 60 seconds. Mix until dissolved. Add flour. Stir until dough ball forms.
     2. **Knead & rest.** Cut and fold the dough a few times using [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s). Verify dough temperature is about 80ºF (27ºC). Rest 20 minutes.
@@ -17,8 +19,6 @@
         Choose either [Neopolitan style (video)](https://www.youtube.com/watch?v=ITZWe_mOevw) or [New York style (video)](https://www.youtube.com/watch?v=FNv4kmDzR9k).
 
     !!! question "Divide dough into 5 equal pieces for thin crust."
-
-!!! info "Yields about three medium pizzas."
 
 [^1]:
     Forkish, Ken. [*The Elements of Pizza*](https://amazon.com/dp/160774838X). Ten Speed Press, 2016.

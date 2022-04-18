@@ -10,6 +10,8 @@
     * 30 g Coriander Leaves, chopped
     * 45 g Lime Juice
 
+    !!! info "Yields about 500 g"
+
 === "Directions"
     1. **Sauté vegetables.** Heat oil in a saucepan over medium heat. Sauté chili pepper, onion, garlic for 5 minutes.
     2. **Simmer.** Add tomatoes, sugar, salt, black pepper. Simmer 20 minutes, stirring occasionally, until the mixture has thickened.
@@ -17,8 +19,6 @@
 
     ??? question "What if my salsa looks too thick?"
         Thin it with hot water.
-
-!!! info "Yields about 500 g"
 
 !!! info "Refrigerate up to 48 hours."
 
