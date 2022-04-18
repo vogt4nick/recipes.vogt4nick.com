@@ -35,10 +35,16 @@ jobs:
         with:
           name: site
           path: ${{ env.MKDOCS_SITE_DIR }}
+  pre-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+      - uses: pre-commit/action@v2.0.3
   deploy-dev:
     if: github.ref == 'refs/heads/dev'
     name: Deploy to dev
-    needs: build
+    needs: [build, pre-commit]
     runs-on: ubuntu-latest
     steps:
       - name: Download site
@@ -57,7 +63,7 @@ jobs:
   deploy-prod:
     if: github.ref == 'refs/heads/main'
     name: Deploy to prod
-    needs: build
+    needs: [build, pre-commit]
     runs-on: ubuntu-latest
     steps:
       - name: Download site
