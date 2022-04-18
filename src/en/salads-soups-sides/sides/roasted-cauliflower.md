@@ -13,5 +13,3 @@
     Makan, Chetna.
     ["Roast Cauliflower Chickpea Curry."](https://chetnamakan.co.uk/roast-cauliflower-chickpea-curry/)
     chetnamakan.co.uk.
-
---8<-- "overrides/includes/temperatures.md"
