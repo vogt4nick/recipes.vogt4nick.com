@@ -1,8 +1,8 @@
 === "Ingredients"
     * Spices
-        * 1/2 T Turmeric
+        * 1/2 T Turmeric Root, ground
         * 1 t Cumin Seed, ground
-        * 1/4 t Cinnamon (optional)
+        * 1/4 t Cinnamon, ground
     * 25 g Unsalted Butter
     * 4 Garlic Cloves, minced
     * 180 g Jasmine Rice, rinsed
