@@ -4,7 +4,7 @@ title: Red lentils & greens
 === "Ingredients"
     * Lentils
         * 200 g Dry Red Lentils, rinsed
-        * 1/2 t Turmeric, ground
+        * 1/2 t Turmeric Root, ground
         * 480 g Water
     * 3 Tomatoes, peeled, diced
     * 120 g Spinach, stems removed, chopped

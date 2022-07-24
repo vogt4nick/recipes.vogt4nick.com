@@ -2,7 +2,7 @@
     * 3 T Yellow Spices
         * 1 T Coriander Seed, ground
         * 1/2 T Kosher Salt
-        * 1/2 T Turmeric, ground
+        * 1/2 T Turmeric Root, ground
         * 1/2 t Cardamom, ground
         * 1/2 t Cayenne Pepper, ground
         * 1/2 t Cinnamon, ground
