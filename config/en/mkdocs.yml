@@ -21,6 +21,11 @@ extra:
       Ludwinski, Lisa, and E. E. Berger. [*Sister Pie: The Recipes & Stories of a Big-hearted Bakery in Detroit*](https://www.amazon.com/dp/0399579761). California: Lorena Jones Books, an Imprint of Crown Publishing Group, 2018.
     perelman_the_smitten_kitchen_cookbook: >-
       Perelman, Deb. [*The Smitten Kitchen Cookbook*](https://www.amazon.com/dp/030759565X/). New York, NY: Alfred A. Knopf, 2017.
+plugins:
+  - search:
+      lang: en
+  - tags:
+      tags_file: index.md
 site_dir: ../../site/en
 site_name: Nick's Recipes
 site_url: http://recipes.vogt4nick.com/

@@ -19,6 +19,11 @@ extra:
       Müller, Anna, and Olga Walser.
       [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
       Verlag E. DORNER Gmbh, 2017.
+plugins:
+  - search:
+      lang: de
+  - tags:
+      tags_file: index.md
 site_dir: ../../site/at
 site_name: dem Nick seine Rezepte
 site_url: http://rezepte.vogt4nick.com/
