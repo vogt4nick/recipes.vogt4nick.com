@@ -1,3 +1,7 @@
+---
+tags:
+  - weeknight meal
+---
 === "Ingredients"
     * 450 g [BBRRR Chicken](../../entrees/poultry/bbrrr-chicken.md), cubed
     * 45 g Shallots, minced

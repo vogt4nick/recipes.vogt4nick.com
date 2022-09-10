@@ -1,3 +1,7 @@
+---
+tags:
+  - weeknight meal
+---
 === "Ingredients"
     * 150 g Dressing
         * 80 g Extra Virgin Olive Oil

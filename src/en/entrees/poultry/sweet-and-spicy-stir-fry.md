@@ -1,5 +1,7 @@
 ---
 title: Sweet & spicy stir fry
+tags:
+  - weeknight meal
 ---
 === "Ingredients"
     * Marinated Chicken

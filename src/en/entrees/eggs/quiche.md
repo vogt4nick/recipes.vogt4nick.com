@@ -1,3 +1,7 @@
+---
+tags:
+  - weeknight meal
+---
 === "Ingredients"
     * 1 [Savory Piecrust](../../dough/crusts/pie-crust.md), blind baked, cooled
     * 300 g Sausage or Bacon, cooked

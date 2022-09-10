@@ -1,3 +1,7 @@
+---
+tags:
+  - weeknight meal
+---
 === "Ingredients"
     * 400 g Beef Shin, diced
     * 150 g Onion, roughly chopped

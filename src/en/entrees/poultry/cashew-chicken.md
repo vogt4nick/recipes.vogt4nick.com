@@ -1,3 +1,7 @@
+---
+tags:
+  - weeknight meal
+---
 === "Ingredients"
     * Marinated Chicken
         * 200 g Chicken Breast, chopped
