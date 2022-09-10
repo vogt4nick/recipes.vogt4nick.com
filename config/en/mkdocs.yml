@@ -22,6 +22,7 @@ extra:
     perelman_the_smitten_kitchen_cookbook: >-
       Perelman, Deb. [*The Smitten Kitchen Cookbook*](https://www.amazon.com/dp/030759565X/). New York, NY: Alfred A. Knopf, 2017.
 plugins:
+  - macros
   - search:
       lang: en
   - tags:
