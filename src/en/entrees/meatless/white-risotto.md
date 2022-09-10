@@ -1,5 +1,5 @@
 ???+ quote "Marcella Hazan in *Essentials of Classic Italian Cooking*"
-    You must never stop stirrig and you must be sure to wipe the bottom of the pot completely clean frequently, or the rice will stick to it.
+    You must never stop stirring and you must be sure to wipe the bottom of the pot completely clean frequently, or the rice will stick to it.
 
 === "Ingredients"
     * 1200 g [Vegetable Stock](../../salads-soups-sides/soups/stocks/vegetable-stock.md), simmering
