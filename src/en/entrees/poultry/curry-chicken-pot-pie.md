@@ -15,6 +15,8 @@
     * 1/2 Black Peppercorn, ground
     * 400 g [BBRRR Chicken](bbrrr-chicken.md), cubed
 
+    !!! info "These ingredients make about 4 large servings."
+
 === "Directions"
     1. **Preheat the oven** to 200ºC (400ºF).
     2. **Shape dough.** Seal seams of the puff pastry dough using a rolling pin. Dock the sheet by piercing it several times with a fork. Cut into 12 5-cm rounds, place on a half sheet pan, and cool in refrigerator while preparing the rest of the casserole.
