@@ -9,7 +9,7 @@
         * 1 t Cumin Seed, ground
         * 1/2 t Cayenne Pepper, ground
         * 1/2 t Kosher Salt
-    * 400 g [Chicken Stock](../../soups/stocks/meat-stock.md), boiling
+    * 400 g [Chicken Stock](../soups/stocks/meat-stock.md), boiling
     * 100 g Tomato Sauce
 
 === "Directions"

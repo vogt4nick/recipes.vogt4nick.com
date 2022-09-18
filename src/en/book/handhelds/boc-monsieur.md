@@ -4,13 +4,13 @@ title: B.O.C. monsieur
 
 === "Ingredients"
     * Beef Broth
-        * 1000 g [Beef Stock](../../salads-soups-sides/soups/stocks/meat-stock.md)
+        * 1000 g [Beef Stock](../soups/stocks/meat-stock.md)
         * 1 T Herbs de Provence
         * 1 Bay Leaf
     * Sandwich Loaves
-        * 1 [Baguette](../../dough/baguettes.md), crosscut, cut into 20 cm lengths
+        * 1 [Baguette](../bread/baguettes.md), crosscut, cut into 20 cm lengths
         * 8 Garlic Cloves, minced
-    * [Caramelized Onions](../../salads-soups-sides/sides/caramelized-onions.md)
+    * [Caramelized Onions](../vegetables/caramelized-onions.md)
         * 300 g Yellow Onion, sliced
         * 200 g White Onion, sliced
         * 100 g Shallots, sliced

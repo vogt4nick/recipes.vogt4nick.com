@@ -8,7 +8,7 @@
         * 1 t Cumin Seed, ground
         * 1/2 t Black Peppercorn, ground
         * 1 Bay Leaf
-    * 240 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
+    * 240 g [Vegetable Stock](../soups/stocks/vegetable-stock.md)
     * 360 g Tomatoes, peeled, chopped
     * 200 g Dry Brown Lentils, soaked, drained
     * 1/2 t Kosher Salt

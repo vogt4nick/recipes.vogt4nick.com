@@ -11,7 +11,7 @@ tags:
     * 15 g Red Wine Vinegar
     * 1 t Kosher Salt
     * 1 t Garlic Powder
-    * 1 t [Garam Masala](../../sauces-seasonings/seasonings/garam-masala.md)
+    * 1 t [Garam Masala](../seasonings/garam-masala.md)
 
 === "Directions"
     1. **Marinate chicken**. Combine all ingredients in a ziploc bag. Marinate in refrigerator overnight or at least one hour.

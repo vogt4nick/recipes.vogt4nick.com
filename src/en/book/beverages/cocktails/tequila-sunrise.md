@@ -7,4 +7,4 @@
         * Maraschino Cherry
 
 ??? tip "Pair with spicy seafood or spanish entrees."
-    e.g. [Quesadillas](../../entrees/handhelds/quesadillas.md)
+    e.g. [Quesadillas](../../handhelds/quesadillas.md)

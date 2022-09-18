@@ -5,7 +5,7 @@ tags:
 === "Ingredients"
     * 400 g Beef Shin, diced
     * 150 g Onion, roughly chopped
-    * 500 g [Beef Stock](../../salads-soups-sides/soups/stocks/meat-stock.md)
+    * 500 g [Beef Stock](../soups/stocks/meat-stock.md)
     * 1 t Kosher Salt
     * 1 T Tomato Paste
     * 1 Sprig Parsley Leaves, chopped

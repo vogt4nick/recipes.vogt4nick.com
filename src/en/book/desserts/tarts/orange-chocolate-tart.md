@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 1 [Tart Crust, blind-baked](../../dough/crusts/tart-crust.md)
+    * 1 [Tart Crust, blind-baked](../../bread/crusts/tart-crust.md)
     * 1 [Orange Peel, candied](../candied-orange-peel.md), chopped
     * Almond Mixture
         * 70 g Almonds, sliced, toasted, roughly chopped

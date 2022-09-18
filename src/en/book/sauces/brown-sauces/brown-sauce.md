@@ -8,7 +8,7 @@
     * 80 g Celery, minced
     * 80 g Onion, minced
     * 30 g All-Purpose Flour
-    * 1500 g [Beef Stock](../../../salads-soups-sides/soups/stocks/meat-stock.md), boiling
+    * 1500 g [Beef Stock](../../soups/stocks/meat-stock.md), boiling
     * 30 g Tomato Paste
     * 1 T Herbs de Provence
 

@@ -20,7 +20,7 @@
         * 1/2 T Kosher Salt
         * 225 g Cranberries
         * 100 g Bosc Pear, peeled, grated
-    * 1 [Pie Crust, blind baked](../../dough/crusts/pie-crust.md)
+    * 1 [Pie Crust, blind baked](../../bread/crusts/pie-crust.md)
     * 30 g Cream Cheese, room temperature
     * 1 Egg, beaten
     * For Serving

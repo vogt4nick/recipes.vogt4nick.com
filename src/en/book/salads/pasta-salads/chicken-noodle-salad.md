@@ -9,7 +9,7 @@
         * 3 Garlic Cloves, minced
         * 5 g Sesame Oil
     * 220 g Dry Spaghetti, cooked, rinsed, drained
-    * 220 g [BBRRR Chicken](../../../entrees/poultry/bbrrr-chicken.md), shredded
+    * 220 g [BBRRR Chicken](../../poultry/bbrrr-chicken.md), shredded
     * 120 g Carrots, grated
     * 1 Red Bell Pepper, thinly sliced
     * 4 Green Onions, thinly sliced

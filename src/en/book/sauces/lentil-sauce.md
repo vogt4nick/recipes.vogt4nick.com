@@ -8,7 +8,7 @@
         * 1 sprig Sage Leaves, chopped
         * 2 Cloves
     * 150 g Dry Lentils du Puy
-    * 300 g [Vegetable Stock](../../salads-soups-sides/soups/stocks/vegetable-stock.md)
+    * 300 g [Vegetable Stock](../soups/stocks/vegetable-stock.md)
 
     ??? question "Substitutions"
         Substitute water for stock if necessary.

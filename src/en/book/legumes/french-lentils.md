@@ -6,7 +6,7 @@
     * 10 g Garlic, minced
     * 1 Bay Leaf
     * 120 g Dry White Wine
-    * 500 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
+    * 500 g [Vegetable Stock](../soups/stocks/vegetable-stock.md)
     * 200 g Dry Brown Lentils, soaked, drained
     * Kosher Salt
     * Black Peppercorn, ground

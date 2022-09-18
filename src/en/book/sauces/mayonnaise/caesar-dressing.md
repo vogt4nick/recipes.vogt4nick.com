@@ -10,7 +10,7 @@
     * 1/4 t Black Peppercorn, ground
 
 === "Fancy Ingredients"
-    * 2 [Egg Yolks, poached](../../../entrees/eggs/poached-eggs.md)
+    * 2 [Poached Egg Yolks](../../eggs/poached-eggs.md)
     * 2 Garlic Cloves, minced
     * 3 Anchovy Fillets
     * 180 g [Mayonnaise](mayonnaise.md)

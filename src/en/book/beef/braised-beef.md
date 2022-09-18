@@ -6,7 +6,7 @@
         * Black Peppercorn, ground
     * Roux
         * Flour
-        * 1000 g [Beef Stock](../../salads-soups-sides/soups/stocks/meat-stock.md), cool
+        * 1000 g [Beef Stock](../soups/stocks/meat-stock.md), cool
     * Seasonings
         * Garlic Cloves
         * Bay Leaf
@@ -17,7 +17,7 @@
         * Carrot, roughly chopped
         * Parsnip, roughly chopped
         * Celery, roughly chopped
-    * [Crostinis](../../salads-soups-sides/sides/crostinis.md)
+    * [Crostinis](../bread/crostinis.md)
 
 === "Directions"
     1. **Rub beef** with salt and black pepper.

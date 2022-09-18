@@ -1,5 +1,5 @@
 === "Ingredients"
-    * [Cuban Bread](../../dough/cuban-bread.md)
+    * [Cuban Bread](../bread/cuban-bread.md)
     * Spread
         * Mayonnaise
         * Mustard

@@ -10,7 +10,7 @@
     * 120 g Onion, minced
     * 180 g Apple, peeled, chopped
     * 25 g Flour
-    * 500 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md), cold
+    * 500 g [Vegetable Stock](../soups/stocks/vegetable-stock.md), cold
     * 15 g White Vinegar
     * 5 g Dijon Mustard
     * Kosher Salt

@@ -2,7 +2,7 @@
     Pad thai has to cook *fast*, and it can't cook fast if you're still crushing peanuts and slicing limes.
 
 === "Ingredients"
-    * 150 g [Pad Thai Sauce](../../sauces-seasonings/sauces/pad-thai-sauce.md)
+    * 150 g [Pad Thai Sauce](../sauces/pad-thai-sauce.md)
     * 80 g Rice Sticks
     * 55 g Canola Oil
     * 60 g Chicken Breast, chopped

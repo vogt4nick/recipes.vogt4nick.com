@@ -1,8 +1,8 @@
 === "Ingredients"
     * 400 g Frisee Lettuce, chopped
     * 200 g Bacon, chopped, cooked
-    * 4 [Eggs, poached](../../../entrees/eggs/poached-eggs.md)
-    * [Lyonnaise Vinaigrette](../../../sauces-seasonings/sauces/vinaigrettes/lyonnaise-vinaigrette.md)
+    * 4 [Eggs, poached](../../eggs/poached-eggs.md)
+    * [Lyonnaise Vinaigrette](../../sauces/vinaigrettes/lyonnaise-vinaigrette.md)
     * Garnish
         * Chives, chopped
         * Parmigiano-Reggiano, grated
