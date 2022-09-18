@@ -31,8 +31,6 @@ site_dir: ../../site/en
 site_name: Nick's Recipes
 site_url: http://recipes.vogt4nick.com/
 theme:
-  features:
-    - toc.follow
   language: en
   palette:
     - media: "(prefers-color-scheme: light)"

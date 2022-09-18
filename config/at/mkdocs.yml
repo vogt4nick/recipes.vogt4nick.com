@@ -28,8 +28,6 @@ site_dir: ../../site/at
 site_name: dem Nick seine Rezepte
 site_url: http://rezepte.vogt4nick.com/
 theme:
-  features:
-    - toc.follow
   language: de
   palette:
     - media: "(prefers-color-scheme: light)"
