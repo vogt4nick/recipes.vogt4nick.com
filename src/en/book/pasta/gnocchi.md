@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 450 g [Russet Potatoes, baked](baked-potato.md), peeled
+    * 450 g [Russet Potatoes, baked](../vegetables/baked-potato.md), peeled
     * 30 g Ricotta (optional)
     * 1 Egg, beaten
     * 80 g All-Purpose Flour

@@ -1,7 +1,7 @@
 === "Ingredients"
     * 2 T Salt
     * 1/2 t Baking Soda
-    * 900 g Russet Potatoes, peeled, quartered
+    * 900 g Starchy Potatoes, peeled, quartered
     * 80 g Cooking Fat
     * 3 sprigs Rosemary Leaves
     * 1/2 T Black Peppercorn, ground

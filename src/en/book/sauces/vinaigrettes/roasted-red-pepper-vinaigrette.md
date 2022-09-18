@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 200 g [Red Bell Pepper, roasted, skinned, seeded](../../vegetables/roasted-bell-peppers.md)
+    * 200 g [Red Bell Pepper, roasted, skinned, seeded](../../vegetables/oven-roasted-vegetables/oven-roasted-bell-peppers.md)
     * 50 g Olive Oil
     * 45 g Red Wine Vinegar
     * 15 g Shallots, minced
