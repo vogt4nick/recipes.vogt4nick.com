@@ -3,7 +3,7 @@ title: BBRRR chicken
 ---
 === "Ingredients"
     * 1000 g Salt Water, warm
-    * Chicken Breasts
+    * Raw Chicken Breasts
     * Garlic Butter
         * 25 g Unsalted Butter, melted
         * 4 Garlic Cloves, minced

@@ -13,7 +13,7 @@
     * 2 T Dried Parsley Leaves
     * 1 t Kosher Salt
     * 1/2 Black Peppercorn, ground
-    * 400 g [BBRRR Chicken](bbrrr-chicken.md), cubed
+    * 400 g [BBRRR Chicken](oven-roasted-chicken/bbrrr-chicken-breast.md), cubed
 
     !!! info "These ingredients make about 4 large servings."
 

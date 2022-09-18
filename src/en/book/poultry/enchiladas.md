@@ -16,7 +16,7 @@ tags:
         * 1/2 t Black Peppercorn, ground
         * 30 g Water, cold
         * 400 g Refried Beans
-        * 400 g Chicken, cooked, diced
+        * 400 g [Raw Chicken, roasted](oven-roasted-chicken/bbrrr-chicken-breast.md), diced
     * 10 Flour Tortillas
     * 200 g Cheddar Cheese, shredded
     * 50 g Green Chiles, chopped

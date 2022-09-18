@@ -12,7 +12,7 @@ tags:
         * 2 Garlic Cloves, minced
         * 5 g Ginger, grated
         * 1 t Crushed Red Pepper
-        * 225 g Chicken Breast, cubed
+        * 225 g Raw Chicken Breast, cubed
     * Steamed Veggies
         * 225 g Broccoli, golf-ball sized florets
         * 110 g Water Chestnuts, sliced

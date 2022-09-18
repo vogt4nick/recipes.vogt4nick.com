@@ -4,7 +4,7 @@ tags:
 ---
 === "Ingredients"
     * Marinated Chicken
-        * 200 g Chicken Breast, chopped
+        * 200 g Raw Chicken Breast, chopped
         * 50 g Soy Sauce
         * 10 g Brown Sugar
         * 1 t Red Pepper Flakes

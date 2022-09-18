@@ -3,7 +3,7 @@ tags:
   - weeknight meal
 ---
 === "Ingredients"
-    * 300 g Chicken Thighs, boneless, skinless, chopped
+    * 300 g Raw Chicken Thighs, boneless, skinless, chopped
     * 40 g Olive Oil
     * 30 g Sour Cream
     * 15 g Tomato Paste

@@ -5,7 +5,7 @@
     * 150 g [Pad Thai Sauce](../sauces/pad-thai-sauce.md)
     * 80 g Rice Sticks
     * 55 g Canola Oil
-    * 60 g Chicken Breast, chopped
+    * 60 g Raw Chicken Breast, chopped
     * 2 Garlic Cloves, chopped (optional)
     * 1 Egg
     * 15 g Peanuts, roughly ground
