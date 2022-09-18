@@ -6,7 +6,7 @@
     * 15 g Unsalted Butter
     * 25 g Vegetable Oil
     * 30 g Onion, minced
-    * 400 g Arborio Rice, unrinsed
+    * 400 g Dry Arborio Rice, unrinsed
     * Garnish
         * 25 g Unsalted Butter
         * 80 g Parmesan Cheese, grated

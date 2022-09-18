@@ -5,7 +5,7 @@
         * 1/4 t Cinnamon, ground
     * 25 g Unsalted Butter
     * 4 Garlic Cloves, minced
-    * 180 g Jasmine Rice, rinsed
+    * 180 g Dry Jasmine Rice, rinsed
     * 360 g [Chicken Stock](../soups/stocks/meat-stock.md)
     * 1 Bay Leaf
 

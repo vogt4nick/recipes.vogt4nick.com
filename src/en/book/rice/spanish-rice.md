@@ -1,6 +1,6 @@
 === "Ingredients"
     * 15 g Unsalted Butter
-    * 300 g Long-Grain White Rice, soaked 20 minutes
+    * 300 g Dry Long-Grain White Rice, soaked 20 minutes
     * 2 Jalapeños, minced
     * 2 Scallions, thinly sliced, greens reserved
     * Seasonings

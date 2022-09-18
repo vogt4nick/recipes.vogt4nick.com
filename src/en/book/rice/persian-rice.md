@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 200 g Basmati Rice, rinsed, soaked 20 minutes
+    * 200 g Dry Basmati Rice, rinsed, soaked 20 minutes
     * 100 g Lentils or Basmati Rice
     * Salt Water
     * 15 g Olive Oil

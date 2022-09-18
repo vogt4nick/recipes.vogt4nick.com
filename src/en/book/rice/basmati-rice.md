@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 200 g Basmati Rice
+    * 200 g Dry Basmati Rice
     * Cool water, for rinsing and soaking
     * 400 g Water
     * 1/2 t Kosher Salt
