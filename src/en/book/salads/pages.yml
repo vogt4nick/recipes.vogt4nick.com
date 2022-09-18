@@ -1,6 +1,1 @@
-arrange:
-  - bean-salads
-  - green-salads
-  - pasta-salads
-  - slaws
-  - ...
+order: asc

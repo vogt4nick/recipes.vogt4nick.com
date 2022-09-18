@@ -1,6 +1,1 @@
-arrange:
-  - brown-sauces
-  - mayonnaise
-  - vinaigrettes
-  - white-sauces
-  - ...
+order: asc
