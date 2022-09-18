@@ -1,0 +1,5 @@
+title: Recipe Book
+order: asc
+arrange:
+  - index.md
+  - ...

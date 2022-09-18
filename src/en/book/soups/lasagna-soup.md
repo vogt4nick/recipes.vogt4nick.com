@@ -1,7 +1,7 @@
 === "Ingredients"
     * Broth
         * 500 g [Beef Stock](stocks/meat-stock.md)
-        * 1 t [Italian Herbs](../../sauces-seasonings/seasonings/italian-herbs.md)
+        * 1 t [Italian Herbs](../seasonings/italian-herbs.md)
     * 15 g Olive Oil
     * 40 g Unsalted Butter
     * 110 g Onion, minced

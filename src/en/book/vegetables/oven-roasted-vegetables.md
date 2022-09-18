@@ -17,4 +17,4 @@
 
 
 ???+ note "Specialized recipes have their own recipes."
-    e.g. [Roasted Potatoes](potatoes/roasted-potatoes.md) and [BBRRR Chicken](../recipes/poultr../poultry/bbrrr-chicken.md
+    e.g. [Roasted Potatoes](potatoes/roasted-potatoes.md) and [BBRRR Chicken](../poultry/bbrrr-chicken.md)

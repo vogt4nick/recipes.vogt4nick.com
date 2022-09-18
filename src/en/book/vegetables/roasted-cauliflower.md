@@ -3,7 +3,7 @@
     * 25 g Neutral Oil
     * 1/2 t Kosher Salt
     * 1/2 t Turmeric Root, ground
-    * 1 T Harissa or [Garam Masala](../../sauces-seasonings/seasonings/garam-masala.md)
+    * 1 T Harissa or [Garam Masala](../seasonings/garam-masala.md)
 
 === "Directions"
     1. **Combine ingredients** and coat cauliflower uniformly.

@@ -18,7 +18,7 @@ tags:
     * 1 Bay Leaf
     * 30 g White Vinegar, distilled
     * To Garnish
-        * 120 g [Crème Fraîche](../../sauces-seasonings/sauces/creme-fraiche.md) or Sour Cream
+        * 120 g [Crème Fraîche](../sauces/creme-fraiche.md) or Sour Cream
         * 30 g Scallions, sliced (optional)
 
 === "Directions"

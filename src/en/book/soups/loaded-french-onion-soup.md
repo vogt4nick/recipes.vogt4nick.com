@@ -5,7 +5,7 @@
         * 1 Bay Leaf
     * Bacon Bits
         * 225 g Bacon, thick cut, diced
-    * [Caramelized Onions](../sides/caramelized-onions.md)
+    * [Caramelized Onions](../vegetables/caramelized-onions.md)
         * 300 g Yellow Onion, sliced
         * 200 g Red Onion, sliced
         * 100 g Shallots, sliced
@@ -13,7 +13,7 @@
     * Garlic Butter
         * 55 g Unsalted Butter, melted
         * 6 Garlic Cloves, minced
-    * Bize-Sized [Crostinis](../sides/crostinis.md)
+    * Bize-Sized [Crostinis](../bread/crostinis.md)
         * 450 g Baguette, sliced thick
 
 === "Directions"

@@ -12,7 +12,7 @@
     * Garnish
         * 15 g Parsley Leaves, chopped
         * Lemon Tahini Sauce
-            * 45 g [Tahini Paste](../../sauces-seasonings/sauces/tahini-paste.md)
+            * 45 g [Tahini Paste](../sauces/tahini-paste.md)
             * 30 g Lemon Juice
             * 1 pinch Kosher Salt
             * 30 g Water
@@ -30,7 +30,7 @@
 
 
 ??? example "Companion Foods"
-    * [Roasted Chickpeas](../sides/roasted-chickpeas.md)
+    * [Roasted Chickpeas](../legumes/roasted-chickpeas.md)
     * Toasted Pita
 
 [^1]:

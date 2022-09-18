@@ -5,7 +5,7 @@ tags:
 === "Ingredients"
     * Beef Broth
         * 1000 g [Beef Stock](stocks/meat-stock.md)
-        * 1 T [Italian Herbs](../../sauces-seasonings/seasonings/italian-herbs.md)
+        * 1 T [Italian Herbs](../seasonings/italian-herbs.md)
         * 1 Bay Leaf
     * 225 g Sausage Rope, roughly chopped
     * 25 g Unsalted Butter
