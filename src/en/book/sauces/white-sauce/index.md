@@ -1,3 +1,6 @@
+---
+title: Bechamel Sauce
+---
 === "Ingredients"
     * 480 g Milk
     * 1/4 t Kosher Salt

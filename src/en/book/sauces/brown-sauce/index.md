@@ -1,3 +1,6 @@
+---
+title: Brown sauce
+---
 ???+ quote "Julia Child in _Mastering the Art of French Cooking_"
     The one [brown sauce] most nearly approaching the traditional *demi-glace*.
 

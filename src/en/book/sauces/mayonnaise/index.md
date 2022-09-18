@@ -1,3 +1,6 @@
+---
+title: Mayonnaise
+---
 === "Ingredients"
     * 3 Egg Yolks, room temperature
     * 15 g Lemon Juice or Wine Vinegar, room temperature

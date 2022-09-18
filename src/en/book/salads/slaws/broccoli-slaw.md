@@ -4,7 +4,7 @@
     * 40 g Cranberries, dried, chopped
     * Dressing
         * 100 g Buttermilk
-        * 100 g [Mayonnaise](../../sauces/mayonnaise/mayonnaise.md)
+        * 100 g [Mayonnaise](../../sauces/mayonnaise/index.md)
         * 30 g Apple Cider Vinegar
         * 1 t White Sugar
         * 1/4 t Kosher Salt
