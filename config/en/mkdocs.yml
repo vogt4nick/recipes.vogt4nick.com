@@ -43,12 +43,12 @@ theme:
   language: en
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: msu-licht
+      scheme: msu-light
       toggle:
         icon: material/weather-sunny
         name: Switch to Dark Mode
     - media: "(prefers-color-scheme: dark)"
-      scheme: msu-dunkel
+      scheme: msu-dark
       toggle:
         icon: material/weather-night
         name: Switch to Light Mode
