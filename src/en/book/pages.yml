@@ -2,4 +2,20 @@ title: Recipe Book
 order: asc
 arrange:
   - index.md
+  - salads
+  - soups
+  - sauces
+  - rice
+  - pasta
+  - bread
+  - handhelds
+  - vegetables
+  - legumes
+  - eggs
+  - poultry
+  - pork
+  - beef
+  - desserts
+  - beverages
+  - seasonings
   - ...
