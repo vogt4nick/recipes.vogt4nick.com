@@ -32,3 +32,8 @@
     3. **Preheat oven** Heat oven to 200ºC (400ºF). Line a baking tray with foil.
     4. **Bake chicken.** Arrange chicken strips on the baking sheet, spaced apart. Bake 8-10 mins until cooked, but still juicy.
     5. **Serve** chicken alongside vegetables and rice. Garnish chicken with reserved marinade, corn kernels, peanuts, or sesame seeds.
+
+[^salad]:
+    Buenfeld, Sara. ["Chicken Satay Salad."](https://www.bbcgoodfood.com/recipes/chicken-satay-salad) _BBC Good Eats._ September 2015.
+[^strips]:
+    Buenfeld, Sara. ["Nutty Chicken Satay Strips."](https://www.bbcgoodfood.com/recipes/nutty-chicken-sate-strips) _BBC Good Eats._ September 2017.
