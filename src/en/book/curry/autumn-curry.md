@@ -16,22 +16,17 @@ title: Autumn curry
     * 80 g Spinach
     * 1 Lime, juiced
     * 40 g Fresh Cilantro Leaves, chopped
-    * Fried Chickpeas
-        * 2 T Sesame Oil or Olive Oil
-        * 200 g Dry Chickpeas, cooked
-        * 2 T Soy Sauce
-        * 1 T Sesame Seeds
     * For serving
         * Fresh Cilantro Leaves, chopped
+        * [Roasted Chickpeas](../legumes/roasted-chickpeas.md)
         * 200 g [Dry Basmati Rice, cooked](../rice/basmati-rice.md)
         * Pomegranate Seeds (optional)
 
 === "Directions"
     1. **Sweat shallots** 3-5 minutes until soft in olive oil in a large pot over medium heat. Add ginger and sweet potatoes, and cook 2 minutes until fragrant. Stir in curry paste and cook 1 minute more.
     2. **Cook lentils.** Add vegetable stock, lentils, fish sauce, soy sauce, and peanut butter. Bring mix to a boil over high heat, then reduce heat to low. Cover and simmer 15-20 minutes, until lentils are soft and sweet potatoes tender.
-    3. **Fry chickpeas.** Heat a large, high sided skillet over medium heat. Add oil and chickpeas. Fry 5 minutes, stirring occasionally, until the chickpeas are crisped all over. Stir in the soy sauce and sesame seeds, and cook 1 minute. Remove from heat.
-    4. **Thicken lentils.** When lentils are cooked, stir in coconut milk, spinach, and lime juice, and cook 5 minutes. Add additional stock to thin as desired. Remove from heat and add cilantro.
-    5. **Serve.** Fill bowls partway with rice and ladle curry overtop. Top with chickpeas, cilantro, and pomegranates.
+    3. **Thicken lentils.** When lentils are cooked, stir in coconut milk, spinach, and lime juice, and cook 5 minutes. Add additional stock to thin as desired. Remove from heat and add cilantro.
+    4. **Serve.** Fill bowls partway with rice and ladle curry overtop. Top with chickpeas, cilantro, and pomegranates.
 
 [^gerard]:
     Gerard, Tieghan. ["Sweet Potato Lentil Curry with Crispy Sesame Chickpeas."](https://www.halfbakedharvest.com/sweet-potato-lentil-curry/) _Half Baked Harvest._ 28 October 2019.
