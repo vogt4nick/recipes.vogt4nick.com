@@ -29,4 +29,4 @@
     !!! info "The tomato mixture will separate from the oil."
 
 [^manjula]:
-    Jain, Manjula. ["Mushroom Corn Cashew Curry."](https://www.manjulaskitchen.com/mushroom-corn-cashew-curry/) _Manjula's Kitchen._ 7 July 2009.
+    Jain, Manjula. ["Mushroom Corn Cashew Curry."](https://www.manjulaskitchen.com/mushroom-corn-cashew-curry/) _Manjula's Kitchen._ 21 September 2013.
