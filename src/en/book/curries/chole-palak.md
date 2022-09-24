@@ -2,7 +2,7 @@
     * 3 T Neutral Oil
     * 1 t Cumin Seed, whole
     * 1 Garlic Clove, minced
-    * Sauce
+    * Tomato Puree
         * 2 Medium Tomatoes, chopped
         * 2 T Ginger
         * 1 Green Chili
