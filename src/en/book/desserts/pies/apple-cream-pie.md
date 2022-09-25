@@ -8,7 +8,7 @@
         * 2 Eggs, beaten
     * 3 Green Apples, peeled, grated
     * 110 g Unsalted Butter, melted
-    * 1 [Pie Crust](../../bread/crusts/pie-crust.md)
+    * 1 [Pie Crust](../../bread/pastry-doughs/pie-crust.md)
 
 === "Directions"
     1. **Preheat oven** to 400ºF (205ºC).

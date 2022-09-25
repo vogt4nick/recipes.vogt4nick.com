@@ -23,7 +23,7 @@
         * 100 g White Sugar
         * 1/4 t Cream of Tartar
         * 1/4 t Kosher Salt
-    * 1 [Pie Crust, blind baked](../../bread/crusts/pie-crust.md)
+    * 1 [Pie Crust, blind baked](../../bread/pastry-doughs/pie-crust.md)
     * Egg Wash
         * 1 Egg, beaten
         * 1 t Water
