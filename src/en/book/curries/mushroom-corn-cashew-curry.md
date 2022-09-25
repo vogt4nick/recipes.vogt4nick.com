@@ -16,7 +16,7 @@
     * 300 g Water
     * For Serving
         * 2 T Cilantro Leaves, chopped
-        * [Basmati Rice, cooked](../rice/basmati-rice.md) or [Lebanese Flatbread](../bread/lebanese-flatbread.md)
+        * [Basmati Rice, cooked](../rice/basmati-rice.md) or [Lebanese Flatbread](../bread/flatbreads/lebanese-flatbread.md)
 
 === "Directions"
     1. **Blend tomato puree.** Blend the tomatoes, cashews, ginger and green chili to make creamy paste. Set aside.
