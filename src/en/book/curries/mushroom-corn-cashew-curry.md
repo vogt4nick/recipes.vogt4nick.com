@@ -13,7 +13,7 @@
     * 1/4 t Paprika
     * 200 g Mushrooms, sliced
     * 150 g Corn Kernels
-    * 300 g Water
+    * 150 g Water
     * For Serving
         * 2 T Cilantro Leaves, chopped
         * [Basmati Rice, cooked](../rice/basmati-rice.md) or [Lebanese Flatbread](../bread/flatbreads/lebanese-flatbread.md)
