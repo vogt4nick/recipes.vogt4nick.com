@@ -2,7 +2,7 @@
     * 400 g Frisee Lettuce, chopped
     * 200 g Bacon, chopped, cooked
     * 4 [Eggs, poached](../../eggs/poached-eggs.md)
-    * [Lyonnaise Vinaigrette](../../sauces/vinaigrettes/lyonnaise-vinaigrette.md)
+    * [Lyonnaise Vinaigrette](../../sauces/vinaigrette/lyonnaise-vinaigrette.md)
     * Garnish
         * Chives, chopped
         * Parmigiano-Reggiano, grated
