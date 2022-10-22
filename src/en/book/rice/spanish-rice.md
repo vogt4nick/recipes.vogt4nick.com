@@ -10,7 +10,7 @@
         * 1/2 t Cayenne Pepper, ground
         * 1/2 t Kosher Salt
     * 400 g [Chicken Stock](../soups/stocks/meat-stock.md), boiling
-    * 100 g Tomato Sauce
+    * 100 g [Tomato Sauce](../sauces/tomato-sauce.md)
 
 === "Directions"
     1. **Season.** Melt butter in a saucepan over medium heat. Stir in rice until coated evenly. Stir in jalapeños, scallion whites, garlic, and seasonings until combined. Toast 5 minutes, stirring once or twice, until fragrant.

@@ -5,7 +5,7 @@ tags:
 === "Ingredients"
     * Sauce
         * 500 g Tomatoes, peeled and chopped
-        * 250 g Tomato Sauce
+        * 250 g [Tomato Sauce](../sauces/tomato-sauce.md)
         * 1/2 t Kosher Salt
         * 1/4 t Black Peppercorn, ground
         * 1/4 t Dry Oregano Leaves
