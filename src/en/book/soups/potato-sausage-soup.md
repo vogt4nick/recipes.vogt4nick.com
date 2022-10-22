@@ -1,7 +1,3 @@
----
-tags:
-  - weeknight meal
----
 === "Ingredients"
     * 40 g Unsalted Butter
     * 200 g Sausage, sliced

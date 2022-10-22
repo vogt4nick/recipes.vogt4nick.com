@@ -1,7 +1,3 @@
----
-tags:
-  - weeknight meal
----
 === "Ingredients"
     * Sauce
         * 300 g Cream of Chicken Soup
