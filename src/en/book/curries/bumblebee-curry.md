@@ -3,7 +3,7 @@
         * 1 T Coriander Seed, ground
         * 1/2 T Kosher Salt
         * 1/2 T Turmeric Root, ground
-        * 1/2 t Cardamom, ground
+        * 1/2 t Cardamom Seeds, ground
         * 1/2 t Dried Cayenne Pepper, ground
         * 1/2 t Cinnamon, ground
         * 1/2 t Ginger, grated
