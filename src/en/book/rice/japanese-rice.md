@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 200 g Dry Japanese Rice, rinsed
+    * 200 g Dry Japanese Rice
     * 250 g Water
 
 === "Directions"
