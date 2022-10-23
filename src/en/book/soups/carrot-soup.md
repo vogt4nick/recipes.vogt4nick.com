@@ -1,3 +1,7 @@
+---
+tags:
+    - weeknight meal
+---
 === "Ingredients"
     * 25 g Olive Oil
     * 750 g Carrots, peeled, minced
