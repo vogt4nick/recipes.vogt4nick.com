@@ -16,7 +16,7 @@ tags:
         * 1/2 t Worcestershire Sauce
         * 1/2 t Kosher Salt
         * 1/2 t Black Peppercorn, ground
-        * 1/2 t Cayenne Pepper, ground
+        * 1/2 t Dried Cayenne Pepper, ground
     * 360 g Dry Egg Noodles, cooked in salt water one minute less than al dente
     * 360 g Tuna, flaked
     * 180 g Frozen Green Peas, thawed

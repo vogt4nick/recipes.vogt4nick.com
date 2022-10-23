@@ -9,7 +9,7 @@
     * 1 Tomato, diced
     * 1/2 t Black Peppercorn, ground
     * 1/2 t Cumin Seed, ground
-    * 1/4 t Cayenne Pepper, ground
+    * 1/4 t Dried Cayenne Pepper, ground
     * 100 g Snap Peas, sliced
     * 2 Zucchini, cubed
     * 50 g Water

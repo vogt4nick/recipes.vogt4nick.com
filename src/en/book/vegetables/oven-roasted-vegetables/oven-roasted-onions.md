@@ -4,7 +4,7 @@
     * Lard, Ghee, or Neutral Oil
     * Kosher Salt
     * Black Peppercorn, ground
-    * Cayenne Pepper, ground
+    * Dried Cayenne Pepper, ground
 
 === "Directions"
     1. **Preheat oven** to 450ºF (232ºC). Dress sheet pan with aluminum foil.

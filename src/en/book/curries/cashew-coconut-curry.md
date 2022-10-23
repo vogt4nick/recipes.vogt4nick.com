@@ -5,7 +5,7 @@
     * 5 g Ginger Root, grated
     * 1 Small Chili, minced
     * 70 g Cashews
-    * 1/4 t Cayenne Pepper, ground
+    * 1/4 t Dried Cayenne Pepper, ground
     * 1/2 T Thai Red Curry
     * 400 g Coconut Milk
     * 100 g Dry Chickpeas, cooked

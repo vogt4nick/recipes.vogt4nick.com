@@ -5,7 +5,7 @@
     * For Garnish
         * Unsalted Butter
         * Black Peppercorn, ground
-        * Cayenne Pepper, ground
+        * Dried Cayenne Pepper, ground
         * Cheddar Cheese, grated
         * Sour Cream
 

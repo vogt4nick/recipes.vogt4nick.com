@@ -5,7 +5,7 @@
     * 5 g Thyme Leaves
     * 5 g Rosemary Leaves
     * 1 g Black Peppercorn, ground
-    * 1 g Cayenne Pepper, ground
+    * 1 g Dried Cayenne Pepper, ground
 
     !!! tip "Yields about 160 g"
 

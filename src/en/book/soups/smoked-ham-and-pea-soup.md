@@ -10,7 +10,7 @@
     * Spices
         * 1 Bay Leaf
         * 1/2 t Black Peppercorns, ground
-        * 1/2 t Cayenne Pepper, ground
+        * 1/2 t Dried Cayenne Pepper, ground
         * 1/2 t Sage Leaves, chopped
         * 1/2 t Thyme Leaves, chopped
     * 200 g Dry Green Split Peas

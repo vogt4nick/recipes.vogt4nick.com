@@ -7,7 +7,7 @@
         * 1 T Brown Sugar
         * 2 t Onion Powder
         * 1 t Garlic Powder
-        * 1 t Cayenne Pepper, ground
+        * 1 t Dried Cayenne Pepper, ground
 
     ---
 

@@ -9,7 +9,7 @@
     * Seasonings
         * 1/2 t Kosher Salt
         * 1/2 t Black Peppercorn, ground
-        * 1/4 t Cayenne Pepper, ground
+        * 1/4 t Dried Cayenne Pepper, ground
     * 110 g Cheddar Cheese, grated
 
 === "Directions"

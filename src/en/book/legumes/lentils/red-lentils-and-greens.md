@@ -15,7 +15,7 @@ title: Red lentils & greens
         * 1 T Garlic, minced
         * 1 T Ginger, minced
         * 1 t Paprika
-        * 1 t Cayenne Pepper
+        * 1 t Dried Dried Cayenne Pepper, ground
         * Kosher Salt
         * Black peppercorn, ground
     * For serving

@@ -7,7 +7,7 @@
         * 1 Garlic Clove, minced
         * 1/2 t Cumin Seed, ground
         * 1/2 t Chili Powder
-        * 1/4 t Cayenne Pepper, ground
+        * 1/4 t Dried Cayenne Pepper, ground
         * 1/4 t Kosher Salt
     * 250 g [Chicken Stock](../soups/stocks/meat-stock.md), boiling
     * 100 g [Tomato Sauce](../sauces/tomato-sauce.md)

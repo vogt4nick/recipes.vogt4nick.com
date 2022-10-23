@@ -5,7 +5,7 @@
         * 15 g Scallions, sliced thin
         * 1/2 t Kosher Salt
         * 1/4 t Black Peppercorn, ground
-        * 1/4 t Cayenne Pepper, ground
+        * 1/4 t Dried Cayenne Pepper, ground
     * 2 Eggs, beaten
     * Toast
         * 2 slices White Bread

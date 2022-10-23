@@ -3,7 +3,7 @@
     * 15 g Extra Virgin Olive Oil
     * 1/2 t Kosher Salt
     * 1/4 t Cumin Seed, ground
-    * 1/4 t Cayenne Pepper, ground
+    * 1/4 t Dried Cayenne Pepper, ground
 
 === "Directions"
     1. **Prepare kitchen**. Preheat oven to 425ºF (218ºC). Lightly grease a foiled sheetpan.

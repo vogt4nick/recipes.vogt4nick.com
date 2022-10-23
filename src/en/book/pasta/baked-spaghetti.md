@@ -12,7 +12,7 @@ tags:
         * 1/4 t Dry Marjoram Leaves
         * 1/4 t Dry Parsley Leaves
         * 1/4 t Dry Basil Leaves
-        * 1/4 t Cayenne Pepper, ground
+        * 1/4 t Dried Cayenne Pepper, ground
     * 1 T Olive Oil
     * 1 T Unsalted Butter
     * 150 g Mushroom, chopped

@@ -3,7 +3,7 @@
     * Raw Chicken Drumsticks
     * Kosher Salt
     * Black Peppercorn, ground
-    * Cayenne Pepper, ground
+    * Dried Cayenne Pepper, ground
 
 === "Directions"
     1. **Broil drumsticks** 15 minutes, turning midway.

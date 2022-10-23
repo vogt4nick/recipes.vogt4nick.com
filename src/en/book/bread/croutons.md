@@ -9,7 +9,7 @@
         * 1/2 t Paprika
         * 1/2 t Kosher Salt
         * 1/2 t Black Peppercorns, ground
-        * 1/4 t Cayenne Pepper, ground
+        * 1/4 t Dried Cayenne Pepper, ground
     * 25 g Parmigiano-Reggiano, grated (optional)
 
 === "Directions"
