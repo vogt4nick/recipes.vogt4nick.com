@@ -13,7 +13,7 @@ title: Sichuanese Hot & Sour Egg Drop Soup
         * 1 T Potato Starch
         * 3 T Water
     * 1 Egg, beaten
-    * 1/2 White Peppercorns, ground
+    * 1/2 t White Peppercorn, ground
     * 1 T Dark Chinese Vinegar or Balsamic Vinegar
     * Scallions, chopped
 
