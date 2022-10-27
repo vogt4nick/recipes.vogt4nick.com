@@ -3,7 +3,7 @@
         * 100 g Bread Flour
         * 100 g Water, cool
         * 2 g [Diastatic Malt Powder](https://www.amazon.com/dp/B01JXZ0PW0) (optional)
-        * < 1/4 t Instant Yeast
+        * 1 pinch Instant Yeast
     * 400 g Bread Flour
     * 270 g Water, cool
     * 13 g Instant Yeast

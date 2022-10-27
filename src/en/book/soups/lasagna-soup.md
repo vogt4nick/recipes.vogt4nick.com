@@ -9,7 +9,7 @@
     * 330 g Beef, ground
     * 1 t Kosher Salt
     * 1/2 t Black Peppercorn, ground
-    * < 1/4 t Nutmeg, ground
+    * 1 pinch Nutmeg, ground
     * 500 g Tomatoes, peeled, chopped
     * 100 g Dry Rigatoni or Fusilli Pasta, cooked
     * 30 g Parmesan, grated
