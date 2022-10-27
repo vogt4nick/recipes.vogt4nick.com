@@ -1,5 +1,5 @@
 ---
-title: Kaspressknoedel (Baked Cheese Dumplings)
+title: Kaspressknoedel (baked cheese dumplings)
 tags:
     - austrian cuisine
 ---
