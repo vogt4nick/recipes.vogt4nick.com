@@ -10,6 +10,13 @@ title: Crepes
     * 2 Eggs, beaten
     * 280 g Milk
     * 25 g Olive Oil
+    * For Savory Crepes
+        * Mustard
+        * Ham
+        * Melty Cheese
+    * For Sweet Crepes
+        * Nutella
+        * Jam
 
     !!! info "These ingredients make four (4) crepes."
 
