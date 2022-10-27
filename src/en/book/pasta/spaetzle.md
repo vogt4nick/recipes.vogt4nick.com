@@ -1,5 +1,5 @@
 ---
-title: Spätzle
+title: Spaetzle
 ---
 
 ???+ quote "Chef John from FoodWishes.com"

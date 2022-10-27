@@ -1,5 +1,7 @@
 ---
-title: Käsespätzle
+title: Kaesespaetzle
+tags:
+    - austrian cuisine
 ---
 
 === "Ingredients"
