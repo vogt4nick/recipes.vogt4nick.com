@@ -9,7 +9,7 @@ tags:
     * 1 Garlic Clove, minced
     * 40 g Sweet Onion, finely diced
     * 1 t Butter, unsalted
-    * 1/2 c. Melty Cheese, finely diced
+    * 60 g Melty Cheese, finely diced
     * 1 Egg, beaten
     * Seasonings
         * 3 sprigs Fresh Parsley Leaves, finely diced
