@@ -34,7 +34,7 @@ tags:
 
 
 ??? example "Companion Foods"
-    * [Roasted Chickpeas](../legumes/chickpeas/roasted-chickpeas.md)
+    * [Roasted Chickpeas](../legumes/beans/roasted-chickpeas.md)
     * Toasted Pita
 
 [^1]:
