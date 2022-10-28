@@ -16,7 +16,7 @@
     * 400 g Coconut Milk
     * For Serving
         * [Basmati Rice, cooked](../rice/basmati-rice.md)
-        * [Roasted Chickpeas](../legumes/roasted-chickpeas.md)
+        * [Roasted Chickpeas](../legumes/chickpeas/roasted-chickpeas.md)
         * [Roasted Potatoes](../vegetables/oven-roasted-vegetables/oven-roasted-waxy-potatoes.md)
 
 === "Directions"

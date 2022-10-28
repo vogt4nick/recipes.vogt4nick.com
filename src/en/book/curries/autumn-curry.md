@@ -18,7 +18,7 @@ title: Autumn curry
     * 40 g Fresh Cilantro Leaves, chopped
     * For serving
         * Fresh Cilantro Leaves, chopped
-        * [Roasted Chickpeas](../legumes/roasted-chickpeas.md)
+        * [Roasted Chickpeas](../legumes/chickpeas/roasted-chickpeas.md)
         * 200 g [Dry Basmati Rice, cooked](../rice/basmati-rice.md)
         * Pomegranate Seeds (optional)
 
