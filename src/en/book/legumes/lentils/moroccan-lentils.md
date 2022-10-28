@@ -16,7 +16,7 @@
         * Fresh Coriander Leaves, chopped
 
 === "Directions"
-    1. **Sweat onion** 5 minutes in oil over medium-high heat. Stir in warming spices, and cook 1 minute more.
+    1. **Sweat onion** 5 minutes in oil over medium-high heat. Stir in spices, and cook 1 minute more.
     2. **Cook lentils.** Add stock, tomatoes, lentils, and salt. Bring to boil and reduce to simmer. Cover partially, and simmer 25-30 minutes, stirring occasionally, until lentils are tender. Reduce if necessary so lentils are saucy but not soupy.
 
 !!! info "Store in refrigerator up to 3 days."
