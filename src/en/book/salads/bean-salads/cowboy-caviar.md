@@ -7,18 +7,15 @@
         * 2 Garlic Cloves, minced
         * 1 t Lime Juice
         * 1/2 t Oregano Leaves
-    * 400 g Black Eyed Peas, soaked
-    * 400 g Black Beans, soaked, slightly undercooked
+    * 400 g [Black Eyed Peas, slightly undercooked](../../legumes/beans/index.md)
+    * 400 g [Black Beans, slightly undercooked](../../legumes/beans/index.md)
     * 400 g Corn Kernels
-    * 150 g Cherry Tomatoes**, roughly chopped
+    * 150 g Cherry Tomatoes, roughly chopped
     * 150 g Red Bell Pepper, chopped
     * 30 g Serrano Peppers, minced
     * Garnish
         * 200 g Avocado, chopped
         * Coriander Leaves, chopped
-
-    ??? question "Substitutions"
-        Substitute seeded tomatoes for cherry tomatoes
 
 === "Directions"
     1. **Combine ingredients.** Add ingredients to a large mixing bowl. Gently stir to combine.

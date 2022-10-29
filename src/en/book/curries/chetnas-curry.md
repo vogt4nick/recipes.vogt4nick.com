@@ -2,7 +2,7 @@
 title: Chetna's curry
 ---
 === "Ingredients"
-    * 200 g [Dry Chickpeas, soaked and cooked](../legumes/beans/index.md)
+    * 200 g [Dry Chickpeas, cooked](../legumes/beans/index.md)
     * 2 T Neutral Oil
     * 3 Onions, chopped
     * 1/2 T Cumin Seed

@@ -8,7 +8,7 @@
     * 1/4 t Dried Cayenne Pepper, ground
     * 1/2 T Thai Red Curry
     * 400 g Coconut Milk
-    * 100 g Dry Chickpeas, cooked
+    * 100 g [Dry Chickpeas, cooked](../legumes/beans/index.md)
     * 90 g Spinach Leaves, trimmed, roughly chopped
     * 1/2 T Thai Red Curry
     * Kosher Salt

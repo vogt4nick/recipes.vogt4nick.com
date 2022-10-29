@@ -12,7 +12,7 @@
     * 80 g Spinach, chopped
     * 1/2 t Kosher Salt
     * 120 ml Water
-    * 250 g Dry Chickpeas, soaked, cooked
+    * 250 g [Dry Chickpeas, cooked](../legumes/beans/index.md)
     * 1/2 t Garam Masala
 
     !!! info "Ingredients yield two servings."

@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 200 g [Red Kidney Beans, cooked without seasonings](index.md)
+    * 200 g [Red Kidney Beans, cooked w/o seasonings](index.md)
     * 60 g Fatty Pork, diced
     * 1 Onion, minced
     * 200 g Dark Beer
