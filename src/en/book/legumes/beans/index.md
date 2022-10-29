@@ -4,15 +4,27 @@ title: Beans
 === "Ingredients"
     * 200 g Dry Beans
     * 1 t Kosher Salt
+    * 1 T Lard or Clarified Butter
+    * 1 Onion, halved
+    * Spices, to temper
+        * 2 Garlic Cloves, lightly crushed
+        * 2 Dried Red Chilis
+        * 1 t Cumin Seed, ground
+        * 1/2 t Coriander Seed, ground
+        * 1/2 t Dried Marjoram or Oregano Leaves
+        * 2 Bay Leaves
+    * 1/2 t Dry Epazote Leaves, ground
+    * 1/2 t Kosher Salt
     * 1 t Baking Soda
-    * Water
+    * Water or [Chicken Stock](../../soups/stocks/meat-stock.md)
 
 === "Directions"
     1. **Sort** out any shriveled, discolored, or broken beans.
     2. **Brine.** Add beans and salt to a large, unsealed container, and add enough water so that they may double in size and remain submerged. Soak 8-24 hours, at room temperature.
     3. **Drain and rinse** beans, discarding the soaking water.
-    4. **Cook.** Add beans and baking soda to saucepan and enough water to cover them by 1-2 cm. Boil 10 minutes, reduce, cover, and simmer 30-90 minutes until beans reach desired texture.
-    5. **Rinse** beans in cool water.
+    4. **Temper spices.** Heat lard in saucepan over medium heat. Add onion halves face down, and fry 4 minutes. Stir in spices to coat evenly, and temper 60 seconds.
+    5. **Cook.** Add beans and baking soda to saucepan and enough water to cover them by 1-2 cm. Boil 10 minutes. Reduce to simmer, add epazote, cover, and simmer 30-90 minutes until beans reach desired texture.
+    6. **Rinse** beans in cool water.
 
     ??? question "Why brine the beans?"
         "Brining provides water to soften the beans and reduce cooking time, while simultaneously producing beans that do not burst while cooking to the desired soft, creamy texture."[^crosby]
