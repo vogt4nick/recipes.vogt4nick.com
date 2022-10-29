@@ -24,7 +24,7 @@
     3. **Simmer.** Mix in remaining water. Bring to boil and reduce to simmer. Simmer 45 minutes, uncovered, until the water has evaporated and mixture resembles a paste.
     4. **Serve** in buns
 
-    !!! info "Starting from a cold pan helps the ground beef to crumble into small pieces for the patty."
+    !!! info "Starting from a cold pan helps the ground beef to crumble into small pieces for the 'joe."
 
     !!! tip "The meat should be able to stand in a heap on a spatula without falling apart."
 
