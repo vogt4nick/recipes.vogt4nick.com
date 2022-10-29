@@ -23,7 +23,7 @@ title: Beans
     2. **Brine.** Add beans and salt to a large, unsealed container, and add enough water so that they may double in size and remain submerged. Soak 8-24 hours, at room temperature.
     3. **Drain and rinse** beans, discarding the soaking water.
     4. **Temper spices.** Heat lard in saucepan over medium heat. Add onion halves face down, and fry 4 minutes. Stir in spices to coat evenly, and temper 60 seconds.
-    5. **Cook.** Add beans and baking soda to saucepan and enough water to cover them by 1-2 cm. Boil 10 minutes. Reduce to simmer, add epazote, cover, and simmer 30-90 minutes until beans reach desired texture.
+    5. **Cook.** Add beans and baking soda to saucepan and enough water to cover them by 1-2 cm. Boil 10 minutes. Reduce to simmer, cover, and simmer 30-90 minutes until beans reach desired texture --- add epazote a few minutes before removing from heat.
     6. **Rinse** beans in cool water.
 
     ??? question "Why brine the beans?"
