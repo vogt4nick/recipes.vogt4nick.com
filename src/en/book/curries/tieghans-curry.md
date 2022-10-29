@@ -1,5 +1,5 @@
 ---
-title: Autumn curry
+title: Tieghan's curry
 ---
 === "Ingredients"
     * 2 T Olive Oil
