@@ -10,7 +10,7 @@
         * 1 Bay Leaf
     * 240 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
     * 360 g Tomatoes, peeled, chopped
-    * 200 g Dry Brown Lentils, soaked, drained
+    * 200 g Dry Red Lentils, soaked, drained
     * 1/2 t Kosher Salt
     * To Garnish
         * Fresh Coriander Leaves, chopped
