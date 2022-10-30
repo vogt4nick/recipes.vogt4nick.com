@@ -30,4 +30,4 @@
 [^3]:
     Killebrew, Kimberly. ["Swabian-style German Lentils with Spaetzle (Schwäbische Linsen mit Spätzle)."](https://www.daringgourmet.com/swabian-style-german-lentils-with-spaetzle-schwabische-linsen-mit-spatzle/) *The Daring Gourmet.* 6 April 2015.
 [^4]:
-    krollekopp. ["Schwäbische Linsen mit Spätzle und Saitenwürstchen."](https://www.chefkoch.de/rezepte/2103441339486118/Schwaebische-Linsen-mit-Spaetzle-und-Saitenwuerstchen.html) 12 June 2012.
+    krollekopp. ["Schwäbische Linsen mit Spätzle und Saitenwürstchen."](https://www.chefkoch.de/rezepte/2103441339486118/Schwaebische-Linsen-mit-Spaetzle-und-Saitenwuerstchen.html) *Chef Koch.* 12 June 2012.
