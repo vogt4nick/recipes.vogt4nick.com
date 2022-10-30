@@ -1,10 +1,6 @@
 ---
 title: Spaetzle
 ---
-
-???+ quote "Chef John from FoodWishes.com"
-    One way you can tell [the] texture was perfect: the batter won't drip through until you push it with the spatula. ...if it drips before you push, add some flour so you don't have mush.
-
 === "Ingredients"
     * 333 g All-Purpose Flour
     * 4 Eggs
@@ -20,6 +16,9 @@ title: Spaetzle
 
     ??? question "What kind of sieve do I need?"
         You can use a colander with large holes (like us) or you can use the back of a cheese grater like Chef John (see [video clip](http://www.youtube.com/watch?v=Lwn97mpBCu8&t=1m57s))
+
+    ??? question "What texture should the batter be.?"
+        One way you can tell [the] texture was perfect: the batter won't drip through until you push it with the spatula. ...if it drips before you push, add some flour so you don't have mush.[^1]
 
 !!! info "Store in refrigerator up to 72 hours."
 

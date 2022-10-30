@@ -1,4 +1,3 @@
-!!! tip "This recipe is good for poultry, pork, and beef."
 === "Ingredients"
     * 500 g Chicken Flesh, roasted
     * 500 g Chicken Bones, roasted
@@ -13,6 +12,8 @@
         * 1 Bay Leaf
         * 1 Clove, dried
         * 1 pinch Thyme, dried
+
+    !!! tip "This recipe is good for poultry, pork, and beef."
 
     ??? question "Do I need to peel the vegetables?"
         No. All solids will be filtered from the stock before its done.
