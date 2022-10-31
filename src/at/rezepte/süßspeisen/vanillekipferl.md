@@ -29,5 +29,6 @@ tags:
     Wenn Sie die geriebenen Nüsse vor der Verarbeitung in einer Pfanne oder im Backrohr ohne Fett rösten, kann sich ihr feines Aroma noch viel besser entfalten. Dasselbe gilt übrigens auch für Kokos- oder Haferflocken. Wenn man die Kipferl noch sehr heiß mit Staubzucker bestreut, so schmilzt der Zucker und man muss unter Umständen noch einmal nachzuckern. Abhilfe schafft hier >>süßer Schnee<< (im Fachhendel erhältlich), der auf heißem Gebäck nicht schmilzt.
 
 [^bitterman]:
-    {{ cite.bitterman_die_österreichische_küche }}
-    401.
+    {{ cite.bitterman_die_österreichische_küche }} 401.
+[^grannies]:
+    Cooking Grannies. ["Vanillekipferl von Oma Theresia - Rezept Video - Cooking Grannies."](https://www.youtube.com/watch?v=Ir0y8aiVUmY) _YouTube._ 12 December 2018.
