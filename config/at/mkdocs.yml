@@ -20,6 +20,11 @@ extra:
       [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
       Verlag E. DORNER Gmbh, 2017.
 plugins:
+  - awesome-pages:
+      collapse_single_pages: false
+      filename: pages.yml
+      strict: true
+  - macros
   - search:
       lang: de
   - tags:

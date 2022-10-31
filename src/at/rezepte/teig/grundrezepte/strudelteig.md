@@ -15,5 +15,7 @@
 
     !!! caution "Gekaufter Strudelteig trocknet rasch aus, daher erst kurz vor der Verwendung entfalten und auf ein mit Wasser bespritztes Tuch legen. Tiefkühl-Strudelteig erst auftauen."
 
+[^kochen]:
+     Kochen & Küche - Ihr regionales Kochmagazin. ["Strudelteig selber machen (Franz Schauer) - Anleitung von Kochen & Küche - Das ländliche Kochmagazin."](https://www.youtube.com/watch?v=5nzbPcSCXhM) _YouTube._ 25 Februar 2016.
 [^müller_walser]:
     {{ cite.müller_walser_mein_erstes_kochbuch }} 35-6.
