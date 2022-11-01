@@ -16,3 +16,6 @@
     3. **Layer pie.** Spread grated apples on bottom of pie crust. Drizzle with butter. Pour filling over apples.
     4. **Bake** 10 minutes at 400ºF. Reduce heat to 350ºF (177ºC). Bake 30-40 minutes. Remove from heat.
     5. **Cool** 4 hours until room temperature.
+
+[^reddit]:
+    u/Laniidae_. ["A gift from Post Secret this week."](https://old.reddit.com/r/Old_Recipes/comments/juhjjw/) _Reddit._ November 2020.
