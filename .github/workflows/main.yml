@@ -40,6 +40,8 @@ jobs:
     steps:
       - uses: actions/checkout@main
       - uses: actions/setup-python@main
+        with:
+          python-version: 3.8
       - uses: pre-commit/action@main
   deploy-dev:
     if: github.ref == 'refs/heads/main'
