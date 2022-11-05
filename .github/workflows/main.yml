@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@main
       - name: Install poetry
         run: pipx install poetry==1.1.11
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@main
         with:
           python-version: 3.8
           cache: 'poetry'
