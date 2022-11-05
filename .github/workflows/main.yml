@@ -9,10 +9,10 @@ jobs:
     name: Build site
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@main
         with:
           fetch-depth: 0 # necessary for mkdocs-git-revision-date-localized-plugin
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@main
         with:
           python-version: 3.8
       - uses: Gr1N/setup-poetry@v7
@@ -38,9 +38,9 @@ jobs:
   pre-commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-      - uses: pre-commit/action@v2.0.3
+      - uses: actions/checkout@main
+      - uses: actions/setup-python@main
+      - uses: pre-commit/action@main
   deploy-dev:
     if: github.ref == 'refs/heads/main'
     name: Deploy to dev
