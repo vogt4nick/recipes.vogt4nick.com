@@ -191,7 +191,7 @@ python-versions = ">=3.6"
 
 [[package]]
 name = "mkdocs"
-version = "1.4.1"
+version = "1.4.2"
 description = "Project documentation with Markdown."
 category = "main"
 optional = false
@@ -247,7 +247,7 @@ test = ["mkdocs-macros-test", "mkdocs-material (>=6.2)", "mkdocs-include-markdow
 
 [[package]]
 name = "mkdocs-material"
-version = "8.5.7"
+version = "8.5.8"
 description = "Documentation that simply works"
 category = "main"
 optional = false
@@ -257,7 +257,7 @@ python-versions = ">=3.7"
 jinja2 = ">=3.0.2"
 markdown = ">=3.2"
 mkdocs = ">=1.4.0"
-mkdocs-material-extensions = ">=1.0.3"
+mkdocs-material-extensions = ">=1.1"
 pygments = ">=2.12"
 pymdown-extensions = ">=9.4"
 requests = ">=2.26"
