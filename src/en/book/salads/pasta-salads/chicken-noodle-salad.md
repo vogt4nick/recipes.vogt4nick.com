@@ -20,7 +20,7 @@
         * 50 g Coriander Leaves, chopped
         * 50 g Mint Leaves, chopped
 
-    !!! tip "One of the secrets of a great noodle salad, is your other ingredients having a similar width to your noodles.[^1]"
+    !!! tip "Ingredients should have a similar width to your noodles."
 
 === "Directions"
     1. **Mix dressing.**

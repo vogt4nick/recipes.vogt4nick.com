@@ -16,8 +16,6 @@ title: Lentils
 
 ## How to Use Lentils
 
-Fine Dining Lovers advises the following, emphasis added as visual aid.[^fdl]
-
 > **Brown lentils** [...] have a mild, earthy flavour. [...]
 > [The brown lentil] holds its shape well during cooking, making it ideal for use in warm salads, casseroles, soups, and stews as well as veggie burgers or vegetarian meatloaf.
 >
@@ -31,11 +29,14 @@ Fine Dining Lovers advises the following, emphasis added as visual aid.[^fdl]
 > [They are good for] purées, soups, curries, mashes.
 >
 > **[Black beluga] lentils** are [...] the most intense with a rich and deeply earthy flavour and retain their shape when cooked.
-> [They are good for] salads.
+> [They are good for] salads.[^fdl]
 
+> **French lentils** [are] thick-skinned[,] retain their shape when cooked and have a pleasant, poppy texture. [...] French lentils are perfect for a side dish or salad. Just dress them with oil, vinegar, a bit of crumbly cheese, and some salt and pepper. Maybe a little thinly sliced raw vegetable for texture.[^bonappetit]
 
 [^beluga]:
     ["Black Lentils: Everything you Need to Know."](https://www.finedininglovers.com/article/black-lentils) _Fine Dining Lovers._ 21 June 2021.
+[^bonappetit]:
+    Delany, Alex. ["All the Types of Lentils (and What the Hell to Do with Them)."](https://www.bonappetit.com/story/types-of-lentils) _Bon Appétit._ 9 January 2018.
 [^fdl]:
     ["Different Kinds of Lentils and What to Use Them For."](https://www.finedininglovers.com/article/lentil-types-how-to-cook-them) _Fine Dining Lovers._ 13 January 2022.
 [^smith]:

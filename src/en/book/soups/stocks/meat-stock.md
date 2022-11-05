@@ -31,7 +31,7 @@
     ??? question "What if the liquid evaporates below the level of the ingredients?"
         Add boiling water to cover by 2.5 cm.
 
-    !!! question "How can I make the stock stronger?"
+    ??? question "How can I make the stock stronger?"
         Simmer stock after degreasing to evaporate some of its water and to concentrate its strength.
 
     ??? tip "Never allow the liquid to boil."

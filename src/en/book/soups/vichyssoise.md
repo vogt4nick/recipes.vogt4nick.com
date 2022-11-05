@@ -10,7 +10,7 @@
         * Chives
 
     ??? question "Substitutions"
-        Substitute 110 g soy milk and 55 g olive oil for cream.
+        Substitute 110 g soy milk and 55 g olive oil for 200 g heavy cream.
 
 === "Directions"
     1. **Sauté vegetables.** Heat oil in dutch oven over medium heat. Add vegetables, salt, pepper. Sauté 3 minutes, stirring every 60 seconds.

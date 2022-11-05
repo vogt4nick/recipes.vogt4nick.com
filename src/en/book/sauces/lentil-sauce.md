@@ -8,10 +8,7 @@
         * 1 sprig Sage Leaves, chopped
         * 2 Cloves
     * 150 g Dry Lentils du Puy
-    * 300 g [Vegetable Stock](../soups/stocks/vegetable-stock.md)
-
-    ??? question "Substitutions"
-        Substitute water for stock if necessary.
+    * 300 g [Vegetable Stock](../soups/stocks/vegetable-stock.md) or Water
 
 === "Directions"
     1. **Sauté vegetables**. Heat oil in large skillet over medium-high heat. Add onion, garlic. Sauté 10 minutes. Add tomatoes and spices. Stir to combine. Cook 10 minutes until tomatoes begin to soften into a thick sauce.

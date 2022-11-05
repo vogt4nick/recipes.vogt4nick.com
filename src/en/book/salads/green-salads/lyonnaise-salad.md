@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 400 g Frisee Lettuce, chopped
+    * 400 g Frisee Lettuce or Arugula, chopped
     * 200 g Bacon, chopped, cooked
     * 4 [Eggs, poached](../../eggs/poached-eggs.md)
     * [Lyonnaise Vinaigrette](../../sauces/vinaigrette/lyonnaise-vinaigrette.md)
@@ -7,9 +7,6 @@
         * Chives, chopped
         * Parmigiano-Reggiano, grated
         * Crostini or Croutons
-
-    ??? question "Substitutions"
-        Substitute arugula 1:1 for frisee lettuce.
 
 === "Directions"
     1. **Mix dressing** ingredients in a small bowl.

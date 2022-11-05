@@ -16,6 +16,8 @@
     * 220 g [Dry Kidney Beans, soaked, nearly cooked](../legumes/beans/index.md)
     * 1 leaf Chard, sliced
     * 30 g Scallions, sliced
+    * For Serving
+        * Buttered Toast
 
     !!! tip "Lightly score sausage skins from end to end on 4 sides."
         This helps keep them flat when they cook.
@@ -25,11 +27,9 @@
     2. **Sweat sausage.** Add sausage. Cook 5 minutes until sausage drippings start to mix with the butter.
     3. **Season.** Add seasonings, stock, and beans.
     4. **Simmer** 30 minutes.
-    5. **Garnish** with scallions and serve.
+    5. **Garnish** with scallions and serve with buttered toast.
 
     !!! info "Thicken the soup by crushing kidney beans against the side of the stockpan."
-
-!!! tip "Served with buttered toast."
 
 [^1]:
     Mitzewich, John. ["Billionaire’s Franks & Beans – Welcome to the Top 1% of Comfort Foods."](https://foodwishes.blogspot.com/2015/08/billionaires-franks-beans-welcome-to.html) *Food Wishes.* 28 August 2015.

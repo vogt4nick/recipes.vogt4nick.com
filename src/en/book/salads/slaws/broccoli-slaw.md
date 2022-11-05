@@ -12,8 +12,7 @@
     * Garnish
         * Black Peppercorn, ground
 
-    ??? question "Substitutions"
-        Substitute 1 t white vinegar and 100 g milk for 100 g buttermilk
+    ??? question "Substitute 1 t white vinegar and 100 g milk for 100 g buttermilk."
 
 === "Directions"
     1. **Mix dressing.** Whisk dressing ingredients together in a bowl. Rest 10 minutes to let onion marinate and mellow.

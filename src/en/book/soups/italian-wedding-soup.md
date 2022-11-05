@@ -16,8 +16,6 @@
     * Black Peppercorns, ground
     * Parmigiano-Reggiano, grated
 
-    !!! question "Substitute grated cheese 1:1 for rind."
-
 === "Directions"
     1. **Sweat base.** Heat olive oil in stockpan over medium heat. Add onion, carrots, celery & leaves, and fennel seed, and sweat 5 minutes until softened.
     2. **Build soup.** Add stock and wine. Bring to boil, reduce heat and simmer 5-8 minutes. Stir in pasta and cook 5 minutes until almost tender. Add meatballs. Simmer 5 minutes more. Add dill and kale. Simmer 1-2 minutes. Season with salt and pepper.

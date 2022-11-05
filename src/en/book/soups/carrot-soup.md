@@ -13,13 +13,15 @@ tags:
         * 1/2 t Coriander Seed, ground
         * 1/2 t Salt
         * 1 pinch Red Pepper Flakes
-    * Garnish
-        * 15 g Parsley Leaves, chopped
-        * Lemon Tahini Sauce
-            * 45 g [Tahini Paste](../sauces/tahini-paste.md)
-            * 30 g Lemon Juice
-            * 1 pinch Kosher Salt
-            * 30 g Water
+    * Lemon Tahini Sauce
+        * 45 g [Tahini Paste](../sauces/tahini-paste.md)
+        * 30 g Lemon Juice
+        * 1 pinch Kosher Salt
+        * 30 g Water
+    * 15 g Parsley Leaves, chopped
+    * For Serving
+        * [Roasted Chickpeas](../legumes/beans/roasted-chickpeas.md)
+        * [Lebanese Flatbread](../bread/flatbreads/lebanese-flatbread.md)
 
     ??? question "Substitutions"
         Substitute a 1:1 mixture of sesame seeds and sea salt for za'atar.
@@ -31,11 +33,6 @@ tags:
 
     ??? question "I don't have an immersion blender. How do I puree the soup?"
         A blender will do the job if you don't have an immersion blender.
-
-
-??? example "Companion Foods"
-    * [Roasted Chickpeas](../legumes/beans/roasted-chickpeas.md)
-    * Toasted Pita
 
 [^1]:
     Perelman, Deb. ["Carrot Soup with Tahini and Crisped Chickpeas."](https://smittenkitchen.com/2013/01/carrot-soup-with-tahini-and-crisped-chickpeas/) *Smitten Kitchen.* 3 January 2013.
