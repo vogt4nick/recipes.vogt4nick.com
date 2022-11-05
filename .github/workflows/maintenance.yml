@@ -12,15 +12,13 @@ jobs:
     name: Update build dependencies
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          ref: main
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@main
+      - name: Install poetry
+        run: pipx install poetry==1.1.11
+      - uses: actions/setup-python@main
         with:
           python-version: 3.8
-      - uses: Gr1N/setup-poetry@v7
-        with:
-          poetry-version: 1.1.11
+          cache: 'poetry'
       - name: Update build dependencies
         run: poetry lock
       - name: Create pull request
