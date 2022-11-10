@@ -27,4 +27,4 @@
     !!! tip "Between batches, rinse wok with warm water and wipe away solid bits."
 
 [^1]:
-    Pim. ["Pad Thai for Beginners."](http://web.baz.org/adam/recipes/pad_thai_for_be.html) *Chez Pim.* 21 January 2007.
+    Techamuanvivit, Pim. ["Pad Thai for Beginners."](http://web.baz.org/adam/recipes/pad_thai_for_be.html) *Chez Pim.* 21 January 2007.

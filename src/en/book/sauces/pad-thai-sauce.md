@@ -12,4 +12,4 @@
     !!! info "Sauce should lead with a salty flavor, followed by a mild sourness, then just a gentle sweetness and a soft caress from the chili at the back of your throat at the very end.[^1]"
 
 [^1]:
-    Pim. ["Pad Thai for Beginners."](http://web.baz.org/adam/recipes/pad_thai_for_be.html) *Chez Pim.* 21 January 2007.
+    Techamuanvivit, Pim. ["Pad Thai for Beginners."](http://web.baz.org/adam/recipes/pad_thai_for_be.html) *Chez Pim.* 21 January 2007.
