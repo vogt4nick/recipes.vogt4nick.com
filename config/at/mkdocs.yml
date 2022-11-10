@@ -24,6 +24,9 @@ plugins:
       collapse_single_pages: false
       filename: pages.yml
       strict: true
+  - exclude:
+      regex:
+        - '.*pages.ya?ml'
   - macros
   - search:
       lang: de
