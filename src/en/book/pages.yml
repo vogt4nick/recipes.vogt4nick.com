@@ -2,9 +2,9 @@ title: Recipe Book
 order: asc
 arrange:
   - index.md
-  - salads
   - soups
   - sauces
+  - salads
   - vegetables
   - legumes
   - curries
