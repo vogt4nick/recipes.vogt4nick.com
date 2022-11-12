@@ -1,10 +1,10 @@
 === "Ingredients"
+    * [Chicken Soup](../soups/chicken-soup.md)
     * 240 g Flour
     * 1 T Baking Powder
     * 1 t Kosher Salt (optional)
     * 3 T Neutral Oil
     * 180 g Buttermilk
-    * [Chicken Soup](../soups/chicken-soup.md)
 
     !!! tip "Adjust salt according to the flavor of the chicken soup."
 
