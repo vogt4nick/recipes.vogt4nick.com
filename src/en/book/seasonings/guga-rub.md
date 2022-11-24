@@ -1,12 +1,12 @@
 === "Ingredients"
-    4 T Kosher Salt
-    4 T Brown Sugar
-    4 T Smoked Paprika
-    1 T Garlic Powder
-    1 T Onion Powder
-    1 T Black Peppercorn, ground
-    1 T Turmeric Root, ground
-    1 t Cinnamon, ground
+    * 4 T Kosher Salt
+    * 4 T Brown Sugar
+    * 4 T Smoked Paprika
+    * 1 T Garlic Powder
+    * 1 T Onion Powder
+    * 1 T Black Peppercorn, ground
+    * 1 T Turmeric Root, ground
+    * 1 t Cinnamon, ground
 
 === "Directions"
     Combine ingredients and blend thoroughly.
