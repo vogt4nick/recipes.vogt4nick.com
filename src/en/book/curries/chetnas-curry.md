@@ -14,7 +14,7 @@ title: Chetna's curry
     * 1 t Harissa or Red Chili Paste
     * Water
     * For Garnishing
-        * 1 t [Garam Masala](../seasonings/garam-masala.md)
+        * 1 t [Garam Masala](../seasonings/spice-blends/garam-masala.md)
         * Fresh Coriander Leaves, chopped
         * Chili Flakes
     * For Serving

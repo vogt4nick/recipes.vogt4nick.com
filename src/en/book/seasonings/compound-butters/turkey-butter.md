@@ -4,7 +4,7 @@
     * 1 T Black Peppercorn, ground
     * 2 T Fresh Thyme Leaves, minced
     * 4 T Fresh Sage Leaves, minced
-    * 1/4 t [Chinese Five Spice](../chinese-five-spice.md)
+    * 1/4 t [Chinese Five Spice](../spice-blends/chinese-five-spice.md)
     * 1 Garlic Clove, minced
 
 === "Directions"
