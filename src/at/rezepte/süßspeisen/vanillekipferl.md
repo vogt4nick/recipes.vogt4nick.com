@@ -31,4 +31,4 @@ tags:
 [^bitterman]:
     {{ cite.bitterman_die_österreichische_küche }} 401.
 [^grannies]:
-    Cooking Grannies. ["Vanillekipferl von Oma Theresia - Rezept Video - Cooking Grannies."](https://www.youtube.com/watch?v=Ir0y8aiVUmY) _YouTube._ 12 December 2018.
+    Theresia. ["Vanillekipferl von Oma Theresia - Rezept Video - Cooking Grannies."](https://www.youtube.com/watch?v=Ir0y8aiVUmY) _YouTube: Cooking Grannies._ 12 December 2018.

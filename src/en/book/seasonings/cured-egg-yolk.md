@@ -17,4 +17,4 @@
 [^guga]:
     Tosta, Gustavo. ["The Best FILET MIGNON I ever made, WOW!"](https://www.youtube.com/watch?v=PVPaHdXj9U4) _YouTube: Guga Foods._ 19 August 2020.
 [^weissman]:
-    Weissman, Joshua. ["How To Make Easy Cured Egg Yolks."](https://www.youtube.com/watch?v=a-F-WSRTzC4) _YouTube._ 7 June 2019.
+    Weissman, Joshua. ["How To Make Easy Cured Egg Yolks."](https://www.youtube.com/watch?v=a-F-WSRTzC4) _YouTube: Joshua Weissman._ 7 June 2019.

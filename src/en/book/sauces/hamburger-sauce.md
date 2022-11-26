@@ -14,4 +14,4 @@
     Stir to combine into a homogenous mixture.
 
 [^babish]:
-    Babish Culinary Universe. ["Binging with Babish: Krabby Supreme from Spongebob Squarepants."](https://youtu.be/Rzd0mLf366I) _YouTube._ 26 February 2019.
+    Rea, Andrew. ["Binging with Babish: Krabby Supreme from Spongebob Squarepants."](https://youtu.be/Rzd0mLf366I) _YouTube: Babish Culinary Universe._ 26 February 2019.

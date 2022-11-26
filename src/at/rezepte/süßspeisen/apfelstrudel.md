@@ -25,6 +25,6 @@
     3. **Bestreichen und bestreuen.** Ein Drittel des ausgezogenen Strudelteiges wird mit Öl bestrichen, der übrige Teil mit den gerösteten Bröseln, Äpfeln, Zucker, Zimt, Muskatnuss, und Zitronenschale bestreut.
 
 [^grannies]:
-    Cooking Grannies. ["Handgezogener Apfelstrudel von Oma Aloisia - Rezept Video - Cooking Grannies."](https://youtu.be/eyoi82xgOxE) _YouTube._ 15 October 2018.
+    Aloisia. ["Handgezogener Apfelstrudel von Oma Aloisia - Rezept Video - Cooking Grannies."](https://youtu.be/eyoi82xgOxE) _YouTube: Cooking Grannies._ 15 October 2018.
 [^müller_walser]:
     {{ cite.müller_walser_mein_erstes_kochbuch }} 134-5.

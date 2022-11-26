@@ -23,7 +23,7 @@ Stir the soup rapidly. Pour egg into the stream of the whirlpool and spread agai
 This technique results in longer, chunkier strands of egg.
 
 [^demystified]:
-    Chinese Cooking Demystified. ["Egg Drop [Anything] Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM) _YouTube_. 29 December 2021.
+    Li, Stephanie and Chris Thomas. ["Egg Drop [Anything] Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM) _YouTube: Chinese Cooking Demystified._ 29 December 2021.
 [^gallary]:
     Gallary, Christine. ["How To Make Egg Drop Soup."](https://www.thekitchn.com/how-to-make-egg-drop-soup-159379) 8 November 2019.
 [^lopez-alt]:

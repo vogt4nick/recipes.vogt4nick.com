@@ -27,4 +27,4 @@ title: Sichuanese Hot & Sour Egg Drop Soup
     !!! quote "Imagine that your Jackson Pollock and you're going at a soup canvas.[^demystified]"
 
 [^demystified]:
-    Chinese Cooking Demystified. ["Egg Drop [Anything] Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM) _YouTube_. 29 December 2021.
+    Li, Stephanie and Chris Thomas. ["Egg Drop [Anything] Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM) _YouTube: Chinese Cooking Demystified._ 29 December 2021.

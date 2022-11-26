@@ -16,8 +16,8 @@
     !!! caution "Gekaufter Strudelteig trocknet rasch aus, daher erst kurz vor der Verwendung entfalten und auf ein mit Wasser bespritztes Tuch legen. Tiefkühl-Strudelteig erst auftauen."
 
 [^grannies]:
-    Cooking Grannies. ["Handgezogener Apfelstrudel von Oma Aloisia - Rezept Video - Cooking Grannies."](https://youtu.be/eyoi82xgOxE) _YouTube._ 15 October 2018.
+    Aloisia. ["Handgezogener Apfelstrudel von Oma Aloisia - Rezept Video - Cooking Grannies."](https://youtu.be/eyoi82xgOxE) _YouTube: Cooking Grannies._ 15 October 2018.
 [^kochen]:
-    Kochen & Küche - Ihr regionales Kochmagazin. ["Strudelteig selber machen (Franz Schauer) - Anleitung von Kochen & Küche - Das ländliche Kochmagazin."](https://www.youtube.com/watch?v=5nzbPcSCXhM) _YouTube._ 25 Februar 2016.
+    ["Strudelteig selber machen (Franz Schauer) - Anleitung von Kochen & Küche - Das ländliche Kochmagazin."](https://www.youtube.com/watch?v=5nzbPcSCXhM) _YouTube: Kochen & Küche - Ihr regionales Kochmagazin._ 25 Februar 2016.
 [^müller_walser]:
     {{ cite.müller_walser_mein_erstes_kochbuch }} 35-6.

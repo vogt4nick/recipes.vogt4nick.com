@@ -15,4 +15,4 @@
     4. **Rest** at least 30 minutes and up to 2 hours before serving.
 
 [^1]:
-    Uncle Matt's Cookery Lessons. ["Bean Salad - You Never Knew How Good It Could Be."](https://www.youtube.com/watch?v=w5I9T8CC70I) _YouTube._ 13 Aug 2022.
+    Woods, Matthew. ["Bean Salad - You Never Knew How Good It Could Be."](https://www.youtube.com/watch?v=w5I9T8CC70I) _YouTube: Uncle Matt's Cookery Lessons._ 13 Aug 2022.

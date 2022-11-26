@@ -30,4 +30,4 @@ title: Cantonese Chicken & Corn Egg Drop Soup
     8. **Serve** garnished with cilantro.
 
 [^demystified]:
-    Chinese Cooking Demystified. ["Egg Drop [Anything] Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM) _YouTube_. 29 December 2021.
+    Li, Stephanie and Chris Thomas. ["Egg Drop [Anything] Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM) _YouTube: Chinese Cooking Demystified._ 29 December 2021.
