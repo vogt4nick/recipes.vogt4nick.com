@@ -21,7 +21,7 @@
     6. **Season** all sides of the chicken with olive oil, salt, and pepper.
     7. **Bake** 45 minutes at 200ºC.
     8. **Baste.**
-    9. **Bake** 15 minutes at 200ºC until it reaches an internal temperature of 74ºC (165ºF).
+    9. **Bake** 15 minutes at 200ºC until it reaches an internal temperature of 74ºC (165ºF) at thickest part of thigh.
 
 [^foodwishes]:
     Mitzewich, John. ["Getting Under the Skin for Great Big, Beautiful, Buttery Breasts!"](https://foodwishes.blogspot.com/2007/11/getting-under-skin-for-great-big.html) _Food Wishes._ 28 November 2007.
