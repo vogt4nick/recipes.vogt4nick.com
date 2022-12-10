@@ -14,7 +14,7 @@
         * 1/4 t Cumin Seed, ground
         * 1/4 t Coriander Seed, ground
     * 400 g Raw Chicken Breast, sliced into thick strips
-    * 200 g [Dry Jasmine Rice, cooked](../rice/jasmine-rice.md)
+    * 200 g [Dry Jasmine Rice, cooked](../grains/rice/jasmine-rice.md)
     * Scallions, finely chopped
     * Red Cabbage, finely sliced
     * Carrot, finely julienned

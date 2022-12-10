@@ -17,7 +17,7 @@
     * 200 g Chicken Liver, minced
     * 400 g Long Grain Rice, rinsed once
     * 1/2 T Kosher Salt
-    * 1000 g [Chicken Stock](../soups/stocks/meat-stock.md)
+    * 1000 g [Chicken Stock](../../soups/stocks/meat-stock.md)
     * 1 Bay Leaf
     * 1/2 t Worcestershire Sauce
     * 50 g Scallions, sliced

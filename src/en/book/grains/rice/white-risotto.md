@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 1200 g [Vegetable Stock](../soups/stocks/vegetable-stock.md), simmering
+    * 1200 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md), simmering
     * 15 g Unsalted Butter
     * 25 g Vegetable Oil
     * 30 g Onion, minced

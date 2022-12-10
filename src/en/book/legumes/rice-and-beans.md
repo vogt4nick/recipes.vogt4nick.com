@@ -11,7 +11,7 @@ tags:
     * 240 g [Black Beans, cooked with seasonings](beans/index.md)
     * 1/2 t Kosher Salt
     * 1/2 t Cumin Seed, ground
-    * 360 g [Rice, cooked](../rice/japanese-rice.md)
+    * 360 g [Rice, cooked](../grains/rice/japanese-rice.md)
     * Garnish
         * Coriander Leaves, chopped
 

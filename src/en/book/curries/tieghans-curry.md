@@ -19,7 +19,7 @@ title: Tieghan's curry
     * For serving
         * Fresh Cilantro Leaves, chopped
         * [Roasted Chickpeas](../legumes/beans/roasted-chickpeas.md)
-        * 200 g [Dry Basmati Rice, cooked](../rice/basmati-rice.md)
+        * 200 g [Dry Basmati Rice, cooked](../grains/rice/basmati-rice.md)
         * Pomegranate Seeds (optional)
 
 === "Directions"

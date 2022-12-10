@@ -16,7 +16,7 @@
     * 30 g Cilantro Leaves, roughly chopped
     * For Serving
         * Limes, quartered
-        * [Basmati Rice](../rice/basmati-rice.md)
+        * [Basmati Rice](../grains/rice/basmati-rice.md)
         * Flatbread
 
 === "Directions"

@@ -1,3 +1,6 @@
+---
+title: Pasta Dough
+---
 === "Ingredients"
     * 2 Eggs
     * 125 g All-Purpose Flour
