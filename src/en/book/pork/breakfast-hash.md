@@ -17,5 +17,7 @@
     4. **Bake hash.** Remove skillet from heat. Layer skillet with roasted potatoes, *cooked sausage*, *sautéed vegetables*, salt, pepper. Bake 10 minutes at 350ºF.
     5. **Garnish and serve** with poached eggs, chives, and salsa.
 
-[^1]:
+[^lopez-alt]:
     López-Alt, J. Kenji. ["The Food Lab: How to Make the Best Potato Hash."](https://www.seriouseats.com/2014/04/the-food-lab-how-to-make-the-best-potato-hash.html) *Serious Eats.* 24 April 2014.
+[^babish]:
+    Rea, Andrew. ["Potato Hash | Basics with Babish."](https://www.youtube.com/watch?v=R4kwxiDlKzs) _YouTube: Babish Culinary Universe._ 27 August 2020.
