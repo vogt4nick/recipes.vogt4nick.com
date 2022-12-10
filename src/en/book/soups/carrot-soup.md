@@ -1,5 +1,6 @@
 ---
 tags:
+    - vegan
     - weeknight meal
 ---
 === "Ingredients"

@@ -1,3 +1,7 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 15 g Unsalted Butter
     * 8 g Sugar

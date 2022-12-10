@@ -1,3 +1,7 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 100 g [Dry Chickpeas, cooked](index.md)
     * 15 g Extra Virgin Olive Oil

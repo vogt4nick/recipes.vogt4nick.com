@@ -1,3 +1,7 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * Sponge
         * 60 g Bread Flour

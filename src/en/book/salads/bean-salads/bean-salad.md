@@ -1,3 +1,7 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 100 g [Dry Legumes, slightly undercooked](../../legumes/beans/index.md), warm
     * 25 g Red Onion or Shallots

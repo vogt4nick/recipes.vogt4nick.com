@@ -1,3 +1,7 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 300 g Green Beans, trimmed
     * 1 Shallot, minced

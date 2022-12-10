@@ -1,5 +1,7 @@
 ---
 title: Lentils
+tags:
+    - vegan
 ---
 === "Ingredients"
     * 200 g Dry Lentils

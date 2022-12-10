@@ -1,3 +1,7 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 500 g Bread Flour
     * 20 g Semolina Flour

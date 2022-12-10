@@ -1,4 +1,3 @@
-
 === "Ingredients"
     * 50 g Sesame Seeds
     * 15 g Extra Virgin Olive Oil

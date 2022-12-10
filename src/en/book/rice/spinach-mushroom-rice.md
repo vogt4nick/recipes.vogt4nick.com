@@ -1,3 +1,7 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 200 g [Dry Jasmine Rice, cooked](jasmine-rice.md)
     * 15 g Olive Oil

@@ -1,6 +1,10 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 1 T Olive Oil
-    * 1/2 T Butter
+    * 1/2 T Butter or Olive Oil
     * 50 g Onion, diced
     * Kosher Salt
     * 3 Garlic Cloves, minced

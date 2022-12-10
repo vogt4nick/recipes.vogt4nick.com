@@ -1,3 +1,7 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 400 g Conchiglie Pasta, cooked al dente
     * 300 g [Roasted Red Pepper Vinaigrette](../../sauces/vinaigrette/roasted-red-pepper-vinaigrette.md)

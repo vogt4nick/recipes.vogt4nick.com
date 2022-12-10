@@ -1,8 +1,12 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 150 g Dressing
         * 80 g Extra Virgin Olive Oil
         * 50 g White Wine Vinegar
-        * 15 g Honey
+        * 15 g Honey or Sugar
         * 1 t Kosher Salt
         * 2 Garlic Cloves, minced
         * 1 t Lime Juice

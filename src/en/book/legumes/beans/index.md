@@ -1,5 +1,7 @@
 ---
 title: Beans
+tags:
+    - vegan
 ---
 === "Ingredients"
     * 200 g Dry Beans

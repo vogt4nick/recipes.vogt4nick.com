@@ -1,5 +1,9 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
-    * 1000 g [Stock](stocks/meat-stock.md)
+    * 1000 g [Stock](stocks/vegetable-stock.md)
     * 150 g Dry Beans, soaked, drained
     * 150 g Onion, chopped
     * 50 g Carrot, chopped

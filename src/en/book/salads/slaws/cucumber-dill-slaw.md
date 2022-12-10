@@ -1,3 +1,7 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 800 g Cabbage, cored, shredded
     * 400 g English Cucumber, thinly sliced

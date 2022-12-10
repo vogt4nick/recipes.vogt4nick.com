@@ -1,5 +1,7 @@
 ---
 title: Red lentils & greens
+tags:
+    - vegan
 ---
 === "Ingredients"
     * 200 g Dry Red Lentils, rinsed

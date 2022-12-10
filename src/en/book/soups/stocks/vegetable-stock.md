@@ -1,3 +1,7 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 100 g Onions, chopped
     * 100 g Celery, chopped

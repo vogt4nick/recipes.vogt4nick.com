@@ -1,5 +1,7 @@
 ---
 title: Chetna's curry
+tags:
+    - vegan
 ---
 === "Ingredients"
     * 200 g [Dry Chickpeas, cooked](../legumes/beans/index.md)

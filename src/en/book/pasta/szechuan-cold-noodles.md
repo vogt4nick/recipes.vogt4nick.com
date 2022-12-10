@@ -1,3 +1,7 @@
+---
+tags:
+    - vegan
+---
 === "Ingredients"
     * 100 g Dry Alkaline Noodles, undercooked, cold
     * 80 g Cucumber, peeled, shredded
