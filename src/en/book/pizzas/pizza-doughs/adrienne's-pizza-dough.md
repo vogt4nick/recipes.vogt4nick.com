@@ -1,12 +1,12 @@
 === "Ingredients"
-    * 350 g Water, 95ºC
-    * 2 t Sea Salt
+    * 210 g Water, 95ºC
+    * 1/2 T Sea Salt
     * 1/2 t Instant Dry Yeast
-    * 500 g 00 Flour
+    * 300 g 00 Flour
 
     !!! question "Substitute all-purpose flour 1:1 for 00 flour."
 
-    !!! info "Yields about three medium pizzas."
+    !!! info "Yields about one large pizza."
 
 === "Directions"
     1. **Mix dough.** Add water, salt to large (>5L) dough tub. Stir until dissolved. Add yeast. Rest 60 seconds. Mix until dissolved. Add flour. Stir until dough ball forms.
