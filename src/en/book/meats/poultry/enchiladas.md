@@ -1,7 +1,7 @@
 === "Ingredients"
     * Sauce
         * 300 g Cream of Chicken Soup
-        * 200 g [Crème Fraîche](../sauces/creme-fraiche.md) or Sour Cream
+        * 200 g [Crème Fraîche](../../sauces/creme-fraiche.md) or Sour Cream
         * 100 g Milk
         * 100 g Green Chiles, chopped
     * Filling

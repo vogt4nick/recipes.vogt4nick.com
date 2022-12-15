@@ -2,13 +2,13 @@
     * Salt Blend
         * 2 T Kosher Salt
         * 1 T Black Peppercorn, ground
-        * 1 T [Poultry Seasoning](../seasonings/spice-blends/poultry-seasoning.md)
+        * 1 T [Poultry Seasoning](../../seasonings/spice-blends/poultry-seasoning.md)
     * 2 Carrots, thickly chopped
     * 3 Celery Stalks, thickly chopped
     * 2 Onions, thickly chopped
     * Fresh Rosemary Leaves
     * Fresh Sage Leaves
-    * [Turkey Butter](../seasonings/compound-butters/turkey-butter.md)
+    * [Turkey Butter](../../seasonings/compound-butters/turkey-butter.md)
 
 === "Directions"
     1. **Calculate roasting time.** Weigh turkey. Roasting time is 40 minutes per kilogram (or 18 minutes per pound).

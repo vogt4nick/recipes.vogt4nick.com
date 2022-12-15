@@ -1,5 +1,5 @@
 === "Ingredients"
-    * [Chicken Soup](../soups/chicken-soup.md)
+    * [Chicken Soup](../../soups/chicken-soup.md)
     * 240 g Flour
     * 1 T Baking Powder
     * 1 t Kosher Salt (optional)

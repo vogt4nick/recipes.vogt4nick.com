@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 450 g [BBRRR Chicken](../poultry/oven-roasted-chicken/bbrrr-chicken-breast.md), cubed
+    * 450 g [BBRRR Chicken](../meats/poultry/oven-roasted-chicken/bbrrr-chicken-breast.md), cubed
     * 45 g Shallots, minced
     * 60 g Black Olives, pitted
     * Seasoning

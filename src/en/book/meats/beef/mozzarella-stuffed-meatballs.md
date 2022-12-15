@@ -11,7 +11,7 @@
         * 2 Eggs
         * 120 g Milk
     * 450 g Mozzarella Cheese, roughly chopped
-    * 680 g [Tomato Sauce](../sauces/tomato-sauce.md)
+    * 680 g [Tomato Sauce](../../sauces/tomato-sauce.md)
 
 === "Directions"
     1. **Season meat.** Add ingredients to a large bowl. Mix well and evenly.

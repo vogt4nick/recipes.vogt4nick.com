@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 150 g [Pad Thai Sauce](../sauces/pad-thai-sauce.md)
+    * 150 g [Pad Thai Sauce](../../sauces/pad-thai-sauce.md)
     * 80 g Rice Sticks
     * 55 g Canola Oil
     * 60 g Raw Chicken Breast, chopped

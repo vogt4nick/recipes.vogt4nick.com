@@ -1,5 +1,5 @@
 === "Ingredients"
-    * [Italian Wedding Soup Meatballs, uncooked](../poultry/italian-wedding-soup-meatballs.md)
+    * [Italian Wedding Soup Meatballs, uncooked](../meats/poultry/italian-wedding-soup-meatballs.md)
     * 25 g Extra Virgin Olive Oil
     * 120 g Onion, minced
     * 60 g Carrot, chopped
