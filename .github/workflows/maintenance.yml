@@ -17,7 +17,7 @@ jobs:
         run: pipx install poetry==1.1.11
       - uses: actions/setup-python@main
         with:
-          python-version: 3.8
+          python-version: 3.11
           cache: 'poetry'
       - name: Update build dependencies
         run: poetry lock

@@ -14,7 +14,7 @@ jobs:
         run: pipx install poetry==1.1.11
       - uses: actions/setup-python@main
         with:
-          python-version: 3.8
+          python-version: 3.11
           cache: 'poetry'
       - name: Install dependencies
         run: poetry install --no-dev
@@ -35,7 +35,7 @@ jobs:
       - uses: actions/checkout@main
       - uses: actions/setup-python@main
         with:
-          python-version: 3.8
+          python-version: 3.11
       - uses: pre-commit/action@main
   deploy-dev:
     if: github.ref == 'refs/heads/main'
