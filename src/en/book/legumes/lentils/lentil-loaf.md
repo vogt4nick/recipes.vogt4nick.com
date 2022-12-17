@@ -34,11 +34,10 @@ tags:
 === "Directions"
     1. **Preheat oven** to 180ºC (350ºF).
     2. **Saute vegetables.** Heat oil in frying pan over medium heat. Add onion, carrot, celery, and bell pepper, and mix to coat evenly. Saute 5 minutes. Evenly mix in seasonings, and cook for 1 minute more. Remove from heat and set aside.
-    3. **Assemble lentil loaf.** Add lentils, oats, flour, and flaxseed egg to frying pan, and mix well. Taste and correct as desired.
-    4. Pour mixture into a loaf pan lined with parchment paper. Press down firmly to fill container fully.
-    5. **Prepare glaze** by mixing all ingredients thoroughly. Spread evenly over top the loaf.
-    6. **Bake** 45 minutes at 180ºC.
-    7. **Rest** at room temperature 5 minutes before serving.
+    3. **Assemble lentil loaf.** Add lentils, oats, flour, and flaxseed egg to frying pan, and mix well. Taste and correct as desired. Pour mixture into a loaf pan lined with parchment paper. Press down firmly to fill container fully.
+    4. **Prepare glaze** by mixing all ingredients thoroughly. Spread evenly over top the loaf.
+    5. **Bake** 45 minutes at 180ºC.
+    6. **Rest** at room temperature 5 minutes before serving.
 
 [^1]:
     West, Julie. ["The Ultimate Vegetable Lentil Loaf."](https://simple-veganista.com/the-ultimate-vegetable-lentil-loaf/) _The Simple Veganista._ 8 November 12.
