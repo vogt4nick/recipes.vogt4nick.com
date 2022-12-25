@@ -5,7 +5,7 @@
         * 6 Garlic Cloves, minced
         * 2 t Salt
         * 1 t Black Peppercorn, ground
-        * 40 g Parsly, chopped
+        * 40 g Fresh Parsley Leaves, chopped
         * 110 g Bread Crumbs
         * 40 g Parmesan
         * 2 Eggs
