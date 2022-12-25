@@ -11,7 +11,7 @@
     * 110 g Walnuts, chopped
     * 240 g Pineapple, crushed
     * For topping
-        * [Russian Buttercream](../russian-buttercream.md)
+        * [Russian Buttercream](../toppings/russian-buttercream.md)
 
 === "Directions"
     1. **Preheat oven** to 350ºF (177ºC).

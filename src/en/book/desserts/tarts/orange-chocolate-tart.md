@@ -1,6 +1,6 @@
 === "Ingredients"
     * 1 [Tart Crust, blind-baked](../../bread/pastry-doughs/tart-crust.md)
-    * 1 [Orange Peel, candied](../candied-orange-peel.md), chopped
+    * 1 [Orange Peel, candied](../toppings/candied-orange-peel.md), chopped
     * Almond Mixture
         * 70 g Almonds, sliced, toasted, roughly chopped
         * 2 t White Sugar
@@ -10,8 +10,8 @@
         * 240 g Dark Chocolate, 80%
         * 1 T Orange Liqueur
     * Garnish
-        * [Orange Peel, candied](../candied-orange-peel.md)
-        * [Russian Buttercream](../russian-buttercream.md)
+        * [Orange Peel, candied](../toppings/candied-orange-peel.md)
+        * [Russian Buttercream](../toppings/russian-buttercream.md)
 
     !!! question "Substitute 1 teaspoon orange extract for 1 tablespoon orange liqueur."
 
