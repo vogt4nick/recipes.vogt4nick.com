@@ -7,6 +7,4 @@
     * 1 g Black Peppercorn, ground
     * 1 g Dried Cayenne Pepper, ground
 
-    !!! tip "Yields about 160 g"
-
 !!! tip "Store in an airtight container."
