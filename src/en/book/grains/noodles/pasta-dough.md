@@ -18,6 +18,10 @@ title: Pasta Dough
     8. **Roll pasta.** Set the pair of smooth cylinders, the thinning rollers, at their widest opening. Flatten one of the pieces of dough by pummeling it with your palm, and run it through the machine. Fold the dough twice into a third of its length, and feed it by its narrow ened through the machine once again. Repeat the operation 2-3 times, then lay the flattened strip of pasta over a towel on the counter.
     9. **Cook pasta** in boiling, lightly salted water for 2-3 minutes.
 
-[^1]: {{ cite.hazan_italian_cooking }}
-[^2]:
+[^contaldo]:
+    Contaldo, Gennaro. ["How to make Tagliatelle Pasta."](https://www.youtube.com/watch?v=sL_XLecEcY4) _YouTube: Jamie Oliver._ 24 January 2013.
+[^contaldo2]:
+    Contaldo, Gennaro. ["Perfect Pasta Dough with Gennaro."](https://www.youtube.com/watch?v=ESz55eORW44) _YouTube: Jamie Oliver._ 1 June 2013.
+[^hazan]: {{ cite.hazan_italian_cooking }}
+[^tasty]:
     *Tasty.* ["The Best Homemade Pasta You'll Ever Eat."](https://www.youtube.com/watch?v=YNHqjFyk5gU) 29 July 2018.
