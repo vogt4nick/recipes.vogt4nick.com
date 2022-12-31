@@ -1,5 +1,5 @@
 ---
-title: Pasta Dough
+title: Pasta
 ---
 === "Ingredients"
     * 2 Eggs
