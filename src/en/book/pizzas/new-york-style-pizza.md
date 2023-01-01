@@ -1,3 +1,6 @@
+---
+title: New York-style pizza
+---
 === "Ingredients"
     * Sautéed Veggies
         * 15 g Extra Virgin Olive Oil
