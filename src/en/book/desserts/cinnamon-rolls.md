@@ -1,40 +1,49 @@
 === "Ingredients"
-    * Dough
-        * 185 g Buttermilk, room temperature
-        * 85 g Unsalted Butter, melted
-        * 50 g White Sugar
-        * 1 Egg, room temperature
-        * 4 Egg Yolks, room temperature
-        * 280 g All-Purpose Flour
-        * 120 g All-Purpose Flour
-        * 12 g Instant Yeast
-        * 6 g Kosher Salt
-    * Dry Mix
-        * 100 g Light Brown Sugar
-        * 1 T Cinnamon, ground
-        * 1/2 t Kosher Salt
-    * 20 g Unsalted Butter, melted
-    * Icing
-        * 60 g Cream Cheese, room temperature
-        * 45 g Milk
-        * 200 g Powdered Sugar
+    * Yudane
+        * 100 g White Bread Flour
+        * 100 g Water, boiling
+    * 60 g Water, cold
+    * 4 g Instant Dry Yeast
+    * 5 g Kosher Salt
+    * 30 g Granulated Sugar
+    * 1 Egg Yolk
+    * 200 g White Bread Flour
+    * 60 g Butter, room temperature
+    * 1 Egg White, for glazing
+    * Filling
+        * 70 g Granulated Sugar
+        * 6 g Cinnamon
+        * 40 g Unsalted Butter, softened
+    * Frosting
+        * 160 g Powdered Sugar
+        * 100 g Cream Cheese
+        * 20 g Unsalted Butter, softened
+        * 6 g Vanilla Paste
 
 === "Directions"
-    1. **Mix dough.** Mix buttermilk, butter, sugar, and eggs. Slowly stir in 280 g flour, yeast, and salt until dry ingredients are incorporated.
-    2. **Knead.** Add remaining 120 g flour, and gently knead 5 minutes until the dough is soft and moist but not sticky.
-    3. **Shape** the dough into a smooth ball. Lightly coat with oil.
-    4. **Rest** 3 hours, covered, until the dough doubles in volume.
-    5. **Combine dry mix** ingredients and set aside.
-    6. **Roll out dough.** Transfer dough to a lightly floured surface. Gently shape into a rectangle with the long side nearest you. Use a rolling pin to shape the dough into a 45 x 30 cm (18 x 12-inch) rectangle.
-    7. **Assemble rolls.** Brush the dough with the the melted butter, leaving a 1 inch border along the top edge. Sprinkle the brown sugar mixture over the dough, also avoiding the top border. Gently press the filling into the dough. Beginning with the long edge nearest you, roll the dough away from you into a tight cylinder. Firmly pinch the seam to seal and roll the cylinder seam-side down. Very gently squeeze the cylinder to create even thickness. Using a serrated knife, gently cut the cylinder 8 rolls. Transfer rolls to a greased 9" x 13" pan.
-    8. **Chill** at least 6 hours, covered.
-    9. **Proof.** Uncover rolls. Heat oven to 200ºF (93ºC). Turn off oven, and add rolls to oven. Proof 30 minutes until slightly puffy.
-    10. **Bake.** Without taking the rolls out of the oven, increase the oven temperature to 350ºF (177ºC). Bake 25-30 minutes until the internal temperature reaches 190ºF (85ºC). Remove from heat.
-    11. **Cool** 30 minutes.
-    12. **Whip icing.** Beat cream cheese until creamy. Mix in milk until combined. Sift in sugar and whip until smooth.
-    13. **Serve.** Spread icing over the rolls and serve immediately.
+    1. **Make yudane.** Mix the flour and boiling water until there is no dry flour left. Cover, and rest until completely cooled.
+    2. **Mix dough.** Mix water, yeast, salt, sugar, and egg yolk to dissolve the salt and sugar. Mix in the yudane and the flour. Knead 3 minutes into a workable dough.
+    3. **Enrich dough.** Stretch dough out. Place butter in the middle, and fold dough around butter. Press the butter into the dough, tearing it using Charlie's method.[^charlie_youtube]
+    4. **Knead.** Knead 6 minutes, beginning with slap & fold before continuing with your regular kneading method.
+    5. **Ferment.** Rest 1 hour, covered, at room temperature. Fold, and ferment 1 hour more, covered, at room temperature.
+    6. **Roll out** dough, brush with butter, and sprinkle with cinnamon sugar.
+    7. **Shape.** Roll up the dough, and seal the edge. Cut the roll into 6 pieces. Tuck end piece underneath each roll.
+    8. **Proof.** Arrange dough buns on greased sheetpan, and rest 2 hours at room temperature.
+    9.  **Preheat oven** to 160ºC (320ºF).
+    10. **Glaze** dough buns with egg white.
+    11. **Bake** 23 minutes at 160ºC (320ºF).
+    12. **Cool** to room temperature.
+    13. **Frost buns.** Mix frosting ingredients thoroughly, and frost buns before serving.
 
     !!! tip "Knead in additional flour as necessary, but be mindful that a wetter dough will yield lighter, fluffier cinnamon rolls."
 
-[^1]:
+[^brown]:
     Brown, Alton. ["Overnight Cinnamon Rolls."](https://altonbrown.com/recipes/overnight-cinnamon-rolls/) *Alton Brown* October 2020.
+[^charlie_chainbaker]:
+    Charlie. ["These May Be the Softest Cinnamon Rolls You Will Ever Make!"](https://www.chainbaker.com/cinnamon-rolls/) _ChainBaker._ 20 November 2022.
+[^charlie_youtube]:
+    Charlie. ["These May Be the Softest Cinnamon Rolls You Will Ever Make! Yudane Method."](https://youtu.be/GkAnwnY5uGI?&t=3m51s) _YouTube: ChainBaker._ 20 November 2022.
+[^kieffer]:
+    Kieffer, Sarah. ["Pillowy Soft Cinnamon Rolls."](https://www.thevanillabeanblog.com/cinnamon-rolls/) _The Vanilla Bean Blog._ 20 December 2019.
+[^splawn]:
+    Splawn, Meghan. ["I Tried Alton Brown's Cinnamon Roll Recipe."](https://www.thekitchn.com/alton-brown-cinnamon-rolls-22969565) _The Kitchn._ 18 December 2019.
