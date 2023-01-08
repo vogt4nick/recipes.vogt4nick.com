@@ -33,17 +33,6 @@
 
     Lactic acid and acetic acid are both organic acids that can affect the flavor of bread. Lactic acid is produced by the fermentation of sugars by bacteria, and it can contribute a tangy or sour flavor to bread. Acetic acid is produced by the fermentation of ethanol by bacteria, and it can contribute a sharp, acidic, wine-like flavor to bread. The flavor of bread can be influenced by the type and amount of acid present, as well as the other ingredients used in the dough and the baking process. Some breads, such as sourdough bread, rely on the production of lactic and acetic acids to give them their characteristic tangy flavor.
 
-???+ question "How do I substitute levain starter for dry yeast?"
-    Use the following multiplication table to substitute for instant or active dry yeast.[^chainbaker]
-
-    | Instant Dry Yeast | Active Dry Yeast | Levain Culture |
-    | ----------------: | ---------------: | -------------: |
-    |               1 g |           1.21 g |            3 g |
-    |           0.825 g |              1 g |          2.5 g |
-    |           0.333 g |            0.4 g |            1 g |
-
-[^chainbaker]:
-    Charlie. ["What is the Real Difference Between Various Types of Yeast?"](https://www.chainbaker.com/side-by-side-yeast-comparison/) _ChainBaker._ 27 November 2021.
 [^forkish_elements]:
     {{ cite.forkish_elements_of_pizza }} 127-9.
 [^forkish_flour]:
