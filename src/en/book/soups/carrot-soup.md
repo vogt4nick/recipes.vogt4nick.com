@@ -22,7 +22,7 @@ tags:
     * 15 g Parsley Leaves, chopped
     * For Serving
         * [Roasted Chickpeas](../legumes/beans/roasted-chickpeas.md)
-        * [Lebanese Flatbread](../bread/flatbreads/lebanese-flatbread.md)
+        * [Lebanese Flatbread](../bread/yeast-doughs/lebanese-flatbread.md)
 
     ??? question "Substitutions"
         Substitute a 1:1 mixture of sesame seeds and sea salt for za'atar.

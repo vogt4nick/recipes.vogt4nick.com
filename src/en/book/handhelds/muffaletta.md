@@ -8,7 +8,7 @@
         * 2 Pepperoncini Peppers, chopped
         * 40 g Olive Oil
         * 1 T Red Wine Vinegar
-    * 1 [Focaccia Loaf](../bread/focaccia.md), halved
+    * 1 [Focaccia Loaf](../bread/yeast-doughs/focaccia.md), halved
     * Deli Meat
         * 100 g Salami, sliced thin
         * 100 g Capicola, sliced thin
