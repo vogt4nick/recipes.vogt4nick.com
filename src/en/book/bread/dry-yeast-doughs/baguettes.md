@@ -7,7 +7,7 @@ tags:
         * 100 g Bread Flour
         * 100 g Water, cool
         * 2 g [Diastatic Malt Powder](https://www.amazon.com/dp/B01JXZ0PW0) (optional)
-        * 1 pinch Instant Yeast
+        * 1 g Instant Yeast
     * 400 g Bread Flour
     * 270 g Water, cool
     * 13 g Instant Yeast
@@ -15,6 +15,15 @@ tags:
     * 8 g [Diastatic Malt Powder](https://www.amazon.com/dp/B01JXZ0PW0) (optional)
 
     !!! info "Yields two 430 g loaves."
+
+=== "Baker's Percentage"
+    | Ingredient            | Starter | Dough | Total | Baker's Percentage |
+    | :-------------------- | ------: | ----: | ----: | -----------------: |
+    | White Flour           |   100 g | 400 g | 500 g |               100% |
+    | Water                 |   100 g | 270 g | 370 g |                64% |
+    | Kosher Salt           |         |  10 g |  10 g |                 2% |
+    | Instant Yeast         |     1 g |  13 g |  14 g |               2.8% |
+    | Diastatic Malt Powder |     2 g |   8 g |  10 g |                 2% |
 
 === "Directions"
     1. **Mix starter** ingredients. Ferment at least 6 hours, covered, at room temperature.
