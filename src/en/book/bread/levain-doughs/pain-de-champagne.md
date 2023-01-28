@@ -17,16 +17,16 @@
     * 180 g Preferment
 
 === "Baker's Percentage"
-    | Ingredient        | Levain (g) | Levain (%) | Final (g) | Final (%) |
-    | :---------------- | ---------: | ---------: | --------: | --------: |
-    | White Wheat Flour |       80 g |       80 % |     350 g |      70 % |
-    | Whole Wheat Flour |       20 g |       20 % |     100 g |      20 % |
-    | Whole Rye Flour   |            |            |      50 g |      10 % |
-    | Water             |       80 g |       80 % |     390 g |      78 % |
-    | Salt              |            |            |      10 g |       2 % |
-    | Instant Dry Yeast |            |            |       1 g |      0.2% |
-    | Chef              |       20 g |       20 % |           |           |
-    | Levain            |            |            |     180 g |      20 % |
+    | Ingredient        | Preferment (g) |  (%) | Final (g) |  (%) |
+    | :---------------- | -------------: | ---: | --------: | ---: |
+    | White Wheat Flour |           80 g | 80 % |     350 g | 70 % |
+    | Whole Wheat Flour |           20 g | 20 % |     100 g | 20 % |
+    | Whole Rye Flour   |                |      |      50 g | 10 % |
+    | Water             |           80 g | 80 % |     390 g | 78 % |
+    | Salt              |                |      |      10 g |  2 % |
+    | Instant Dry Yeast |                |      |       1 g | 0.2% |
+    | Levain            |           20 g | 20 % |           |      |
+    | Preferment        |                |      |     180 g | 20 % |
 
 === "Directions"
     1. **Refresh chef.** Mix mother culture, flour, and water until just incorporated. Rest 2 hours, uncovered. Seal, and rest at room temperature about 24 hours.
