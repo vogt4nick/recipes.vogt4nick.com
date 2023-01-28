@@ -1,6 +1,3 @@
----
-title: WoodenSpoon's Rye Levain
----
 === "Ingredients"
     * For Restored Levain
         * 3 g Rye Chef from [100% Hydration Mother Culture](mother-culture.md)
