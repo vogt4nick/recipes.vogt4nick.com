@@ -1,7 +1,7 @@
 === "Ingredients"
     * Marinade
         * 2 T Crunchy Peanut Butter
-        * 3/2 T Soy Sauce
+        * 1 1/2 T Soy Sauce
         * 1 T Lime Juice or Rice Wine Vinegar
         * 1 T Sweet Chili Sauce
         * 1 t Honey

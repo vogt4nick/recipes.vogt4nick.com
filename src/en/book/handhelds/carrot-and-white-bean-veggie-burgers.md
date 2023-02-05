@@ -13,7 +13,7 @@ tags:
     * 1 t Paprika
     * 1/2 T Kosher Salt
     * 2 Medium Carrots, grated
-    * 3/2 T Apple Cider Vinegar
+    * 1 1/2 T Apple Cider Vinegar
     * 500 g Cooked Cannellini Beans
     * 1 Egg, beaten
     * Black Peppercorn, ground
