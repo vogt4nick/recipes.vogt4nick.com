@@ -1,7 +1,8 @@
 === "Ingredients"
     * 180 g Cornmeal
     * 90 g White Wheat Flour
-    * 1 t Baking Soda
+    * 1 T Baking Powder
+    * 1/4 t Baking Soda
     * 1/2 t Kosher Salt
     * 50 g White Sugar
     * 60 g Honey
@@ -9,7 +10,6 @@
     * 2 Eggs, room temperature
     * 110 g Unsalted Butter, melted
     * 1 T Neutral Oil
-    * 1/2 T White Vinegar
     * 360 g Buttermilk, room temperature
     * For Serving
         * [Honey Butter](../../seasonings/compound-butters/honey-butter.md)
