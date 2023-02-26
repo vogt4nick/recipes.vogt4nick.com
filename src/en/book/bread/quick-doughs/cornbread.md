@@ -1,7 +1,6 @@
 === "Ingredients"
     * 180 g Cornmeal
     * 90 g White Wheat Flour
-    * 1 T Baking Powder
     * 1 t Baking Soda
     * 1/2 t Kosher Salt
     * 50 g White Sugar
