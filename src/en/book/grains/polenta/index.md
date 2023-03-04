@@ -1,3 +1,6 @@
+---
+title: Polenta
+---
 === "Ingredients"
     * 1000 g Water or [Stock](../../soups/stocks/vegetable-stock.md)
     * 200 g Dry Polenta or Cornmeal
