@@ -1,19 +1,18 @@
 === "Ingredients"
-    * 200 g Dry Quinoa
+    * 10 g Olive Oil
+    * 200 g Dry Quinoa, rinsed
     * 350 g Water or [Stock](../../soups/stocks/vegetable-stock.md)
+    * 1/2 t Kosher Salt
     * 100 g Green Peas
     * 100 g Carrots, grated
-    * 1/2 t Kosher Salt
-    * 10 g Olive Oil
 
     !!! info "Cooked quinoa is 3x larger than dry quinoa."
 
 === "Directions"
-    1. **Rinse** through a fine mesh strainer several times, and drain.
-    2. **Toast.** Heat olive oil over medium-low heat. Stirring constantly, add quinoa and toast 4-6 minutes until golden and aromatic.
-    3. **Cook.** Mix in water, salt, peas, and carrots, and bring to boil. Cover, reduce heat to low, and cook 15 minutes until water is absorbed and kernels have popped. While covered, remove from heat and rest 5 minutes.
-    4. **Fluff** rice with a fork.
-    5. **Cool and serve.** Allow quinoa to cool, uncovered, for a few minutes before serving.
+    1. **Toast.** Heat olive oil over medium-low heat. Stirring constantly, add quinoa and toast 4-6 minutes until golden and aromatic.
+    2. **Cook.** Mix in water, salt, peas, and carrots, and bring to boil. Cover, reduce heat to low, and cook 15 minutes until water is absorbed and kernels have popped. While covered, remove from heat and rest 5 minutes.
+    3. **Fluff** quinoa with a fork.
+    4. **Cool and serve.** Allow quinoa to cool, uncovered, for a few minutes before serving.
 
     !!! info "Rinsing the quinoa helps remove the saponin, its natural outer coating, which imparts a bitter taste.[^eggleston]"
 
