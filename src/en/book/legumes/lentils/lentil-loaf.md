@@ -11,7 +11,7 @@ tags:
     * 1 Carrot, grated
     * 1 Celery Rib, minced
     * 1/2 Red Bell Pepper, minced
-    * 160 g Oats
+    * 160 g Rolled Oats
     * 60 g Flour
     * Seasonings
         * 3 Garlic Cloves, minced
