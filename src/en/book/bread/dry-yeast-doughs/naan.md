@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 180 g Bread Flour or All-Purpose Flour
+    * 180 g White Wheat Flour, 13% protein
     * 1/2 t Kosher Salt
     * 2 t Baking Powder
     * 240 g Plain Greek Yogurt

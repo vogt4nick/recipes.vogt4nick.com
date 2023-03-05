@@ -1,5 +1,5 @@
 === "Julia's Ingredients"
-    * 200 g All-Purpose Flour
+    * 200 g White Wheat Flour
     * 1/2 t Kosher Salt
     * 1/2 t White Sugar
     * 110 g Unsalted Butter, chilled, chopped
@@ -8,7 +8,7 @@
     !!! info "Yields two 9-inch single-crust pie crusts or 6 hand pie crusts."
 
 === "Lisa's Ingredients"
-    * 320 g All-Purpose Flour
+    * 320 g White Wheat Flour
     * 1 t White Sugar
     * 1 t Kosher Salt
     * 220 g Unsalted Butter, chilled, divided into 5 g chunks

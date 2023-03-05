@@ -3,7 +3,7 @@ title: Pasta
 ---
 === "Ingredients"
     * 2 Eggs
-    * 125 g All-Purpose Flour
+    * 125 g White Wheat Flour
 
     !!! info "Yields about 400 g"
 

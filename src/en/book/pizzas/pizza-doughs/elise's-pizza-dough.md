@@ -4,7 +4,7 @@
     * 3/4 t White Sugar
     * 1 1/4 t Kosher Salt
     * 25 g Vegetable Oil
-    * 315 g All-Purpose Flour
+    * 315 g White Wheat Flour
 
     !!! info "Yields one large pizza or two medium pizzas."
 

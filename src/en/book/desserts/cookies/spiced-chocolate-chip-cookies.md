@@ -1,7 +1,7 @@
 === "Ingredients"
     * Dry Mix
-        * 250 g All-Purpose Flour
-        * 125 g Bread Flour
+        * 250 g White Wheat Flour
+        * 125 g White Wheat Flour, 13% protein
         * 1 t Baking Powder
         * 1 t Baking Soda
     * Spices

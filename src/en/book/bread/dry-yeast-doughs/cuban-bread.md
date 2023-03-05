@@ -1,22 +1,22 @@
 === "Ingredients"
     * Starter
         *  120 g Water, warm
-        *  60 g All-Purpose Flour
+        *  60 g White Wheat Flour
         *  1/4 t Active Dry Yeast
     * 7 g Active Dry Yeast
     * 2 t White Sugar
     * 180 g Water, warm
     * 40 g Lard
     * 2 t Kosher Salt, fine
-    * 360 g All-Purpose Flour
+    * 360 g White Wheat Flour
 
 === "Baker's Percentage"
-    | Ingredient       | Starter | Dough |  Total | Baker's Percentage |
-    | :--------------- | ------: | ----: | -----: | -----------------: |
-    | White Flour      |    60 g | 360 g |  420 g |              100 % |
-    | Water            |   120 g | 180 g |  300 g |               64 % |
-    | Kosher Salt      |         |  10 g |   10 g |                2 % |
-    | Active Dry Yeast |  0.25 g |   7 g | 7.25 g |             1.73 % |
+    | Ingredient        | Starter | Dough |  Total | Baker's Percentage |
+    | :---------------- | ------: | ----: | -----: | -----------------: |
+    | White Wheat Flour |    60 g | 360 g |  420 g |              100 % |
+    | Water             |   120 g | 180 g |  300 g |               64 % |
+    | Kosher Salt       |         |  10 g |   10 g |                2 % |
+    | Active Dry Yeast  |  0.25 g |   7 g | 7.25 g |             1.73 % |
 
 === "Directions"
     1. **Mix starter**. Mix to combine starter ingredients. Refrigerate overnight (or at least 6 hours).

@@ -6,7 +6,7 @@
     * 100 g Onions, minced
     * 2 Garlic Cloves, minced
     * 1/2 t Kosher Salt
-    * 3 T All-Purpose Flour
+    * 3 T White Wheat Flour
     * Spices
         * 1 Bay Leaf
         * 1/2 t Black Peppercorns, ground

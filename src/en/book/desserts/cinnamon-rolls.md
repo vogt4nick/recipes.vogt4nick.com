@@ -1,13 +1,13 @@
 === "Ingredients"
     * Yudane
-        * 100 g White Bread Flour
+        * 100 g White Wheat Flour, 13% protein
         * 100 g Water, boiling
     * 60 g Water, cold
     * 4 g Instant Dry Yeast
     * 5 g Kosher Salt
     * 30 g Granulated Sugar
     * 1 Egg Yolk
-    * 200 g White Bread Flour
+    * 200 g White Wheat Flour, 13% protein
     * 60 g Butter, room temperature
     * 1 Egg White, for glazing
     * Filling

@@ -1,11 +1,11 @@
 === "Ingredients"
-    * 125 g Flour
+    * 125 g White Wheat Flour
     * 1/2 t Salt
     * 60 g Water, room temperature
     * 1 t Olive Oil
     * For Baking
         * Neutral Oil
-        * Flour
+        * White Wheat Flour
         * 1 Egg, beaten
 
 === "Directions"

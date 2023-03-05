@@ -10,7 +10,7 @@ title: Brown sauce
     * 80 g Carrot, minced
     * 80 g Celery, minced
     * 80 g Onion, minced
-    * 30 g All-Purpose Flour
+    * 30 g Wheat Flour
     * 1500 g [Beef Stock](../../soups/stocks/meat-stock.md), boiling
     * 30 g Tomato Paste
     * 1 T Herbs de Provence

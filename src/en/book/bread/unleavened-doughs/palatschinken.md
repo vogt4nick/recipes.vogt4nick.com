@@ -3,7 +3,7 @@ tags:
     - austrian cuisine
 ---
 === "Ingredients"
-    * 120 g Flour
+    * 120 g White Wheat Flour
     * Kosher Salt
     * 1 Egg
     * 250 g Milk

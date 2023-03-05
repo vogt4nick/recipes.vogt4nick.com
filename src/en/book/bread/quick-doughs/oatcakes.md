@@ -7,7 +7,7 @@
     * 1/4 t Fine Salt
     * 1/4 t Baking Soda
     * 1/2 t Baking Powder
-    * 30 g Flour
+    * 30 g Wheat Flour
     * Neutral Oil, for frying
     * For Serving
         * Butter

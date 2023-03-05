@@ -3,7 +3,7 @@ title: PB paprika cookies
 ---
 === "Ingredients"
     * Flour Mixture
-        * 240 g All-Purpose Flour
+        * 240 g White Wheat Flour
         * 80 g Whole Wheat Flour
         * 1 1/4 t Baking Powder
         * 3/4 t Baking Soda

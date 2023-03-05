@@ -1,11 +1,11 @@
 === "Ingredients"
-    * 240 g Flour
+    * 240 g White Wheat Flour
     * 240 g Unsalted Butter
     * 100 g Powdered Sugar
     * 4 Eggs, beaten
     * 100 g Lemon Juice
     * 400 g White Sugar
-    * 30 g Flour
+    * 30 g White Wheat Flour
     * 1/2 t Kosher Salt
     * To Garnish
         * Powdered Sugar

@@ -7,7 +7,7 @@
     * 1 Egg
     * 55 g Unsalted Butter, room temperature, divided
     * 1 t Kosher Salt
-    * 380 g All-Purpose Flour
+    * 380 g White Wheat Flour
     * Glaze (optional)
         * 25 g Unsalted Butter, melted
         * 1 T Honey

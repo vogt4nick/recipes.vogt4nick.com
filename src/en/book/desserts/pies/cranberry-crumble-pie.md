@@ -6,7 +6,7 @@
         * 1 T Orange Juice
     * 450 g Crumble, chilled
         * 80 g Rolled Oats
-        * 120 g All-Purpose Flour
+        * 120 g White Wheat Flour
         * 100 g Brown Sugar
         * 1/2 t Cinnamon, ground
         * 1/4 t Kosher Salt

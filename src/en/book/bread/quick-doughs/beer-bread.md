@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 360 g All-Purpose Flour
+    * 360 g White Wheat Flour
     * 1 T Baking Powder
     * 1 t Kosher Salt
     * 300 g Beer

@@ -1,6 +1,6 @@
 === "Ingredients"
     * [Chicken Soup](../../soups/chicken-soup.md)
-    * 240 g Flour
+    * 240 g White Wheat Flour
     * 1 T Baking Powder
     * 1 t Kosher Salt (optional)
     * 3 T Neutral Oil

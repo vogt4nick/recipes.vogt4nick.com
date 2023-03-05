@@ -8,7 +8,7 @@ tags:
     * 45 g Unsalted Butter
     * 360 g Mushrooms, sliced
     * 1 Onion, minced
-    * 3 T Flour
+    * 3 T Wheat Flour
     * 840 g Milk, cold
     * Seasonings
         * 1 t Lemon Juice or White Vinegar

@@ -2,7 +2,7 @@
 title: Spaetzle
 ---
 === "Ingredients"
-    * 333 g All-Purpose Flour
+    * 333 g White Wheat Flour
     * 4 Eggs
     * 133 g Milk
     * 15 g Unsalted Butter

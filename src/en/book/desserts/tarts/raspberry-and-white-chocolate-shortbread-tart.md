@@ -4,7 +4,7 @@
         * 100 g White Sugar
         * 50 g Brown Sugar
         * 10 g Vanilla Extract
-        * 290 g All-Purpose Flour
+        * 290 g White Wheat Flour
         * 2.1 t Kosher Salt
     * 240 g Raspberry Preserves
     * 240 g Berries, room temperature

@@ -3,7 +3,7 @@ title: Robert Redford cookies
 ---
 === "Ingredients"
     * Dry Mix
-        * 160 g All-Purpose Flour
+        * 160 g White Wheat Flour
         * 60 g Whole Wheat Flour
         * 180 g Rolled Oats
         * 1/2 T Baking Powder

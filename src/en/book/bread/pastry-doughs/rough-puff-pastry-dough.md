@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 160 g All-Purpose Flour
+    * 160 g White Wheat Flour
     * 1 t Granulated Sugar
     * 1/4 t Kosher Salt
     * 160 g Unsalted Butter, cold, cubed

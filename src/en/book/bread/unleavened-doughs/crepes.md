@@ -3,7 +3,7 @@ title: Crepes
 ---
 === "Ingredients"
     * Dry Mix
-        * 130 g Flour
+        * 130 g White Wheat Flour
         * 1/4 t Salt
         * 1 t Sugar (optional)
         * 1/4 t Cinnamon (optional)

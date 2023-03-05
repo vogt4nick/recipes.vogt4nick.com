@@ -4,13 +4,13 @@ tags:
 ---
 === "Ingredients"
     * Sponge
-        * 60 g Bread Flour
+        * 60 g White Wheat Flour, 13% protein
         * 1 t Active Dry Yeast
         * 1 t White Sugar
         * 120 g Water, warm
     * 1 t Kosher Salt
     * 1 T Olive Oil
-    * 120 g Bread Flour
+    * 120 g White Wheat Flour, 13% protein
 
     !!! info "Yields 8 flatbreads."
 

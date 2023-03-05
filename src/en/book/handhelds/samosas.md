@@ -1,6 +1,6 @@
 === "Ingredients"
     * Dough
-        * 125 g All-Purpose Flour
+        * 125 g White Wheat Flour
         * 1/2 t Kosher Salt
         * 30 g Unsalted Butter, cut into bits
         * 15 g Yogurt

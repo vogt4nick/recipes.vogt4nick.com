@@ -1,6 +1,6 @@
 === "Ingredients"
     * 110 g Unsalted Butter, cold, cut into 1/4-inch cubes
-    * 220 g All-Purpose Flour
+    * 220 g White Wheat Flour
     * 2 t Baking Powder
     * 1 t Kosher Salt
     * 180 g Whole Milk

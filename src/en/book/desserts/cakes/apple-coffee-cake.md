@@ -2,9 +2,9 @@
     * Filling
         * 100 g Light Brown Sugar
         * 1/2 T Cinnamon, ground
-        * 1 t Flour
+        * 1 t White Wheat Flour
         * 400 g Apples, diced
-    * 240 g Flour
+    * 240 g White Wheat Flour
     * 1 t Baking Powder
     * 1/4 t Baking Soda
     * 1/2 t Kosher Salt

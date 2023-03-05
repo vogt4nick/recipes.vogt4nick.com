@@ -12,7 +12,7 @@ tags:
     * 1 Celery Rib, minced
     * 1/2 Red Bell Pepper, minced
     * 160 g Rolled Oats
-    * 60 g Flour
+    * 60 g Wheat Flour
     * Seasonings
         * 3 Garlic Cloves, minced
         * 1/2 T Kosher Salt

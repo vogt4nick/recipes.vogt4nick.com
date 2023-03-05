@@ -1,7 +1,7 @@
 === "Ingredients"
     * Filling
         * 150 g White Sugar
-        * 15 g All-Purpose Flour
+        * 15 g White Wheat Flour
         * 1 t Cinnamon, ground
         * 1 t Nutmeg, grated
         * 120 g Heavy Whipping Cream or Milk

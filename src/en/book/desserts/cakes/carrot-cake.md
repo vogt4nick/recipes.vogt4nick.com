@@ -6,7 +6,7 @@
         * 1 t Kosher Salt
         * 1 t Baking Soda
         * 1 t Cinnamon, ground
-        * 250 g All-Purpose Flour
+        * 250 g White Wheat Flour
     * 220 g Carrots, grated
     * 110 g Walnuts, chopped
     * 240 g Pineapple, crushed

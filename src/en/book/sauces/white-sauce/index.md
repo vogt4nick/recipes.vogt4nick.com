@@ -5,7 +5,7 @@ title: Bechamel Sauce
     * 480 g Milk
     * 1/4 t Kosher Salt
     * 25 g Unsalted Butter
-    * 25 g All-Purpose Flour
+    * 25 g White Wheat Flour
 
     !!! info "Yields about 500 g."
 

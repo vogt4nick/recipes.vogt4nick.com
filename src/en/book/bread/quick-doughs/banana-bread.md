@@ -1,6 +1,6 @@
 === "Ingredients"
     * Dry Mix
-        * 180 g All-Purpose Flour
+        * 180 g White Wheat Flour
         * 1 t Baking Soda
         * 1 t Baking Powder
         * 1/2 t Kosher Salt

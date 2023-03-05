@@ -3,7 +3,7 @@
     * 200 g Sausage, sliced
     * 200 g Onion, minced
     * 1 t Kosher Salt
-    * 25 g All-Purpose Flour
+    * 25 g White Wheat Flour
     * 2 Garlic Cloves, minced
     * 2 t Paprika
     * 1200 g [Chicken Stock](stocks/meat-stock.md)

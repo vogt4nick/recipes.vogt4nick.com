@@ -6,7 +6,7 @@
         * 1 Egg, room temperature
         * 1 t Vanilla Extract
     * Batter
-        * 125 g All-Purpose Flour
+        * 125 g White Wheat Flour
         * 50 g Cocoa Powder, unsweetened
         * 1 t Baking Soda
         * 1/8 t Kosher Salt

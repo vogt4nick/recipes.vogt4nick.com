@@ -9,7 +9,7 @@
     * 2 stalks Celery, diced
     * 1 t Kosher Salt
     * 2 T Unsalted Butter
-    * 3 T Flour
+    * 3 T Wheat Flour
     * 1 T Curry Blend
         * 1 t Turmeric Root, ground
         * 1/2 t Cinnamon, ground

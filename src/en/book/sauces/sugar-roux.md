@@ -1,7 +1,7 @@
 === "Ingredients"
     * 25 g Unsalted Butter
     * 10 g Sugar
-    * 40 g All-Purpose Flour
+    * 40 g Flour
     * 15 g Red Wine
     * 120 g Water, cold
     * Seasoning

@@ -2,9 +2,9 @@
     * 210 g Water, 95ºC
     * 1/2 T Sea Salt
     * 1/2 t Instant Dry Yeast
-    * 300 g 00 Flour
+    * 300 g White Wheat Flour, 00 milled
 
-    !!! question "Substitute all-purpose flour 1:1 for 00 flour."
+    !!! question "Substitute White Wheat Flour 1:1 for 00 flour."
 
     !!! info "Yields about one large pizza."
 

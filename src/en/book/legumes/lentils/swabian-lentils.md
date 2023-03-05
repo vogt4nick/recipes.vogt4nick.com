@@ -13,7 +13,7 @@ tags:
     * 25 g Unsalted Butter
     * 120 g Onion, minced
     * 180 g Apple, peeled, chopped
-    * 25 g Flour
+    * 25 g Wheat Flour
     * 500 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md), cold
     * 15 g White Vinegar
     * 5 g Dijon Mustard

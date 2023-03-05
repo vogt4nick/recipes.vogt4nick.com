@@ -1,6 +1,6 @@
 === "Ingredients"
     * Dry Mix
-        * 160 g All-Purpose Flour
+        * 160 g White Wheat Flour
         * 1/2 t Baking Soda
         * 1/2 t Kosher Salt
     * 110 g Unsalted Butter, room temperature, sliced into ribbons

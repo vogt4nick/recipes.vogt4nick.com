@@ -3,7 +3,7 @@ title: Mac & cheese
 ---
 === "Ingredients"
     * 45 g Unsalted Butter
-    * 3 T All-Purpose Flour
+    * 3 T White Wheat Flour
     * 1 T Mustard Seed, ground
     * 1 t Paprika
     * 360 g Cream

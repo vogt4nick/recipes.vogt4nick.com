@@ -13,7 +13,7 @@ tags:
     * 2 Cloves
     * 1/8 t Salt
     * 120 g Red Wine
-    * 1 T All-Purpose Flour
+    * 1 T Wheat Flour
     * 1 T Marmelade (optional)
 
 === "Directions"

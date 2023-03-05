@@ -5,7 +5,7 @@
         * Kosher Salt
         * Black Peppercorn, ground
     * Roux
-        * Flour
+        * Wheat Flour
         * 1000 g [Beef Stock](../../soups/stocks/meat-stock.md), cool
     * Seasonings
         * Garlic Cloves
