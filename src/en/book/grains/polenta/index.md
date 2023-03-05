@@ -9,12 +9,8 @@ title: Polenta
     * 30 g Parmigiano-Reggiano, grated
 
 === "Directions"
-    1. Bring salt water to boil. Whisking constantly, slowly pour in polenta in a steady stream. Reduce heat to low. Whisk until starts to thicken.
-    2. **Cook** 30 minute, stirring every 5-6 minutes until tender.
-    3. Remove from heat. Add butter and parmesan cheese.
-    4. **Steam**, covered, 5 minutes removed from heat.
-
-    avoid lumps!
+    1. **Cook polenta.** Bring salt water to boil. Whisking constantly, slowly pour in polenta in a steady stream. Reduce heat to low. Whisk until starts to thicken. Cook 30 minutes, stirring every 5-6 minutes until tender.
+    2. **Steam.** Add butter and parmesan cheese, and steam, covered, 5 minutes removed from heat.
 
 [^1]:
     Mitzewich, John. ["Three Corn Polenta – An old Italian classic gets 'freshened-up'."](https://foodwishes.blogspot.com/2007/06/three-corn-polenta-old-italian-classic.html) *Food Wishes.* 15 June 2007.
