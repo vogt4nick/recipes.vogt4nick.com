@@ -1,6 +1,6 @@
 === "Ingredients"
-    * 180 g Cornmeal
-    * 90 g White Wheat Flour
+    * 250 g Cornmeal
+    * 100 g White Wheat Flour
     * 1 T Baking Powder
     * 1/4 t Baking Soda
     * 1/2 t Kosher Salt
@@ -9,7 +9,6 @@
     * 1 Egg Yolk, room temperature
     * 2 Eggs, room temperature
     * 110 g Unsalted Butter, melted
-    * 1 T Neutral Oil
     * 360 g Buttermilk, room temperature
     * For Serving
         * [Honey Butter](../../seasonings/compound-butters/honey-butter.md)
@@ -19,8 +18,8 @@
 === "Directions"
     1. **Preheat oven** to 230ºC (450ºF). Grease 8x8 glass casserole dish and set aside.
     2. **Whisk dry mix.** Whisk cornmeal, flour, baking soda, salt, and sugar into a homogenous mixture.
-    3. **Whisk wet mix.** Whisk honey, eggs, butter, oil, vinegar, and buttermilk into a homogenous mixture.
-    4. **Mix batter.** Stir the wet ingredients into the dry ingredients just combined.
+    3. **Whisk wet mix.** Whisk honey, eggs, butter, and buttermilk into a homogenous mixture.
+    4. **Mix batter.** Stir the dry ingredients into the wet ingredients until just combined.
     5. **Bake.** Spoon batter into casserole dish and smooth out into an even layer. Bake 20-30 minutes at 230ºC until center sets, covering with foil if necessary to prevent over-browning.
     6. **Spread** with honey butter immediately after baking.
 
