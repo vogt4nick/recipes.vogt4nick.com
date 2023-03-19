@@ -25,10 +25,10 @@ tags:
 
 === "Zubereitung"
     1. **Die Semmelwürfel in Milch einweichen.**
-    2. **Die Mischung zusammenfügen.** Die Zwiebel in der Butter glasig anrösten. Zu den angeweichten Semmelwürfeln geben. Den Käse, die Eier, das Mehl, und die Gewürze untermengen. Den Teig mit Salz würzen.
-    3. **Rasten.** Die Masse 30 Minuten rasten lassen.
+    2. **Die Mischung zusammenfügen.** Die Zwiebel in der Butter glasig anrösten. Zu den eingeweichten Semmelwürfeln geben. Den Käse, die Eier, das Mehl, und die Gewürze untermengen. Den Teig mit Salz würzen.
+    3. **Ziehen lassen.** Die Masse 30 Minuten ziehen lassen.
     4. **Die Knödel formen.** Aus der eher weichen Masse mit leicht befeuchteten Händen zuerst kleine Knödel drehen und diese dann flach drücken.
-    5. **Die Mischung braten.** In einer Pfanne das Öl erhitzen. Teighäufchen in das heiße Fett setzen, platt drücken, und langsam goldbraun backen.
+    5. **Die Mischung braten.** Das Öl in einer Pfanne erhitzen. Teighäufchen in das heiße Fett setzen, platt drücken, und langsam goldbraun backen.
     6. **Servieren.** In einer flachen Schale mit Gemüsebrühe servieren.
 
 ??? question "Wie kann ich sonst dieses Gericht servieren?"
