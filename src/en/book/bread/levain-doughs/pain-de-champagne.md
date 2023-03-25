@@ -1,5 +1,5 @@
 === "Ingredients"
-    * For Restored Levain
+    * To Restore Levain
         * 20 g Chef from [Mother Culture](mother-culture.md)
         * 100 g Whole Wheat Flour
         * 80 g Water, 30ºC (87ºF)
