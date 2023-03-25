@@ -2,7 +2,7 @@
 tags:
     - vegatarisch
 ---
-=== "Zutaten"
+=== "Ingredients"
     * 500 g Starchy Potatoes, peeled
     * 50 g Flour
     * 50 g Potato Starch
@@ -13,7 +13,7 @@ tags:
 
     !!! info "These amounts yield 2 servings."
 
-=== "Zubereitung"
+=== "Directions"
     1. **Boil potatoes** in saltwater until fork tender. Shock with cold water, and let cool to room temperature.
     2. **Mash potatoes** until smooth. Mix with remaining ingredients to form a homogenous mixture.
     3. **Boil saltwater.** Bring fresh saltwater to simmer---do not allow it to boil.
