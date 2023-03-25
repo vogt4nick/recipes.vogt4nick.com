@@ -4,10 +4,10 @@
     | White Wheat Flour |           80 g |     270 g |     350 g | 70 % |
     | Whole Wheat Flour |           20 g |      80 g |     100 g | 20 % |
     | Whole Rye Flour   |                |      50 g |      50 g | 10 % |
+    | Wheat Levain, 80% |           20 g |           |           |      |
+    | Instant Dry Yeast |                |       1 g |       1 g | 0.2% |
     | Water             |           80 g |     310 g |     390 g | 78 % |
     | Salt              |                |      10 g |      10 g |  2 % |
-    | Instant Dry Yeast |                |       1 g |       1 g | 0.2% |
-    | Wheat Levain, 80% |           20 g |           |           |      |
 
 === "Directions"
     1. **Preferment levain.** Mix levain, flours, and water until just incorporated. Rest 2 hours, uncovered. Seal, and rest at room temperature for 6-8 hours.

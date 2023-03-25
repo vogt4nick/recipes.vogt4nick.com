@@ -3,10 +3,10 @@
     | :----------------- | -------------: | --------: | --------: | ---: |
     | White Wheat Flour  |           80 g |     590 g |     670 g | 96 % |
     | Whole Wheat Flour  |           20 g |      10 g |      30 g |  4 % |
-    | Bacon (raw weight) |                |     350 g |     350 g | 50 % |
+    | Wheat Levain, 80%  |           20 g |           |           |      |
     | Water              |           80 g |     465 g |     545 g | 78 % |
     | Salt               |                |      14 g |      14 g |  2 % |
-    | Wheat Levain, 80%  |           20 g |           |           |      |
+    | Bacon (raw weight) |                |     350 g |     350 g | 50 % |
 
 === "Directions"
     1. **Preferment levain.** Mix levain, flours, and water until just incorporated. Seal, and rest 9-10 hours.

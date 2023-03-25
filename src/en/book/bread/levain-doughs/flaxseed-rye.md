@@ -4,9 +4,9 @@
     | White Wheat Flour |                |     460 g |     460 g |   65 % |
     | Whole Rye Flour   |           40 g |     150 g |     190 g | 27.5 % |
     | Flaxseed          |                |      55 g |      55 g |  7.5 % |
+    | Rye Levain, 50%   |            5 g |           |           |        |
     | Water             |           20 g |     505 g |     525 g |   75 % |
     | Salt              |                |      14 g |      14 g |    2 % |
-    | Rye Levain, 50%   |            5 g |           |           |        |
 
 === "Directions"
     1. **Preferment levain.** Mix restored levain, flour, and water until just incorporated. Seal, and rest 12 hours at room temperature.
