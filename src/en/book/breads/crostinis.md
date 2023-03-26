@@ -1,5 +1,5 @@
 === "Ingredients"
-    * [Baguette](dry-yeast-doughs/baguettes.md), sliced
+    * [Baguette](dry-yeast-breads/baguettes.md), sliced
     * Olive Oil
     * Kosher Salt
     * Black Peppercorn, ground

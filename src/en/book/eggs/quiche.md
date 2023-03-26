@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 1 [Savory Piecrust](../bread/pastry-doughs/pie-crust.md), blind baked, cooled
+    * 1 [Savory Piecrust](../breads/pastry-doughs/pie-crust.md), blind baked, cooled
     * 300 g Sausage or Bacon, cooked
     * Sautéed Vegetables (optional)
     * Egg Filling

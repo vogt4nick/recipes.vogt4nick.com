@@ -2,7 +2,7 @@
     * Garlic Oil
         * 100 g Extra Virgin Olive Oil
         * 4 Garlic Cloves, minced
-    * 200 g Stale [Baguette](dry-yeast-doughs/baguettes.md), cut into pieces
+    * 200 g Stale [Baguette](dry-yeast-breads/baguettes.md), cut into pieces
     * Seasonings
         * 50 g Parmigiano-Reggiano, grated
         * 1/2 t [Italian Herbs](../seasonings/spice-blends/italian-herbs.md)

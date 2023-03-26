@@ -1,5 +1,5 @@
 === "Ingredients"
-    * [Strudel Dough](../bread/pastry-doughs/strudel-dough.md), prepared with
+    * [Strudel Dough](../breads/pastry-doughs/strudel-dough.md), prepared with
         * 125 g White Wheat Flour
         * 1/2 t Salt
         * 60 g Water, room temperature
@@ -29,7 +29,7 @@
     7. **Bake** 35 minutes at 180ºC (350ºF).
     8. **Garnish** with powdered sugar and serve.
 
-    !!! question "Form dough as per [strudel dough](../bread/pastry-doughs/strudel-dough.md) recipe."
+    !!! question "Form dough as per [strudel dough](../breads/pastry-doughs/strudel-dough.md) recipe."
 
 [^grannies]:
     Aloisia. ["Handgezogener Apfelstrudel von Oma Aloisia - Rezept Video - Cooking Grannies."](https://youtu.be/eyoi82xgOxE) _YouTube: Cooking Grannies._ 15 October 2018.

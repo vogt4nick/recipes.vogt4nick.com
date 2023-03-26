@@ -8,7 +8,7 @@ title: B.O.C. monsieur
         * 1 T Herbs de Provence
         * 1 Bay Leaf
     * Sandwich Loaves
-        * 1 [Baguette](../bread/dry-yeast-doughs/baguettes.md), crosscut, cut into 20 cm lengths
+        * 1 [Baguette](../breads/dry-yeast-breads/baguettes.md), crosscut, cut into 20 cm lengths
         * 8 Garlic Cloves, minced
     * [Caramelized Onions](../vegetables/caramelized-onions.md)
         * 300 g Yellow Onion, sliced

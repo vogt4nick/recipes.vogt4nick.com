@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 400 g [Puff Pastry Dough](../../bread/pastry-doughs/rough-puff-pastry-dough.md), thawed
+    * 400 g [Puff Pastry Dough](../../breads/pastry-doughs/rough-puff-pastry-dough.md), thawed
     * Cooking Liquid
         * 360 g [Chicken Stock](../../soups/stocks/meat-stock.md)
         * 120 g Whole Milk

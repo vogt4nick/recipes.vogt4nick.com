@@ -19,7 +19,7 @@
     * Brie
     * Smoked Gouda
     * Mozzarella Balls
-    * [Crostinis](../bread/crostinis.md)
+    * [Crostinis](../breads/crostinis.md)
     * Triscuit Crackers
     * Cherry Tomatoes
     * Strawberries, halved

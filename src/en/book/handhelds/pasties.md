@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 600 g [Pie Doughs](../bread/pastry-doughs/pie-crust.md), kneaded an additional 2 minutes, chilled thoroughly
+    * 600 g [Pie Doughs](../breads/pastry-doughs/pie-crust.md), kneaded an additional 2 minutes, chilled thoroughly
     * Filling
         * 100 g Parsnips, chopped
         * 100 g Potatoes, chopped

@@ -7,7 +7,7 @@ title: New York-style pizza
         * 100 g Mushrooms, sliced
         * 2 Garlic Cloves, chopped
         * Sea Salt
-    * 1 [Elise's Pizza Dough](pizza-doughs/elise's-pizza-dough.md)
+    * 1 [Elise's Pizza Dough](../breads/pizza-doughs/elise's-pizza-dough.md)
     * 100 g [Tomato Sauce](../sauces/tomato-sauce.md)
     * 15 g Pecorino Romano or Parmigiano-Reggiano, grated
     * 100 g Mozzarella, sliced

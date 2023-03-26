@@ -17,7 +17,7 @@
     * 750 g [Chicken Stock](stocks/meat-stock.md)
     * 2 t White Vinegar (optional)
     * For Serving
-        * [Baguettes](../bread/dry-yeast-doughs/baguettes.md)
+        * [Baguettes](../breads/dry-yeast-breads/baguettes.md)
 
 === "Directions"
     1. **Cook ham.** Melt butter in stockpan over medium heat. Cook smoked ham 10-15 minutes until browned. Remove from heat and set aside; be careful to leave butter in stockpot.

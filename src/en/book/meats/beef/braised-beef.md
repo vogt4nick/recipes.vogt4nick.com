@@ -17,7 +17,7 @@
         * Carrot, roughly chopped
         * Parsnip, roughly chopped
         * Celery, roughly chopped
-    * [Crostinis](../../bread/crostinis.md)
+    * [Crostinis](../../breads/crostinis.md)
 
 === "Directions"
     1. **Rub beef** with salt and black pepper.

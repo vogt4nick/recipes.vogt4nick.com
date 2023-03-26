@@ -6,7 +6,7 @@
     * 180 g Orange Juice
     * 50 g Lemon Juice
     * 90 g Unsalted Butter, divided into 15 g cubes
-    * 1 [Tart Crust, blind-baked](../../bread/pastry-doughs/tart-crust.md)
+    * 1 [Tart Crust, blind-baked](../../breads/pastry-doughs/tart-crust.md)
 
 === "Directions"
     1. **Preheat oven** to 160ºC (325ºF).

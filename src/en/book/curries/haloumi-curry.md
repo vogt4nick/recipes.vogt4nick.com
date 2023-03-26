@@ -17,7 +17,7 @@
     * 1/2 t Garam Masala
     * For Serving
         * [Basmati Rice](../grains/rice/basmati-rice.md)
-        * [Lebanese Flatbread](../bread/dry-yeast-doughs/lebanese-flatbread.md)
+        * [Lebanese Flatbread](../breads/flatbreads/lebanese-flatbread.md)
 
 === "Directions"
     1. **Grill haloumi.** Heat oil in saucepan over low-medium heat. Grill haloumi on one side until golden brown and set aside.

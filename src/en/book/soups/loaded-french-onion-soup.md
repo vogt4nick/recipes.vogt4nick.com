@@ -13,7 +13,7 @@
     * Garlic Butter
         * 55 g Unsalted Butter, melted
         * 6 Garlic Cloves, minced
-    * Bize-Sized [Crostinis](../bread/crostinis.md)
+    * Bize-Sized [Crostinis](../breads/crostinis.md)
         * 450 g Baguette, sliced thick
 
 === "Directions"
