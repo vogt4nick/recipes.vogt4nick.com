@@ -19,15 +19,20 @@
     * 1 t Dried Marjoram Leaves
     * 1000 g [Stock](../soups/stocks/vegetable-stock.md) or Water
     * 250 g Sauerkraut, rinsed and roughly chopped
+    * 3 T Sour Cream
+    * 1 T Flour
     * For Serving
-        * Fresh Parsley Leaves
+        * Sour Cream
+        * Fresh Parsley Leaves, chopped
+        * Fresh Chives, chopped
+        * Bread
 
 === "Directions"
     1. **Saute onion.** Heat butter in dutch oven over medium heat. Add salt and onion, and saute 5 minutes. Stir in tomato paste and spices, and cook 3 minutes longer.
     2. **Scrape pot.** Add some wine, and scrape up the fond.
     3. **Stew potatoes.** Add potatoes and sugar, and stir to coat evenly. Add stock and herbs. Bring to boil, reduce, and simmer until potatoes are fork tender.
-    4. **Finish.** Mix in sauerkraut. Correct with additional water and salt to taste.
-    5. **Serve** garnished with parsley.
+    4. **Finish.** Mix in sauerkraut. Mix sour cream and flour in a separate bowl, then stir mixture into the sauerkraut. Correct with additional water and salt to taste.
+    5. **Serve** garnished sour cream and herbs.
 
 [^michi]:
     Altenhuber, Michi.
