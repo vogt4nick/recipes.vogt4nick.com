@@ -2,13 +2,13 @@
 title: San Francisco-style sourdough
 ---
 === "Ingredients"
-    | Ingredient         | Preferment (g) | Dough (g) | Final (g) |  (%) |
-    | :----------------- | -------------: | --------: | --------: | ---: |
-    | White Wheat Flour  |                |     350 g |     350 g | 70 % |
-    | Whole Wheat Flour  |          150 g |           |     150 g | 30 % |
-    | Wheat Levain, 100% |           30 g |           |      30 g |  3 % |
-    | Water              |          150 g |     210 g |     360 g | 72 % |
-    | Salt               |                |      10 g |      10 g |  2 % |
+    | Ingredient         | Preferment | Dough | Final | Final (%) |
+    | :----------------- | ---------: | ----: | ----: | --------: |
+    | White Wheat Flour  |            | 350 g | 350 g |      70 % |
+    | Whole Wheat Flour  |      150 g |       | 150 g |      30 % |
+    | Wheat Levain, 100% |       30 g |       |  30 g |       3 % |
+    | Water              |      150 g | 210 g | 360 g |      72 % |
+    | Salt               |            |  10 g |  10 g |       2 % |
 
 === "Directions"
     1. **Mix preferment.** Mix levain, flours, and water until just incorporated. Seal, and rest at room temperature for 12-24 hours.

@@ -1,14 +1,14 @@
 === "Ingredients"
-    | Ingredient         | Soaker (g) | Preferment (g) | Dough (g) | Final (g) |   (%) |
-    | :----------------- | ---------: | -------------: | --------: | --------: | ----: |
-    | White Wheat Flour  |            |                |     350 g |     350 g |  50 % |
-    | Whole Wheat Flour  |            |           70 g |      70 g |     140 g |  20 % |
-    | Whole Spelt Flour  |            |                |      70 g |      70 g |  10 % |
-    | Rolled Oats        |      140 g |                |           |     140 g |  20 % |
-    | Wheat Levain, 100% |            |           14 g |           |      14 g |   1 % |
-    | Instant Dry Yeast  |            |                |     0.7 g |     0.7 g | 0.1 % |
-    | Water              |      280 g |           40 g |     210 g |     530 g |  75 % |
-    | Salt               |            |                |      13 g |      13 g | 1.8 % |
+    | Ingredient         | Soaker | Preferment | Dough | Final | Final (%) |
+    | :----------------- | -----: | ---------: | ----: | ----: | --------: |
+    | White Wheat Flour  |        |            | 350 g | 350 g |      50 % |
+    | Whole Wheat Flour  |        |       70 g |  70 g | 140 g |      20 % |
+    | Whole Spelt Flour  |        |            |  70 g |  70 g |      10 % |
+    | Rolled Oats        |  140 g |            |       | 140 g |      20 % |
+    | Wheat Levain, 100% |        |       14 g |       |  14 g |       1 % |
+    | Instant Dry Yeast  |        |            | 0.7 g | 0.7 g |     0.1 % |
+    | Water              |  280 g |       40 g | 210 g | 530 g |      75 % |
+    | Salt               |        |            |  13 g |  13 g |     1.8 % |
 
 === "Directions"
     1. **Preferment levain.** Mix levain, flours, and water until just incorporated. Seal, and rest at room temperature for 8-10 hours.
