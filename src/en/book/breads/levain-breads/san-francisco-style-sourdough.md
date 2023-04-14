@@ -1,3 +1,6 @@
+---
+title: San Francisco-style sourdough
+---
 === "Ingredients"
     | Ingredient         | Preferment (g) | Dough (g) | Final (g) |  (%) |
     | :----------------- | -------------: | --------: | --------: | ---: |
