@@ -1,11 +1,11 @@
 === "Ingredients"
     | Ingredient         | Preferment (g) | Dough (g) | Final (g) |   (%) |
     | :----------------- | -------------: | --------: | --------: | ----: |
-    | White Wheat Flour  |                |     530 g |     530 g |  75 % |
-    | Whole Wheat Flour  |          180 g |           |     180 g |  25 % |
-    | Wheat Levain, 100% |           36 g |           |           | 2.5 % |
-    | Water              |          180 g |     280 g |     460 g |  65 % |
-    | Salt               |                |      11 g |      11 g | 1.5 % |
+    | White Wheat Flour  |                |     375 g |     375 g |  75 % |
+    | Whole Wheat Flour  |          125 g |           |     125 g |  25 % |
+    | Wheat Levain, 100% |           25 g |           |      25 g | 2.5 % |
+    | Water              |          125 g |     205 g |     330 g |  66 % |
+    | Salt               |                |     7.5 g |     7.5 g | 1.5 % |
 
 === "Directions"
     1. **Preferment levain.** Mix levain, flours, and water until just incorporated. Seal, and rest at room temperature for 12-24 hours.
