@@ -11,7 +11,7 @@ title: San Francisco-style sourdough
     | Salt               |                |      10 g |      10 g |  2 % |
 
 === "Directions"
-    1. **Mix preferment.** Mix levain, flours, and water until just incorporated. Cover, and rest 12-24 hours. Seal, and rest at room temperature for 12-24 hours.
+    1. **Mix preferment.** Mix levain, flours, and water until just incorporated. Seal, and rest at room temperature for 12-24 hours.
     2. **Mix.** Combine salt, water, and preferment, and mix by hand using the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s). The temperature after mixing should be 25ºC-26ºC (77ºF-78ºF).
     3. **Bulk fermentation.** Cover, and rest 3-4 hours at room temperature.
     4. **Shape** into a [boule or batard](https://www.thefreshloaf.com/handbook/shaping). Arrange seam side down for proofing.

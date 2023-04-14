@@ -11,7 +11,7 @@
     | Salt               |            |                |      13 g |      13 g | 1.8 % |
 
 === "Directions"
-    1. **Preferment levain.** Mix levain, flours, and water until just incorporated. Rest 2 hours, uncovered. Seal, and rest at room temperature for 6-8 hours.
+    1. **Preferment levain.** Mix levain, flours, and water until just incorporated. Seal, and rest at room temperature for 8-10 hours.
     2. **Autolyse.** Blend the flours until homogenous. Add water, and mix until just incorporated. Cover and rest 45 minutes.
     3. **Mix soaker.** Combine oats and water, cover, and rest 45 minutes.
     4. **Mix.** Add salt, yeast, soaker, and preferment to the autolysed dough, and mix by hand using the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s). The temperature after mixing should be 25ºC-26ºC (77ºF-78ºF).

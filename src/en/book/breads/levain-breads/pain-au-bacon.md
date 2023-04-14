@@ -9,7 +9,7 @@
     | Bacon (raw weight) |                |     350 g |     350 g | 50 % |
 
 === "Directions"
-    1. **Preferment levain.** Mix levain, flours, and water until just incorporated. Seal, and rest 9-10 hours.
+    1. **Preferment levain.** Mix levain, flours, and water until just incorporated. Seal, and rest 8-10 hours.
     2. **Fry bacon** until crisp. Reserve bacon fat, and remove bacon from heat. Cool to room temperature and crumble.
     3. **Autolyse.** Blend the flours until homogenous. Add water, and mix until just incorporated. Cover and rest 20-30 minutes.
     4. **Mix.** Add salt and preferment to the autolysed dough, and mix by hand using the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s). The temperature after mixing should be 25ºC-26ºC (77ºF-78ºF). Rest 10 minutes Mix in bacon and rendered fat, again with pincer method, until the bacon and fat are evenly distributed.
