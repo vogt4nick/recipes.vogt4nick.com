@@ -1,13 +1,13 @@
 === "Ingredients"
     | Ingredient            | Preferment (g) | Dough (g) | Final (g) |   (%) |
     | :-------------------- | -------------: | --------: | --------: | ----: |
-    | White Wheat Flour     |                |     500 g |     500 g |  72 % |
-    | Whole Wheat Flour     |          100 g |     100 g |     200 g |  28 % |
-    | Wheat Levain, 100%    |           30 g |           |           |       |
-    | Water                 |          100 g |     460 g |     560 g |  80 % |
-    | Salt                  |                |      13 g |      13 g | 1.8 % |
-    | Pitted Olives, sliced |                |     210 g |     210 g |  30 % |
-    | Herbs de Provence     |                |       4 t |           |       |
+    | White Wheat Flour     |                |     360 g |     360 g |  72 % |
+    | Whole Wheat Flour     |          110 g |      30 g |     140 g |  28 % |
+    | Wheat Levain, 100%    |           22 g |           |      22 g | 2.2 % |
+    | Water                 |          110 g |     290 g |     400 g |  80 % |
+    | Salt                  |                |       9 g |       9 g | 1.8 % |
+    | Pitted Olives, sliced |                |     150 g |     150 g |  30 % |
+    | Herbs de Provence     |                |       3 t |           |       |
     | Lemon Zest            |                |         - |           |       |
 
 === "Directions"
