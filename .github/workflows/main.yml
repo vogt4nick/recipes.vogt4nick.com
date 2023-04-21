@@ -17,7 +17,7 @@ jobs:
           python-version: 3.11
           cache: 'poetry'
       - name: Install dependencies
-        run: poetry install --no-dev
+        run: poetry install --only main
       - name: Build root site
         run: poetry run mkdocs build -f config/root/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
       - name: Build at site
