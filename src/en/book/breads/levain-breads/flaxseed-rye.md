@@ -1,12 +1,12 @@
 === "Ingredients"
     | Ingredient        | Preferment | Dough | Final | Final (%) |
     | :---------------- | ---------: | ----: | ----: | --------: |
-    | White Wheat Flour |            | 460 g | 460 g |      65 % |
-    | Whole Rye Flour   |       70 g | 120 g | 190 g |    27.5 % |
-    | Flaxseed          |            |  55 g |  55 g |     7.5 % |
-    | Rye Levain, 60%   |       12 g |       |  12 g |       1 % |
-    | Water             |       40 g | 490 g | 530 g |      75 % |
-    | Salt              |            |  13 g |  13 g |     1.8 % |
+    | White Wheat Flour |            | 325 g | 325 g |      65 % |
+    | Whole Rye Flour   |       50 g |  90 g | 140 g |    27.5 % |
+    | Flaxseed          |            |  40 g |  40 g |     7.5 % |
+    | Rye Levain, 60%   |       10 g |       |  10 g |       2 % |
+    | Water             |       25 g | 350 g | 375 g |      75 % |
+    | Salt              |            |   9 g |   9 g |     1.8 % |
 
 === "Directions"
     1. **Preferment levain.** Mix restored levain, flour, and water until just incorporated. Seal, and rest 12 hours at room temperature.
