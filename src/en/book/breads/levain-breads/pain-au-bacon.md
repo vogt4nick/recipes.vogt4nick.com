@@ -1,12 +1,12 @@
 === "Ingredients"
     | Ingredient         | Preferment | Dough | Final | Final (%) |
     | :----------------- | ---------: | ----: | ----: | --------: |
-    | White Wheat Flour  |       80 g | 590 g | 670 g |      96 % |
-    | Whole Wheat Flour  |       20 g |  10 g |  30 g |       4 % |
-    | Wheat Levain, 80%  |       20 g |       |       |           |
-    | Water              |       80 g | 465 g | 545 g |      78 % |
-    | Salt               |            |  14 g |  14 g |       2 % |
-    | Bacon (raw weight) |            | 350 g | 350 g |      50 % |
+    | White Wheat Flour  |       40 g | 440 g | 480 g |      96 % |
+    | Whole Wheat Flour  |       10 g |  10 g |  20 g |       4 % |
+    | Wheat Levain, 100% |       10 g |       |       |       1 % |
+    | Water              |       40 g | 350 g | 390 g |      78 % |
+    | Salt               |            |   9 g |   9 g |     1.8 % |
+    | Bacon (raw weight) |            | 250 g | 150 g |      50 % |
 
 === "Directions"
     1. **Preferment levain.** Mix levain, flours, and water until just incorporated. Seal, and rest 8-10 hours.
