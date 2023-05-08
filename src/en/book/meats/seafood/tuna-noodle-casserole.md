@@ -1,7 +1,3 @@
----
-tags:
-  - weeknight meal
----
 === "Ingredients"
     * 60 g Bread Crumbs
     * 2 T Olive Oil

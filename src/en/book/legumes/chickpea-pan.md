@@ -1,3 +1,8 @@
+---
+tags:
+    - vegan
+    - weeknight meal
+---
 === "Ingredients"
     * 2 T Olive Oil
     * 200 g [Chickpeas, cooked](beans/index.md)

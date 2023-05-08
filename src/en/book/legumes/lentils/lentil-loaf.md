@@ -1,7 +1,7 @@
 ---
-title: Lentil loaf
 tags:
     - vegan
+    - weeknight meal
 ---
 === "Ingredients"
     * 200 g Red Lentils, [cooked](index.md) with liquid retained

@@ -1,7 +1,6 @@
 ---
 tags:
     - vegan
-    - weeknight meal
 ---
 === "Ingredients"
     * 25 g Olive Oil

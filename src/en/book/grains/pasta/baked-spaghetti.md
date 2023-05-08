@@ -1,7 +1,3 @@
----
-tags:
-    - weeknight meal
----
 === "Ingredients"
     * Sauce
         * 500 g Tomatoes, peeled and chopped
