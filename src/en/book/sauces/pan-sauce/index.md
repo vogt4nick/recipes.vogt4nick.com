@@ -1,8 +1,11 @@
+---
+title: Pan Sauce
+---
 === "Ingredients"
     * Fond
     * Reserved Drippings or Butter
     * 2 T Flour
-    * 500 g [Stock](../soups/stocks/meat-stock.md), cold
+    * 500 g [Stock](../../soups/stocks/meat-stock.md), cold
 
 === "Directions"
     1. **Separate fond from drippings** by pouring the drippings into a separate container.
