@@ -1,3 +1,6 @@
+---
+title: Pancakes
+---
 === "Ingredients"
     * 180 g White Wheat Flour
     * 3 1/2 t Baking Powder
