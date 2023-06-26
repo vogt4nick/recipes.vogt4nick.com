@@ -1,5 +1,5 @@
 ---
-title: Pasta
+title: Italian pasta
 ---
 === "Ingredients"
     * 2 Eggs
