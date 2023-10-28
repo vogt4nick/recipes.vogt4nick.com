@@ -5,8 +5,5 @@
 # mkdocs documentation
 site/
 
-# vscode artifacts
-.vscode
-
 # MacOS artifacts
 .DS_Store

@@ -1,0 +1,22 @@
+{
+    "terminal.integrated.env.osx": {
+        "MKDOCS_SITE_DIR": "../../site"
+    },
+    "[markdown]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false,
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
+        "editor.wordWrap": "bounded",
+        "editor.wordWrapColumn": 88,
+    },
+    "liveServer.settings.root": "/site",
+    "cSpell.language": "de,en",
+    "cSpell.words": [
+        "levain",
+        "yudane"
+    ],
+}

@@ -1,0 +1,50 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build root",
+      "type": "shell",
+      "command": "poetry run mkdocs build -f config/root/mkdocs.yml --strict --site-dir $MKDOCS_SITE_DIR",
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "presentation": {
+        "clear": true,
+        "close": true,
+        "reveal": "silent",
+      }
+    },
+    {
+      "label": "build English site",
+      "type": "shell",
+      "command": "poetry run mkdocs build -f config/en/mkdocs.yml --site-dir $MKDOCS_SITE_DIR/en",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "build Austrian site",
+      "type": "shell",
+      "command": "poetry run mkdocs build -f config/at/mkdocs.yml --strict --site-dir $MKDOCS_SITE_DIR/at",
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      }
+    },
+    {
+      "label": "build all",
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "dependsOn": [
+        "build root",
+        "build Austrian site",
+        "build English site",
+      ],
+      "dependsOrder": "sequence"
+    }
+  ]
+}
