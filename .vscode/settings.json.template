@@ -12,6 +12,8 @@
         },
         "editor.wordWrap": "bounded",
         "editor.wordWrapColumn": 88,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
     },
     "liveServer.settings.root": "/site",
     "cSpell.language": "de,en",
