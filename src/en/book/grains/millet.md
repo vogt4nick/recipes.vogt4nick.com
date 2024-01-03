@@ -12,5 +12,5 @@
     3. **Fluff** with a fork.
     4. **Cool and serve.** Allow millet to cool, uncovered, for a few minutes before serving.
 
-[ˆkitchn]:
+[^kitchn]:
     Gordon, Megan. ["How To Cook Perfect Millet Every Time."](https://www.thekitchn.com/how-to-cook-perfect-millet-every-time-cooking-lessons-from-the-kitchn-185974) _The Kitchn._ 20 March 2013.
