@@ -1,0 +1,4 @@
+order: asc
+arrange:
+  - index.md
+  - ...
