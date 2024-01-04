@@ -17,7 +17,7 @@
     * 1 T Brown Sugar
     * 1/2 t Dried Thyme Leaves
     * 1 t Dried Marjoram Leaves
-    * 1000 g [Stock](../soups/stocks/vegetable-stock.md) or Water
+    * 1000 g [Stock](../../soups/stocks/vegetable-stock.md) or Water
     * 250 g Sauerkraut, rinsed and roughly chopped
     * 3 T Sour Cream
     * 1 T Flour

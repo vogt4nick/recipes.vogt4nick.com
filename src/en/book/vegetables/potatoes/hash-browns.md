@@ -1,7 +1,7 @@
 === "Ingredients"
     * 40 g Clarified Butter or Neutral Oil
     * 400 g Starchy Potatoes, peeled, grated, thoroughly rinsed, and drained
-    * 1/2 T [Rosemary Salt](../seasonings/salt-blends/rosemary-salt.md) or Kosher Salt
+    * 1/2 T [Rosemary Salt](../../seasonings/salt-blends/rosemary-salt.md) or Kosher Salt
     * 1 t Black Peppercorn, ground
     * 1/2 t Dried Cayenne Pepper, ground
 
