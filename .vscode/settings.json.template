@@ -1,4 +1,9 @@
 {
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
     "terminal.integrated.env.osx": {
         "MKDOCS_SITE_DIR": "../../site"
     },
