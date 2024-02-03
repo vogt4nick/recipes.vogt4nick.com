@@ -95,7 +95,7 @@ tags:
 [^2]:
     Alpern, Barb. ["Kneading wet dough by hand."](https://www.kingarthurbaking.com/blog/2017/06/19/kneading-wet-dough-by-hand) *King Arthur Baking Company.* 19 June 2017.
 [^3]:
-    Calvel, Raymond, Ronald L. Wirtz, and James MacGuire. [*The Taste of Bread: A Translation of Le Goût Du Pain, Comment Le Préserver, Comment Le Retrouver.*]((https://www.amazon.com/dp/B0160F1NWW)) New York: Springer Science Business Media, LLC, 2013.
+    Calvel, Raymond, Ronald L. Wirtz, and James MacGuire. [*The Taste of Bread: A Translation of Le Goût Du Pain, Comment Le Préserver, Comment Le Retrouver.*](https://www.amazon.com/dp/B0160F1NWW) New York: Springer Science Business Media, LLC, 2013.
 [^4]:
     Färbinger, Markus. ["A Masterclass: Baguettes & Ciabattas."](https://www.youtube.com/watch?v=xlN5CgQcvAg).  *Michael Chèze Productions.* 29 August 2017.
 [^5]:
