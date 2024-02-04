@@ -4,22 +4,51 @@ title: Menu
 
 ## Three-Day Menus
 
-* [Baked Spaghetti](book/grains/noodles/baked-spaghetti.md)
-* [Moroccan lentils](book/legumes/lentils/moroccan-lentils.md) with [basmati rice](book/grains/rice/basmati-rice.md)
-* [Szegediner Goulash](book/vegetables/potatoes/szegediner-potato-goulash.md)
+* [Mushroom quiche](book/eggs/quiche.md)
+* [Biscuits](book/breads/quick-breads/drop-biscuits.md) and mushroom gravy
+* Egg salad sandwiches
 
 ---
 
-* [Lemon lentil soup](book/soups/lemon-lentil-soup.md)
 * [Chickpea pan](book/legumes/chickpea-pan.md)
-* [Soy noodles](book/grains/noodles/soy-noodles.md)
+* [Chetna's curry](book/curries/chetnas-curry.md), [basmati rice](book/grains/rice/basmati-rice.md), and [roasted cauliflower](book/vegetables/oven-roasted-vegetables/oven-roasted-cauliflower.md)
+* Pasta in lentil tomato sauce
 
 ---
 
-* [Quiche](book/eggs/quiche.md)
-* [Rice and beans](book/legumes/rice-and-beans.md)
-* [Potato Lentil Salad](book/salads/potato-salad.md)
+* [Lemon lentil soup](book/soups/lemon-lentil-soup.md) with bread
+* [Tieghan's curry](book/curries/tieghans-curry.md)
+* Chickpea smash
 
+---
+
+* [Lentil loaf](book/legumes/lentils/lentil-loaf.md)
+* [Bean soup](book/soups/bean-soup.md) with bread
+* Pasta in lentil tomato sauce
+
+---
+
+* [Soy noodles](book/grains/noodles/soy-noodles.md)
+* [Semolina pan](book/grains/semolina-pan.md)
+* [Potato cabbage soup](book/soups/potato-sausage-soup/)
+
+---
+
+* [Baked Spaghetti](book/grains/noodles/baked-spaghetti.md)
+* Corn avocado pasta salad
+* [Szegediner goulash](book/vegetables/potatoes/szegediner-potato-goulash.md)
+
+---
+
+* [Moroccan lentils](book/legumes/lentils/moroccan-lentils.md) with [basmati rice](book/grains/rice/basmati-rice.md)
+* [Lemon lentil soup](book/soups/lemon-lentil-soup.md) with bread
+* [Risotto](book/grains/rice/white-risotto.md)
+
+---
+
+* [Tuna noodle casserole](book/meats/seafood/tuna-noodle-casserole.md)
+* Egg salad sandwiches
+* [Soy noodles](book/grains/noodles/soy-noodles.md)
 
 ## When nothing sounds good
 
@@ -32,5 +61,3 @@ Pick three:
 * Sandwiches
 * Salads
 * Eggs
-
-Work out of the pantry.
