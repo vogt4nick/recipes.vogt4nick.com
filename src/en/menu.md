@@ -30,7 +30,7 @@ title: Menu
 
 * [Soy noodles](book/grains/noodles/soy-noodles.md)
 * [Semolina pan](book/grains/semolina-pan.md)
-* [Potato cabbage soup](book/soups/potato-sausage-soup/)
+* [Potato cabbage soup](book/soups/potato-sausage-soup.md)
 
 ---
 
