@@ -11,9 +11,6 @@ files = [
     {file = "Babel-2.14.0.tar.gz", hash = "sha256:6919867db036398ba21eb5c7a0f6b28ab8cbc3ae7a73a44ebe34ae74a4e7d363"},
 ]
 
-[package.dependencies]
-pytz = {version = ">=2015.7", markers = "python_version < \"3.9\""}
-
 [package.extras]
 dev = ["freezegun (>=1.0,<2.0)", "pytest (>=6.0)", "pytest-cov"]
 
@@ -546,6 +543,23 @@ jsmin = ">=3.0.1"
 mkdocs = ">=1.4.1"
 
 [[package]]
+name = "mkdocs-pagetree-plugin"
+version = "0.0.10"
+description = "MkDocs plugin that allows you to display the page tree"
+optional = false
+python-versions = ">=3.9"
+files = [
+    {file = "mkdocs-pagetree-plugin-0.0.10.tar.gz", hash = "sha256:1b3bb3b4c9a25a1b72b17d75ee286279dd5f6629781f9f55e47a0d07c559672d"},
+    {file = "mkdocs_pagetree_plugin-0.0.10-py3-none-any.whl", hash = "sha256:9e59eb7b5c81116062cc5bbeffa8cf22aa2fb6fa79a2c31ac160c467ce481194"},
+]
+
+[package.dependencies]
+mkdocs = ">=1.5"
+
+[package.extras]
+dev = ["pre-commit", "reuse", "ruff"]
+
+[[package]]
 name = "natsort"
 version = "8.4.0"
 description = "Simple yet flexible natural sorting in Python."
@@ -685,17 +699,6 @@ files = [
 
 [package.dependencies]
 six = ">=1.5"
-
-[[package]]
-name = "pytz"
-version = "2024.1"
-description = "World timezone definitions, modern and historical"
-optional = false
-python-versions = "*"
-files = [
-    {file = "pytz-2024.1-py2.py3-none-any.whl", hash = "sha256:328171f4e3623139da4983451950b28e95ac706e13f3f2630a879749e7a8b319"},
-    {file = "pytz-2024.1.tar.gz", hash = "sha256:2a29735ea9c18baf14b448846bde5a48030ed267578472d8955cd0e7443a9812"},
-]
 
 [[package]]
 name = "pyyaml"
@@ -1042,5 +1045,5 @@ testing = ["big-O", "jaraco.functools", "jaraco.itertools", "more-itertools", "p
 
 [metadata]
 lock-version = "2.0"
-python-versions = "^3.8"
-content-hash = "076469a3e9e7f815551111f9a1bad01c557e13233f219f3b2cd9c6ab0203b29f"
+python-versions = "^3.9"
+content-hash = "63feaaa63ccd6a78ea1c161cd38d3a78d7a5c4b6cc3d619464a76ac262965ff8"

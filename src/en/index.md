@@ -1,4 +1,5 @@
 ---
-title: Tags
+title: Home
 ---
-[TAGS]
+
+{{ pagetree }}

@@ -11,7 +11,7 @@ repository = "https://github.com/vogt4nick/recipes.vogt4nick.com"
 version = "22"
 
 [tool.poetry.dependencies]
-python = "^3.8"
+python = "^3.9"
 mkdocs = "^1.2"
 mkdocs-awesome-pages-plugin = "^2.4"
 mkdocs-material = "^9.0.13"
@@ -19,6 +19,7 @@ mkdocs-macros-plugin = "^1.0.1"
 mkdocs-minify-plugin = "^0.6.3"
 mkdocs-exclude = "^1.0.2"
 pymdown-extensions = "^10.0"
+mkdocs-pagetree-plugin = "^0.0.10"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.15"
