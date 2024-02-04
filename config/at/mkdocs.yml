@@ -35,6 +35,7 @@ plugins:
         remove_comments: true
       css_files:
         - assets/stylesheets/extra.css
+  - privacy
   - search:
       lang: de
   - tags:

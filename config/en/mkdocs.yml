@@ -48,6 +48,7 @@ plugins:
       css_files:
         - assets/stylesheets/extra.css
   - pagetree
+  - privacy
   - search:
       lang: en
 site_dir: ../../site/en

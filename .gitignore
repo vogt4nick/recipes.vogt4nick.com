@@ -10,3 +10,6 @@ site/
 
 # vscode settings
 .vscode/settings.json
+
+# privacy plugin cache
+.cache

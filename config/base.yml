@@ -21,6 +21,7 @@ plugins:
       minify_css: true
       css_files:
         - assets/stylesheets/extra.css
+  - privacy
   - search:
       lang:
         - de
