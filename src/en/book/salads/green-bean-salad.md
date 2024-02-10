@@ -13,7 +13,7 @@ tags:
         * Black Peppercorn, ground
 
 === "Directions"
-    1. **Make vinaigrette.** Combine dressing ingredients in a sealable jar. Shake vigorously to combine.
+    1. **Make vinaigrette.** Combine dressing ingredients in a sealable jar. Shake vigorously to emulsify.
     2. **Blanch green beans.** Drain and dry.
     3. **Combine salad.** Thoroughly mix green beans, shallots, and vinaigrette.
     4. **Rest** at least 30 minutes and up to 2 hours before serving.

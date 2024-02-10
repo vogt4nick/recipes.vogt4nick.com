@@ -13,7 +13,7 @@
     * White Sandwich Bread, toasted
 
 === "Directions"
-    1. **Make vinaigrette.** Combine dressing ingredients in a sealable jar. Shake vigorously to combine.
+    1. **Make vinaigrette.** Combine dressing ingredients in a sealable jar. Shake vigorously to emulsify.
     2. **Parboil vegetables.** Boil water, and put shallots and celery in a colander. Pour boiling water over the vegetables through the colander to cook.
     3. **Mix** chickpeas, vegetables, and vinaigrette.
     4. **Arrange sandwich** with toasted sandwich bread and serve.
