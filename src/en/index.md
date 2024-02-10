@@ -18,7 +18,7 @@ title: Menu
 
 * [Lemon lentil soup](book/soups/lemon-lentil-soup.md) with bread
 * [Tieghan's curry](book/curries/tieghans-curry.md)
-* Chickpea smash
+* [Chickpea smash](book/handhelds/chickpea-smash.md)
 
 ---
 
