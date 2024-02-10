@@ -1,3 +1,4 @@
 ---
 title: Recipe Book
 ---
+{{ pagetree }}
