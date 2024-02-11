@@ -47,7 +47,7 @@ title: Menu
 ---
 
 * [Tuna noodle casserole](book/meats/seafood/tuna-noodle-casserole.md)
-* Egg salad sandwiches
+* [Egg salad sandwiches](book/handhelds/japanese-style-egg-salad.md)
 * [Soy noodles](book/grains/noodles/soy-noodles.md)
 
 ## When nothing sounds good
