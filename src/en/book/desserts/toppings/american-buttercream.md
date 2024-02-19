@@ -6,6 +6,8 @@
     * 1 T Heavy Cream or Whole Milk
     * 1/2 t Vanilla Extract
 
+    !!! info "Yields about 360 g."
+
 === "Directions"
     1. **Whip ingredients** until just smooth and somewhat fluffed.
 
