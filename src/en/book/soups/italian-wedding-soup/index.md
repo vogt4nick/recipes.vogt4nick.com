@@ -1,5 +1,8 @@
+---
+title: Italian wedding soup
+---
 === "Ingredients"
-    * [Italian Wedding Soup Meatballs, uncooked](../meats/poultry/italian-wedding-soup-meatballs.md)
+    * [Italian Wedding Soup Meatballs, uncooked](italian-wedding-soup-meatballs.md)
     * 25 g Extra Virgin Olive Oil
     * 120 g Onion, minced
     * 60 g Carrot, chopped
@@ -7,7 +10,7 @@
     * Celery Leaves, chopped
     * 30 g Parmigiano-Reggiano Rind
     * 1/2 t Fennel Seeds, crushed
-    * 1200 g [Chicken Stock](stocks/meat-stock.md)
+    * 1200 g [Chicken Stock](../stocks/meat-stock.md)
     * 120 g Dry White Wine
     * 40 g Dry Stellini Pasta
     * 2 sprigs Dill Leaves, chopped
