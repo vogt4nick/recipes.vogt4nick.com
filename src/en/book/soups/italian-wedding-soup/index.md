@@ -20,7 +20,7 @@ title: Italian wedding soup
     * Parmigiano-Reggiano, grated
 
 === "Directions"
-    1. **Sweat base.** Heat olive oil in stockpan over medium heat. Add onion, carrots, celery & leaves, and fennel seed, and sweat 5 minutes until softened.
+    1. **Sweat base.** Heat olive oil in stock pan over medium heat. Add onion, carrots, celery & leaves, and fennel seed, and sweat 5 minutes until softened.
     2. **Build soup.** Add stock and wine. Bring to boil, reduce heat and simmer 5-8 minutes. Stir in pasta and cook 5 minutes until almost tender. Add meatballs. Simmer 5 minutes more. Add dill and kale. Simmer 1-2 minutes. Season with salt and pepper.
     3. **Garnish** with grated parmesan and serve.
 

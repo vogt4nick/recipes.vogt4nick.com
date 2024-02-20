@@ -2,7 +2,7 @@
     * 15 g Flaxseed, ground
     * 45 g Water
 
-    !!! info "60 g of flaxseed egg is roughtly equivalent to 1 medium egg."
+    !!! info "60 g of flaxseed egg is roughly equivalent to 1 medium egg."
 
 === "Directions"
     1. Beat flaxseed and water.
