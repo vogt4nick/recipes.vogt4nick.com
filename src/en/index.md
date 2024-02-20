@@ -28,13 +28,13 @@ title: Menu
 
 ---
 
-* [Soy noodles](book/grains/noodles/soy-noodles.md)
+* [Soy noodles](book/noodles/soy-noodles.md)
 * [Semolina pan](book/grains/semolina-pan.md)
 * [Potato cabbage soup](book/soups/potato-sausage-soup.md)
 
 ---
 
-* [Baked Spaghetti](book/grains/noodles/baked-spaghetti.md)
+* [Baked Spaghetti](book/noodles/baked-spaghetti.md)
 * Corn avocado pasta salad
 * [Szegediner goulash](book/vegetables/potatoes/szegediner-potato-goulash.md)
 
@@ -48,7 +48,7 @@ title: Menu
 
 * [Tuna noodle casserole](book/meats/seafood/tuna-noodle-casserole.md)
 * [Egg salad sandwiches](book/handhelds/japanese-style-egg-salad.md)
-* [Soy noodles](book/grains/noodles/soy-noodles.md)
+* [Soy noodles](book/noodles/soy-noodles.md)
 
 ## When nothing sounds good
 
