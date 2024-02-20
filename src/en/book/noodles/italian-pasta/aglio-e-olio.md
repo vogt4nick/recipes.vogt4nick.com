@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 250 g Dry Pasta, cooked
+    * 250 g Dry Pasta
     * 30 g Olive Oil
     * 30 g Garlic, minced
     * 2 Dried Red Chilis
