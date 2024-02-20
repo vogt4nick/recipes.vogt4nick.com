@@ -34,9 +34,9 @@ title: Menu
 
 ---
 
-* [Baked Spaghetti](book/noodles/baked-spaghetti.md)
+* [Baked Spaghetti](book/casseroles/baked-spaghetti.md)
 * Corn avocado pasta salad
-* [Szegediner goulash](book/vegetables/potatoes/szegediner-potato-goulash.md)
+* [Szegediner goulash](book/soups/szegediner-potato-goulash.md)
 
 ---
 
@@ -46,7 +46,7 @@ title: Menu
 
 ---
 
-* [Tuna noodle casserole](book/meats/seafood/tuna-noodle-casserole.md)
+* [Tuna noodle casserole](book/casseroles/tuna-noodle-casserole.md)
 * [Egg salad sandwiches](book/handhelds/japanese-style-egg-salad.md)
 * [Soy noodles](book/noodles/soy-noodles.md)
 
