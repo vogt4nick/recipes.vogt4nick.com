@@ -1,5 +1,5 @@
 ---
-title: Mac & cheese
+title: Baked mac & cheese
 ---
 === "Ingredients"
     * 45 g Unsalted Butter
