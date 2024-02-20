@@ -1,4 +1,5 @@
 ---
+title: Bean salad
 tags:
     - vegan
 ---
