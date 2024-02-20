@@ -1,7 +1,7 @@
 === "Ingredients"
-    * 400 g [Puff Pastry Dough](../../breads/pastry-doughs/rough-puff-pastry-dough.md), thawed
+    * 400 g [Puff Pastry Dough](../breads/pastry-doughs/rough-puff-pastry-dough.md), thawed
     * Cooking Liquid
-        * 360 g [Chicken Stock](../../soups/stocks/meat-stock.md)
+        * 360 g [Chicken Stock](../soups/stocks/meat-stock.md)
         * 120 g Whole Milk
     * 800 g Frozen Vegetable Medley
     * 1 T Unsalted Butter
@@ -18,7 +18,7 @@
         * 1/4 t Ginger Powder
         * 1/4 t Dried Cayenne Pepper, ground
         * 1/4 t Coriander Seed, ground
-    * 400 g [BBRRR Chicken](oven-roasted-chicken/bbrrr-chicken-breast.md), sliced
+    * 400 g [BBRRR Chicken](../meats/poultry/oven-roasted-chicken/bbrrr-chicken-breast.md), sliced
     * 2 T Dried Parsley Leaves
     * 1/2 t Black Peppercorn, ground
 
