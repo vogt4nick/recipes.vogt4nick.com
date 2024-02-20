@@ -9,6 +9,13 @@
     1. **Combine ingredients** and coat cauliflower uniformly.
     2. **Roast** 25-30 minutes at 200ºC, stirring halfway.
 
+=== "Nutrition"
+    | Calories (kcal) |  765 |
+    | :-------------- | ---: |
+    | Total Carb (g)  |   21 |
+    | Total Fat (g)   |   33 |
+    | Protein (g)     |    9 |
+
 [^makan]:
     Makan, Chetna.
     ["Roast Cauliflower Chickpea Curry."](https://chetnamakan.co.uk/roast-cauliflower-chickpea-curry/)

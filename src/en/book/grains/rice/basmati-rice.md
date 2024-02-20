@@ -12,3 +12,11 @@
     5. **Cool and serve.** Allow rice to cool, uncovered, for a few minutes before serving.
 
     !!! caution "**Do not** uncover the rice while cooking."
+
+
+=== "Nutrition"
+    | Calories (kcal) |  702 |
+    | :-------------- | ---: |
+    | Total Carb (g)  |  168 |
+    | Total Fat (g)   |    2 |
+    | Protein (g)     |   16 |

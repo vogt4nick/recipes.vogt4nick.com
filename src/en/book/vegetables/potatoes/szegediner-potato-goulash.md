@@ -34,6 +34,13 @@
     4. **Finish.** Mix in sauerkraut. Mix sour cream and flour in a separate bowl, then stir mixture into the sauerkraut. Correct with additional water and salt to taste.
     5. **Serve** garnished sour cream and herbs.
 
+=== "Nutrition"
+    | Calories (kcal) | 1307 |
+    | :-------------- | ---: |
+    | Total Carb (g)  |  185 |
+    | Total Fat (g)   |   56 |
+    | Protein (g)     |   25 |
+
 [^michi]:
     Altenhuber, Michi.
 [^grannies]:

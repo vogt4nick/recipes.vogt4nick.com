@@ -22,5 +22,12 @@ tags:
     1. **Cook.** Heat olive oil in frying pan over medium heat. Stir in chickpeas, corn, peas, onion, and seasonings, and cook 10 minutes.
     2. **Serve** with fresh herbs and lemon juice.
 
+=== "Nutrition"
+    | Calories (kcal) | 1010 |
+    | :-------------- | ---: |
+    | Total Carb (g)  |  137 |
+    | Total Fat (g)   |   40 |
+    | Protein (g)     |   38 |
+
 [^fauda_role]:
     {{ cite.fauda_role_vegan_one_pot }} 148-9.

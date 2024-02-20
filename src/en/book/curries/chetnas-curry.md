@@ -28,6 +28,13 @@ tags:
     3. **Correct.** Lightly mash some chickpeas and add water as desired to reach desired consistency.
     4. **Serve.** Stir in garam masala, and garnish with coriander leaves and chili flakes as desired.
 
+=== "Nutrition"
+    | Calories (kcal) | 1222 |
+    | :-------------- | ---: |
+    | Total Carb (g)  |  171 |
+    | Total Fat (g)   |   43 |
+    | Protein (g)     |   48 |
+
 [^makan]:
     Makan, Chetna.
     ["Roast Cauliflower Chickpea Curry."](https://chetnamakan.co.uk/roast-cauliflower-chickpea-curry/)
