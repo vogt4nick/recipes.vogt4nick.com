@@ -11,7 +11,7 @@
         * 1/4 t Dried Cayenne Pepper, ground
         * 1/4 t Kosher Salt
     * 250 g [Chicken Stock](../../soups/stocks/meat-stock.md), boiling
-    * 100 g [Tomato Sauce](../../sauces/tomato-sauce/tomato-sauce.md)
+    * 100 g [Tomato Sauce](../../sauces/tomato-sauce/index.md)
     * 1/2 T Lemon Juice
     * For Serving
         * Scallion Greens, sliced
