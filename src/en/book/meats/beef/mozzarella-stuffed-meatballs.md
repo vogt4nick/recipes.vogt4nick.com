@@ -20,7 +20,7 @@
     * 100 g Milk
     * 120 g Fresh Mozzarella, roughly cubed
     * 1 T Olive Oil
-    * 400 g [Tomato Sauce](../../sauces/tomato-sauce.md)
+    * 400 g [Tomato Sauce](../../sauces/tomato-sauce/tomato-sauce.md)
 
     !!! info "Makes about 15 meatballs."
 
