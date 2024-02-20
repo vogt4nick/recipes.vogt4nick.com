@@ -2,7 +2,7 @@
 title: Goulash
 ---
 === "Ingredients"
-    * 800 g [Chicken Stock](../stocks/meat-stock.md)
+    * 800 g [Chicken Stock](../../stocks/meat-stock.md)
     * 30 g Clarified Butter
     * 100 g Onion, minced
     * 30 g Garlic, minced

@@ -4,7 +4,7 @@
     * 100 g Leeks, halved, rinsed, sliced width-wise
     * 1/2 t Kosher Salt
     * 1/2 t Black Peppercorn, ground
-    * 800 g [Vegetable Stock](stocks/vegetable-stock.md)
+    * 800 g [Vegetable Stock](../stocks/vegetable-stock.md)
     * 200 g Heavy Cream
     * For Garnish
         * Chives

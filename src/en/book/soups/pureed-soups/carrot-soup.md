@@ -7,21 +7,21 @@ tags:
     * 750 g Carrots, peeled, minced
     * 250 g Yellow Onion, minced
     * 2 Garlic Cloves, smashed
-    * 1000 g [Vegetable Stock](stocks/vegetable-stock.md)
+    * 1000 g [Vegetable Stock](../stocks/vegetable-stock.md)
     * Seasonings
         * 1/4 t Cumin Seed, ground
         * 1/2 t Coriander Seed, ground
         * 1/2 t Salt
         * 1 pinch Red Pepper Flakes
     * Lemon Tahini Sauce
-        * 45 g [Tahini Paste](../sauces/tahini-paste.md)
+        * 45 g [Tahini Paste](../../sauces/tahini-paste.md)
         * 30 g Lemon Juice
         * 1 pinch Kosher Salt
         * 30 g Water
     * 15 g Parsley Leaves, chopped
     * For Serving
-        * [Roasted Chickpeas](../legumes/beans/roasted-chickpeas.md)
-        * [Lebanese Flatbread](../breads/flatbreads/lebanese-flatbread.md)
+        * [Roasted Chickpeas](../../legumes/beans/roasted-chickpeas.md)
+        * [Lebanese Flatbread](../../breads/flatbreads/lebanese-flatbread.md)
 
     ??? question "Substitutions"
         Substitute a 1:1 mixture of sesame seeds and sea salt for za'atar.

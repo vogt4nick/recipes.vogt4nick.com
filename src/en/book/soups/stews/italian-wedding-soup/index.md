@@ -10,7 +10,7 @@ title: Italian wedding soup
     * Celery Leaves, chopped
     * 30 g Parmigiano-Reggiano Rind
     * 1/2 t Fennel Seeds, crushed
-    * 1200 g [Chicken Stock](../stocks/meat-stock.md)
+    * 1200 g [Chicken Stock](../../stocks/meat-stock.md)
     * 120 g Dry White Wine
     * 40 g Dry Stellini Pasta
     * 2 sprigs Dill Leaves, chopped

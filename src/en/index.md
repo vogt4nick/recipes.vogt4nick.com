@@ -16,32 +16,32 @@ title: Menu
 
 ---
 
-* [Lemon lentil soup](book/soups/lemon-lentil-soup.md) with bread
+* [Lemon lentil soup](book/soups/bean-soup/lemon-lentil-soup.md) with bread
 * [Tieghan's curry](book/curries/tieghans-curry.md)
 * [Chickpea smash](book/handhelds/chickpea-smash.md)
 
 ---
 
 * [Lentil loaf](book/legumes/lentils/lentil-loaf.md)
-* [Bean soup](book/soups/bean-soup.md) with bread
+* [Bean soup](book/soups/bean-soup/index.md) with bread
 * Pasta in lentil tomato sauce
 
 ---
 
 * [Soy noodles](book/noodles/soy-noodles.md)
 * [Semolina pan](book/grains/semolina-pan.md)
-* [Potato cabbage soup](book/soups/potato-sausage-soup.md)
+* [Potato cabbage soup](book/soups/stews/potato-sausage-soup.md)
 
 ---
 
 * [Baked Spaghetti](book/casseroles/baked-spaghetti.md)
 * Corn avocado pasta salad
-* [Szegediner goulash](book/soups/szegediner-potato-goulash.md)
+* [Szegediner goulash](book/soups/stews/goulash/szegediner-goulash.md)
 
 ---
 
 * [Moroccan lentils](book/legumes/lentils/moroccan-lentils.md) with [basmati rice](book/grains/rice/basmati-rice/index.md)
-* [Lemon lentil soup](book/soups/lemon-lentil-soup.md) with bread
+* [Lemon lentil soup](book/soups/bean-soup/lemon-lentil-soup.md) with bread
 * [Risotto](book/grains/rice/white-risotto.md)
 
 ---

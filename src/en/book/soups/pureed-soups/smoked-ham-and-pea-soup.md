@@ -14,10 +14,10 @@
         * 1/2 t Sage Leaves, chopped
         * 1/2 t Thyme Leaves, chopped
     * 200 g Dry Green Split Peas
-    * 750 g [Chicken Stock](stocks/meat-stock.md)
+    * 750 g [Chicken Stock](../stocks/meat-stock.md)
     * 2 t White Vinegar (optional)
     * For Serving
-        * [Baguettes](../breads/dry-yeast-breads/baguettes.md)
+        * [Baguettes](../../breads/dry-yeast-breads/baguettes.md)
 
 === "Directions"
     1. **Cook ham.** Melt butter in stockpan over medium heat. Cook smoked ham 10-15 minutes until browned. Remove from heat and set aside; be careful to leave butter in stockpot.

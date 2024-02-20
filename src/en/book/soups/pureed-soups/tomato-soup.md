@@ -8,7 +8,7 @@ tags:
     * 1/4 t Kosher Salt
     * 1/4 t Black Peppercorn, ground
     * 900 g Tomatoes, peeled, quartered
-    * 500 g [Vegetable Stock](stocks/vegetable-stock.md)
+    * 500 g [Vegetable Stock](../stocks/vegetable-stock.md)
     * 5 g Parsley Leaves, chopped
     * For Garnish
         * Basil Leaves, chopped

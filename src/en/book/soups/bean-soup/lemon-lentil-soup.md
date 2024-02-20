@@ -8,7 +8,7 @@
         * 1/2 t Kosher Salt
         * 1/4 t Black Peppercorn, ground
         * 1 Dried Red Pepper
-    * 1000 g [Chicken Stock](./stocks/meat-stock.md)
+    * 1000 g [Chicken Stock](../stocks/meat-stock.md)
     * 200 g Red Lentils, rinsed
     * 1 Carrot, minced
     * 1 Bay Leaf
