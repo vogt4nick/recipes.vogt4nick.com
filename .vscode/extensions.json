@@ -4,6 +4,7 @@
         "oderwat.indent-rainbow",
         "ritwickdey.liveserver",
         "yzhang.markdown-all-in-one",
-        "jebbs.markdown-extended"
+        "jebbs.markdown-extended",
+        "streetsidesoftware.code-spell-checker"
     ]
 }
