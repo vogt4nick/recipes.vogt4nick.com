@@ -7,7 +7,7 @@
     * 1 t Cumin Seed, ground
     * 120 g Green Chilis, sliced
     * 3 Chicken Breasts, cut into thirds
-    * 1000 g [Chicken Stock](../../soups/stocks/meat-stock.md)
+    * 1000 g [Chicken Stock](../stocks/meat-stock.md)
     * Kosher Salt
     * Black Peppercorn, ground
     * 400 g Cooked White Beans

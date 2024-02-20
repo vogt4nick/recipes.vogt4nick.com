@@ -12,8 +12,8 @@
         * 30 g Ketchup
         * 15 g Mustard
         * 1/2 t Worcester Sauce
-    * 300 g [Chicken Stock](stocks/meat-stock.md)
-    * 220 g [Dry Kidney Beans, soaked, nearly cooked](../legumes/beans/index.md)
+    * 300 g [Chicken Stock](../stocks/meat-stock.md)
+    * 220 g [Dry Kidney Beans, soaked, nearly cooked](../../legumes/beans/index.md)
     * 1 leaf Chard, sliced
     * 30 g Scallions, sliced
     * For Serving
