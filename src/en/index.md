@@ -11,7 +11,7 @@ title: Menu
 ---
 
 * [Chickpea pan](book/legumes/chickpea-pan.md)
-* [Chetna's curry](book/curries/chetnas-curry.md), [basmati rice](book/grains/rice/basmati-rice.md), and [roasted cauliflower](book/vegetables/oven-roasted-vegetables/oven-roasted-cauliflower.md)
+* [Chetna's curry](book/curries/chetnas-curry.md), [basmati rice](book/grains/rice/basmati-rice/index.md), and [roasted cauliflower](book/vegetables/oven-roasted-vegetables/oven-roasted-cauliflower.md)
 * Pasta in lentil tomato sauce
 
 ---
@@ -40,7 +40,7 @@ title: Menu
 
 ---
 
-* [Moroccan lentils](book/legumes/lentils/moroccan-lentils.md) with [basmati rice](book/grains/rice/basmati-rice.md)
+* [Moroccan lentils](book/legumes/lentils/moroccan-lentils.md) with [basmati rice](book/grains/rice/basmati-rice/index.md)
 * [Lemon lentil soup](book/soups/lemon-lentil-soup.md) with bread
 * [Risotto](book/grains/rice/white-risotto.md)
 

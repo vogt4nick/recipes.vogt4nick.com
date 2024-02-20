@@ -15,7 +15,7 @@
         * 1/4 t Dried Thyme Leaves
     * 200 g Spicy Smoked Pork Sausage, cubed
     * 200 g Chicken Liver, minced
-    * 400 g Long Grain Rice, rinsed once
+    * 400 g Dry Long-Grain Rice, rinsed once
     * 1/2 T Kosher Salt
     * 1000 g [Chicken Stock](../../soups/stocks/meat-stock.md)
     * 1 Bay Leaf

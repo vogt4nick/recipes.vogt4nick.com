@@ -14,7 +14,7 @@
     * Italian Parsley, chopped
     * For Serving
         * Italian Parsley, chopped
-        * [Laurel Rice](../../grains/rice/laurel-rice.md)
+        * [Laurel Rice](../../grains/rice/jasmine-rice/laurel-rice.md)
 
 === "Directions"
     1. **Prepare ingredients** before  Mix lemon juice and caper brine.

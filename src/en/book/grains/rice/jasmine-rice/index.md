@@ -1,9 +1,12 @@
+---
+title: Jasmine rice
+---
 === "Ingredients"
     * 200 g Dry Jasmine Rice
     * Cool water, for rinsing
     * 320 g Water
     * 1/2 t Kosher Salt
-    * 5 g Unsalted Butter
+    * 5 g Unsalted Butter (optional)
 
 === "Directions"
     1. **Rinse** rice several times until water runs mostly clear.

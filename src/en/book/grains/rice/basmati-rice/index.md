@@ -1,3 +1,6 @@
+---
+title: Basmati rice
+---
 === "Ingredients"
     * 200 g Dry Basmati Rice
     * Cool water, for rinsing and soaking

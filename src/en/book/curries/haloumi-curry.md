@@ -16,7 +16,7 @@
     * 1 t White Sugar
     * 1/2 t Garam Masala
     * For Serving
-        * [Basmati Rice](../grains/rice/basmati-rice.md)
+        * [Basmati Rice](../grains/rice/basmati-rice/index.md)
         * [Lebanese Flatbread](../breads/flatbreads/lebanese-flatbread.md)
 
 === "Directions"

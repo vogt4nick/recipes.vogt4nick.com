@@ -19,7 +19,7 @@ tags:
     * 200 g Tomatoes, chopped
     * 400 g Coconut Milk
     * For Serving
-        * [Basmati Rice, cooked](../grains/rice/basmati-rice.md)
+        * [Basmati Rice, cooked](../grains/rice/basmati-rice/index.md)
         * [Roasted Chickpeas](../legumes/beans/roasted-chickpeas.md)
         * [Roasted Potatoes](../vegetables/oven-roasted-vegetables/oven-roasted-waxy-potatoes.md)
 

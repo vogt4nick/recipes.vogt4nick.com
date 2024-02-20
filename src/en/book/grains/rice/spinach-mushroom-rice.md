@@ -3,7 +3,7 @@ tags:
     - vegan
 ---
 === "Ingredients"
-    * 200 g [Dry Jasmine Rice, cooked](jasmine-rice.md)
+    * 200 g Dry Rice, cooked
     * 15 g Olive Oil
     * 1 clove Garlic, sliced
     * 120 g Mushrooms, sliced

@@ -20,7 +20,7 @@ tags:
         * Kosher Salt
         * Black peppercorn, ground
     * For serving
-        * 200 g [Dry Basmati Rice, cooked](../../grains/rice/basmati-rice.md)
+        * 200 g [Dry Basmati Rice, cooked](../../grains/rice/basmati-rice/index.md)
         * Lemon juice
         * Green onion
         * Cilantro

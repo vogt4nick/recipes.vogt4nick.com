@@ -1,6 +1,6 @@
 === "Ingredients"
     * 10 g Ghee
-    * 200 g Dry Japanese or Jasmine Rice, rinsed and soaked
+    * 200 g Dry Rice, rinsed and soaked
     * 30 g Jalapeños, minced
     * 30 g Scallions, thinly sliced, greens reserved for serving
     * Seasonings

@@ -3,11 +3,11 @@
     * 30 g Onion, minced
     * 1 Garlic Clove, minced
     * 4 Bay Leaves
-    * 1/4 t [Celery Salt](../../seasonings/salt-blends/celery-salt.md)
+    * 1/4 t [Celery Salt](../../../seasonings/salt-blends/celery-salt.md)
     * 1/4 t Kosher Salt
     * 1/4 t Black Peppercorn
     * 200 g Dry Jasmine Rice, rinsed
-    * 320 g [Chicken Stock](../../soups/stocks/meat-stock.md)
+    * 320 g [Chicken Stock](../../../soups/stocks/meat-stock.md)
     * 1/2 T Butter
 
 === "Directions"

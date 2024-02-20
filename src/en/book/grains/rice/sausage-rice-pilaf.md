@@ -7,7 +7,7 @@
     * 1/2 t Paprika
     * 1/2 t [Rosemary Salt](../../seasonings/salt-blends/rosemary-salt.md)
     * 1/4 t Black Peppercorn
-    * 200 g Dry Jasmine Rice, rinsed
+    * 200 g Dry Long-Grain Rice, rinsed
     * 320 g [Chicken Stock](../../soups/stocks/meat-stock.md)
     * 1/2 T Butter
 
