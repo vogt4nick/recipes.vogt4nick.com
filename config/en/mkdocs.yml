@@ -34,8 +34,9 @@ extra:
 plugins:
   - awesome-pages:
       collapse_single_pages: false
-      filename: pages.yml
+      filename: .pages
       strict: true
+      order: asc
   - exclude:
       regex:
         - '.*pages.ya?ml'

@@ -1,6 +1,4 @@
-title: Recipe Book
-order: asc
-arrange:
+nav:
   - index.md
   - soups
   - sauces

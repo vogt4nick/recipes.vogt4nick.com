@@ -1,4 +1,3 @@
-order: asc
-arrange:
+nav:
   - italian-pasta.md
   - ...

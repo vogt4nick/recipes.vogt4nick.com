@@ -13,7 +13,7 @@ markdown_extensions:
 plugins:
   - awesome-pages:
       collapse_single_pages: false
-      filename: pages.yml
+      filename: .pages
       strict: true
   - macros
   - minify:
