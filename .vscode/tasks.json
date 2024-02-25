@@ -25,6 +25,15 @@
       }
     },
     {
+      "label": "serve English site",
+      "type": "shell",
+      "command": "poetry run mkdocs serve --dev-addr localhost:5500 --dirty --watch src/en/ -f config/en/mkdocs.yml",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
       "label": "build Austrian site",
       "type": "shell",
       "command": "poetry run mkdocs build -f config/at/mkdocs.yml --strict --site-dir $MKDOCS_SITE_DIR/at",
