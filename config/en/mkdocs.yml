@@ -57,14 +57,3 @@ site_name: Nick's Recipes
 site_url: http://recipes.vogt4nick.com/
 theme:
   language: en
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: msu-light
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to Dark Mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: msu-dark
-      toggle:
-        icon: material/weather-night
-        name: Switch to Light Mode

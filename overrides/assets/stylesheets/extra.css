@@ -17,21 +17,6 @@
     --md-typeset-a-color: var(--md-primary-fg-color);
 }
 
-[data-md-color-scheme="österreich-dunkel"] {
-    --md-primary-fg-color: #EF3340;
-    --md-default-fg-color: hsla(232, 75%, 95%, 1);
-    --md-default-fg-color--light: hsla(232, 75%, 90%, 0.62);
-    --md-default-fg-color--lighter: hsla(232, 75%, 90%, 0.32);
-    --md-default-fg-color--lightest: hsla(232, 75%, 90%, 0.12);
-    --md-default-bg-color: hsla(232, 15%, 21%, 1);
-    --md-default-bg-color--light: hsla(232, 15%, 21%, 0.54);
-    --md-default-bg-color--lighter: hsla(232, 15%, 21%, 0.26);
-    --md-default-bg-color--lightest: hsla(232, 15%, 21%, 0.07);
-    --md-accent-fg-color: hsla(232, 75%, 95%, 1);
-    --md-typeset-color: var(--md-default-fg-color);
-    --md-typeset-a-color: var(--md-primary-fg-color);
-}
-
 [data-md-color-scheme="msu-light"] {
     --md-primary-fg-color: #18453B;
     --md-default-fg-color: rgba(0, 0, 0, 0.87);
@@ -45,19 +30,4 @@
     --md-accent-fg-color: rgba(0, 0, 0, 0.87);
     --md-typeset-color: var(--md-default-fg-color);
     --md-typeset-a-color: #008208;
-}
-
-[data-md-color-scheme="msu-dark"] {
-    --md-primary-fg-color: #18453B;
-    --md-default-fg-color: hsla(232, 75%, 95%, 1);
-    --md-default-fg-color--light: hsla(232, 75%, 90%, 0.62);
-    --md-default-fg-color--lighter: hsla(232, 75%, 90%, 0.32);
-    --md-default-fg-color--lightest: hsla(232, 75%, 90%, 0.12);
-    --md-default-bg-color: hsla(232, 15%, 21%, 1);
-    --md-default-bg-color--light: hsla(232, 15%, 21%, 0.54);
-    --md-default-bg-color--lighter: hsla(232, 15%, 21%, 0.26);
-    --md-default-bg-color--lightest: hsla(232, 15%, 21%, 0.07);
-    --md-accent-fg-color: hsla(232, 75%, 95%, 1);
-    --md-typeset-color: var(--md-default-fg-color);
-    --md-typeset-a-color: #7BBD00;
 }

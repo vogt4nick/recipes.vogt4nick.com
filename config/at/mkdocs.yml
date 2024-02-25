@@ -45,14 +45,3 @@ site_name: dem Nick seine Rezepte
 site_url: http://rezepte.vogt4nick.com/
 theme:
   language: de
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: österreich-licht
-      toggle:
-        icon: material/weather-sunny
-        name: In den Dunkelmodus wechseln
-    - media: "(prefers-color-scheme: dark)"
-      scheme: österreich-dunkel
-      toggle:
-        icon: material/weather-night
-        name: In den Lichtmodus wechseln
