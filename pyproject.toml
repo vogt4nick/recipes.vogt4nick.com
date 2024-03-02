@@ -3,12 +3,9 @@ build-backend = "poetry.core.masonry.api"
 requires = ["poetry-core>=1.0.0"]
 
 [tool.poetry]
-name = "recipes.vogt4nick.com"
-authors = ["Nick Vogt <vogt4nick@gmail.com>"]
-description = "Nick's Recipes."
+package-mode = false
 readme = "README.md"
 repository = "https://github.com/vogt4nick/recipes.vogt4nick.com"
-version = "22"
 
 [tool.poetry.dependencies]
 python = "^3.9"
