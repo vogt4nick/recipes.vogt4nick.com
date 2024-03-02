@@ -1,5 +1,5 @@
 ---
-title: Pan Sauce
+title: Pan sauce
 ---
 === "Ingredients"
     * Fond
