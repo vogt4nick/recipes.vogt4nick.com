@@ -1,14 +1,18 @@
+---
+title: Nick's overnight oats
+---
 === "Ingredients"
+    * 1 T Chia Seeds
+    * 1 t Poppy Seeds
     * 1/2 t Cinnamon, ground
-    * 1/2 t White Sugar
     * 1/4 t Kosher Salt
     * 1/8 t Cardamom Seed, ground
-    * 100 g Rolled Oats
-    * 30 g Chia Seeds
-    * 20 g Dried Fruit
+    * 30 g Raisins
+    * 30 g Pine Nuts
+    * 30 g Peanut Butter
+    * 30 g Whey Protein
+    * 60 g Rolled Wheat Oats
     * 250 g Milk
-    * For Topping
-        * 30 g Nuts, chopped
 
 === "Directions"
     1. **Mix ingredients** together in a jar.
