@@ -1,7 +1,7 @@
 === "Basic Ingredients"
     * 1 Garlic Clove, minced
     * 45 g Olive Oil
-    * 30 g [Mayonnaise](index.md)
+    * 30 g [Mayonnaise](mayonnaise/index.md)
     * 15 g Worcestershire Sauce
     * 15 g Lemon Juice
     * 1 t Dijon Mustard
@@ -13,7 +13,7 @@
     * 2 [Poached Egg Yolks](../../eggs/poached-eggs.md)
     * 2 Garlic Cloves, minced
     * 3 Anchovy Fillets
-    * 180 g [Mayonnaise](index.md)
+    * 180 g [Mayonnaise](mayonnaise/index.md)
     * 60 g Parmigiano-Reggiano, grated
     * 60 g Extra Virgin Olive Oil
     * 60 g Lemon Juice

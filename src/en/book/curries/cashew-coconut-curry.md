@@ -6,7 +6,7 @@
     * 1 Small Chili, minced
     * 70 g Cashews
     * 1/4 t Dried Cayenne Pepper, ground
-    * 1/2 T [Thai Red Curry Paste](../sauces/thai-red-curry-paste.md)
+    * 1/2 T [Thai Red Curry Paste](../sauces/thai-sauces/thai-red-curry-paste.md)
     * 400 g Coconut Milk
     * 100 g [Dry Chickpeas, cooked](../legumes/beans/index.md)
     * 90 g Spinach Leaves, trimmed, roughly chopped

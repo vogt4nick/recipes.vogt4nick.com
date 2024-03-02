@@ -1,3 +1,6 @@
+---
+title: Hollandaise
+---
 === "Ingredients"
     * Diluted Lemon Juice
         * 10 g Lemon Juice

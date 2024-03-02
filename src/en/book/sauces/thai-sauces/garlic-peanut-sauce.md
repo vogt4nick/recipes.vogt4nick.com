@@ -4,7 +4,7 @@
     * 2 Garlic Cloves, minced
     * 15 g Lemon Zest
     * 1 T Coriander Seed, ground
-    * 30 g Sambal Oelek or [Szechuan Sauce](szechuan-sauce.md)
+    * 30 g Sambal Oelek or [Szechuan Sauce](../../seasonings/infused-oils/szechuan-oil.md)
     * 120 g Coconut Milk, unsweetened
     * 15 g Tamarind Paste
     * 15 g White Sugar

@@ -6,7 +6,7 @@ title: Tieghan's curry
     * 2 Shallots, minced
     * 5 g Ginger Root, grated
     * 300 g Sweet Potatoes, peeled, cubed
-    * 4 T [Thai Red Curry Paste](../sauces/thai-red-curry-paste.md)
+    * 4 T [Thai Red Curry Paste](../sauces/thai-sauces/thai-red-curry-paste.md)
     * 800 g [Vegetable Stock](../soups/stocks/vegetable-stock.md) or Water
     * 150 g Green Lentils, rinsed
     * 2 T Fish Sauce

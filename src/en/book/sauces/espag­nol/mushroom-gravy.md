@@ -4,7 +4,7 @@
     * 1 t Kosher Salt
     * 50 g Onion, sliced
     * 50 g Carrot, finely chopped
-    * 500 g [Beef Stock](../soups/stocks/meat-stock.md)
+    * 500 g [Beef Stock](../../soups/stocks/meat-stock.md)
     * 30 g Flour
     * Black Peppercorn, ground
     * Rosemary Leaves (optional)

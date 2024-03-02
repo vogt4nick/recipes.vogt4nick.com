@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 500 g [Mayonnaise](./index.md)
+    * 500 g [Mayonnaise](index.md)
     * 100 g Cherry Tomatoes, minced
     * 15 g Basil Leaves, minced
 

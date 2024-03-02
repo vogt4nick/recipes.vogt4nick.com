@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 80 g [Mayonnaise](mayonnaise/index.md)
+    * 80 g [Mayonnaise](index.md)
     * 80 g Ketchup
     * 40 g Dill Pickle, minced
     * 40 g Onion

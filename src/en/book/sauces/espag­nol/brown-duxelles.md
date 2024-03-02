@@ -6,7 +6,7 @@
         * 30 g Scallions or Shallots, minced
         * 100 g Dry White Wine
     * 20 g Tomato Paste
-    * 300 g [Brown Sauce](./index.md)
+    * 300 g [Brown Sauce](brown-sauce.md)
     * 25 g Unsalted Butter, room temperature
     * Garnish
         * 20 g Parsley Leaves, chopped
