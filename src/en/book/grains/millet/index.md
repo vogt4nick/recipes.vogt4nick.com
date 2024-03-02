@@ -10,7 +10,7 @@ title: Millet
     !!! info "Cooked millet is 3x larger than dry millet."
 
 === "Directions"
-    1. **Toast** (optional). Heat olive oil over medium-low heat. Stirring constantly, add millet and toast 4-6 minutes until golden and aromatic.
+    1. **Toast** (optional). Heat butter over medium-low heat. Stirring constantly, add millet and toast 4-6 minutes until golden and aromatic.
     2. **Cook.** Mix in water and bring to boil. Cover, reduce heat to low, and cook 15 minutes. While covered, remove from heat and rest an additional 10 minutes.
     3. **Fluff** with a fork.
     4. **Cool and serve.** Allow millet to cool, uncovered, for a few minutes before serving.
