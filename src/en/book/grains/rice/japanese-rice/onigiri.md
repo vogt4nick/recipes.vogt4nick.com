@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 80 g [Kewpie Mayonnaise](../../../sauces/hollandaise/kewpie-style-mayonnaise.md)
+    * 80 g [Kewpie Mayonnaise](../../../sauces/hollandaise/mayonnaise/kewpie-style-mayonnaise.md)
     * 80 g Canned Tuna
     * 160 g [Dry Japanese Rice, cooked](index.md)
     * For Handling

@@ -3,7 +3,7 @@ title: Japanese-style egg salad sandwich
 ---
 === "Ingredients"
     * 6 [Hardboiled Eggs](../eggs/hardboiled-eggs.md)
-    * 60 g [Kewpie-style Mayonnaise](../sauces/hollandaise/kewpie-style-mayonnaise.md)
+    * 60 g [Kewpie-style Mayonnaise](../sauces/hollandaise/mayonnaise/kewpie-style-mayonnaise.md)
     * 1/2 t Kosher Salt
     * 1/4 t White Sugar
     * 1/8 t Dried Cayenne Pepper, ground
