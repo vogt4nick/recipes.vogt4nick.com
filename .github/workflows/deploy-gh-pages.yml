@@ -1,0 +1,61 @@
+name: deploy-gh-pages
+
+on:
+  push:
+  workflow_dispatch:
+
+env:
+  MKDOCS_SITE_DIR: ~/site
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: Install poetry
+        run: pipx install poetry
+      - uses: actions/setup-python@main
+        with:
+          python-version: 3.11
+          cache: "poetry"
+      - name: Install dependencies
+        run: poetry install --only main --no-root
+      - name: Build root site
+        run: poetry run mkdocs build -f config/root/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
+      - name: Build at site
+        run: poetry run mkdocs build -f config/at/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}/at
+      - name: Build en site
+        run: poetry run mkdocs build -f config/en/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}/en
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ env.MKDOCS_SITE_DIR }}
+
+  pre-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - uses: actions/setup-python@main
+        with:
+          python-version: 3.11
+      - uses: pre-commit/action@main
+
+  deploy:
+    if: github.ref == 'refs/heads/main'
+    name: Deploy to GitHub Pages
+    needs: [build, pre-commit]
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
