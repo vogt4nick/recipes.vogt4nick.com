@@ -3,7 +3,7 @@ name: deploy-gh-pages
 on: [push]
 
 env:
-  MKDOCS_SITE_DIR: _site
+  MKDOCS_SITE_DIR: /home/runner/work/recipes.vogt4nick.com/recipes.vogt4nick.com/_site
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
