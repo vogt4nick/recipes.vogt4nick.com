@@ -1,8 +1,6 @@
 name: deploy-gh-pages
 
-on:
-  push:
-  workflow_dispatch:
+on: [push]
 
 env:
   MKDOCS_SITE_DIR: ~/site
@@ -33,6 +31,14 @@ jobs:
         run: poetry run mkdocs build -f config/at/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}/at
       - name: Build en site
         run: poetry run mkdocs build -f config/en/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}/en
+
+        # enable upload https://github.com/actions/upload-pages-artifact/tree/v3?tab=readme-ov-file#example-permissions-fix-for-linux
+      - name: Fix permissions
+        run: |
+          chmod -c -R +rX "${{ env.MKDOCS_SITE_DIR }}/" | while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
