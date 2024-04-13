@@ -28,4 +28,3 @@ jobs:
           commit-message: "Update build dependencies"
           title: Update build dependencies
           body: Update the poetry.lock with the latest valid dependencies.
-          reviewers: "vogt4nick"
