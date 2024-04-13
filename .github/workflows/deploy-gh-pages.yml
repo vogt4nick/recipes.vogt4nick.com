@@ -31,12 +31,8 @@ jobs:
           cache: "poetry"
       - name: Install dependencies
         run: poetry install --only main --no-root
-      - name: Build root site
-        run: poetry run mkdocs build -f config/root/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
-      - name: Build at site
-        run: poetry run mkdocs build -f config/at/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}/at
       - name: Build en site
-        run: poetry run mkdocs build -f config/en/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}/en
+        run: poetry run mkdocs build -f config/en/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
 
         # enable upload https://github.com/actions/upload-pages-artifact/tree/v3?tab=readme-ov-file#example-permissions-fix-for-linux
       - name: Fix permissions
