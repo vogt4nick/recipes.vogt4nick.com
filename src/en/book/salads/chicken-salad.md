@@ -1,18 +1,19 @@
 === "Ingredients"
-    * 450 g [BBRRR Chicken](../meats/poultry/oven-roasted-chicken/bbrrr-chicken-breast.md), cubed
-    * 45 g Shallots, minced
-    * 60 g Black Olives, pitted
-    * Seasoning
-        * 10 g Lemon Zest
-        * 45 g Lemon Juice
-        * 55 g Extra Virgin Olive Oil
-        * 1 T Herbs de Provence
+    * 400 g [Oven-Roasted Chicken](../meats/poultry/oven-roasted-chicken/oven-roasted-chicken-thighs.md), deboned, shredded
+    * 1 Scallion, thinly sliced, parboiled
+    * 1 Celery Stalk, sliced
+    * 60 g Grapes, halved
+    * Seasoned mayonnaise
+        * 100 g Mayonnaise
+        * 4 Garlic Cloves, minced
+        * 1 t Dried Thyme Leaves
+        * 1 t Dried Rosemary Leaves
+        * 1 t Black Peppercorn, ground
         * 1/2 t Kosher Salt
-        * 1/2 t Black Peppercorn, ground
+        * Lemon Zest
 
 === "Directions"
-    1. **Mix** Mix together chicken, shallots, and black olives in a bowl.
-    2. **Chill** ingredients in refrigerator for a day. Remove from fridge 15 minutes before continuing.
-    3. **Season**, mix evenly, and serve.
+    1. **Mix** seasoned mayonnaise, then mix chicken into the mayonnaise. Finally, mix in scallion, celery, and grapes.
+    2. **Serve** immediately or chill overnight.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }}
+[^bittman]: {{ cite.bittman_how_to_cook_everything }}
