@@ -1,5 +1,5 @@
 ---
-title: Sichuanese Hot & Sour Egg Drop Soup
+title: Sichuanese hot & sour egg drop soup
 ---
 === "Ingredients"
     * 1 t Lard or Clarified Butter

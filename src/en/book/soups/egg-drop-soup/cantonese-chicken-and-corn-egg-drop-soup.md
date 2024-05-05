@@ -1,5 +1,5 @@
 ---
-title: Cantonese Chicken & Corn Egg Drop Soup
+title: Cantonese chicken & corn egg drop soup
 ---
 === "Ingredients"
     * 1 t Neutral Oil
