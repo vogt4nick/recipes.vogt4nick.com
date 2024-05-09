@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 15 g Shallots, minced generous tbsp minced shallots
+    * 15 g Shallots, minced
     * 15 g Dijon mustard
     * 90 g Extra Virgin Olive Oil
     * 50 g Sherry Vinegar

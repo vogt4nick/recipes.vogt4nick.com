@@ -1,3 +1,6 @@
+---
+title: Tomato sauce
+---
 === "Ingredients"
     * 400 g Tomatoes, peeled and quartered
     * 3 T Unsalted Butter
