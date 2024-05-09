@@ -7,7 +7,7 @@ title: Mayonnaise
     * 1/2 t Kosher Salt
     * 1/4 t Dijon Mustard
     * For Emulsion
-        * 400 g Extra Virgin Olive Oil, room temperature
+        * 400 g Olive Oil, room temperature
         * 30 g Water, boiling
     * Seasoning
         * 1 T Lemon Juice or Wine Vinegar, room temperature

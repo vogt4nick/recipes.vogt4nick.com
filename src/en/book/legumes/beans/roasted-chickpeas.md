@@ -4,7 +4,7 @@ tags:
 ---
 === "Ingredients"
     * 100 g [Dry Chickpeas, cooked](index.md)
-    * 15 g Extra Virgin Olive Oil
+    * 15 g Olive Oil
     * 1/2 t Kosher Salt
     * 1/4 t Cumin Seed, ground
     * 1/4 t Dried Cayenne Pepper, ground

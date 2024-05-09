@@ -3,7 +3,7 @@ title: Italian wedding soup
 ---
 === "Ingredients"
     * [Italian Wedding Soup Meatballs, uncooked](italian-wedding-soup-meatballs.md)
-    * 25 g Extra Virgin Olive Oil
+    * 25 g Olive Oil
     * 120 g Onion, minced
     * 60 g Carrot, chopped
     * 60 g Celery, minced

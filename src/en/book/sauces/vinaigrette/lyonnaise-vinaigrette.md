@@ -1,7 +1,7 @@
 === "Ingredients"
     * 15 g Shallots, minced
     * 15 g Dijon mustard
-    * 90 g Extra Virgin Olive Oil
+    * 90 g Olive Oil
     * 50 g Sherry Vinegar
     * Salt
     * Black Peppercorn, ground

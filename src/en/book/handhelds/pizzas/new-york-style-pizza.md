@@ -3,7 +3,7 @@ title: New York-style pizza
 ---
 === "Ingredients"
     * Sautéed Veggies
-        * 15 g Extra Virgin Olive Oil
+        * 15 g Olive Oil
         * 100 g Mushrooms, sliced
         * 2 Garlic Cloves, chopped
         * Sea Salt

@@ -3,7 +3,7 @@ tags:
     - vegan
 ---
 === "Ingredients"
-    * 10 g Extra Virgin Olive Oil
+    * 10 g Olive Oil
     * 100 g Onion, minced
     * 1/4 t Kosher Salt
     * 1/4 t Black Peppercorn, ground

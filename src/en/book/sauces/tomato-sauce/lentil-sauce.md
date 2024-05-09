@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 25 g Extra Virgin Olive Oil
+    * 25 g Olive Oil
     * 200 g Onion, minced
     * 2 Garlic Cloves, minced
     * 400 g Tomatoes, peeled, seeded, chopped

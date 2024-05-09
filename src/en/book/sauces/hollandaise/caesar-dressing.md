@@ -15,7 +15,7 @@
     * 3 Anchovy Fillets
     * 180 g [Mayonnaise](mayonnaise/index.md)
     * 60 g Parmigiano-Reggiano, grated
-    * 60 g Extra Virgin Olive Oil
+    * 60 g Olive Oil
     * 60 g Lemon Juice
     * 15 g Water, cold
     * 1 t Black Peppercorn, ground

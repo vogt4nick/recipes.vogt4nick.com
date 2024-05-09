@@ -4,10 +4,10 @@
         * 250 g [Tomato Sauce](../sauces/tomato-sauce/index.md)
         * 1/2 t Kosher Salt
         * 1/4 t Black Peppercorn, ground
-        * 1/4 t Dry Oregano Leaves
-        * 1/4 t Dry Marjoram Leaves
-        * 1/4 t Dry Parsley Leaves
-        * 1/4 t Dry Basil Leaves
+        * 1/4 t Dried Oregano Leaves
+        * 1/4 t Dried Marjoram Leaves
+        * 1/4 t Dried Parsley Leaves
+        * 1/4 t Dried Basil Leaves
         * 1/4 t Dried Cayenne Pepper, ground
     * 1 T Olive Oil
     * 1 T Unsalted Butter

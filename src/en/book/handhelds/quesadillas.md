@@ -21,7 +21,7 @@ tags:
         * 100 g Yellow Bell Pepper, sliced
     * 150 g Oaxaca Cheese
     * 4 Tortillas
-    * Extra Virgin Olive Oil
+    * Olive Oil
 
 === "Directions"
     1. **Marinate meat** in cumin, paprika, chilli powder, marjoram, garlic, oil. Refrigerate overnight.

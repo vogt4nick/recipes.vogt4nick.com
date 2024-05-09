@@ -1,6 +1,6 @@
 === "Ingredients"
     * Garlic Oil
-        * 100 g Extra Virgin Olive Oil
+        * 100 g Olive Oil
         * 4 Garlic Cloves, minced
     * 200 g Stale [Baguette](dry-yeast-breads/baguettes.md), cut into pieces
     * Seasonings

@@ -4,7 +4,7 @@ tags:
 ---
 === "Ingredients"
     * 150 g Dressing
-        * 80 g Extra Virgin Olive Oil
+        * 80 g Olive Oil
         * 50 g White Wine Vinegar
         * 15 g Honey or Sugar
         * 1 t Kosher Salt
