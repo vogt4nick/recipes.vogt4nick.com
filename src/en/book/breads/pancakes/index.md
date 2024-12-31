@@ -3,7 +3,7 @@ title: Pancakes
 ---
 === "Ingredients"
     * 180 g White Wheat Flour
-    * 3 1/2 t Baking Powder
+    * 2 1/2 t Baking Powder
     * 1 t Kosher Salt
     * 1 T White Sugar
     * 300 g Milk

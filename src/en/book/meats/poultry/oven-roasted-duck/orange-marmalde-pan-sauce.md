@@ -1,6 +1,6 @@
 === "Ingredients"
     * 240 g Water
-    * Reserved neck and wing tips from [Roast Duck](..)
+    * Reserved neck and wing tips from [Roast Duck](index.md)
     * 240 g Orange Marmalade
     * 1/2 t Paprika
     * 1/4 t Dried Cayenne Pepper, ground
