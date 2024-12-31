@@ -1,6 +1,6 @@
 === "Ingredients"
     * 240 g Water
-    * Reserved neck and wing tips from [Roast Duck](../../../meats/poultry/oven-roasted-duck.md)
+    * Reserved neck and wing tips from [Roast Duck](..)
     * 240 g Orange Marmalade
     * 1/2 t Paprika
     * 1/4 t Dried Cayenne Pepper, ground

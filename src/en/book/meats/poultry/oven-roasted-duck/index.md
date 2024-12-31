@@ -1,10 +1,13 @@
+---
+title: Oven roasted duck
+---
 === "Ingredients"
     * 1 Whole Duck
     * Seasonings
         * 4 t Kosher Salt
         * 2 t Black Peppercorn, ground
     * Root Vegetables, roughly chopped (optional)
-    * [Orange Marmalade Pan Sauce](../../sauces/espag­nol/pan-sauce/orange-marmalde-pan-sauce.md) (optional)
+    * [Orange Marmalade Pan Sauce](./orange-marmalde-pan-sauce.md) (optional)
 
 === "Directions"
     1. **Calculate roasting time.** Weigh duck. Cooking time at 200°C (400°F) is 20 minutes plus 40 minutes per kilogram (or 18 minutes per pound).[^cookingtimes]
