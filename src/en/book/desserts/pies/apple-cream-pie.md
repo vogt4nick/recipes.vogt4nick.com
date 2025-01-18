@@ -18,4 +18,4 @@
     5. **Cool** 4 hours until room temperature.
 
 [^reddit]:
-    u/Laniidae_. ["A gift from Post Secret this week."](https://old.reddit.com/r/Old_Recipes/comments/juhjjw/) _Reddit._ November 2020.
+    u/Laniidae_. ["A gift from Post Secret this week."](https://old.reddit.com/r/Old_Recipes/comments/juhjjw/) _Reddit: /r/Old_Recipes._ November 2020.

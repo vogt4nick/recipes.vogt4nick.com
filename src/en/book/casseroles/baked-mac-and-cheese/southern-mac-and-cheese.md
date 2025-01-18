@@ -29,4 +29,4 @@ title: Southern mac & cheese
 [^divas]:
     Monique. ["Southern Baked Macaroni and Cheese Recipe."](https://divascancook.com/southern-baked-macaroni-and-cheese-recipe/) _Divas Can Cook._ 6 December 2009.
 [^reddit]:
-    ["I'm super white. I'm going to a majority black bbq. I've been assigned to bring the mac n cheese. How do I not embarrass myself here? recipes?"](https://old.reddit.com/r/NoStupidQuestions/comments/w1d86e) _Reddit._ 17 July 2022.
+    ["I'm super white. I'm going to a majority black bbq. I've been assigned to bring the mac n cheese. How do I not embarrass myself here? recipes?"](https://old.reddit.com/r/NoStupidQuestions/comments/w1d86e) _Reddit: /r/NoStupidQuestions._ 17 July 2022.

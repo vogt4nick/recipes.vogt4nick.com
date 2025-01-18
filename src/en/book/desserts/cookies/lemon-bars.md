@@ -19,4 +19,4 @@
     6. **Garnish** with powdered sugar and serve.
 
 [^1]:
-    u/JustHood. ["Grandma’s lemon bars - aka the hit at every family that we still make, even though she’s gone."](https://old.reddit.com/r/Old_Recipes/comments/c1x1k1/grandmas_lemon_bars_aka_the_hit_at_every_family/) _Reddit._ 2019.
+    u/JustHood. ["Grandma’s lemon bars - aka the hit at every family that we still make, even though she’s gone."](https://old.reddit.com/r/Old_Recipes/comments/c1x1k1/grandmas_lemon_bars_aka_the_hit_at_every_family/) _Reddit: /r/Old_Recipes._ 2019.

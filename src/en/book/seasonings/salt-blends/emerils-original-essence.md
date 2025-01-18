@@ -15,4 +15,4 @@ title: Emeril's original essence
     Combine ingredients and blend thoroughly.
 
 [^reddit]:
-    /u/redskyaboveme. ["Cooks of Reddit, what are the custom spice blends you make in bulk to repeatedly use in your recipes?"](https://old.reddit.com/r/Cooking/comments/622hz5/) _Reddit._ 28 March 2017.
+    /u/redskyaboveme. ["Cooks of Reddit, what are the custom spice blends you make in bulk to repeatedly use in your recipes?"](https://old.reddit.com/r/Cooking/comments/622hz5/) _Reddit: /r/Cooking._ 28 March 2017.

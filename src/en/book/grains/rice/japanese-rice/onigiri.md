@@ -22,4 +22,4 @@
 [^nagi_youtube]:
     Maehashi, Nagi. ["How to Make Onigiri (Japanese Rice Balls)."](https://www.youtube.com/watch?v=HwkifALLsuU) _YouTube: RecipeTin Eats._ 7 November 2016.
 [^reddit]:
-    ["Tips for making better onigiri?"](https://old.reddit.com/r/JapaneseFood/comments/vdxku9/) _Reddit._ 16 June 2022.
+    ["Tips for making better onigiri?"](https://old.reddit.com/r/JapaneseFood/comments/vdxku9/) _Reddit: /r/JapaneseFood._ 16 June 2022.
