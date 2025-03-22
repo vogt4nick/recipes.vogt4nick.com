@@ -13,7 +13,7 @@ tags:
     * 1 Garlic Clove, minced
     * 2 t Coriander Seed, ground
     * 1 t Kosher Salt
-    * 1/4 t Turmeric Root, ground
+    * 1/4 t Dried Turmeric Root, ground
     * 1/4 t Paprika
     * 200 g Mushrooms, sliced
     * 150 g Corn Kernels

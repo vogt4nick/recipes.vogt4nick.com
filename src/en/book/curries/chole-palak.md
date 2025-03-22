@@ -12,7 +12,7 @@ tags:
         * 1 Green Chili
     * 1 T Coriander Seed, ground
     * 1/2 t Dried Red Chili, ground
-    * 1/2 t Turmeric Root, ground
+    * 1/2 t Dried Turmeric Root, ground
     * 80 g Spinach, chopped
     * 1/2 t Kosher Salt
     * 120 ml Water

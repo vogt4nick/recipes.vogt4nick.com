@@ -9,7 +9,7 @@
     * 1 t Coriander Seed, ground
     * 1 t Cumin Seed, ground
     * 1/4 t White Peppercorn, ground
-    * 1/4 t Turmeric Root, ground
+    * 1/4 t Dried Turmeric Root, ground
     * 2 T Fresh Coriander Root/Stem
     * Fresh Coriander Leaves
 

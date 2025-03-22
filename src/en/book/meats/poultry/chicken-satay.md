@@ -10,7 +10,7 @@
         * 1 Garlic Clove, minced
         * 1 t Ginger, grated
         * 1 t Curry Powder
-        * 1 t Turmeric Root, ground
+        * 1 t Dried Turmeric Root, ground
         * 1/4 t Cumin Seed, ground
         * 1/4 t Coriander Seed, ground
     * 400 g Raw Chicken Breast, sliced into thick strips

@@ -7,7 +7,7 @@ tags:
     * 240 g Onion, minced
     * Spices
         * 10 g Garlic, minced
-        * 1 t Turmeric Root, ground
+        * 1 t Dried Turmeric Root, ground
         * 1 t Cinnamon, ground
         * 1 t Cumin Seed, ground
         * 1/2 t Black Peppercorn, ground

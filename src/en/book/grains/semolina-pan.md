@@ -4,7 +4,7 @@
     * 400 g Milk
     * 1 t Kosher Salt
     * 1/2 t Cumin Seed, whole
-    * 1/4 t Turmeric Root, ground
+    * 1/4 t Dried Turmeric Root, ground
     * 1 Scallion, thinly sliced
     * Chives, minced
     * Parsley, minced

@@ -5,7 +5,7 @@
     * 1 T Garlic Powder
     * 1 T Onion Powder
     * 1 T Black Peppercorn, ground
-    * 1 T Turmeric Root, ground
+    * 1 T Dried Turmeric Root, ground
     * 1 t Cinnamon, ground
 
 === "Directions"

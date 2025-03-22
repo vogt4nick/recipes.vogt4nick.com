@@ -8,7 +8,7 @@
     * 30 g Green Bell Pepper, thinly sliced
     * Spices
         * 2 t Coriander Seed, ground
-        * 1/4 t Turmeric Root, ground
+        * 1/4 t Dried Turmeric Root, ground
         * 1/4 t Paprika
         * 1/4 t Dried Cayenne Pepper, ground
     * 500 g Tomatoes, roughly chopped

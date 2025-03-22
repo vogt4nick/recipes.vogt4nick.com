@@ -11,7 +11,7 @@
     * 2 T Unsalted Butter
     * 3 T Wheat Flour
     * 1 T Curry Blend
-        * 1 t Turmeric Root, ground
+        * 1 t Dried Turmeric Root, ground
         * 1/2 t Cinnamon, ground
         * 1/2 t Paprika
         * 1/4 t Garlic Powder

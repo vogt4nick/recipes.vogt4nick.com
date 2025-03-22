@@ -1,6 +1,6 @@
 === "Ingredients"
     * Spices
-        * 1/2 T Turmeric Root, ground
+        * 1/2 T Dried Turmeric Root, ground
         * 1 t Cumin Seed, ground
         * 1/4 t Cinnamon, ground
     * 25 g Unsalted Butter
