@@ -36,6 +36,6 @@
     9 March 2019.
 [^thumma_yt]:
     Thumma, Sanjay.
-    ["Sukha Aloo Baingan - Eggplant and Potatoes Fry - By Vahchef @ VahRehVah.com."](https://www.youtube.com/watch?v=mjMsPsmJUcI)
+    ["Sukha Aloo Baingan - Eggplant and Potatoes Fry."](https://www.youtube.com/watch?v=mjMsPsmJUcI)
     [_YouTube: Vahchef - VahRehVah._](https://www.youtube.com/@vahrehvah)
     16 July 2012.
