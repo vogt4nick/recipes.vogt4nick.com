@@ -1,5 +1,5 @@
 ---
-title: Bread dumplings (semmelknödel)
+title: Bread dumplings (Semmelknödel)
 tags:
     - vegetarian
 ---

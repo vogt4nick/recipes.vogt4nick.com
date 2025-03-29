@@ -1,4 +1,5 @@
 ---
+title: Potato dumplings (Erdäpfelknödel)
 tags:
     - vegatarisch
 ---

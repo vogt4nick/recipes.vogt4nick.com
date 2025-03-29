@@ -1,5 +1,5 @@
 ---
-title: Bavarian bread dumplings
+title: Bavarian bread dumplings (Semmelknödel)
 tags:
     - vegetarian
 ---
