@@ -5,7 +5,7 @@
     * 160 g Unsalted Butter, cold, cubed
     * 120 ml Ice Water
 
-    !!! info "These ingredients make about 400 g of dough."
+    !!! info "Yields approx 450 g."
 
 === "Directions"
     1. **Prepare dry mix.** Whisk the flour, sugar, and salt together in a large bowl. Place the cold and cubed butter on top. Gently toss the flour and butter together with your hands, and then briefly rub the butter into the flour to begin combining them. At this point, the butter is still in large cubes/chunks.
