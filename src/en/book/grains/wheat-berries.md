@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 400 g Water, boiling
+    * 400 g Water
     * 100 g Wheat Berries
     * 1/4 t Salt
     * 1 t Butter
