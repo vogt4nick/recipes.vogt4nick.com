@@ -6,7 +6,7 @@ title: Menu
 
 * [Mushroom quiche](book/eggs/quiche.md)
 * [Biscuits](book/breads/quick-breads/drop-biscuits.md) and mushroom gravy
-* [Egg salad sandwiches](book/handhelds/japanese-style-egg-salad.md) with [Kewpie-style mayonnaise](book/sauces/hollandaise/mayonnaise/kewpie-style-mayonnaise.md)
+* [Egg salad sandwiches](book/handhelds/japanese-style-egg-salad-sandwiches.md) with [Kewpie-style mayonnaise](book/sauces/hollandaise/mayonnaise/kewpie-style-mayonnaise.md)
 
 ---
 
@@ -47,7 +47,7 @@ title: Menu
 ---
 
 * [Tuna noodle casserole](book/casseroles/tuna-noodle-casserole.md)
-* [Egg salad sandwiches](book/handhelds/japanese-style-egg-salad.md) with [Kewpie-style mayonnaise](book/sauces/hollandaise/mayonnaise/kewpie-style-mayonnaise.md)
+* [Egg salad sandwiches](book/handhelds/japanese-style-egg-salad-sandwiches.md) with [Kewpie-style mayonnaise](book/sauces/hollandaise/mayonnaise/kewpie-style-mayonnaise.md)
 * [Soy noodles](book/noodles/soy-noodles.md)
 
 ## When nothing sounds good
