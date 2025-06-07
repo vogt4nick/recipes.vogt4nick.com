@@ -2,15 +2,17 @@
 title: Bulgur
 ---
 === "Ingredients"
-    * 250 g Water
     * 100 g Bulgur
-    * 1/2 T Olive Oil
-    * 1/4 t Kosher Salt
+    * 400 g Water, boiling
+    * 1 t Butter
+    * 1/4 t Salt
 
 === "Directions"
-    1. **Cook.** Add ingredients to saucepan. Bring to boil, cover, reduce to very low heat, and simmer 12 minutes.
-    2. **Rest.** Remove from heat and rest 10 minutes, covered.
-    3. **Season** with salt and olive oil.
+    Add bulgur, butter, and salt to saucepan. Add boiling water, and cook, uncovered.
 
+    Fine bulgur will be tender in 10-15 minutes, medium in 15-20 minutes, and coarse bulgur in 20-25 minutes.
+
+[^bittman]:
+    {{ cite.bittman_how_to_cook_everything }} "Basic Bulgur." 481-2.
 [^pittman]:
     Pittman, Ann Taylor. ["The Only Basic Bulgur Recipe You'll Ever Need."](https://www.eatingwell.com/recipe/8031238/simply-seasoned-bulgur/) _Eating Well._ 22 March 2023.

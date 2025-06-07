@@ -10,9 +10,9 @@ title: Quinoa
     !!! info "Cooked quinoa is 3x larger than dry quinoa."
 
 === "Directions"
-    1. **Rinse** through a fine mesh strainer several times, and drain.
-    2. **Toast.** Heat olive oil over medium-low heat. Stirring constantly, add quinoa and toast 4-6 minutes until golden and aromatic.
-    3. **Cook.** Mix in water and salt, and bring to boil. Cover, reduce heat to low, and cook 15 minutes until water is absorbed and kernels have popped. While covered, remove from heat and rest 5 minutes.
+    1. **Rinse** quinoa several times until water runs mostly clear.
+    2. **Toast (optional).** Heat olive oil over medium-low heat. Stirring constantly, add quinoa and toast 4-6 minutes until golden and aromatic.
+    3. **Cook.** Add all ingredients to saucepan. Bring to boil, cover, reduce to low heat, and simmer 15 minutes until water is absorbed and kernels have popped. Remove from heat and drain any excess water.
     4. **Fluff** quinoa with a fork.
     5. **Cool and serve.** Allow quinoa to cool, uncovered, for a few minutes before serving.
 
@@ -22,5 +22,7 @@ title: Quinoa
 
     !!! tip "For faster preparation, you may skip the toasting step and add olive oil to the cooking liquid before cooking."
 
+[^bittman]:
+    {{ cite.bittman_how_to_cook_everything }} 451, 477-9.
 [^eggleston]:
     Eggleston, Kimberley. ["How to Cook Quinoa Perfectly Every Time."](https://www.thespruceeats.com/how-to-cook-quinoa-2238655) *The Spruce Eats.* 13 April 2010.
