@@ -20,6 +20,5 @@
     2. **Degorge tomatoes.** Place tomatoes in a colander, salt, and allow excess liquid to drain off.
     3. **Mix tabbouleh.** Mix bulgur, tomatoes, and cucumber. Season to taste with salt and pepper. Mix in remaining ingredients.
 
-
 [^sogomonian]: Sogomonian, Robert. ["Tabbouleh."](https://web.archive.org/web/20130115033421/http://psyrixx.psyjnir.org/tabbouleh/) _The Psyjnir Complex Personal Blog._ 25 October 2012.
 [^youtube]: Sogomonian, Robert. ["How to Make Tabbouleh."](https://www.youtube.com/watch?v=sX11oVQp7Mo) _YouTube: Robert Sogomonian._ 25 October 2012.
