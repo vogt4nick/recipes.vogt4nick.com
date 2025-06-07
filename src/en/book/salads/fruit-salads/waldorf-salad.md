@@ -1,7 +1,7 @@
 === "Ingredients"
     * Dressing
-        * 180 g [Mayonnaise](../sauces/hollandaise/mayonnaise/index.md)
-        * 60 g [Crème Fraîche](../sauces/creme-fraiche.md) or Sour Cream
+        * 180 g [Mayonnaise](../../sauces/hollandaise/mayonnaise/index.md)
+        * 60 g [Crème Fraîche](../../sauces/creme-fraiche.md) or Sour Cream
         * 20 g Lemon Juice
         * 10 g Tarragon Leaves, minced
         * 1/2 t White Sugar
