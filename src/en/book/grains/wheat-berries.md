@@ -14,7 +14,9 @@
     !!! tip "Keep the grains covered by adding boiling water as necessary."
 
 [^bittman]:
-    {{ cite.bittman_how_to_cook_everything }} 451, 477-9.
+    {{ cite.bittman_how_to_cook_everything }}
+    "Cooking Grains, the Easy Way."
+    451, 477-9.
 [^bob]:
     _Bob’s Red Mill Natural Foods._
     ["Cooking Wheat Berries: Step by Step Guide."](https://www.bobsredmill.com/articles/cooking-wheat-berries)

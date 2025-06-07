@@ -13,4 +13,7 @@
 
     !!! tip "You need only warm the shrimp if they come precooked."
 
-[^1]: {{ cite.bittman_how_to_cook_everything }} 574.
+[^bittman]:
+    {{ cite.bittman_how_to_cook_everything }}
+    "Spicy Grilled or Boiled Shrimp."
+    574.

@@ -27,4 +27,7 @@ tags:
 
 !!! info "Store in refrigerator up to 3 days."
 
-[^1]: {{ cite.bittman_how_to_cook_everything }} 431-432.
+[^bittman]:
+    {{ cite.bittman_how_to_cook_everything }}
+    "Lentils, Six Ways."
+    431-432.

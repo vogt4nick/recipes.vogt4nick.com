@@ -11,4 +11,7 @@
     1. **Cook.** Add ingredients to saucepan. Bring to boil, cover, reduce to very low heat, and simmer 15 minutes. Finally, while covered, remove pan from heat and let stand for 10 minutes.
     2. **Fluff** kasha with a fork.
 
-[^bittman]: {{ cite.bittman_how_to_cook_everything }} 451, 477-9.
+[^bittman]:
+    {{ cite.bittman_how_to_cook_everything }}
+    "Cooking Grains, the Easy Way."
+    451, 477-9.

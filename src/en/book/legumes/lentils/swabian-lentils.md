@@ -27,11 +27,13 @@ tags:
 
 !!! info "Store in refrigerator up to 3 days."
 
-[^1]:
-    {{ cite.bittman_how_to_cook_everything }} 431-432.
-[^2]:
+[^bittman]:
+    {{ cite.bittman_how_to_cook_everything }}
+    "Lentils, Six Ways."
+    431-432.
+[^bummi68]:
     bummi68. ["Linsen schwäbisch."](https://www.chefkoch.de/rezepte/272611104325658/Linsen-schwaebisch.html) *Chef Koch.* 29 December 2004.
-[^3]:
+[^killebrew]:
     Killebrew, Kimberly. ["Swabian-style German Lentils with Spaetzle (Schwäbische Linsen mit Spätzle)."](https://www.daringgourmet.com/swabian-style-german-lentils-with-spaetzle-schwabische-linsen-mit-spatzle/) *The Daring Gourmet.* 6 April 2015.
-[^4]:
+[^krollekopp]:
     krollekopp. ["Schwäbische Linsen mit Spätzle und Saitenwürstchen."](https://www.chefkoch.de/rezepte/2103441339486118/Schwaebische-Linsen-mit-Spaetzle-und-Saitenwuerstchen.html) *Chef Koch.* 12 June 2012.

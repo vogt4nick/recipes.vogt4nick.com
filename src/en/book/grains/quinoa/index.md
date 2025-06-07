@@ -23,6 +23,8 @@ title: Quinoa
     !!! tip "For faster preparation, you may skip the toasting step and add olive oil to the cooking liquid before cooking."
 
 [^bittman]:
-    {{ cite.bittman_how_to_cook_everything }} 451, 477-9.
+    {{ cite.bittman_how_to_cook_everything }}
+     "Cooking Grains, the Easy Way."
+     451, 477-9.
 [^eggleston]:
     Eggleston, Kimberley. ["How to Cook Quinoa Perfectly Every Time."](https://www.thespruceeats.com/how-to-cook-quinoa-2238655) *The Spruce Eats.* 13 April 2010.

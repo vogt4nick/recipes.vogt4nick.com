@@ -11,4 +11,7 @@
     1. **Cook pasta** in saltwater per package directions. Reserve some cooking water. Drain.
     2. **Pan fry** garlic and chilis in olive oil 3 minutes until just golden. Stir in pasta to coat evenly. Taste and correct with salt or reserved cooking water as needed.
 
-[^bittman]: {{ cite.bittman_how_to_cook_everything }} 504-5.
+[^bittman]:
+    {{ cite.bittman_how_to_cook_everything }}
+    "Linguine with Garlic and Oil: Pasta Aglio e Olio."
+    504-5.

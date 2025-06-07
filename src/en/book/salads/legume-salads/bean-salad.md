@@ -30,4 +30,7 @@ tags:
     2. **Cool** to room temperature, gently stirring every 20 minutes.
     3. **Garnish & serve** with parsley.
 
-[^bittman]: {{ cite.bittman_how_to_cook_everything }} 215-6.
+[^bittman]:
+    {{ cite.bittman_how_to_cook_everything }}
+    "Bean Salad."
+    215-6.

@@ -10,4 +10,7 @@
     3. **Bake** 60 minutes at 425ºF.
     4. **Season** with salt and pepper and serve with butter.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }} 358.
+[^bittman]:
+    {{ cite.bittman_how_to_cook_everything }}
+    "Sweet Potatoes, Simply Cooked."
+    358.

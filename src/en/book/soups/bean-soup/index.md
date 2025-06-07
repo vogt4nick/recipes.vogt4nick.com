@@ -20,4 +20,7 @@ tags:
     1. Add all ingredients to large stockpan. Boil 10 minutes. Reduce to simmer, cover, and continue cooking 60-90 minutes until the beans are very tender but still keep their shape, adding water as necessary.
     2. Remove sprigs and bay leaves, and season to taste with salt and pepper. Puree with hand blender if desired.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }} 136.
+[^bittman]:
+    {{ cite.bittman_how_to_cook_everything }}
+    "Basic Bean Soup."
+    136.
