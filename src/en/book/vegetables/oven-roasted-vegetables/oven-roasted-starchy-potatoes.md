@@ -20,5 +20,8 @@
     ??? warning "Do not drain in a fine mesh colander."
         We want to keep the dry, starchy outsides of the potatoes. These will crisp and help the texture. A fine colander will grate these off.
 
-[^1]:
-    *Internet Shaquille.* [Why Aren't Your Potatoes Crispy Enough?](https://www.youtube.com/watch?v=KxUX7vgNGfM) 8 June 2019.
+[^shaquille]:
+    Nevarez, Victor.
+    [Why Aren't Your Potatoes Crispy Enough?](https://www.youtube.com/watch?v=KxUX7vgNGfM)
+    [_YouTube: @internetshaquille._](https://www.youtube.com/@internetshaquille)
+    8 June 2019.
