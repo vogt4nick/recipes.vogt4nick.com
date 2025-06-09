@@ -1,6 +1,6 @@
 === "Ingredients"
-    * 100 g Dry Brown Lentils, [cooked](../../legumes/lentils/index.md)
-    * 100 g Dry Bulgur, [cooked](../../grains/bulgur/index.md)
+    * 200 g [Cooked Brown Lentils](../../legumes/lentils/index.md)
+    * 300 g [Cooked Bulgur](../../grains/bulgur.md)
     * 60 g [Balsalmic Vinaigrette](../../sauces/vinaigrette/balsalmic-vinaigrette.md)
     * 30 g Parmigiano-Reggiano, grated
     * Celery, chopped
