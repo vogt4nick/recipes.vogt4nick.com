@@ -14,7 +14,7 @@
     * 1000 g [Vegetable Stock](../stocks/vegetable-stock.md)
     * 1 t Salt
     * Black Peppercorn
-    * 300 g [Cooked Barley](../../grains/pearled-barley.md) or [Cooked Wheat Berries](../../grains/wheat-berries.md)
+    * 300 g [Cooked Barley](../../grains/barley.md) or [Cooked Wheat Berries](../../grains/wheat-berries.md)
     * 100 g [Cooked Lentils](../../legumes/lentils/index.md)
     * Herbs
         * Dried Thyme Leaves
