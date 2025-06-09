@@ -1,8 +1,8 @@
 === "Ingredients"
     * 200 g [Cooked Brown Lentils](../../legumes/lentils/index.md)
-    * 300 g [Cooked Bulgur](../../grains/bulgur.md)
+    * 300 g [Cooked Bulgur](../../grains/bulgur.md) or [Cooked Buckwheat](../../grains/buckwheat/index.md)
     * 60 g [Balsalmic Vinaigrette](../../sauces/vinaigrette/balsalmic-vinaigrette.md)
-    * 30 g Parmigiano-Reggiano, grated
+    * 120 g Feta, cubed
     * Celery, chopped
     * Pepper, minced
     * Corn Kernels
