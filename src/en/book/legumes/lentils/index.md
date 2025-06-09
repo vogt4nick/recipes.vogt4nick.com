@@ -8,6 +8,8 @@ tags:
     * 600 g Water or [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
     * 1/2 t Kosher Salt (optional)
 
+    !!! info "Yields 400 g cooked lentils."
+
 === "Directions"
     1. **Rinse** lentils to remove any dust or debris.
     2. **Cook.** Add lentils and cooking liquid to a large saucepan. Bring to boil, cover tightly, reduce heat, and simmer until they are tender; for whole lentils, cook time is typically 15-20 minutes, and for split red lentils, cook time is typically only about 5-7 minutes. Season with salt, as desired.

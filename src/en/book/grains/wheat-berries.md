@@ -4,6 +4,8 @@
     * 1/4 t Salt
     * 1 t Butter
 
+    !!! info "Yields 300 g cooked wheat berries."
+
 === "Directions"
     1. **Rinse** wheat berries several times until water runs mostly clear.
     2. **Soak (optional)** at least 12 hours.
