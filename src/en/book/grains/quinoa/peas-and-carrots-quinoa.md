@@ -6,8 +6,6 @@
     * 100 g Green Peas
     * 100 g Carrots, grated
 
-    !!! info "Cooked quinoa is 3x larger than dry quinoa."
-
 === "Directions"
     1. **Toast.** Heat olive oil over medium-low heat. Stirring constantly, add quinoa and toast 4-6 minutes until golden and aromatic.
     2. **Cook.** Mix in water, salt, peas, and carrots, and bring to boil. Cover, reduce heat to low, and cook 15 minutes until water is absorbed and kernels have popped. While covered, remove from heat and rest 5 minutes.

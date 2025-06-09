@@ -7,7 +7,7 @@ title: Millet
     * 1/4 t Kosher Salt
     * 1 t Butter
 
-    !!! info "Cooked millet is 3x larger than dry millet."
+    !!! info "Yields 300 g cooked millet."
 
 === "Directions"
     1. **Toast** (optional). Heat butter over medium-low heat. Stirring constantly, add millet and toast 4-6 minutes until golden and aromatic.

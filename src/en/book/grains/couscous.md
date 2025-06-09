@@ -3,7 +3,7 @@
     * 250 g Water or [Stock](../soups/stocks/vegetable-stock.md)
     * 1/4 t Kosher Salt
 
-    !!! info "Cooked quinoa is 3x larger than dry quinoa."
+    !!! info "Yields 300 g cooked quinoa."
 
 === "Directions"
     1. **Toast (optional).** Heat olive oil over medium-low heat. Stirring constantly, add couscous and toast 4-6 minutes until golden and aromatic.

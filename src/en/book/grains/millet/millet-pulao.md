@@ -20,8 +20,6 @@ tags:
         * 1 strand Mace or Nutmeg
         * 1/4 t Black Cumin Seeds or Coriander Seeds
 
-    !!! info "Cooked millet is 3x larger than dry millet."
-
 === "Directions"
     1. **Temper spices** in oil over medium heat. Add ginger and fry until fragrant.
     2. **Fry vegetables** and mint 3-4 minutes until the raw smell goes away.

@@ -7,7 +7,7 @@ title: Quinoa
     * 400 g Water or [Stock](../../soups/stocks/vegetable-stock.md)
     * 1/2 t Kosher Salt
 
-    !!! info "Cooked quinoa is 3x larger than dry quinoa."
+    !!! info "Yields 300 g cooked quinoa."
 
 === "Directions"
     1. **Rinse** quinoa several times until water runs mostly clear.
