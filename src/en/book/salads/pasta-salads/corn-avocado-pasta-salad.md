@@ -1,5 +1,3 @@
-Corn and Avocado Pasta Salad with Cilantro and Lime
-
 === "Ingredients"
     * 500 g Dry Pasta Shells
     * Vinaigrette
