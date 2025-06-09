@@ -1,3 +1,6 @@
+---
+title: Barley
+---
 === "Ingredients"
     * 400 g Water
     * 100 g Dry Pearled Barley
