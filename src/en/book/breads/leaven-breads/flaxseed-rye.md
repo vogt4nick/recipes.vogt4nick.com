@@ -1,15 +1,15 @@
 === "Ingredients"
-    | Ingredient        | Preferment | Dough | Final | Final (%) |
-    | :---------------- | ---------: | ----: | ----: | --------: |
-    | White Wheat Flour |            | 325 g | 325 g |      65 % |
-    | Whole Rye Flour   |       50 g |  90 g | 140 g |    27.5 % |
-    | Flaxseed          |            |  40 g |  40 g |     7.5 % |
-    | Rye Levain, 60%   |       10 g |       |  10 g |       2 % |
-    | Water             |       25 g | 350 g | 375 g |      75 % |
-    | Salt              |            |   9 g |   9 g |     1.8 % |
+    | Ingredient        | Leaven | Dough | Final | Final (%) |
+    | :---------------- | -----: | ----: | ----: | --------: |
+    | White Wheat Flour |        | 325 g | 325 g |      65 % |
+    | Whole Rye Flour   |   50 g |  90 g | 140 g |    27.5 % |
+    | Flaxseed          |        |  40 g |  40 g |     7.5 % |
+    | Rye Starter       |   10 g |       |  10 g |       2 % |
+    | Water             |   25 g | 350 g | 375 g |      75 % |
+    | Salt              |        |   9 g |   9 g |     1.8 % |
 
 === "Directions"
-    1. **Preferment levain.** Mix restored levain, flour, and water until just incorporated. Seal, and rest 12 hours at room temperature.
+    1. **Preferment leaven.** Mix starter, flour, and water until just incorporated. Seal, and rest 12 hours at room temperature.
     2. **Autolyse.** Blend the flours and flaxseed until homogenous. Add water, and mix until just incorporated. Cover and rest 45 minutes.
     3. **Mix.** Add salt and preferment to the autolysed dough, and mix by hand using the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s) until becomes a homogenous mass.
     4. **Knead.** Slap & fold 2 minutes to develop gluten.

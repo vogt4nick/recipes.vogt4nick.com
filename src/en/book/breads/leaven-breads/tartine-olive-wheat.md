@@ -1,17 +1,17 @@
 === "Ingredients"
-    | Ingredient            | Preferment | Dough | Final | Final (%) |
-    | :-------------------- | ---------: | ----: | ----: | --------: |
-    | White Wheat Flour     |            | 360 g | 360 g |      72 % |
-    | Whole Wheat Flour     |      110 g |  30 g | 140 g |      28 % |
-    | Wheat Levain, 100%    |       22 g |       |  22 g |     2.2 % |
-    | Water                 |      110 g | 290 g | 400 g |      80 % |
-    | Salt                  |            |   9 g |   9 g |     1.8 % |
-    | Pitted Olives, sliced |            | 150 g | 150 g |      30 % |
-    | Herbs de Provence     |            |   3 t |       |           |
-    | Lemon Zest            |            |     - |       |           |
+    | Ingredient            | Leaven | Dough | Final | Final (%) |
+    | :-------------------- | -----: | ----: | ----: | --------: |
+    | White Wheat Flour     |        | 360 g | 360 g |      72 % |
+    | Whole Wheat Flour     |  110 g |  30 g | 140 g |      28 % |
+    | Wheat Starter         |   22 g |       |  22 g |     2.2 % |
+    | Water                 |  110 g | 290 g | 400 g |      80 % |
+    | Salt                  |        |   9 g |   9 g |     1.8 % |
+    | Pitted Olives, sliced |        | 150 g | 150 g |      30 % |
+    | Herbs de Provence     |        |   3 t |       |           |
+    | Lemon Zest            |        |     - |       |           |
 
 === "Directions"
-    1. **Preferment levain.** Mix restored levain, flour, and water until just incorporated. Seal, and rest 12 hours at room temperature.
+    1. **Preferment leaven.** Mix starter, flour, and water until just incorporated. Seal, and rest 12 hours at room temperature.
     2. **Autolyse.** Blend the flours until homogenous. Add water, and mix until just incorporated. Cover and rest 45 minutes.
     3. **Mix.** Add salt and preferment to the autolysed dough, and mix by hand using the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s) until becomes a homogenous mass. Rest 10 minutes. Mix in olives, herbs, and lemon zest, again with pincer method, until evenly distributed.
     4. **Knead.** Slap & fold 2 minutes to develop gluten.

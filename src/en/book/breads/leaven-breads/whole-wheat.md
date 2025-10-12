@@ -1,14 +1,14 @@
 === "Ingredients"
-    | Ingredient        | Preferment | Dough | Final | Final (%) |
-    | :---------------- | ---------: | ----: | ----: | --------: |
-    | White Wheat Flour |            | 375 g | 375 g |      75 % |
-    | Whole Wheat Flour |      125 g |       | 125 g |      25 % |
-    | Wheat Levain      |       25 g |       |  25 g |     2.5 % |
-    | Water             |      125 g | 205 g | 330 g |      66 % |
-    | Salt              |            | 7.5 g | 7.5 g |     1.5 % |
+    | Ingredient        | Leaven | Dough | Final | Final (%) |
+    | :---------------- | -----: | ----: | ----: | --------: |
+    | White Wheat Flour |        | 375 g | 375 g |      75 % |
+    | Whole Wheat Flour |  125 g |       | 125 g |      25 % |
+    | Wheat Starter     |   25 g |       |  25 g |     2.5 % |
+    | Water             |  125 g | 205 g | 330 g |      66 % |
+    | Salt              |        | 7.5 g | 7.5 g |     1.5 % |
 
 === "Directions"
-    1. **Preferment levain.** Mix levain, flours, and water until just incorporated. Seal, and rest at room temperature for 12-24 hours.
+    1. **Preferment leaven.** Mix starter, flours, and water until just incorporated. Seal, and rest at room temperature for 12-24 hours.
     2. **Autolyse.** Blend the flours until homogenous. Add water, and mix until just incorporated. Cover and rest 30 minutes.
     3. **Mix.** Add salt, yeast, and preferment to the autolysed dough, and mix by hand using the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s). The temperature after mixing should be 25ºC-26ºC (77ºF-78ºF).
     4. **Bulk fermentation.** Rest 1h 30m. Fold three or four times. Rest an additional 3h 30m until the dough is 2.5x its original volume.
