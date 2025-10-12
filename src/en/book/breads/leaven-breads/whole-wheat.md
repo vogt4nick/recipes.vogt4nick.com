@@ -1,11 +1,11 @@
 === "Ingredients"
-    | Ingredient        | Leaven | Dough | Final | Final (%) |
-    | :---------------- | -----: | ----: | ----: | --------: |
-    | White Wheat Flour |        | 375 g | 375 g |      75 % |
-    | Whole Wheat Flour |  125 g |       | 125 g |      25 % |
-    | Wheat Starter     |   25 g |       |  25 g |     2.5 % |
-    | Water             |  125 g | 205 g | 330 g |      66 % |
-    | Salt              |        | 7.5 g | 7.5 g |     1.5 % |
+    | Ingredient        | Leaven | Autolyse | Dough | Final | Final (%) |
+    | :---------------- | -----: | -------: | ----: | ----: | --------: |
+    | White Wheat Flour |        |    375 g |       | 375 g |      75 % |
+    | Whole Wheat Flour |  125 g |          |       | 125 g |      25 % |
+    | Wheat Starter     |   25 g |          |       |  25 g |     2.5 % |
+    | Water             |   75 g |    205 g |  50 g | 330 g |      66 % |
+    | Salt              |        |          |   8 g |   8 g |     1.6 % |
 
 === "Directions"
     1. **Preferment leaven.** Mix starter, flours, and water until just incorporated. Seal, and rest at room temperature for 12-24 hours.
