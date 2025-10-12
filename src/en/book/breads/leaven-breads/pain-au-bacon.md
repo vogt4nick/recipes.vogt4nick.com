@@ -9,10 +9,10 @@
     | Bacon (raw weight) |        | 250 g | 150 g |      50 % |
 
 === "Directions"
-    1. **Preferment leaven.** Mix starter, flours, and water until just incorporated. Seal, and rest 8-10 hours.
+    1. **Leaven.** Mix starter, flours, and water until just incorporated. Seal, and rest 8-10 hours.
     2. **Fry bacon** until crisp. Reserve bacon fat, and remove bacon from heat. Cool to room temperature and crumble.
     3. **Autolyse.** Blend the flours until homogenous. Add water, and mix until just incorporated. Cover and rest 20-30 minutes.
-    4. **Mix.** Add salt and preferment to the autolysed dough, and mix by hand using the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s). The temperature after mixing should be 25ºC-26ºC (77ºF-78ºF). Rest 10 minutes Mix in bacon and rendered fat, again with pincer method, until the bacon and fat are evenly distributed.
+    4. **Mix.** Add salt and leaven to the autolysed dough, and mix by hand using the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s). The temperature after mixing should be 25ºC-26ºC (77ºF-78ºF). Rest 10 minutes Mix in bacon and rendered fat, again with pincer method, until the bacon and fat are evenly distributed.
     5. **Bulk fermentation.** Rest 2 hours. Fold three or four times. Rest an additional 10 hours until the dough is 2.5x its original volume.
     6. **Shape** into a medium-tight ball. Arrange seam side down for proofing.
     7. **Proof** 4 hours in the refrigerator in a non-perforated plastic bag.

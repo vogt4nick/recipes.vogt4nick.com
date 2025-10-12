@@ -8,9 +8,9 @@
     | Salt              |        |          |   8 g |   8 g |     1.6 % |
 
 === "Directions"
-    1. **Preferment leaven.** Mix starter, flours, and water until just incorporated. Seal, and rest at room temperature for 12-24 hours.
+    1. **Leaven.** Mix starter, flours, and water until just incorporated. Seal, and rest at room temperature for 12-24 hours.
     2. **Autolyse.** Blend the flours until homogenous. Add water, and mix until just incorporated. Cover and rest 30 minutes.
-    3. **Mix.** Add salt, yeast, and preferment to the autolysed dough, and mix by hand using the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s). The temperature after mixing should be 25ºC-26ºC (77ºF-78ºF).
+    3. **Mix.** Add salt and leaven to the autolysed dough, and mix by hand using the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s). The temperature after mixing should be 25ºC-26ºC (77ºF-78ºF).
     4. **Bulk fermentation.** Rest 1h 30m. Fold three or four times. Rest an additional 3h 30m until the dough is 2.5x its original volume.
     5. **Shape** into a medium-tight ball. Arrange seam side down for proofing.
     6. **Cold fermentation (optional).** Rest 12-14 hours (overnight) in the refrigerator in a sealed container.
