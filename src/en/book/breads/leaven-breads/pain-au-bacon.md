@@ -16,8 +16,8 @@
     5. **Bulk fermentation.** Rest 2 hours. Fold three or four times. Rest an additional 10 hours until the dough is 2.5x its original volume.
     6. **Shape** into a medium-tight ball. Arrange seam side down for proofing.
     7. **Proof** 4 hours in the refrigerator in a non-perforated plastic bag.
-    8.  **Preheat oven** to 250ºC (482ºF).
-    9.  **Preheat dutch oven** with its lid at least 45 minutes.
+    8. **Preheat oven** to 250ºC (482ºF).
+    9. **Preheat dutch oven** with its lid at least 45 minutes.
     10. **Bake** 30 minutes covered. Remove lid, and continue baking 20 minutes until dark brown all around the loaf.
     11. **Cool** loaf at room temperature at least 20 minutes.
 

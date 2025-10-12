@@ -1,12 +1,12 @@
 === "Ingredients"
-    | Ingredient        | Leaven | Dough | Final | Final (%) |
-    | :---------------- | -----: | ----: | ----: | --------: |
-    | White Wheat Flour |        | 325 g | 325 g |      65 % |
-    | Whole Rye Flour   |   50 g |  90 g | 140 g |    27.5 % |
-    | Flaxseed          |        |  40 g |  40 g |     7.5 % |
-    | Rye Starter       |   10 g |       |  10 g |       2 % |
-    | Water             |   25 g | 350 g | 375 g |      75 % |
-    | Salt              |        |   9 g |   9 g |     1.8 % |
+    | Ingredient        | Leaven | Autolyse | Dough | Final | Final (%) |
+    | :---------------- | -----: | -------: | ----: | ----: | --------: |
+    | White Wheat Flour |        |    325 g |       | 325 g |      65 % |
+    | Whole Rye Flour   |   50 g |     90 g |       | 140 g |    27.5 % |
+    | Flaxseed          |        |     40 g |       |  40 g |     7.5 % |
+    | Rye Starter       |   10 g |          |       |  10 g |       2 % |
+    | Water             |   25 g |    350 g |       | 375 g |      75 % |
+    | Salt              |        |          |   9 g |   9 g |     1.8 % |
 
 === "Directions"
     1. **Preferment leaven.** Mix starter, flour, and water until just incorporated. Seal, and rest 12 hours at room temperature.

@@ -42,6 +42,11 @@ A **leaven** or **levain** is a prefermented mixture built from the starter for 
 
 A dough's **prefermented flour fraction (PFF)** is the proportion of total flour in the final dough that is fermented in the leaven. This metric is widely used to standardize formulas.
 
+Wheat bread recipes typically use a 5-25% PFF according to Andrew Janjigian.[^janjigian]
+
+[^janjigian]:
+    Janjigian, Andrew. ["On Prefermented Flour."](https://newsletter.wordloaf.org/on-prefermented-flour/) _Wordloaf Newsletter._ 16 February 2022.
+
 
 ### Starter
 
@@ -63,8 +68,6 @@ A higher inoculation rate causes faster fermentation, milder acidity; a lower in
 
 [^clark]:
     Clark, Mandy. ["Does the Amount of Sourdough Starter Matter?"](https://www.livingwellwithmandy.com/post/does-the-amount-of-sourdough-starter-matter-and-what-happens-when-you-change-it) _Living Well with Mandy._ 28 August 2023.
-[^janjigian]:
-    Janjigian, Andrew. ["On Prefermented Flour."](https://newsletter.wordloaf.org/on-prefermented-flour/) _Wordloaf Newsletter._ 16 February 2022.
 
 
 ## Reading a Baker’s Table
