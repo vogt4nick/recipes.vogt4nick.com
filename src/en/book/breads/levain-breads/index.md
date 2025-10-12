@@ -1,6 +1,6 @@
 # Levain Breads
 
-Levain breads are naturally leavened loaves that use a mature starter culture instead of commercial yeast. They depend on a living colony of wild yeasts and lactic acid bacteria that convert sugars into carbon dioxide, alcohol, and organic acids. These compounds create distinctive aroma, flavor, and structure.
+Levain breads are naturally leavened loaves that use a mature mother culture instead of commercial yeast. They depend on a living colony of wild yeasts and lactic acid bacteria that convert sugars into carbon dioxide, alcohol, and organic acids. These compounds create distinctive aroma, flavor, and structure.
 
 This intro summarizes terminology, core concepts, and best practices for using a levain in bread formulas.
 
@@ -29,8 +29,8 @@ A dough's **prefermented flour fraction (PFF)** is the proportion of total flour
 
 A **mother culture** (a.k.a. **starter**) is the ongoing yeast colony you maintain. It provides the microbial population that drives fermentation in the levain and dough.[^anastopoulo]
 
-??? tip "A starter is not a levain!"
-    Web personalities may mistakenly say "starter" when they mean levain preferment. Although it's often clear from context, DO NOT CONFUSE mother culture and levain preferments--they are very different mixtures!"
+??? tip "A mother culture is not a levain!"
+    Web personalities may mistakenly say "levain" when they mean mother culture. Although it's often clear from context, DO NOT CONFUSE mother culture and levain preferments--they are very different mixtures!"
 
 
 ### Inoculation Rate
@@ -58,7 +58,7 @@ Understanding each stage in levain bread production helps control flavor, textur
 3. **Bulk Fermentation** (a.k.a. first rise) builds gas, flavor, and dough strength. Stretch-and-folds can be used to strengthen gluten without intensive kneading.
 4. **Shaping** creates surface tension, partially degasses, prepares for final rise.
 5. **Proofing or Final Fermentation** (a.k.a. second rise) allows yeast to expand dough fully and lactic-acid bacteria to continue developing flavor; may occur at room temperature or in cold retardation.
-6. **Cold Retardation** slows yeast activity while allowing LAB to produce acids, enhancing tangy flavor without overproofing.
+6. **Cold Fermentation** slows yeast activity while allowing LAB to produce acids, enhancing tangy flavor without overproofing.
 7. **Scoring** controls expansion, prevents tearing, and influences final loaf shape.
 8. **Baking** produces the characteristic oven spring, gelatinization of starches, Maillard reaction for crust and color.
 9. **Cooling** sets the crumb, redistributes moisture, and stabilizes flavor.
