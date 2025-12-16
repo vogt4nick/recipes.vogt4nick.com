@@ -15,7 +15,7 @@ mkdocs-material = "^9.0.13"
 mkdocs-macros-plugin = "^1.0.1"
 mkdocs-minify-plugin = "^0.8.0"
 mkdocs-exclude = "^1.0.2"
-pymdown-extensions = "^10.0"
+pymdown-extensions = "^10.16"
 mkdocs-pagetree-plugin = "^0.0.10"
 
 [tool.poetry.group.dev.dependencies]
