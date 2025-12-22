@@ -27,7 +27,7 @@ jobs:
         run: pipx install poetry
       - uses: actions/setup-python@main
         with:
-          python-version: 3.11
+          python-version: 3.12
           cache: "poetry"
       - name: Install dependencies
         run: poetry install --only main --no-root
@@ -52,7 +52,7 @@ jobs:
       - uses: actions/checkout@main
       - uses: actions/setup-python@main
         with:
-          python-version: 3.11
+          python-version: 3.12
       - uses: pre-commit/action@main
 
   deploy:
