@@ -2,8 +2,6 @@ name: deploy-gh-pages
 
 on: [push]
 
-env:
-  MKDOCS_SITE_DIR: /home/runner/work/recipes.vogt4nick.com/recipes.vogt4nick.com/_site
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
@@ -32,19 +30,19 @@ jobs:
       - name: Install dependencies
         run: poetry install --only main --no-root
       - name: Build en site
-        run: poetry run mkdocs build -f config/en/mkdocs.yml --strict --site-dir ${{ env.MKDOCS_SITE_DIR }}
+        run: poetry run zensical build -f mkdocs.yml
 
         # enable upload https://github.com/actions/upload-pages-artifact/tree/v3?tab=readme-ov-file#example-permissions-fix-for-linux
       - name: Fix permissions
         run: |
-          chmod -c -R +rX "${{ env.MKDOCS_SITE_DIR }}/" | while read line; do
+          chmod -c -R +rX "site/en/" | while read line; do
             echo "::warning title=Invalid file permissions automatically fixed::$line"
           done
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ${{ env.MKDOCS_SITE_DIR }}
+          path: site/en
 
   pre-commit:
     runs-on: ubuntu-latest

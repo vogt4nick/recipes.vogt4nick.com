@@ -1,5 +1,0 @@
-INHERIT: ../base.yml
-docs_dir: ../../src/root
-site_dir: ../../site
-site_name: Redirect
-site_url: https://github.com/vogt4nick/recipes.vogt4nick.com

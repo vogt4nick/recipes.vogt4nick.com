@@ -1,24 +1,32 @@
+docs_dir: src/en
+site_dir: site/en
+site_name: Nick's Recipes
+site_url: https://github.com/vogt4nick/recipes.vogt4nick.com
 extra_css:
   - assets/stylesheets/extra.css
+extra:
+  alternate:
+    - name: Switch to Austrian Cookbook
+      link: /at/
+      lang: at
 markdown_extensions:
-  - abbr # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
+  - abbr
   - admonition
   - attr_list
   - footnotes
   - pymdownx.details
-  - pymdownx.snippets # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
+  - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
 plugins:
   - privacy
   - search:
-      lang:
-        - de
-        - en
+      lang: en
 theme:
   name: material
-  custom_dir: ../../overrides/
+  custom_dir: overrides/
+  language: en
   favicon: assets/images/shallow-pan-of-food-32x32.png
   features:
     - header.autohide
@@ -30,6 +38,5 @@ theme:
     - toc.integrate
   icon:
     logo: material/silverware
-  # Necessary for search to work properly
   include_search_page: false
   search_index_only: true
