@@ -5,15 +5,420 @@ extra:
     - name: Switch to Austrian Cookbook
       link: /at/
       lang: at
+nav:
+- index.md
+- Recipe Book:
+  - book/index.md
+  - Soups:
+    - Stocks:
+      - book/soups/stocks/meat-stock.md
+      - book/soups/stocks/vegetable-stock.md
+    - book/soups/loaded-french-onion-soup.md
+    - book/soups/mediterranean-soup.md
+    - book/soups/ramen.md
+    - Bean soup:
+      - book/soups/bean-soup/index.md
+      - book/soups/bean-soup/lemon-lentil-soup.md
+    - Chilis:
+      - book/soups/chilis/franks-and-beans.md
+      - book/soups/chilis/white-chicken-chili.md
+    - Egg Drop Soup:
+      - book/soups/egg-drop-soup/index.md
+      - book/soups/egg-drop-soup/cantonese-chicken-and-corn-egg-drop-soup.md
+      - book/soups/egg-drop-soup/sichuanese-hot-and-sour-egg-drop-soup.md
+    - Pureed Soups:
+      - book/soups/pureed-soups/carrot-soup.md
+      - book/soups/pureed-soups/smoked-ham-and-pea-soup.md
+      - book/soups/pureed-soups/tomato-soup.md
+      - book/soups/pureed-soups/vichyssoise.md
+    - Stews:
+      - book/soups/stews/chicken-soup.md
+      - book/soups/stews/lasagna-soup.md
+      - book/soups/stews/no-beef-and-barley-stew.md
+      - book/soups/stews/potato-sausage-soup.md
+      - Goulash:
+        - book/soups/stews/goulash/index.md
+        - book/soups/stews/goulash/szegediner-goulash.md
+      - Italian wedding soup:
+        - book/soups/stews/italian-wedding-soup/index.md
+        - book/soups/stews/italian-wedding-soup/italian-wedding-soup-meatballs.md
+  - Sauces:
+    - book/sauces/creme-fraiche.md
+    - book/sauces/guacamole.md
+    - book/sauces/tahini-paste.md
+    - Bechamel Sauce:
+      - book/sauces/bechamel/index.md
+      - book/sauces/bechamel/alfredo-sauce.md
+      - book/sauces/bechamel/sugar-roux.md
+    - Espagnol:
+      - book/sauces/espag­nol/brown-duxelles.md
+      - book/sauces/espag­nol/brown-sauce.md
+      - book/sauces/espag­nol/mushroom-gravy.md
+      - book/sauces/espag­nol/pan-sauce.md
+    - Hollandaise:
+      - book/sauces/hollandaise/index.md
+      - book/sauces/hollandaise/caesar-dressing.md
+      - book/sauces/hollandaise/hamburger-sauce.md
+      - Mayonnaise:
+        - book/sauces/hollandaise/mayonnaise/index.md
+        - book/sauces/hollandaise/mayonnaise/caprese-mayonnaise.md
+        - book/sauces/hollandaise/mayonnaise/kewpie-style-mayonnaise.md
+    - Infused soy sauce:
+      - book/sauces/infused-soy-sauce/index.md
+      - book/sauces/infused-soy-sauce/chili-garlic-infused-soy-sauce.md
+      - book/sauces/infused-soy-sauce/ginger-scallion-infused-soy-sauce.md
+    - Thai Sauces:
+      - book/sauces/thai-sauces/garlic-peanut-sauce.md
+      - book/sauces/thai-sauces/pad-thai-sauce.md
+      - book/sauces/thai-sauces/thai-green-curry-paste.md
+      - book/sauces/thai-sauces/thai-red-curry-paste.md
+    - Tomato sauce:
+      - book/sauces/tomato-sauce/index.md
+      - book/sauces/tomato-sauce/bolognese-sauce.md
+      - book/sauces/tomato-sauce/lentil-sauce.md
+      - book/sauces/tomato-sauce/red-salsa.md
+    - Vinaigrette:
+      - book/sauces/vinaigrette/index.md
+      - book/sauces/vinaigrette/balsalmic-vinaigrette.md
+      - book/sauces/vinaigrette/caesar-dressing.md
+      - book/sauces/vinaigrette/green-goddess-dressing.md
+      - book/sauces/vinaigrette/hot-bacon-vinaigrette.md
+      - book/sauces/vinaigrette/italian-vinaigrette.md
+      - book/sauces/vinaigrette/lyonnaise-vinaigrette.md
+      - book/sauces/vinaigrette/roasted-red-pepper-vinaigrette.md
+      - book/sauces/vinaigrette/sonnys-vinaigrette.md
+  - Salads:
+    - book/salads/panzanella.md
+    - book/salads/potato-salad.md
+    - Fruit Salads:
+      - book/salads/fruit-salads/strawberry-arugula-salad.md
+      - book/salads/fruit-salads/strawberry-blackberry-salad.md
+      - book/salads/fruit-salads/waldorf-salad.md
+    - Grain Salads:
+      - book/salads/grain-salads/grain-and-lentil-salad.md
+      - book/salads/grain-salads/tabbouleh.md
+      - book/salads/grain-salads/tuna-bulgur-salad.md
+      - book/salads/grain-salads/veggie-bulgur-salad.md
+    - Green Salads:
+      - book/salads/green-salads/caprese-salad.md
+      - book/salads/green-salads/lyonnaise-salad.md
+      - book/salads/green-salads/ottolenghi-salad.md
+      - book/salads/green-salads/spinach-salad.md
+      - book/salads/green-salads/string-bean-salad.md
+    - Legume Salads:
+      - book/salads/legume-salads/bean-salad.md
+      - book/salads/legume-salads/cowboy-caviar.md
+    - Pasta Salads:
+      - book/salads/pasta-salads/chicken-noodle-salad.md
+      - book/salads/pasta-salads/corn-avocado-pasta-salad.md
+      - book/salads/pasta-salads/peas-and-peppers-pasta-salad.md
+    - Protein Salads:
+      - book/salads/protein-salads/chicken-salad.md
+      - book/salads/protein-salads/egg-salad.md
+      - book/salads/protein-salads/tuna-salad.md
+    - Slaws:
+      - book/salads/slaws/broccoli-slaw.md
+      - book/salads/slaws/cucumber-dill-slaw.md
+      - book/salads/slaws/korean-sesame-slaw.md
+      - book/salads/slaws/rotkraut.md
+      - book/salads/slaws/vinegar-slaw.md
+  - Vegetables:
+    - book/vegetables/caramelized-onions.md
+    - book/vegetables/confit-cabbage.md
+    - book/vegetables/forester-pan.md
+    - book/vegetables/succotash.md
+    - book/vegetables/sukha-aloo-baingan.md
+    - Oven Roasted Vegetables:
+      - book/vegetables/oven-roasted-vegetables/oven-roasted-bell-peppers.md
+      - book/vegetables/oven-roasted-vegetables/oven-roasted-brussels-sprouts.md
+      - book/vegetables/oven-roasted-vegetables/oven-roasted-butternut-squash.md
+      - book/vegetables/oven-roasted-vegetables/oven-roasted-carrots.md
+      - book/vegetables/oven-roasted-vegetables/oven-roasted-cauliflower.md
+      - book/vegetables/oven-roasted-vegetables/oven-roasted-corn-kernels.md
+      - book/vegetables/oven-roasted-vegetables/oven-roasted-onions.md
+      - book/vegetables/oven-roasted-vegetables/oven-roasted-starchy-potatoes.md
+      - book/vegetables/oven-roasted-vegetables/oven-roasted-sweet-potatoes.md
+      - book/vegetables/oven-roasted-vegetables/oven-roasted-waxy-potatoes.md
+      - book/vegetables/oven-roasted-vegetables/oven-roasted-zucchinis.md
+    - Potatoes:
+      - book/vegetables/potatoes/baked-potato.md
+      - book/vegetables/potatoes/baked-sweet-potato.md
+      - book/vegetables/potatoes/hash-browns.md
+      - book/vegetables/potatoes/mashed-potatoes.md
+      - book/vegetables/potatoes/potato-gratin.md
+  - Legumes:
+    - book/legumes/chickpea-pan.md
+    - book/legumes/flaxseed-egg.md
+    - book/legumes/gorp.md
+    - book/legumes/legume-sprouts.md
+    - book/legumes/legume-tofu.md
+    - Beans:
+      - book/legumes/beans/index.md
+      - book/legumes/beans/baked-beans.md
+      - book/legumes/beans/refried-beans.md
+      - book/legumes/beans/roasted-chickpeas.md
+      - book/legumes/beans/tavce-gravce.md
+    - Lentils:
+      - book/legumes/lentils/index.md
+      - book/legumes/lentils/french-lentils.md
+      - book/legumes/lentils/lentil-loaf.md
+      - book/legumes/lentils/masoor-dal-tadka.md
+      - book/legumes/lentils/moroccan-lentils.md
+      - book/legumes/lentils/red-lentils-and-greens.md
+      - book/legumes/lentils/spanish-lentils.md
+      - book/legumes/lentils/swabian-lentils.md
+  - Curries:
+    - book/curries/bumblebee-curry.md
+    - book/curries/cashew-coconut-curry.md
+    - book/curries/chetnas-curry.md
+    - book/curries/chole-palak.md
+    - book/curries/haloumi-curry.md
+    - book/curries/mushroom-corn-cashew-curry.md
+    - book/curries/tieghans-curry.md
+  - Grains:
+    - book/grains/bulgur.md
+    - book/grains/couscous.md
+    - book/grains/overnight-oats.md
+    - book/grains/rice-and-beans.md
+    - book/grains/semolina-pan.md
+    - book/grains/wheat-berries.md
+    - Barley:
+      - book/grains/barley/index.md
+      - book/grains/barley/barley-pilaf.md
+    - Buckwheat:
+      - book/grains/buckwheat/index.md
+      - book/grains/buckwheat/kasha.md
+    - Millet:
+      - book/grains/millet/index.md
+      - book/grains/millet/millet-pilaf.md
+      - book/grains/millet/millet-pulao.md
+    - Polenta:
+      - book/grains/polenta/index.md
+    - Quinoa:
+      - book/grains/quinoa/index.md
+      - book/grains/quinoa/peas-and-carrots-quinoa.md
+      - book/grains/quinoa/quinoa-pilaf.md
+    - Rice:
+      - book/grains/rice/dirty-rice.md
+      - book/grains/rice/sausage-rice-pilaf.md
+      - book/grains/rice/spanish-rice.md
+      - book/grains/rice/spinach-mushroom-rice.md
+      - book/grains/rice/white-risotto.md
+      - Basmati rice:
+        - book/grains/rice/basmati-rice/index.md
+        - book/grains/rice/basmati-rice/jeera-rice.md
+        - book/grains/rice/basmati-rice/lebanese-rice.md
+        - book/grains/rice/basmati-rice/millet-rice.md
+        - book/grains/rice/basmati-rice/persian-rice.md
+      - Japanese rice:
+        - book/grains/rice/japanese-rice/index.md
+        - book/grains/rice/japanese-rice/onigiri.md
+      - Jasmine rice:
+        - book/grains/rice/jasmine-rice/index.md
+        - book/grains/rice/jasmine-rice/laurel-rice.md
+        - book/grains/rice/jasmine-rice/yellow-rice.md
+  - Noodles and pastas:
+    - book/noodles/chickpea-pasta-salad.md
+    - book/noodles/soy-noodles.md
+    - book/noodles/szechuan-cold-noodles.md
+    - Italian pasta:
+      - book/noodles/italian-pasta/index.md
+      - book/noodles/italian-pasta/aglio-e-olio.md
+      - book/noodles/italian-pasta/cacio-e-pepe.md
+    - Spaetzle:
+      - book/noodles/spaetzle/index.md
+      - book/noodles/spaetzle/detroit-kaesespaeztle.md
+      - book/noodles/spaetzle/kaesespaetzle.md
+  - Dumplings:
+    - book/dumplings/chicken-and-dumplings.md
+    - book/dumplings/gnocchi.md
+    - book/dumplings/gougeres.md
+    - book/dumplings/kaspressknoedel.md
+    - book/dumplings/pasties.md
+    - book/dumplings/potato-dumplings.md
+    - book/dumplings/samosas.md
+    - Bread dumplings (Semmelknödel):
+      - book/dumplings/bread-dumplings/index.md
+      - book/dumplings/bread-dumplings/bavarian-bread-dumplings.md
+  - Breads and doughs:
+    - book/breads/crostinis.md
+    - book/breads/croutons.md
+    - Dry yeast doughs:
+      - book/breads/dry-yeast-breads/index.md
+      - book/breads/dry-yeast-breads/baguettes.md
+      - book/breads/dry-yeast-breads/crumpets.md
+      - book/breads/dry-yeast-breads/cuban-bread.md
+      - book/breads/dry-yeast-breads/dinner-rolls.md
+      - book/breads/dry-yeast-breads/focaccia.md
+    - Flatbreads:
+      - book/breads/flatbreads/lebanese-flatbread.md
+      - book/breads/flatbreads/naan.md
+    - Leaven Breads:
+      - book/breads/leaven-breads/index.md
+      - book/breads/leaven-breads/starter.md
+      - book/breads/leaven-breads/flaxseed-rye.md
+      - book/breads/leaven-breads/oat-wheat.md
+      - book/breads/leaven-breads/pain-au-bacon.md
+      - book/breads/leaven-breads/pain-de-champagne.md
+      - book/breads/leaven-breads/tartine-olive-wheat.md
+      - book/breads/leaven-breads/whole-wheat.md
+    - Pancakes:
+      - book/breads/pancakes/index.md
+      - book/breads/pancakes/banana-bread-pancakes.md
+      - book/breads/pancakes/crepes.md
+      - book/breads/pancakes/kaiserschmarrn.md
+      - book/breads/pancakes/oatcakes.md
+      - book/breads/pancakes/palatschinken.md
+    - Pastry Doughs:
+      - book/breads/pastry-doughs/pie-crust.md
+      - book/breads/pastry-doughs/rough-puff-pastry-dough.md
+      - book/breads/pastry-doughs/strudel-dough.md
+      - book/breads/pastry-doughs/tart-crust.md
+    - Pizza Doughs:
+      - book/breads/pizza-doughs/adrienne's-pizza-dough.md
+      - book/breads/pizza-doughs/elise's-pizza-dough.md
+    - Quick Breads:
+      - book/breads/quick-breads/beer-bread.md
+      - book/breads/quick-breads/drop-biscuits.md
+    - Sweet Breads:
+      - book/breads/sweet-breads/banana-bread.md
+      - book/breads/sweet-breads/cornbread.md
+  - Handhelds:
+    - book/handhelds/boc-monsieur.md
+    - book/handhelds/carrot-and-white-bean-veggie-burgers.md
+    - book/handhelds/charcuterie-board.md
+    - book/handhelds/chickpea-smash.md
+    - book/handhelds/cuban-sandwiches.md
+    - book/handhelds/japanese-style-egg-salad-sandwiches.md
+    - book/handhelds/korean-toast.md
+    - book/handhelds/muffaletta.md
+    - book/handhelds/quesadillas.md
+    - book/handhelds/sloppy-joes.md
+    - book/handhelds/sweet-potato-tacos.md
+    - Pizzas:
+      - book/handhelds/pizzas/detroit-style-pizza.md
+      - book/handhelds/pizzas/new-york-style-pizza.md
+  - Eggs:
+    - book/eggs/egg-fried-rice.md
+    - book/eggs/french-toast.md
+    - book/eggs/hardboiled-eggs.md
+    - book/eggs/poached-eggs.md
+    - book/eggs/quiche.md
+  - Casseroles:
+    - book/casseroles/baked-spaghetti.md
+    - book/casseroles/cheesy-bean-casserole.md
+    - book/casseroles/curry-chicken-pot-pie.md
+    - book/casseroles/enchiladas.md
+    - book/casseroles/tater-tot-casserole.md
+    - book/casseroles/tuna-noodle-casserole.md
+    - Baked mac & cheese:
+      - book/casseroles/baked-mac-and-cheese/index.md
+      - book/casseroles/baked-mac-and-cheese/southern-mac-and-cheese.md
+  - Meats:
+    - Beef:
+      - book/meats/beef/braised-beef.md
+      - book/meats/beef/mozzarella-stuffed-meatballs.md
+      - book/meats/beef/sauerbraten.md
+    - Pork:
+      - book/meats/pork/breakfast-hash.md
+      - book/meats/pork/osso-buco.md
+      - book/meats/pork/pulled-pork.md
+      - book/meats/pork/scrapple.md
+    - Poultry:
+      - book/meats/poultry/cashew-chicken.md
+      - book/meats/poultry/chicken-pad-thai.md
+      - book/meats/poultry/chicken-satay.md
+      - book/meats/poultry/chicken-schwarma.md
+      - book/meats/poultry/oven-roasted-turkey.md
+      - book/meats/poultry/poached-chicken-breast.md
+      - book/meats/poultry/pulled-chicken.md
+      - book/meats/poultry/sweet-and-spicy-stir-fry.md
+      - Oven Roasted Chicken:
+        - book/meats/poultry/oven-roasted-chicken/bbrrr-chicken-breast.md
+        - book/meats/poultry/oven-roasted-chicken/oven-roasted-chicken-thighs.md
+        - book/meats/poultry/oven-roasted-chicken/oven-roasted-whole-chicken.md
+      - Oven roasted duck:
+        - book/meats/poultry/oven-roasted-duck/index.md
+        - book/meats/poultry/oven-roasted-duck/orange-marmalde-pan-sauce.md
+    - Seafood:
+      - book/meats/seafood/garlic-shrimp.md
+      - book/meats/seafood/oven-roasted-salmon.md
+      - book/meats/seafood/poached-shrimp.md
+      - book/meats/seafood/shrimp-scampi.md
+  - Desserts:
+    - book/desserts/apple-strudel.md
+    - book/desserts/chia-pudding.md
+    - book/desserts/chocolate-mousse.md
+    - book/desserts/cinnamon-rolls.md
+    - book/desserts/nariyal-burfi.md
+    - Cakes:
+      - book/desserts/cakes/apple-coffee-cake.md
+      - book/desserts/cakes/berry-swirl-cheesecake.md
+      - book/desserts/cakes/carrot-cake.md
+      - book/desserts/cakes/yellow-cake.md
+      - Chocolate cake:
+        - book/desserts/cakes/chocolate-cake/index.md
+        - book/desserts/cakes/chocolate-cake/creamed-chocolate-cake.md
+    - Cookies:
+      - book/desserts/cookies/cookie-bars.md
+      - book/desserts/cookies/inside-out-chocolate-chip-cookies.md
+      - book/desserts/cookies/lemon-bars.md
+      - book/desserts/cookies/pb-paprika-cookies.md
+      - book/desserts/cookies/peanut-butter-blossoms.md
+      - book/desserts/cookies/robert-redford-cookies.md
+      - book/desserts/cookies/spiced-chocolate-chip-cookies.md
+      - book/desserts/cookies/vanilla-chai-shortbread-cookies.md
+    - Pies:
+      - book/desserts/pies/apple-cream-pie.md
+      - book/desserts/pies/coffee-chess-pie.md
+      - book/desserts/pies/cranberry-crumble-pie.md
+      - book/desserts/pies/pecan-pie.md
+      - book/desserts/pies/toasted-marshmallow-butterscotch-pie.md
+    - Tarts:
+      - book/desserts/tarts/citrus-curd-tart.md
+      - book/desserts/tarts/cranberry-brie-tarts.md
+      - book/desserts/tarts/raspberry-and-white-chocolate-shortbread-tart.md
+      - Orange chocolate tart:
+        - book/desserts/tarts/orange-chocolate-tart/index.md
+        - book/desserts/tarts/orange-chocolate-tart/candied-orange-peel.md
+    - Toppings:
+      - book/desserts/toppings/american-buttercream.md
+      - book/desserts/toppings/candied-ginger.md
+      - book/desserts/toppings/russian-buttercream.md
+  - Beverages:
+    - book/beverages/cold-brew-coffee.md
+    - book/beverages/elder-blossom-spritzer.md
+    - book/beverages/hot-toddy.md
+    - book/beverages/virgin-gin-and-tonic.md
+    - Cocktails:
+      - book/beverages/cocktails/manhattan.md
+      - book/beverages/cocktails/tequila-sunrise.md
+  - Seasonings:
+    - book/seasonings/cured-egg-yolk.md
+    - Compound Butters:
+      - book/seasonings/compound-butters/chicken-butter.md
+      - book/seasonings/compound-butters/honey-butter.md
+      - book/seasonings/compound-butters/turkey-butter.md
+    - Infused Oils:
+      - book/seasonings/infused-oils/garlic-infused-olive-oil.md
+      - book/seasonings/infused-oils/lemon-infused-olive-oil.md
+      - book/seasonings/infused-oils/pizza-crust-oil.md
+      - book/seasonings/infused-oils/szechuan-oil.md
+    - Pickles:
+      - book/seasonings/pickles/pickled-beetroot.md
+      - book/seasonings/pickles/pickled-ginger.md
+    - Salt Blends:
+      - book/seasonings/salt-blends/celery-salt.md
+      - book/seasonings/salt-blends/chicken-salt.md
+      - book/seasonings/salt-blends/emerils-original-essence.md
+      - book/seasonings/salt-blends/rosemary-salt.md
+    - Spice Blends:
+      - book/seasonings/spice-blends/chinese-five-spice.md
+      - book/seasonings/spice-blends/garam-masala.md
+      - book/seasonings/spice-blends/guga-rub.md
+      - book/seasonings/spice-blends/italian-herbs.md
+      - book/seasonings/spice-blends/poultry-seasoning.md
 plugins:
-  - awesome-pages:
-      collapse_single_pages: false
-      filename: .pages
-      strict: true
-      order: asc
-  - exclude:
-      regex:
-        - '.*pages.ya?ml'
   - privacy
   - search:
       lang: en

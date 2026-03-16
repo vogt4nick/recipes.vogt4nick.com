@@ -6,13 +6,6 @@ extra:
       link: /en/
       lang: en
 plugins:
-  - awesome-pages:
-      collapse_single_pages: false
-      filename: .pages
-      strict: true
-  - exclude:
-      regex:
-        - '.*pages.ya?ml'
   - privacy
   - search:
       lang: de

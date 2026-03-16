@@ -11,10 +11,6 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
 plugins:
-  - awesome-pages:
-      collapse_single_pages: false
-      filename: .pages
-      strict: true
   - privacy
   - search:
       lang:
