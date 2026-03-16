@@ -7,7 +7,7 @@
     ??? tip "Prefer whole grain flours for starting the mother culture."
         Technically any grain, refined or otherwise, will work, but whole grains including the bran, germ, and endosperm provided better nutrition to the yeast.
 
-        Only after the mother culture is started should you may switch to refined versions of the starter grain.
+        Only after the mother culture is started should you switch to refined versions of the starter grain.
 
     ??? caution "Use a consistent grain or blend!"
         Different grains are better suited to different yeast species. An inconsistent grain or blend may hinder development.

@@ -23,7 +23,7 @@
     3. **Mix dry ingredients.** Combine flour, baking powder, baking soda, and salt.
     4. **Mix wet ingredients.** Beat together butter, sugar, eggs, milk, and vanilla.
     5. **Mix batter.** Alternating between dry mix and sour cream and stirring after each addition, add to wet mixture.
-    6. **Pour layers.** Spread half the batter in the pan, and sprinkle evemöy with half the topping mixture. Repeat with the remaining batter and topping.
+    6. **Pour layers.** Spread half the batter in the pan, and sprinkle evenly with half the topping mixture. Repeat with the remaining batter and topping.
     7. **Bake** 60 minutes at 175ºC until a toothpick inserted into the center comes out clean or with just a few moist crumbs sticking to it.
 
 [^reid]:

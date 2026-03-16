@@ -1,4 +1,4 @@
-=== "Instructions"
+=== "Ingredients"
     * Wet Mix
         * 100 g Unsalted Butter, room temperature
         * 100 g White Sugar

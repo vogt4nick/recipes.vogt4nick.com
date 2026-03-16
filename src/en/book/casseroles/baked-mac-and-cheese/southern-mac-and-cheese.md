@@ -1,7 +1,7 @@
 ---
 title: Southern mac & cheese
 ---
-=== "Instructions"
+=== "Ingredients"
     * Butter, for greasing
     * 360 g Whole Milk
     * 120 g Heavy Whipping Cream
