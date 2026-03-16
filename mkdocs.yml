@@ -4,11 +4,6 @@ site_name: Nick's Recipes
 site_url: https://github.com/vogt4nick/recipes.vogt4nick.com
 extra_css:
   - assets/stylesheets/extra.css
-extra:
-  alternate:
-    - name: Switch to Austrian Cookbook
-      link: /at/
-      lang: at
 markdown_extensions:
   - abbr
   - admonition
