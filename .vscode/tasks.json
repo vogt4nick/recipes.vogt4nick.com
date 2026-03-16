@@ -4,7 +4,7 @@
     {
       "label": "build English site",
       "type": "shell",
-      "command": "poetry run zensical build -f mkdocs.yml",
+      "command": "uv run zensical build -f mkdocs.yml",
       "group": {
         "kind": "build",
         "isDefault": true
@@ -13,7 +13,7 @@
     {
       "label": "serve English site",
       "type": "shell",
-      "command": "poetry run zensical serve -f mkdocs.yml",
+      "command": "uv run zensical serve -f mkdocs.yml",
       "group": {
         "kind": "build",
         "isDefault": false

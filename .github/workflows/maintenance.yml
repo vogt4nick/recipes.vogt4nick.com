@@ -13,18 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
-      - name: Install poetry
-        run: pipx install poetry
-      - uses: actions/setup-python@main
+      - uses: astral-sh/setup-uv@v5
         with:
           python-version: 3.12
-          cache: 'poetry'
       - name: Update build dependencies
-        run: poetry lock
+        run: uv lock --upgrade
       - name: Create pull request
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           commit-message: "Update build dependencies"
           title: Update build dependencies
-          body: Update the poetry.lock with the latest valid dependencies.
+          body: Update the uv.lock with the latest valid dependencies.
