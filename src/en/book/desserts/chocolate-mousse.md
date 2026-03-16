@@ -7,7 +7,7 @@
     * 1/4 t Salt
     * 120 g Heavy Whipping Cream, chilled
 
-    !!! info "These amounts yield 4 servings."
+    !!! info "These amounts yield 2 servings."
 
 === "Directions"
     1. **Prep chocolate.** Break up or chop chocolate into small pieces and set aside with butter.
