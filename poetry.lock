@@ -726,24 +726,6 @@ files = [
 ]
 
 [[package]]
-name = "mkdocs-pagetree-plugin"
-version = "0.0.10"
-description = "MkDocs plugin that allows you to display the page tree"
-optional = false
-python-versions = ">=3.9"
-groups = ["main"]
-files = [
-    {file = "mkdocs-pagetree-plugin-0.0.10.tar.gz", hash = "sha256:1b3bb3b4c9a25a1b72b17d75ee286279dd5f6629781f9f55e47a0d07c559672d"},
-    {file = "mkdocs_pagetree_plugin-0.0.10-py3-none-any.whl", hash = "sha256:9e59eb7b5c81116062cc5bbeffa8cf22aa2fb6fa79a2c31ac160c467ce481194"},
-]
-
-[package.dependencies]
-mkdocs = ">=1.5"
-
-[package.extras]
-dev = ["pre-commit", "reuse", "ruff"]
-
-[[package]]
 name = "natsort"
 version = "8.4.0"
 description = "Simple yet flexible natural sorting in Python."
@@ -1253,4 +1235,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.9"
-content-hash = "2b0f291279de51e7c7fa32e76a194ab1367f1c155fb7e58c04efe9ad454beb84"
+content-hash = "01b15ce39c8375bd05d24908a67c6745deff286faba915b96518f6b3d8f69271"

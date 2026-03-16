@@ -45,7 +45,6 @@ plugins:
       regex:
         - '.*pages.ya?ml'
   - macros
-  - pagetree
   - privacy
   - search:
       lang: en
