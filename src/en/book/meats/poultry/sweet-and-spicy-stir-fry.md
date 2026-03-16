@@ -27,6 +27,6 @@ title: Sweet & spicy stir fry
     3. **Cook vegetables.** Add vegetables to wok. Mix. Cook 4 minutes, toss every 30 seconds. Add water to bottom of pan as necessary to consistently steam vegetables. Cook 4 minutes, tossing every 60 seconds, until vegetables start to soften. Add *seared chicken* to wok. Mix. Remove from heat.
     4. **Garnish** with cilantro.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }}
+[^1]: Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
 [^2]:
     Moncel, Beth. ["Sticky Ginger Soy Glazed Chicken."](https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken/) *Budget Bytes.* 16 January 2020.

@@ -14,6 +14,6 @@
     !!! tip "If there is a little bit of liquid in the bottom of the pan after simmering, you can remove from the heat but leave covered for 5 minutes for the remaining liquid to be absorbed.[^eggleston]"
 
 [^bittman]:
-    {{ cite.bittman_how_to_cook_everything }} "Simple White or Whole Wheat Couscous." 454.
+    Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008. "Simple White or Whole Wheat Couscous." 454.
 [^eggleston]:
     Schecter, Anita. ["Simple 3-Ingredient Couscous."](https://www.thespruceeats.com/simple-couscous-recipe-2355404) *The Spruce Eats.* 12 March 2006.

@@ -14,4 +14,4 @@ title: Bechamel Sauce
     2. **Prepare white roux.** Heat skillet over low heat. Add butter. Melt. Slowly add flour, whisking continuously. Cook 2 minutes until roux starts to froth.
     3. **Boil to thicken.** Add simmering milk to roux. Bring to boil over medium-high heat. Quickly whisk 60 seconds. Immediately remove from heat. Gently whisk 15 seconds. Season with salt & pepper to taste.
 
-[^1]: {{ cite.child_french_cooking }}
+[^1]: Child, Julia, Louisette Bertholle, and Simone Beck. [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405). New York, NY: Knopf, 2001.

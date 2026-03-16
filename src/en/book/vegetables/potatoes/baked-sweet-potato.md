@@ -11,6 +11,6 @@
     4. **Season** with salt and pepper and serve with butter.
 
 [^bittman]:
-    {{ cite.bittman_how_to_cook_everything }}
+    Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
     "Sweet Potatoes, Simply Cooked."
     358.

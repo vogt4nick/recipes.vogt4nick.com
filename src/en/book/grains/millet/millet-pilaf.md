@@ -17,6 +17,6 @@
     4. **Cool and serve.** Allow millet to cool, uncovered, for a few minutes before serving.
 
 [^bittman]:
-    {{ cite.bittman_how_to_cook_everything }}
+    Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
     "Barley Pilaf."
     483.

@@ -35,7 +35,7 @@ title: Wiener Schnitzel
     Das Herausbacken in Butterschmalz verleiht den Schnitzeln den ganz typischen leicht nussigen Geschamck. Werden die Schnitzerl in neutralem Pflanzeöl gebacken, so kann man dem Öl gegen Ende ein kleines Stück Butter zugeben und die Schnitzerl damit nochmals begießen oder Sie träufeln vor dem Servieren etwas zerlassene Butter direkt über die Schnitzel.
 
 [^bitterman]:
-    {{ cite.bitterman_die_österreichische_küche }}
+    Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula. [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251). 1. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG, 15 September 2018.
     243.
 [^chefkoch]:
     Sonja.

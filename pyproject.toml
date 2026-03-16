@@ -12,7 +12,6 @@ python = "^3.9"
 mkdocs = "^1.2"
 mkdocs-awesome-pages-plugin = "^2.4"
 mkdocs-material = "^9.0.13"
-mkdocs-macros-plugin = "^1.0.1"
 mkdocs-exclude = "^1.0.2"
 pymdown-extensions = "^10.0"
 

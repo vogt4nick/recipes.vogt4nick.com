@@ -15,4 +15,4 @@ Das vorgewärmte Mehl wird mit der Gärprobe und den übrigen Zutaten zu einem T
 !!! tip "Alle Zutaten zum Hefeteig leicht vorwärmen."
 
 [^müller_walser]:
-    {{ cite.müller_walser_mein_erstes_kochbuch }} 37-9.
+    Müller, Anna, and Olga Walser. [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0) Verlag E. DORNER Gmbh, 2017. 37-9.

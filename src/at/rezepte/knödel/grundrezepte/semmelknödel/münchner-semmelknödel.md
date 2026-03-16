@@ -35,4 +35,4 @@ tags:
     !!! tip "Die Knödeln drehen mit angefeuchteten (nicht nassen!) Händen ab."
 
 [^oberndorfer]:
-    {{ cite.oberndorfer_knödel }} 28-9.
+    Oberndorfer, Florian, and Zabert Sandmann. [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X) München Zs, 2021. 28-9.

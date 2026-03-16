@@ -16,10 +16,10 @@ title: Nockerlteig
     3. **Nockerl kochen.** Daraus werden mit zwei Löffeln Nockerl geformt,[^kochabo] die man in siedendem Salzwasser ca. 8 Min. kocht, abseiht und abschreckt.
 
 [^bitterman]:
-    {{ cite.bitterman_die_österreichische_küche }}
+    Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula. [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251). 1. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG, 15 September 2018.
     188.
 [^müller_walser]:
-    {{ cite.müller_walser_mein_erstes_kochbuch }}
+    Müller, Anna, and Olga Walser. [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0) Verlag E. DORNER Gmbh, 2017.
     34.
 [^kochabo]:
     ["So formt man Nockerl mit 2 Esslöffeln."](https://www.youtube.com/watch?v=cRTRUGXAFHo)

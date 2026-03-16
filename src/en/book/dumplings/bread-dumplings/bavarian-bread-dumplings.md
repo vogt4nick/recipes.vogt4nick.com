@@ -32,4 +32,4 @@ tags:
     5. **Steam dumplings** 15-20 minutes, more or less depending on size.
 
 [^oberndorfer]:
-    {{ cite.oberndorfer_knödel }} 28-9.
+    Oberndorfer, Florian, and Zabert Sandmann. [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X) München Zs, 2021. 28-9.

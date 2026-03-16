@@ -32,8 +32,8 @@ tags:
     !!! tip "Die Knödeln drehen mit angefeuchteten (nicht nassen!) Händen ab."
 
 [^müller_walser]:
-    {{ cite.müller_walser_mein_erstes_kochbuch }} 84, 108.
+    Müller, Anna, and Olga Walser. [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0) Verlag E. DORNER Gmbh, 2017. 84, 108.
 [^oberndorfer_knödel]:
-    {{ cite.oberndorfer_knödel }} 22-3, 29.
+    Oberndorfer, Florian, and Zabert Sandmann. [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X) München Zs, 2021. 22-3, 29.
 [^gutekueche]:
     ["Semmelknödel."](https://www.gutekueche.at/klassischer-semmelknoedel-rezept-876) *Gute Kueche.* 1 März 2015.

@@ -54,6 +54,6 @@
     Lactic acid and acetic acid are both organic acids that can affect the flavor of bread. Lactic acid is produced by the fermentation of sugars by bacteria, and it can contribute a tangy or sour flavor to bread. Acetic acid is produced by the fermentation of ethanol by bacteria, and it can contribute a sharp, acidic, wine-like flavor to bread. The flavor of bread can be influenced by the type and amount of acid present, as well as the other ingredients used in the dough and the baking process. Some breads, such as sourdough bread, rely on the production of lactic and acetic acids to give them their characteristic tangy flavor.
 
 [^forkish_elements]:
-    {{ cite.forkish_elements_of_pizza }} 127-9.
+    Forkish, Ken. [*The Elements of Pizza: Unlocking the Secrets to World-Class Pies at Home*](https://amazon.com/dp/160774838X). New York, NY: Ten Speed Press, 2016. 127-9.
 [^forkish_flour]:
-    {{ cite.forkish_flour_water_salt_yeast }} 121-37.
+    Forkish, Ken. [*Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza*](https://amazon.com/dp/160774838X). New York, NY: Ten Speed Press, 2012. 121-37.

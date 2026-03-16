@@ -22,4 +22,4 @@ title: Mayonnaise
     2. **Emulsify mixture.** In teaspoon increments, add oil to mixture and whisk until sauce has thickened before adding more oil. After about 90 g oil has been incorporated, the sauce will thicken into a very heavy cream. In 20 g increments, add oil to mixture and whisk until sauce has thickened before adding more oil. Add boiling water to prevent curdling.
     3. **Season mayonnaise** to taste.
 
-[^1]: {{ cite.child_french_cooking }}
+[^1]: Child, Julia, Louisette Bertholle, and Simone Beck. [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405). New York, NY: Knopf, 2001.

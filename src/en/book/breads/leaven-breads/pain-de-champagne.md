@@ -23,4 +23,4 @@
 
 
 [^forkish_flour]:
-    {{ cite.forkish_flour_water_salt_yeast }} 140-3.
+    Forkish, Ken. [*Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza*](https://amazon.com/dp/160774838X). New York, NY: Ten Speed Press, 2012. 140-3.

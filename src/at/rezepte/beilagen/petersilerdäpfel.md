@@ -17,7 +17,7 @@ tags:
     3. **Erdäpfel würzen.** Butter in einer Pfanne schmelzen lassen, Erdäpfel zugeben, salzen und durchschwenken. Gehackte Petersilie darüberstreuen und auftragen.
 
 [^bitterman]:
-    {{ cite.bitterman_die_österreichische_küche }}
+    Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula. [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251). 1. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG, 15 September 2018.
     133.
 [^gutekueche]:
     ["Petersilienkartoffeln."](https://www.gutekueche.at/petersilienkartoffeln-rezept-24703)

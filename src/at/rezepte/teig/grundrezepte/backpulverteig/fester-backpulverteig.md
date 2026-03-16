@@ -20,4 +20,4 @@ title: Fester Backpulverteig
     !!! caution "Backpulverteig darf nicht zu lange stehen, damit die Kohlensäure nicht zu früh entweicht."
 
 [^müller_walser]:
-    {{ cite.müller_walser_mein_erstes_kochbuch }} 40-1.
+    Müller, Anna, and Olga Walser. [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0) Verlag E. DORNER Gmbh, 2017. 40-1.

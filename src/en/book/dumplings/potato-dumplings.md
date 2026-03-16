@@ -28,7 +28,7 @@ tags:
     *Gute Kueche.*
     27 Februar 2015.
 [^oberndorfer]:
-    {{ cite.oberndorfer_knödel }} 26-7.
+    Oberndorfer, Florian, and Zabert Sandmann. [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X) München Zs, 2021. 26-7.
 [^gerykocht]:
     Remias, Frankie.
     ["Waldviertlerknödel - das Original."](https://www.youtube.com/watch?v=pX3jKBJj2F8)

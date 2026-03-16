@@ -38,7 +38,7 @@ tags:
     14. **Die Torte auskühlen lassen.**
 
 [^bitterman]:
-    {{ cite.bitterman_die_österreichische_küche }}
+    Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula. [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251). 1. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG, 15 September 2018.
     361.
 [^faißner]:
     Faißner, Waltraud.

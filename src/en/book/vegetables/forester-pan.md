@@ -16,4 +16,4 @@
     3. **Season** with salt and pepper to taste.
 
 [^fauda_role]:
-    {{ cite.fauda_role_vegan_one_pot }} 138-9.
+    Fauda-Rôle, Sabrina. _Vegan One Pot._ München: Dorling Kindersley Verlag GmbH, 2023. 138-9.

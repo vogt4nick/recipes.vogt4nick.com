@@ -19,6 +19,6 @@
     4. **Cool** 2 - 4 hours on a wire rack until cooled to room temperature.
     5. **Serve** warm or at room-temperature.
 
-[^1]: {{ cite.bittman_how_to_cook_everything }}
+[^1]: Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
 [^2]:
     ["Diagnose my watery quiche."](https://boards.straightdope.com/t/diagnose-my-watery-quiche/554453) *The Straight Dope Message Board: Cafe Society.* 20 September 2010.

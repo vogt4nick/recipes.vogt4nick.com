@@ -13,5 +13,5 @@ title: Frittatenteig (Palatschinkenteig)
 !!! note "Das heißt >>Frittatenteig<<, wenn er mit gesalzener Fülle oder als Suppeneinlage serviert ist. Ebenfalls heißt er >>Palatschinkenteig<<, wenn er mit süßer Fülle serviert ist."
 
 [^müller_walser]:
-    {{ cite.müller_walser_mein_erstes_kochbuch }}
+    Müller, Anna, and Olga Walser. [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0) Verlag E. DORNER Gmbh, 2017.
     33-4.

@@ -5,36 +5,6 @@ extra:
     - name: Switch to Austrian Cookbook
       link: /at/
       lang: at
-  cite:
-    bitterman_die_österreichische_küche: >-
-      Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
-      [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).
-      1. Edition.
-      Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG, 15 September 2018.
-    bittman_how_to_cook_everything: >-
-      Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
-    child_french_cooking: >-
-      Child, Julia, Louisette Bertholle, and Simone Beck. [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405). New York, NY: Knopf, 2001.
-    fauda_role_vegan_one_pot: >-
-      Fauda-Rôle, Sabrina. _Vegan One Pot._ München: Dorling Kindersley Verlag GmbH, 2023.
-    forkish_elements_of_pizza:
-      "Forkish, Ken. [*The Elements of Pizza: Unlocking the Secrets to World-Class Pies at Home*](https://amazon.com/dp/160774838X). New York, NY: Ten Speed Press, 2016."
-    forkish_flour_water_salt_yeast:
-      "Forkish, Ken. [*Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza*](https://amazon.com/dp/160774838X). New York, NY: Ten Speed Press, 2012."
-    hazan_italian_cooking: >-
-      Hazan, Marcella, and Karin Kretschmann. [*Essentials of Classic Italian Cooking*](https://www.amazon.com/dp/039458404X). New York, NY: Alfred A. Knopf, 1992.
-    ludwinski_sister_pie: >-
-      Ludwinski, Lisa, and E. E. Berger. [*Sister Pie: The Recipes & Stories of a Big-hearted Bakery in Detroit*](https://www.amazon.com/dp/0399579761). California: Lorena Jones Books, an Imprint of Crown Publishing Group, 2018.
-    müller_walser_mein_erstes_kochbuch: >-
-      Müller, Anna, and Olga Walser.
-      [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
-      Verlag E. DORNER Gmbh, 2017.
-    oberndorfer_knödel: >-
-      Oberndorfer, Florian, and Zabert Sandmann.
-      [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X)
-      München Zs, 2021.
-    perelman_the_smitten_kitchen_cookbook: >-
-      Perelman, Deb. [*The Smitten Kitchen Cookbook*](https://www.amazon.com/dp/030759565X/). New York, NY: Alfred A. Knopf, 2017.
 plugins:
   - awesome-pages:
       collapse_single_pages: false
@@ -44,7 +14,6 @@ plugins:
   - exclude:
       regex:
         - '.*pages.ya?ml'
-  - macros
   - privacy
   - search:
       lang: en

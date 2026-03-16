@@ -10,4 +10,4 @@ In der österreichische Küche gibt es fünf (5) Knödelarten:
 5. Serviettenknödel
 
 [^oberndorfer]:
-    {{ cite.oberndorfer_knödel }} 22-3, 29.
+    Oberndorfer, Florian, and Zabert Sandmann. [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X) München Zs, 2021. 22-3, 29.

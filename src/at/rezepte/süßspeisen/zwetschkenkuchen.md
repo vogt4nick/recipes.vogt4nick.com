@@ -30,5 +30,5 @@ tags:
         Wenn Butter und Eier beim Verarbeiten Zimmertemperatur haben, so flockt der Butterabtrieb nicht so leicht aus. Sollte der Abtrieb dennoch einmal etwas ausflocken, dann 1 EL der Mehlmischung einrühren. Bei vollständigem Gerinnen die Masse über einem heißen Wasserbad unter ständigem Ruuhren etwas erwärmen, aber nur so viel, bis sich Butter und Eier wieder verbinden.
 
 [^bitterman]:
-    {{ cite.bitterman_die_österreichische_küche }}
+    Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula. [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251). 1. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG, 15 September 2018.
     133.

@@ -34,4 +34,4 @@
 
 !!! tip "Serve with fettuccine, rigatoni, conchiglie, or fusilli."
 
-[^1]: {{ cite.hazan_italian_cooking }}
+[^1]: Hazan, Marcella, and Karin Kretschmann. [*Essentials of Classic Italian Cooking*](https://www.amazon.com/dp/039458404X). New York, NY: Alfred A. Knopf, 1992.

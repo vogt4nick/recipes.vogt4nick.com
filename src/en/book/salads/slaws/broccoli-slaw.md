@@ -19,4 +19,4 @@
     2. **Combine slaw** ingredients and dressing together in a large bowl. Mix.
     3. **Garnish** with black pepper.
 
-[^1]: {{ cite.perelman_the_smitten_kitchen_cookbook }}
+[^1]: Perelman, Deb. [*The Smitten Kitchen Cookbook*](https://www.amazon.com/dp/030759565X/). New York, NY: Alfred A. Knopf, 2017.
