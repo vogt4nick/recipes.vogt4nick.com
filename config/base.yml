@@ -16,11 +16,6 @@ plugins:
       filename: .pages
       strict: true
   - macros
-  - minify:
-      minify_html: true
-      minify_css: true
-      css_files:
-        - assets/stylesheets/extra.css
   - privacy
   - search:
       lang:
