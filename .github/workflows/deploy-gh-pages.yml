@@ -29,17 +29,23 @@ jobs:
       - name: Build en site
         run: uv run zensical build -f mkdocs.yml
 
-        # enable upload https://github.com/actions/upload-pages-artifact/tree/v4?tab=readme-ov-file#example-permissions-fix-for-linux
+        # fix file permissions before packaging; GitHub Pages requires all files to be readable
       - name: Fix permissions
         run: |
           chmod -c -R +rX "site/en/" | while read line; do
             echo "::warning title=Invalid file permissions automatically fixed::$line"
           done
 
+      - name: Package artifact
+        run: tar --dereference --hard-dereference --exclude=.git --exclude=.github --exclude='.[^/]*' -cf "$RUNNER_TEMP/artifact.tar" -C site/en .
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
-          path: site/en
+          name: github-pages
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+          if-no-files-found: error
 
   pre-commit:
     runs-on: ubuntu-latest
