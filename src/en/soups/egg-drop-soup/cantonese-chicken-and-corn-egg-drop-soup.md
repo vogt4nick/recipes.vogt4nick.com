@@ -4,7 +4,7 @@ title: Cantonese chicken & corn egg drop soup
 === "Ingredients"
     * 1 t Neutral Oil
     * 1/2 cm Ginger Root, minced
-    * 480 g [Chicken Stock](../../../book/soups/stocks/meat-stock.md) or Water
+    * 480 g [Chicken Stock](../stocks/meat-stock.md) or Water
     * 60 g Chicken Breast
     * 60 g Frozen Corn Kernels, thawed
     * Seasoning

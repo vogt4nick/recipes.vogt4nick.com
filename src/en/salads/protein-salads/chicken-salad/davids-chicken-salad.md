@@ -1,11 +1,11 @@
 # David's chicken salad
 
 === "Ingredients"
-    * 1100 g [Raw Boneless Skinless Chicken Breast, poached](../../meats/poultry/poached-chicken-breast.md)
+    * 1100 g [Raw Boneless Skinless Chicken Breast, poached](../../../meats/poultry/poached-chicken-breast.md)
     * 200 g Carrots, shredded
     * 150 g Red Bell Pepper, minced
     * 100 g Celery, minced
-    * 240 g [Dry Jasmine Rice, cooked](../../grains/rice/japanese-rice/index.md), room temperature
+    * 240 g [Dry Jasmine Rice, cooked](../../../grains/rice/japanese-rice/index.md), room temperature
     * Vinaigrette
         * 60 g Sunflower Oil
         * 2 T Lemon Juice

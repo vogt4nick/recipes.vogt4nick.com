@@ -1,7 +1,7 @@
 # Chicken Salad
 
 === "Ingredients"
-    * 400 g [Oven-Roasted Chicken](../../meats/poultry/oven-roasted-chicken/oven-roasted-chicken-thighs.md), deboned, shredded
+    * 400 g [Oven-Roasted Chicken](../../../meats/poultry/oven-roasted-chicken/oven-roasted-chicken-thighs.md), deboned, shredded
     * 1 Scallion, thinly sliced, parboiled
     * 1 Celery Stalk, sliced
     * 60 g Grapes, halved

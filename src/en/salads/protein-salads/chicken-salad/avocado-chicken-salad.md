@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 500 g [Poached Chicken Breast](../../meats/poultry/poached-chicken-breast.md), boneless, skinless
+    * 500 g [Poached Chicken Breast](../../../meats/poultry/poached-chicken-breast.md), boneless, skinless
     * 2 Celery Stalk, sliced
     * 150 g Grapes, halved
     * 100 g Pecans

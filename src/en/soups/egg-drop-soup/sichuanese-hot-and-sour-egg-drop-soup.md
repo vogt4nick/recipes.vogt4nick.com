@@ -4,7 +4,7 @@ title: Sichuanese hot & sour egg drop soup
 === "Ingredients"
     * 1 t Lard or Clarified Butter
     * 1/2 cm Ginger Root, minced
-    * 480 g [Chicken Stock](../../../book/soups/stocks/meat-stock.md) or Water
+    * 480 g [Chicken Stock](../stocks/meat-stock.md) or Water
     * Seasoning
         * 1/2 t Soy Sauce
         * 1/2 t Kosher Salt
