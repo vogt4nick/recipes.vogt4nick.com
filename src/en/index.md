@@ -4,6 +4,12 @@ title: Menu
 
 ## Three-Day Menus
 
+* [Black beans](legumes/beans/index.md) topped with cottage cheese and served with [oven-roasted potatoes](roasted-vegetables/oven-roasted-vegetables/oven-roasted-waxy-potatoes.md)
+* [Sloppy Joe](https://vogt4nick.github.io/recipes.vogt4nick.com/handhelds/sloppy-joes/)-loaded [oven-roasted potatoes](roasted-vegetables/oven-roasted-vegetables/oven-roasted-waxy-potatoes.md) and [green beans](vegetables/green-beans.md)
+* [Chicken schwarma](meats/poultry/chicken-schwarma.md) served with [green beans](vegetables/green-beans.md) and [oven-roasted potatoes](roasted-vegetables/oven-roasted-vegetables/oven-roasted-waxy-potatoes.md)
+
+---
+
 * [Mushroom quiche](book/eggs/quiche.md)
 * [Biscuits](book/breads/quick-breads/drop-biscuits.md) and mushroom gravy
 * [Egg salad sandwiches](book/handhelds/japanese-style-egg-salad-sandwiches.md) with [Kewpie-style mayonnaise](book/sauces/hollandaise/mayonnaise/kewpie-style-mayonnaise.md)
