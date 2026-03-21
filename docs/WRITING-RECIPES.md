@@ -72,6 +72,9 @@ The requirements below use [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119) ke
     e.g. `100 g Green Peas`
   * MAY have no measurement, deferring to the cook's discretion
     e.g. `Salt`
+  * MUST be named in its whole, unprocessed form; processing belongs in the preparation
+    Good: `Black Peppercorn, ground`
+    Bad: `Black Pepper, ground`
   * MUST be formatted in Title Case
   * MAY be followed by ingredient preparations
     e.g. 1 Onion, minced
@@ -83,10 +86,21 @@ The requirements below use [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119) ke
   * MUST be formatted in lower case
   * MUST be separated from the ingredient by a trailing comma
     e.g. 1 Onion, minced
-  * MAY include multiple preparations
-    e.g. 3 Potatoes, parboiled, chopped
+  * MAY include multiple preparations separated by commas
+    Good: `3 Potatoes, parboiled, chopped`
+    Bad: `3 Potatoes, parboiled and chopped`
+  * SHOULD use "minced", "chopped" or "roughly chopped" when referring to cuts
+    Good: `3 Potatoes, roughly chopped`
+    Good: `1 Onion, minced`
+    Bad: `1 Onion, diced`
+  * MAY use a more specific description when precision matters for the recipe
+    e.g. `150 g Haloumi or Paneer, chopped into ~7 mm thick slices`
 * Every ingredient measurement
   * MUST use one of the following units: g (grams), t (teaspoons), T (tablespoons)
+  * MUST NOT use size qualifiers (e.g. large, medium, small) as a measurement
+    Bad: `1 large Onion, diced`
+    Good: `1 Onion, diced`
+    Good: `150 g Onion, diced`
   * SHOULD be denoted by a whole number or fraction and a unit
     e.g. 1/2 t Black Peppercorn
     e.g. 1 t Salt
@@ -118,6 +132,9 @@ The requirements below use [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119) ke
     ```markdown
     1. **Preheat oven** to 200ºC (400ºF).
     ```
+  * SHOULD avoid definite articles
+    Good: `Cook vegetables.`
+    Bad: `Cook the vegetables.`
   * SHOULD have a description following the command
     Good: `1. **Mix ingredients.**`
     Good: `1. **Preheat oven** to 200ºC (400ºF).`
@@ -144,3 +161,42 @@ The requirements below use [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119) ke
 - **Imperative**: "Whisk until smooth", not "You should whisk until smooth"
 - **Anticipatory**: include a tip when a step is tricky or has a common failure mode
 - **No filler**: if a step is simple, the description is simple
+
+
+## Standard Ingredient Names
+The ingredients below must follow their standard naming convention to avoid ambiguity between recipes.
+
+
+### Spices
+* **Black Peppercorn**; a.k.a. Black Pepper, Pepper
+  Good: 1/2 t Black Peppercorn, ground
+  Bad: 1/2 t Black Pepper
+  Bad: 1/2 t Pepper
+* **Paprika**
+* **Garlic Powder**
+* **Onion Powder**
+
+
+### Seeds
+Seeds are often easily prepared from whole.
+* **Cumin Seed**; a.k.a. Cumin
+  Good: 1 t Cumin Seed
+  Good: 1 t Cumin Seed, ground
+  Bad: 1 t Cumin
+* **Coriander Seed**
+* **Dried Cayenne Pepper**; a.k.a. Cayenne, Cayenne Pepper
+  Good: 1/4 t Dried Cayenne Pepper, ground
+  Bad: 1/4 t Cayenne
+
+
+### Herbs
+* Herbs
+  * MUST be named as fresh or dried
+    Good: Dried Coriander Leaves
+    Good: Fresh Coriander Leaves
+    Bad: Coriander
+  * MUST name what part of the plant
+    Good: Dried Coriander Leaves
+    Good: Fresh Coriander Leaves and Stems
+    Good: Fresh Coriander Roots
+    Bad: Fresh Coriander
