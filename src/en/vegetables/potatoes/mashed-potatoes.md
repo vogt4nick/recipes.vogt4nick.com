@@ -2,7 +2,7 @@
     * 450 g [Russet Potatoes, baked](baked-potato.md), peeled, roughly chopped
     * 10 g Canola Oil
     * 225 g Parsnips, roughly chopped
-    * 1 T Salt
+    * 1 T Medium-Grain Salt
     * 80 g Milk, whole
     * 25 g Unsalted Butter
     * 1 Sprig Rosemary Leaves, chopped

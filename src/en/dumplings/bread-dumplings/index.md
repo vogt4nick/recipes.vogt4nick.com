@@ -10,7 +10,7 @@ tags:
     * 120 g Semmelwürfel
     * Fresh Parsley, minced
     * 30 g Flour
-    * 1/2 t Salt
+    * 1/2 t Medium-Grain Salt
     * 1 Egg
     * 90 g Milk
 

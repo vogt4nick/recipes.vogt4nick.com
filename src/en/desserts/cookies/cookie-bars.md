@@ -2,7 +2,7 @@
     * 280 g White Wheat Flour
     * 1 t Baking Soda
     * 1/2 T Cornstarch
-    * 1/2 t Salt
+    * 1/2 t Medium-Grain Salt
     * 170 g Unsalted Butter, melted and slightly cooled
     * 200 g Light Brown Sugar
     * 67 g Granulated Sugar

@@ -10,7 +10,7 @@ tags:
     * 100 g Tomatoes, chopped
     * 1 Garlic Clove, crushed
     * 10 Parsley Sprigs
-    * 1/2 t Salt
+    * 1/2 t Medium-Grain Salt
     * 1/2 t Black Peppercorn, ground
     * 1000 g Water
 

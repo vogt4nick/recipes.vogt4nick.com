@@ -1,7 +1,7 @@
 === "Ingredients"
     * 100 g Dry Kasha Groats
     * 150 g Water
-    * 1/4 t Salt
+    * 1/4 t Medium-Grain Salt
     * 1 t Butter
 
     ??? info "You can prepare dry kasha by toasting dry buckwheat groats."

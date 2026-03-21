@@ -4,7 +4,7 @@
     * 2 Egg Yolks
     * 1 T White Sugar
     * 60 g Water
-    * 1/4 t Salt
+    * 1/4 t Medium-Grain Salt
     * 120 g Heavy Whipping Cream, chilled
 
     !!! info "These amounts yield 2 servings."

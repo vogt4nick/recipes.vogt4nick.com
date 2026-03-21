@@ -7,7 +7,7 @@
     * 2 T Olive Oil
     * 1 Garlic Clove, minced
     * 1/4 t White Granulated Sugar
-    * 1/2 t Salt
+    * 1/2 t Medium-Grain Salt
     * 1/2 t Black Peppercorn, ground
     * Fresh Basil Leaves, thinly sliced
 

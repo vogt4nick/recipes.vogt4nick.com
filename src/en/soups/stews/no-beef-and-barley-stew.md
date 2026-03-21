@@ -12,7 +12,7 @@
     * 2 t Smoked Paprika
     * 1 t Sweet Paprika
     * 1000 g [Vegetable Stock](../stocks/vegetable-stock.md)
-    * 1 t Salt
+    * 1 t Medium-Grain Salt
     * 1 t Black Peppercorn, ground
     * 300 g [Cooked Barley](../../grains/barley/index.md) or [Cooked Wheat Berries](../../grains/wheat-berries.md)
     * 100 g [Cooked Lentils](../../legumes/lentils/index.md)

@@ -1,7 +1,7 @@
 === "Ingredients"
     * 200 g [Red Lentils, cooked](index.md)
         * 600 g Water
-        * 1/2 t Salt
+        * 1/2 t Medium-Grain Salt
         * 1 cm Ginger Root
         * 1/4 t Dried Turmeric Root, ground
     * 2 T Neutral Oil

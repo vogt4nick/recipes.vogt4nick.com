@@ -1,6 +1,6 @@
 === "Ingredients"
     * 100 g [Mayonnaise](../../sauces/hollandaise/mayonnaise/index.md)
-        * 1/4 t Salt
+        * 1/4 t Medium-Grain Salt
         * 1 t Dijon Mustard
         * 1 t Hot Sauce
         * 2 t Lemon Juice

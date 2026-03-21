@@ -8,7 +8,7 @@
         * 200 g Cream Cheese, softened
         * 1/2 T Onion Powder
         * 1/2 T Cumin Seed, ground
-        * 1/2 t Salt
+        * 1/2 t Medium-Grain Salt
         * 1/2 t Black Peppercorn, ground
         * 30 g Water, cold
         * 400 g Refried Beans

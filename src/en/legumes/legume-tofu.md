@@ -2,7 +2,7 @@
     * 100 g Dry Red Lentils
     * For Blending
         * 250 g Water, for blending
-        * 1/2 t Salt
+        * 1/2 t Medium-Grain Salt
         * Smoked Paprika
         * Dried Cayenne Pepper, ground
         * Fresh Ginger
@@ -12,7 +12,7 @@
     * 100 g Dry Brown Lentils
     * For Blending
         * 250 g Water
-        * 1/2 t Salt
+        * 1/2 t Medium-Grain Salt
         * Smoked Paprika
         * Garlic Powder
     * For Cooking
@@ -23,7 +23,7 @@
     * 100 g Dry Mung Beans
     * For Blending
         * 250 g Water
-        * 1/2 t Salt
+        * 1/2 t Medium-Grain Salt
         * Fresh Ginger
         * Fresh Garlic
         * Fresh Spinach Leaves, blanched
@@ -34,7 +34,7 @@
     * 100 g Dry Chickpeas
     * For Blending
         * 250 g Water
-        * 1/2 t Salt
+        * 1/2 t Medium-Grain Salt
         * Garlic Powder
         * Onion Powder
     * For Cooking

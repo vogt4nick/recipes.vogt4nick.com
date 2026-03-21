@@ -11,7 +11,7 @@ tags:
     * Seasonings
         * 1/4 t Cumin Seed, ground
         * 1/2 t Coriander Seed, ground
-        * 1/2 t Salt
+        * 1/2 t Medium-Grain Salt
         * 1 pinch Red Pepper Flakes
     * Lemon Tahini Sauce
         * 45 g [Tahini Paste](../../sauces/tahini-paste.md)

@@ -7,7 +7,7 @@
         * 1 t Onion Powder
         * 1 t Cumin Seed, ground
         * 1 t Dried Oregano
-        * 1/2 t Salt
+        * 1/2 t Medium-Grain Salt
         * 1/2 t MSG
         * 1/2 t Black Peppercorn, ground
         * 1/4 t Dried Cayenne Pepper, ground

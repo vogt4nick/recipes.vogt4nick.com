@@ -4,7 +4,7 @@
     * 100 g Dry Pearled Barley
     * Dried Parsley Leaves or Dried Dill Leaves
     * 340 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
-    * 1/2 t Salt
+    * 1/2 t Medium-Grain Salt
     * Black Peppercorn, ground
     * Fresh Herbs, chopped, for serving
 

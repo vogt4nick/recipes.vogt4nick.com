@@ -19,7 +19,7 @@
         * 1/2 t Dried Marjoram
         * 1/2 t Dried Oregano
         * 1/2 t Dried Thyme
-        * 1/2 t Salt
+        * 1/2 t Medium-Grain Salt
         * 1/2 t Black Peppercorn, ground
         * 1/4 t Dried Cayenne Pepper, ground
 

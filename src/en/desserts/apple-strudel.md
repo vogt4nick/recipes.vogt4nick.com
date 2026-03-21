@@ -1,7 +1,7 @@
 === "Ingredients"
     * [Strudel Dough](../breads/pastry-doughs/strudel-dough.md), prepared with
         * 125 g White Wheat Flour
-        * 1/2 t Salt
+        * 1/2 t Medium-Grain Salt
         * 60 g Water, room temperature
         * 1 t Olive Oil
     * Fried Bread Crumbs

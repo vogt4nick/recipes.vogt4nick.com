@@ -3,7 +3,7 @@
     * 1 t Instant or Active Dry Yeast
     * 1 t Sugar
     * 180 g White Wheat Flour
-    * 1/2 t Salt
+    * 1/2 t Medium-Grain Salt
     * 1 t Baking Powder, sifted
     * Butter, for greasing
     * For Serving

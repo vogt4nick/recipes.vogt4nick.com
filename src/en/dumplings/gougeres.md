@@ -5,7 +5,7 @@ title: Gougères (Cheese Puffs)
     * 120 g Water
     * 60 g Unsalted Butter
     * 100 g White Wheat Flour
-    * 1/2 t Salt
+    * 1/2 t Medium-Grain Salt
     * 2 Eggs
     * 60 g Gruyere Cheese, grated
     * Fresh Thyme Leaves

@@ -4,7 +4,7 @@ title: Barley
 === "Ingredients"
     * 400 g Water
     * 100 g Dry Pearled Barley
-    * 1/4 t Salt
+    * 1/4 t Medium-Grain Salt
     * 1 t Butter
 
     !!! info "Yields 300 g cooked barley."

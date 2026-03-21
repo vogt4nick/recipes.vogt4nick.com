@@ -1,7 +1,7 @@
 === "Ingredients"
     * 500 g Raw Shrimp
     * 1000 g Water
-    * 1 T Salt
+    * 1 T Medium-Grain Salt
     * 1 T White Granulated Sugar
 
     !!! tip "Boil and reduce the leftover liquid to make [shrimp stock](../../soups/stocks/meat-stock.md)."

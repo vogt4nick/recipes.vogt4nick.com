@@ -5,7 +5,7 @@ title: Bulgur
     * 100 g Bulgur
     * 400 g Water, boiling
     * 1 t Butter
-    * 1/4 t Salt
+    * 1/4 t Medium-Grain Salt
 
 === "Directions"
     Add bulgur, butter, and salt to saucepan. Add boiling water, and cook, uncovered.

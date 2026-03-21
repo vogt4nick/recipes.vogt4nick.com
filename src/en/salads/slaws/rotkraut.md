@@ -11,7 +11,7 @@ tags:
     * 30 g Red Wine Vinegar
     * 1 Bay Leaf
     * 2 Cloves
-    * 1/8 t Salt
+    * 1/8 t Medium-Grain Salt
     * 120 g Red Wine
     * 1 T Wheat Flour
     * 1 T Marmelade (optional)

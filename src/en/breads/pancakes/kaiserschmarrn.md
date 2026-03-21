@@ -5,7 +5,7 @@
         * 90 g Milk
         * 2 t White Sugar
         * 1/2 t Vanilla Extract
-        * 1/4 t Salt
+        * 1/4 t Medium-Grain Salt
     * 2 Egg Whites
     * 1/4 t Lemon Juice or Vinegar
     * 1 T Unsalted Butter, for frying

@@ -5,7 +5,7 @@
     * 15 g Red Wine
     * 120 g Water, cold
     * Seasoning
-        * 1/4 t Salt
+        * 1/4 t Medium-Grain Salt
         * 1 Bay Leaf
         * 4 Juniper Berries
         * 1 t White Vinegar (optional)

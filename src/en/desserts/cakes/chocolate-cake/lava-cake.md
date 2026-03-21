@@ -3,7 +3,7 @@
     * 55 g Unsalted Butter
     * 15 g All-Purpose Flour
     * 30 g Confectioners' Sugar
-    * 1/16 t Salt
+    * 1/16 t Medium-Grain Salt
     * 1 Egg
     * 1 Egg Yolk
     * For Serving

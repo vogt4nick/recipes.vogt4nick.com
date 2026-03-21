@@ -1,6 +1,6 @@
 === "Ingredients"
     * 100 g Fresh Ginger Root, peeled, thinly sliced
-    * 1 T Salt
+    * 1 T Medium-Grain Salt
     * 60 g Rice Vinegar
     * 60 g Water
     * 30 g White Granulated Sugar

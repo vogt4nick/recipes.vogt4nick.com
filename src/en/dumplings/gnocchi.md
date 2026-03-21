@@ -7,7 +7,7 @@ tags:
     * 30 g Ricotta (optional)
     * 1 Egg, beaten
     * 80 g White Wheat Flour
-    * 1/2 t Salt
+    * 1/2 t Medium-Grain Salt
     * 1/2 t Thyme, dried
     * For Boiling Gnocchi
         * 1000 g Water
