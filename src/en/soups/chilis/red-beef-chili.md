@@ -14,7 +14,7 @@
         * 1/8 t Cinnamon, ground
         * 1/4 t Dried Oregano Leaves
     * 330 g Beer
-    * 250 g Tomato Puree
+    * 240 g Canned Tomatoes
     * 500 g Water
     * 250 g Frozen Spinach Leaves
     * 500 g Canned Beans, drained, rinsed
