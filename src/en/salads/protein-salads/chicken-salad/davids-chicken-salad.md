@@ -1,5 +1,8 @@
-# David's chicken salad
-
+---
+title: David's chicken salad
+tags:
+    - school lunch
+---
 === "Ingredients"
     * 1100 g [Raw Boneless Skinless Chicken Breast, poached](../../../meats/poultry/poached-chicken-breast.md)
     * 200 g Carrots, shredded

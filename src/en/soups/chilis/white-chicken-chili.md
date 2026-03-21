@@ -1,3 +1,7 @@
+---
+tags:
+    - school lunch
+---
 === "Ingredients"
     * 1 T Olive Oil
     * 1 Small Onion, diced

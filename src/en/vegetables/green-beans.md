@@ -1,3 +1,7 @@
+---
+tags:
+    - school lunch
+---
 === "Ingredients"
     * Medium-Grain Salt
     * 200 g Green Beans, trimmed

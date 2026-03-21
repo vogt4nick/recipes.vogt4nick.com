@@ -1,3 +1,7 @@
+---
+tags:
+    - school lunch
+---
 === "Ingredients"
     * Raw Chicken Thighs, bone-in
     * Raw Chicken Drumsticks
