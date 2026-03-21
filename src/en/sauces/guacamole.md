@@ -5,7 +5,7 @@
     * Seasonings
         * 1 Garlic Clove, minced
         * 1 t Chili Powder
-        * Kosher Salt
+        * Medium-Grain Salt
         * Black Peppercorn, ground
         * 15 g Lime Juice
     * Garnish

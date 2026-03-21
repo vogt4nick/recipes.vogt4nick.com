@@ -5,7 +5,7 @@ title: Quinoa
     * 200 g Dry Quinoa
     * 10 g Olive Oil
     * 400 g Water or [Stock](../../soups/stocks/vegetable-stock.md)
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
 
     !!! info "Yields 300 g cooked quinoa."
 

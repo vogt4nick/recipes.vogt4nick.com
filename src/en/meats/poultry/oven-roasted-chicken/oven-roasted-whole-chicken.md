@@ -1,6 +1,6 @@
 === "Ingredients"
     * 4 T Unsalted Butter, room temperature
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1 t Black Peppercorn, ground
     * Fresh Thyme Sprigs, destemmed
     * Fresh Rosemary Sprigs, destemmed
@@ -8,7 +8,7 @@
     * 1 Lemon, zested and halved
     * 2000 g Whole Chicken
     * For Additional Seasoning
-        * Kosher Salt
+        * Medium-Grain Salt
         * Black Peppercorn, ground
         * Olive Oil
 

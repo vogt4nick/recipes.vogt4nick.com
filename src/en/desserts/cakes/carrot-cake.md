@@ -3,7 +3,7 @@
     * 400 g White Sugar
     * 220 g Vegetable Oil
     * Dry Mix
-        * 1 t Kosher Salt
+        * 1 t Medium-Grain Salt
         * 1 t Baking Soda
         * 1 t Cinnamon, ground
         * 250 g White Wheat Flour

@@ -2,7 +2,7 @@
     * 3 T Clarified Butter or Neutral Oil
     * 2 Fresh Bay Leaves
     * 3 Onions, sliced crosswise
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 3 T Tomato Paste
     * Spices, to temper
         * 1 T Sweet Paprika

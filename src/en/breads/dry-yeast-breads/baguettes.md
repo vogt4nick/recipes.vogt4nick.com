@@ -11,7 +11,7 @@ tags:
     * 400 g White Wheat Flour, 13% protein
     * 270 g Water, cool
     * 13 g Instant Yeast
-    * 10 g Kosher Salt
+    * 10 g Medium-Grain Salt
     * 8 g [Diastatic Malt Powder](https://www.amazon.com/dp/B01JXZ0PW0) (optional)
 
     !!! info "Yields two 430 g loaves."
@@ -21,7 +21,7 @@ tags:
     | :-------------------- | ------: | ----: | ----: | -----------------: |
     | White Wheat Flour     |   100 g | 400 g | 500 g |               100% |
     | Water                 |   100 g | 270 g | 370 g |                64% |
-    | Kosher Salt           |         |  10 g |  10 g |                 2% |
+    | Medium-Grain Salt     |         |  10 g |  10 g |                 2% |
     | Instant Yeast         |     1 g |  13 g |  14 g |               2.8% |
     | Diastatic Malt Powder |     2 g |   8 g |  10 g |                 2% |
 

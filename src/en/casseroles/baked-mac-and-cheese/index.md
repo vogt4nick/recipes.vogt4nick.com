@@ -10,7 +10,7 @@ title: Baked mac & cheese
     * 360 g Milk
     * 110 g Sharp Cheddar Cheese, shredded
     * 140 g Monterey Jack Cheese, shredded
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/2 t Black Peppercorn, ground
     * 240 g Elbow Macaroni, cooked al dente, _do not rinse_
     * For topping

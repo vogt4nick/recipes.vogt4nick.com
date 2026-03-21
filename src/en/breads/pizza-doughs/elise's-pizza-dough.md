@@ -2,7 +2,7 @@
     * 2 t Active Dry Yeast
     * 240 g Water, warm (30ºC)
     * 3/4 t White Sugar
-    * 1 1/4 t Kosher Salt
+    * 1 1/4 t Medium-Grain Salt
     * 25 g Vegetable Oil
     * 315 g White Wheat Flour
 

@@ -15,7 +15,7 @@ tags:
     * 240 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
     * 360 g Tomatoes, peeled, chopped
     * 200 g Dry Red Lentils, soaked, drained
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * To Garnish
         * Fresh Coriander Leaves, chopped
 

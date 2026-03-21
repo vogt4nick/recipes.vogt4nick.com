@@ -15,7 +15,7 @@ tags:
         * 3 sprigs Fresh Parsley Leaves, finely diced
         * 3 stalks Chives, finely diced
         * 2ml Nutmeg, grated
-        * Kosher Salt
+        * Medium-Grain Salt
         * Black Peppercorn, ground
     * 500 g Vegetable Stock for serving
 

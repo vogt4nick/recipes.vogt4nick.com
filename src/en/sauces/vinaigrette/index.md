@@ -5,7 +5,7 @@ title: Vinaigrette
     * 30 g Dijon Mustard
     * 30 g White Wine Vinegar
     * 90 g Olive Oil
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
 
 === "Directions"

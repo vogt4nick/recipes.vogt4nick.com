@@ -7,7 +7,7 @@
     * 50 g Lard or Clarified Butter
     * 100 g Onion, chopped
     * 1 T Serrano Pepper, minced
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1/4 t Paprika
     * 1/4 t Dried Cayenne Pepper, ground
     * Lime Juice

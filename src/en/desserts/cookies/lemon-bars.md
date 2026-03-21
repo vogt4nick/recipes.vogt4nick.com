@@ -6,7 +6,7 @@
     * 100 g Lemon Juice
     * 400 g White Sugar
     * 30 g White Wheat Flour
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * To Garnish
         * Powdered Sugar
 

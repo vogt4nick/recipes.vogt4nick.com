@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 4 T Kosher Salt
+    * 4 T Medium-Grain Salt
     * 4 T Brown Sugar
     * 4 T Smoked Paprika
     * 1 T Garlic Powder

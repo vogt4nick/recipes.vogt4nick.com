@@ -5,7 +5,7 @@ tags:
 === "Ingredients"
     * 3 T Yellow Spices
         * 1 T Coriander Seed, ground
-        * 1/2 T Kosher Salt
+        * 1/2 T Medium-Grain Salt
         * 1/2 T Dried Turmeric Root, ground
         * 1/2 t Cardamom Seeds, ground
         * 1/2 t Dried Cayenne Pepper, ground

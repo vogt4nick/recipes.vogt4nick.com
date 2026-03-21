@@ -5,7 +5,7 @@ tags:
 === "Ingredients"
     * 10 g Olive Oil
     * 100 g Onion, minced
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 1/4 t Black Peppercorn, ground
     * 900 g Tomatoes, peeled, quartered
     * 500 g [Vegetable Stock](../stocks/vegetable-stock.md)

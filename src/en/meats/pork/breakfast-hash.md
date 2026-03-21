@@ -4,7 +4,7 @@
     * 200 g Bell Pepper, chopped
     * 200 g Onion, sliced
     * 900 g [Roasted Potatoes](../../vegetables/oven-roasted-vegetables/oven-roasted-waxy-potatoes.md)
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/2 t Black Peppercorn, ground
     * 4 [Eggs, poached](../../eggs/poached-eggs.md)
     * 10 g Chives

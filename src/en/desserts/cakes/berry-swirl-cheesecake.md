@@ -3,7 +3,7 @@
         * 250 g Chocolate Cookie Crumbs
         * 85 g Unsalted Butter, melted
         * 35 g White Sugar
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
     * Berry Puree
         * 240 g Raspberries
         * 12 g White Sugar
@@ -12,7 +12,7 @@
         * 300 g White Sugar
         * 4 Eggs, room temperature
         * 1 t Vanilla Extract
-        * 1/8 t Kosher Salt
+        * 1/8 t Medium-Grain Salt
 
 === "Directions"
     1. **Prepare materials.** Heat oven to 350ºF (177ºC). Wrap exterior of a 9-inch springform pan (including base) tightly in a triple layer of foil; set aside.

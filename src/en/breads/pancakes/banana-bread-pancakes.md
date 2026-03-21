@@ -1,7 +1,7 @@
 === "Ingredients"
     * Flour mixture
         * 160 g White Wheat Flour
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/2 t Baking Powder
         * 1/4 t Baking Soda
         * 1/4 t Cinnamon, ground

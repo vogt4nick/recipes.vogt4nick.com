@@ -7,7 +7,7 @@ tags:
         * 80 g Olive Oil
         * 50 g White Wine Vinegar
         * 15 g Honey or Sugar
-        * 1 t Kosher Salt
+        * 1 t Medium-Grain Salt
         * 2 Garlic Cloves, minced
         * 1 t Lime Juice
         * 1/2 t Oregano Leaves

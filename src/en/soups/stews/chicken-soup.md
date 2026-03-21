@@ -9,7 +9,7 @@
     * 1 Dried Red Chili
     * 20 g Flour
     * Black Peppercorn, ground
-    * Kosher Salt
+    * Medium-Grain Salt
 
 === "Directions"
     1. **Simmer chicken.** Position chicken breast side up in a large dutch oven. Add onion, carrot, celery, water, thyme, bay leaf, and chilis. Bring to boil, reduce to gentle simmer, cover, and cook 1 hour.

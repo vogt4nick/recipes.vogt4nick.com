@@ -15,7 +15,7 @@ tags:
     * 120 g Red Wine or Sherry
     * 500 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
     * 200 g Dry Brown Lentils, soaked, drained
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
     * Celery Leaves or Parsley
 

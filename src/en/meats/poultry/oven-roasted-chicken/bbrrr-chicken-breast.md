@@ -9,7 +9,7 @@ title: BBRRR chicken
         * 4 Garlic Cloves, minced
     * Seasoning
         * 1/2 t Paprika
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/2 t Black Peppercorn, ground
 
 === "Directions"

@@ -1,7 +1,7 @@
 === "Ingredients"
     * Brussels Sprouts, stems trimmed, halved lengthwise
     * Lard, Ghee, or Neutral Oil
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
     * Dried Cayenne Pepper, ground
 

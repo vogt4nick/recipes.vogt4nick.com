@@ -5,7 +5,7 @@
     * 6 Garlic Cloves, minced
     * 900 g Tomatoes, peeled, seeded, cored, chopped
     * 10 g White Sugar
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1 t Black Peppercorn, ground
     * 30 g Coriander Leaves, chopped
     * 45 g Lime Juice

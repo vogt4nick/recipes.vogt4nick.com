@@ -8,7 +8,7 @@ tags:
     * 400 g White Beans, rinsed
     * 60 g Pesto
     * 45 g Red Wine Vinegar
-    * 1/8 t Kosher Salt
+    * 1/8 t Medium-Grain Salt
     * 1/8 t Black Peppercorn, ground
 
 [^1]:

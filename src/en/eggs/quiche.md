@@ -7,7 +7,7 @@
         * 120 g Whole Milk
         * 120 g Heavy Cream
     * Seasonings
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/2 t Black Peppercorn, ground
         * 1/4 t Dried Cayenne Pepper, ground
     * 110 g Cheddar Cheese, grated

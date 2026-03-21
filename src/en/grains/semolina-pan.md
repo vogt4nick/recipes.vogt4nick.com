@@ -2,7 +2,7 @@
     * 1 T Unsalted Butter
     * 150 g Fine Semolina
     * 400 g Milk
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1/2 t Cumin Seed, whole
     * 1/4 t Dried Turmeric Root, ground
     * 1 Scallion, thinly sliced

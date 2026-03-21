@@ -2,7 +2,7 @@
     * 30 g Neutral Oil or Lard
     * 2 Onions, sliced
     * 1 t White Sugar (optional)
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/4 t Black Peppercorn, ground
     * 30 g Wine or Water
 

@@ -6,7 +6,7 @@ tags:
     * 1 T Olive Oil
     * 1/2 T Butter or Olive Oil
     * 50 g Onion, diced
-    * Kosher Salt
+    * Medium-Grain Salt
     * 3 Garlic Cloves, minced
     * 1 Jalapeño, sliced
     * 1/2 Bell Pepper, diced

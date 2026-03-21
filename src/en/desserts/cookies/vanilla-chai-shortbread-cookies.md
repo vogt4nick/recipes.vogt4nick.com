@@ -3,7 +3,7 @@
         * 220 g Unsalted Butter
         * 60 g Powdered Sugar
         * 250 g White Wheat Flour
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
         * 2 T Vanilla Chai Tea, loose leaf
     * Icing
         * 120 g Powdered Sugar

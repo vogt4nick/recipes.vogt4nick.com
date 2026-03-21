@@ -10,7 +10,7 @@
         * 1 t Lemon Juice or White Vinegar
         * 1 t Dried Dill
         * 1/2 t Worcestershire Sauce
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/2 t Black Peppercorn, ground
         * 1/2 t Dried Cayenne Pepper, ground
     * 360 g Dry Egg Noodles, cooked in salt water one minute less than al dente

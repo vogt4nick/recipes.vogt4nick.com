@@ -15,7 +15,7 @@ title: Italian wedding soup
     * 40 g Dry Stellini Pasta
     * 2 sprigs Dill Leaves, chopped
     * 120 g Young Kale, chopped
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorns, ground
     * Parmigiano-Reggiano, grated
 

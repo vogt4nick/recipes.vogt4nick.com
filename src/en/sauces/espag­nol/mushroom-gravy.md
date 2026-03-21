@@ -1,7 +1,7 @@
 === "Ingredients"
     * 30 g Unsalted Butter
     * 200 g Mushrooms, sliced
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 50 g Onion, sliced
     * 50 g Carrot, finely chopped
     * 500 g [Beef Stock](../../soups/stocks/meat-stock.md)

@@ -5,7 +5,7 @@
     * 4 Large Eggs, room temperature
     * 250 g Raw Pecans, roughly chopped
     * 1 t Vanilla Extract
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1 [Pie Crust, blind baked](../../breads/pastry-doughs/pie-crust.md)
 
 === "Directions"

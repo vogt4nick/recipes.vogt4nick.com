@@ -7,7 +7,7 @@
     * 1 T Unsalted Butter
     * 2 Onions, diced
     * 2 stalks Celery, diced
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 2 T Unsalted Butter
     * 3 T Wheat Flour
     * 1 T Curry Blend

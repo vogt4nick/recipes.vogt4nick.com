@@ -1,7 +1,7 @@
 === "Ingredients"
     * 100 g Bread Crumbs
     * Seasonings
-        * 2 t Kosher Salt
+        * 2 t Medium-Grain Salt
         * 2 t Dried Garlic, ground
         * 1 t Dried Onion, ground
         * 1 t Black Peppercorn, ground

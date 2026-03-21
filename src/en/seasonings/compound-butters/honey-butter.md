@@ -2,7 +2,7 @@
     * 2 T Unsalted Butter, softened
     * 1 t Honey
     * 1 t Powdered Sugar
-    * 1/8 t Kosher Salt
+    * 1/8 t Medium-Grain Salt
 
     !!! info "Ingredients yield about 3 T."
 

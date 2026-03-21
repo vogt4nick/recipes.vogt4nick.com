@@ -4,7 +4,7 @@
         * 100 g Water, boiling
     * 60 g Water, cold
     * 4 g Instant Dry Yeast
-    * 5 g Kosher Salt
+    * 5 g Medium-Grain Salt
     * 30 g Granulated Sugar
     * 1 Egg Yolk
     * 200 g White Wheat Flour, 13% protein

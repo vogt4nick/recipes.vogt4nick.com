@@ -2,7 +2,7 @@
     * Sauce
         * 500 g Tomatoes, peeled and chopped
         * 250 g [Tomato Sauce](../sauces/tomato-sauce/index.md)
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/4 t Black Peppercorn, ground
         * 1/4 t Dried Oregano Leaves
         * 1/4 t Dried Marjoram Leaves
@@ -17,7 +17,7 @@
     * 50 g Celery Stalk, minced
     * 2 Garlic Cloves, minced
     * 300 g Ground Beef
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 500 g Dry Spaghetti Pasta, cooked in saltwater
     * 200 g Mozzarella, shredded
     * 50 g Parmesan, grated

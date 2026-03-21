@@ -12,7 +12,7 @@
         * 1/4 t Paprika
         * 1/4 t Dried Cayenne Pepper, ground
     * 500 g Tomatoes, roughly chopped
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1 t White Sugar
     * 1/2 t Garam Masala
     * For Serving

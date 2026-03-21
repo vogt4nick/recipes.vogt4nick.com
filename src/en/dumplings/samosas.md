@@ -1,7 +1,7 @@
 === "Ingredients"
     * Dough
         * 125 g White Wheat Flour
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 30 g Unsalted Butter, cut into bits
         * 15 g Yogurt
         * 45 g Water, cold (5C)
@@ -13,7 +13,7 @@
         * 1 t Ginger, grated
         * 2 t Curry Powder
         * 1/4 t Black Peppercorn, ground
-        * 1/8 t Kosher Salt
+        * 1/8 t Medium-Grain Salt
         * 55 g Green Peas
         * 225 g Starchy Potatoes, peeled, 1 cm cubes, parboiled
     * Peanut Oil

@@ -5,7 +5,7 @@
     * 200 g Dark Beer
     * Sauce
         * 60 g Molasses or Honey
-        * 1 t Kosher Salt
+        * 1 t Medium-Grain Salt
         * 1/2 t Black Pepper, ground
         * 1 t Dijon Mustard
         * 2 T Tomato Paste

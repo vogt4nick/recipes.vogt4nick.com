@@ -14,7 +14,7 @@ title: Goulash
     * 200 g Carrots, diced
     * 200 g Starchy Potatoes, diced
     * 1 Bay Leaf
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/2 t Black Peppercorn, ground
     * For Serving
         * Sour Cream

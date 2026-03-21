@@ -5,7 +5,7 @@
         * 50 g Brown Sugar
         * 10 g Vanilla Extract
         * 290 g White Wheat Flour
-        * 2.1 t Kosher Salt
+        * 2.1 t Medium-Grain Salt
     * 240 g Raspberry Preserves
     * 240 g Berries, room temperature
     * 100 g White Chocolate Chips

@@ -11,7 +11,7 @@
     * 100 g [Dry Chickpeas, cooked](../legumes/beans/index.md)
     * 90 g Spinach Leaves, trimmed, roughly chopped
     * 1/2 T Thai Red Curry
-    * Kosher Salt
+    * Medium-Grain Salt
     * 3 Limes, juiced
     * 30 g Cilantro Leaves, roughly chopped
     * For Serving

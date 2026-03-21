@@ -1,7 +1,7 @@
 === "Ingredients"
     * 400 g Pork, roughly cubed
     * 1 t Black Peppercorn, ground
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/2 t Dried Sage Leaves
     * 1/4 t Paprika
     * 1/4 t Dried Cayenne Pepper, ground
@@ -10,7 +10,7 @@
     * 800 g Water, for simmering
     * 100 g Pork, sliced (optional)
     * 160 g Dry Polenta or Cornmeal
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * Cornmeal or Flour, for dusting
     * Neutral Oil, for pan frying
 

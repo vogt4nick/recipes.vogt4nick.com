@@ -8,7 +8,7 @@
         * 1 Orange, zested and juiced
         * 20 g Schnittlauch, chopped
         * Garlic Clove, minced
-        * 1/2 T Kosher Salt
+        * 1/2 T Medium-Grain Salt
 
     !!! tip "Avoid zesting the bitter, white rind under the orange peel."
 

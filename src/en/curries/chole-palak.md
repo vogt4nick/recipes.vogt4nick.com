@@ -14,7 +14,7 @@ tags:
     * 1/2 t Dried Red Chili, ground
     * 1/2 t Dried Turmeric Root, ground
     * 80 g Spinach, chopped
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 120 ml Water
     * 250 g [Dry Chickpeas, cooked](../legumes/beans/index.md)
     * 1/2 t Garam Masala

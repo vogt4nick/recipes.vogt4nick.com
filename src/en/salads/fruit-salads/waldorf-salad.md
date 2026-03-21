@@ -5,7 +5,7 @@
         * 20 g Lemon Juice
         * 10 g Tarragon Leaves, minced
         * 1/2 t White Sugar
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
         * 1 pinch Black Peppercorn, ground
         * 1 pinch Dried Cayenne Pepper, ground
     * 2 Apples, chopped

@@ -5,7 +5,7 @@
     * 80 g Cooking Fat
     * 3 sprigs Rosemary Leaves
     * 1/2 T Black Peppercorn, ground
-    * 1/2 T Kosher Salt
+    * 1/2 T Medium-Grain Salt
     * For Serving
         * 90 g Sour Cream (optional)
 

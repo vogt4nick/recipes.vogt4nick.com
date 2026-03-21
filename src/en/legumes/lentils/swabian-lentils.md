@@ -7,7 +7,7 @@ tags:
         * 400 g Water, hot
         * 200 g Dry Brown Lentils, soaked, drained
         * 2 g Baking Soda
-        * 1 t Kosher Salt
+        * 1 t Medium-Grain Salt
         * 2 Bay Leaf
         * 5 Juniper Berries or 1 Sprig Rosemary Leaves
     * 25 g Unsalted Butter
@@ -17,7 +17,7 @@ tags:
     * 500 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md), cold
     * 15 g White Vinegar
     * 5 g Dijon Mustard
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
 
 === "Directions"

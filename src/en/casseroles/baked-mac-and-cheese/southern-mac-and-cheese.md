@@ -8,7 +8,7 @@ title: Southern mac & cheese
     * 120 g Colby and Monterrey Jack Cheese, shredded
     * 200 g Cheddar and Gouda Cheese, shredded
     * 120 g Sharp Cheddar Cheese, shredded
-    * 1 T Kosher Salt
+    * 1 T Medium-Grain Salt
     * 1 T Black Peppercorn, ground
     * 2 Eggs, beaten
     * 360 g Dry Elbow Macaroni, cooked al dente, drained

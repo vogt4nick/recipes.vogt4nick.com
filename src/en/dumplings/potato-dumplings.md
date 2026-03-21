@@ -10,7 +10,7 @@ tags:
     * 20 g Semolina
     * 10 g Butter
     * 1 Egg Yolk
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
 
     !!! info "These amounts yield 2 servings."
 

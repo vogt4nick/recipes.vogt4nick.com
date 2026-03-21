@@ -9,7 +9,7 @@
         * 125 g White Wheat Flour
         * 50 g Cocoa Powder, unsweetened
         * 1 t Baking Soda
-        * 1/8 t Kosher Salt
+        * 1/8 t Medium-Grain Salt
         * 15 g Milk
         * 225 g White Chocolate Chips
 

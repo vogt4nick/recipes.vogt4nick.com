@@ -8,7 +8,7 @@ title: Cantonese chicken & corn egg drop soup
     * 60 g Chicken Breast
     * 60 g Frozen Corn Kernels, thawed
     * Seasoning
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/4 t White Sugar
         * 1/4 t Fish Sauce or Soy Sauce
     * Slurry

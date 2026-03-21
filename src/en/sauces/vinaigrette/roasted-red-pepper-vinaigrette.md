@@ -3,7 +3,7 @@
     * 50 g Olive Oil
     * 45 g Red Wine Vinegar
     * 15 g Shallots, minced
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 1/2 t Black Peppercorn, ground
 
     !!! info "Yields about 300 g"

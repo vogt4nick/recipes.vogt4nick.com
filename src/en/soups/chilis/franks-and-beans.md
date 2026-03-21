@@ -4,7 +4,7 @@
     * 55 g Mild Pepper, minced
     * 15 g Hot Pepper, minced
     * 1 stem Chard, minced
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/4 t Black Peppercorn, ground
     * 220 g Sausage, sliced
     * Seasonings

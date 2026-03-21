@@ -3,7 +3,7 @@ title: Kewpie-style mayonnaise
 ---
 === "Ingredients"
     * 120 g Mayonnaise
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 3/4 t White Sugar
     * 1 t Dijon Mustard
     * Hot Sauce, to taste

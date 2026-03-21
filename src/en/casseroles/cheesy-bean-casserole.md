@@ -6,7 +6,7 @@
     * 1 Bell Pepper, chopped
     * 2 T Tomato Paste
     * Chili Powder
-        * 2 t Kosher Salt
+        * 2 t Medium-Grain Salt
         * 1 t Cumin Seed, ground
         * 1 t Smoked Paprika
         * 1 t Sweet Paprika

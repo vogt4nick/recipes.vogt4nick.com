@@ -7,7 +7,7 @@ title: PB paprika cookies
         * 80 g Whole Wheat Flour
         * 1 1/4 t Baking Powder
         * 3/4 t Baking Soda
-        * 1 1/4 t Kosher Salt
+        * 1 1/4 t Medium-Grain Salt
         * 1/2 t Paprika
     * Batter
         * 220 g Unsalted Butter, room temperature

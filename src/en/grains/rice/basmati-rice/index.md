@@ -5,7 +5,7 @@ title: Basmati rice
     * 200 g Dry Basmati Rice
     * Cool water, for rinsing and soaking
     * 400 g Water
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
 
 === "Directions"
     1. **Rinse** rice several times until water runs mostly clear.

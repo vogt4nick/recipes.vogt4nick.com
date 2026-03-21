@@ -5,7 +5,7 @@ title: Hollandaise
     * Diluted Lemon Juice
         * 10 g Lemon Juice
         * 20 g Water, cold
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
     * For Initial Emulsion
         * 3 Egg Yolks
         * 15 g Butter, cold

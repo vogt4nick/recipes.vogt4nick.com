@@ -6,7 +6,7 @@ tags:
 === "Ingredients"
     * 200 g Dry Lentils
     * 600 g Water or [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
-    * 1/2 t Kosher Salt (optional)
+    * 1/2 t Medium-Grain Salt (optional)
 
     !!! info "Yields 400 g cooked lentils."
 

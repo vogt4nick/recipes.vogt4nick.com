@@ -2,7 +2,7 @@
     * 10 g Olive Oil
     * 200 g Dry Quinoa, rinsed
     * 350 g Water or [Stock](../../soups/stocks/vegetable-stock.md)
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 100 g Green Peas
     * 100 g Carrots, grated
 

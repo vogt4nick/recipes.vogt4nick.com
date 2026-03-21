@@ -9,7 +9,7 @@
         * 120 g White Wheat Flour
         * 100 g Brown Sugar
         * 1/2 t Cinnamon, ground
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
         * 140 g Unsalted Butter, chilled, chopped into 5 g pieces
     * Filling
         * 150 g White Sugar
@@ -17,7 +17,7 @@
         * 1 t Nutmeg, ground
         * 1/2 t Cinnamon, ground
         * 1/2 t Allspice, ground
-        * 1/2 T Kosher Salt
+        * 1/2 T Medium-Grain Salt
         * 225 g Cranberries
         * 100 g Bosc Pear, peeled, grated
     * 1 [Pie Crust, blind baked](../../breads/pastry-doughs/pie-crust.md)

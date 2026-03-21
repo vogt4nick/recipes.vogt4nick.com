@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 250 g Kosher Salt
+    * 250 g Medium-Grain Salt
     * 20 g Garlic
     * 16 g Fresh Rosemary Leaves
     * 8 g Fresh Sage Leaves

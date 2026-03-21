@@ -5,7 +5,7 @@ tags:
 ---
 === "Ingredients"
     * 200 g Dry Beans
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1 T Lard or Clarified Butter
     * 1 Onion, halved
     * Spices, to temper
@@ -16,7 +16,7 @@ tags:
         * 1/2 t Dried Marjoram or Oregano Leaves
         * 2 Bay Leaves
     * 1/2 t Dry Epazote Leaves, ground
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1 t Baking Soda
     * Water or [Chicken Stock](../../soups/stocks/meat-stock.md)
 

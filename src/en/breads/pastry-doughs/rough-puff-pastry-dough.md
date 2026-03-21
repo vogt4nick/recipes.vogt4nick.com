@@ -1,7 +1,7 @@
 === "Ingredients"
     * 160 g White Wheat Flour
     * 1 t Granulated Sugar
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 160 g Unsalted Butter, cold, cubed
     * 120 ml Ice Water
 

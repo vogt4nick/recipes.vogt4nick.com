@@ -2,7 +2,7 @@
     * 1/2 T Chia Seeds
     * 3/4 t Poppy Seeds
     * 1/2 t Cinnamon, ground
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 1/8 t Cardamom Seed, ground
     * 30 g Raisins
     * 30 g Pine Nuts
@@ -15,7 +15,7 @@
     * 1 T Chia Seeds
     * 1 t Poppy Seeds
     * 1/2 t Cinnamon, ground
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 1/8 t Cardamom Seed, ground
     * 30 g Raisins
     * 30 g Pine Nuts

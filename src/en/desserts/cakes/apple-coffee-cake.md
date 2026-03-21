@@ -7,7 +7,7 @@
     * 240 g White Wheat Flour
     * 1 t Baking Powder
     * 1/4 t Baking Soda
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 120 g Unsalted Butter, room temperature
     * 200 g White Sugar
     * 3 (150 g) Eggs, room temperature

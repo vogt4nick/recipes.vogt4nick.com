@@ -1,7 +1,7 @@
 === "Ingredients"
     * Carrots, chopped into thumb-sized pieces
     * Lard, Ghee, Olive Oil, or Neutral Oil
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
     * Dried Cayenne Pepper, ground
 

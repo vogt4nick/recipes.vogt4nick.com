@@ -4,7 +4,7 @@ title: Millet
 === "Ingredients"
     * 100 g Dry Millet
     * 250 g Water or [Stock](../../soups/stocks/vegetable-stock.md)
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 1 t Butter
 
     !!! info "Yields 300 g cooked millet."

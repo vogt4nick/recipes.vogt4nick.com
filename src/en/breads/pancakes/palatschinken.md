@@ -4,7 +4,7 @@ tags:
 ---
 === "Ingredients"
     * 120 g White Wheat Flour
-    * Kosher Salt
+    * Medium-Grain Salt
     * 1 Egg
     * 250 g Milk
     * For Serving

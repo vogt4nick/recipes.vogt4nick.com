@@ -4,7 +4,7 @@ title: Polenta
 === "Ingredients"
     * 1000 g Water or [Stock](../../soups/stocks/vegetable-stock.md)
     * 200 g Dry Polenta or Cornmeal
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 2 T Unsalted Butter
     * 30 g Parmigiano-Reggiano, grated
 

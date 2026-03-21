@@ -1,6 +1,6 @@
 === "Ingredients"
     * Sweet Potato, peeled
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
     * Unsalted Butter
 

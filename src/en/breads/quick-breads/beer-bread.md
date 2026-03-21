@@ -1,7 +1,7 @@
 === "Ingredients"
     * 360 g White Wheat Flour
     * 1 T Baking Powder
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 300 g Beer
     * 60 g Honey or Brown Sugar
     * 90 g Unsalted Butter, cold, divided into 8 slices

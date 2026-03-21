@@ -13,7 +13,7 @@ title: Tavče gravče
     * 1 T Flour
     * 3 T Sweet Paprika
     * 1 t Black Peppercorn, ground
-    * 1 T Kosher Salt
+    * 1 T Medium-Grain Salt
     * 1 t Dried Mint Leaves
     * 2 Fresh Red Chili Peppers, sliced into rings
     * For Serving

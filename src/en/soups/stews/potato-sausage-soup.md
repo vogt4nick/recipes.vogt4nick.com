@@ -2,7 +2,7 @@
     * 40 g Unsalted Butter
     * 200 g Sausage, sliced
     * 200 g Onion, minced
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 25 g White Wheat Flour
     * 2 Garlic Cloves, minced
     * 2 t Paprika

@@ -3,7 +3,7 @@
     * 100 g White Wheat Flour
     * 1 T Baking Powder
     * 1/4 t Baking Soda
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 50 g White Sugar
     * 60 g Honey
     * 1 Egg Yolk, room temperature

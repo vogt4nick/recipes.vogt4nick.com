@@ -15,7 +15,7 @@ tags:
     * 60 g Wheat Flour
     * Seasonings
         * 3 Garlic Cloves, minced
-        * 1/2 T Kosher Salt
+        * 1/2 T Medium-Grain Salt
         * 1 t Garlic Powder
         * 1 t Onion Powder
         * 1 t Black Peppercorn, ground

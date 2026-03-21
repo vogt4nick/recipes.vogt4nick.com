@@ -6,7 +6,7 @@ title: Spaetzle
     * 4 Eggs
     * 133 g Milk
     * 15 g Unsalted Butter
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
 
     !!! info "Yields 4 servings."
 

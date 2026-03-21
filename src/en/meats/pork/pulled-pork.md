@@ -1,7 +1,7 @@
 === "Ingredients"
     * 3000 g Pork Shoulder, bone-in
     * Seasonings
-        * 2 T Kosher Salt
+        * 2 T Medium-Grain Salt
         * 1 T Black Peppercorn, ground
         * 1 T Paprika
         * 1 T Brown Sugar

@@ -9,12 +9,12 @@ tags:
     * 180 g Onion, sliced
     * 55 g Vegetable Oil
     * 180 g Shallot, sliced
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 600 g [Spätzle](../spaetzle/index.md)
     * 15 g Unsalted Butter
     * 120 g Gruyere, grated
     * 120 g Emmental, grated
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1 t Black Peppercorn, ground
     * 60 g Gruyere, sliced
     * 60 g Emmental, sliced

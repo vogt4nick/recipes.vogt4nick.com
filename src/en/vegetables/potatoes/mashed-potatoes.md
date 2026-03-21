@@ -6,7 +6,7 @@
     * 80 g Milk, whole
     * 25 g Unsalted Butter
     * 1 Sprig Rosemary Leaves, chopped
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 1/4 t Black Peppercorn, ground
 
 === "Directions"

@@ -1,7 +1,7 @@
 === "Ingredients"
     * 2 Eggs
     * 120 g Milk
-    * Kosher Salt
+    * Medium-Grain Salt
     * 1 t Vanilla Extract
     * 1/2 t Cinnamon, ground
     * 1/4 t Allspice Corns, ground

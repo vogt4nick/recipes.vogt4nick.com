@@ -7,7 +7,7 @@ tags:
     * Vinaigrette
         * 80 g Olive Oil
         * 25 g Red Wine Vinegar or Lemon Juice
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/2 t Black Peppercorn, ground
     * 40 g Shallots or Red Onion
     * 400 g [Dry Legumes, slightly undercooked](../../legumes/beans/index.md), warm

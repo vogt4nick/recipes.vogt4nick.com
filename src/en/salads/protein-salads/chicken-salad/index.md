@@ -11,7 +11,7 @@
         * 1 t Dried Thyme Leaves
         * 1 t Dried Rosemary Leaves
         * 1 t Black Peppercorn, ground
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * Lemon Zest
 
 === "Directions"

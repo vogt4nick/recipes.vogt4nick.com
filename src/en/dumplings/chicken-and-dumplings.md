@@ -2,7 +2,7 @@
     * [Chicken Soup](../soups/stews/chicken-soup.md)
     * 240 g White Wheat Flour
     * 1 T Baking Powder
-    * 1 t Kosher Salt (optional)
+    * 1 t Medium-Grain Salt (optional)
     * 3 T Neutral Oil
     * 180 g Buttermilk
 

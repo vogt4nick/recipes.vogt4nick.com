@@ -11,7 +11,7 @@ tags:
     * 2 Scallions, thinly sliced
     * Seasonings
         * 1 t Paprika
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/2 t Black Peppercorn, ground
     * For Serving
         * Fresh Mint Leaves, minced

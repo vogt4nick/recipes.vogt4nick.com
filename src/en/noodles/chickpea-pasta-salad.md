@@ -2,7 +2,7 @@
     * 400 g Zucchini, chopped
     * 600 g Cooked Chickpeas, rinsed
     * 1 T Olive Oil
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
     * 400 g Dry Fusilli Pasta, cooked
     * 300 g Reserved Pasta Water

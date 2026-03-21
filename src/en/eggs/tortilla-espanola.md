@@ -2,7 +2,7 @@
 
 === "Ingredients"
     * 8 Eggs
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 475 g Extra-Virgin Olive Oil
     * 700 g Yukon Gold Potatoes, peeled, halved, thinly sliced
     * 350 g Yellow Onion, thinly sliced

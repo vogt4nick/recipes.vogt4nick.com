@@ -1,6 +1,6 @@
 === "Ingredients"
     * Salt Blend
-        * 2 T Kosher Salt
+        * 2 T Medium-Grain Salt
         * 1 T Black Peppercorn, ground
         * 1 T [Poultry Seasoning](../../seasonings/spice-blends/poultry-seasoning.md)
     * 2 Carrots, thickly chopped

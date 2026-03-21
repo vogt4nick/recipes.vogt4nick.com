@@ -2,7 +2,7 @@
     * 285 g Cake Flour
     * 2 1/2 t Baking Powder
     * 1/4 t Baking Soda
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 220 g Unsalted Butter
     * 350 g White Granulated Sugar
     * 4 Egg Yolks

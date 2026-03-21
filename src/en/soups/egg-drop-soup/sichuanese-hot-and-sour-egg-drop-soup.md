@@ -7,7 +7,7 @@ title: Sichuanese hot & sour egg drop soup
     * 480 g [Chicken Stock](../stocks/meat-stock.md) or Water
     * Seasoning
         * 1/2 t Soy Sauce
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/4 t Fish Sauce
     * Slurry
         * 1 T Potato Starch

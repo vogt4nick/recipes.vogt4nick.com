@@ -7,7 +7,7 @@
     * 1/4 t Cumin
     * 1/4 t Black Peppercorn, ground
     * 1/4 t [Chinese Five Spice](../../../seasonings/spice-blends/chinese-five-spice.md)
-    * Kosher Salt
+    * Medium-Grain Salt
 
 === "Directions"
     1. **Deglaze roasting pan.** Spoon off excess fat from roasting pan. Add accumulated duck juices and water to pan. Set on 2 burners over medium-high heat, and cook, scraping brown bits with a wooden spoon until all bits are scraped up.

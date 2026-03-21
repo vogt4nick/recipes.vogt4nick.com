@@ -6,7 +6,7 @@ tags:
     * 2 t Olive Oil
     * 30 g Dry Vermicelli or Dry Spaghetti, broken into 5-cm pieces
     * 120 g Dry Basmati Rice, rinsed, soaked 20 minutes
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 360 g Water
     * 20 g Almonds, toasted
 

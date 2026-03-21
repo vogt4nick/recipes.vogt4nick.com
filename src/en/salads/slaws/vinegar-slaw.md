@@ -11,7 +11,7 @@ tags:
         * 25 g Vegetable Oil
         * 40 g White Sugar
         * 1 t Dijon Mustard
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/4 t Black Peppercorn, ground
 
 === "Directions"

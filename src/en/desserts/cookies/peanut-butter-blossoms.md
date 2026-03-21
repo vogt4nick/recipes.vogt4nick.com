@@ -2,7 +2,7 @@
     * Dry Mix
         * 160 g White Wheat Flour
         * 1/2 t Baking Soda
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
     * 110 g Unsalted Butter, room temperature, sliced into ribbons
     * 50 g White Sugar
     * 100 g Light Brown Sugar

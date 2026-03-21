@@ -6,7 +6,7 @@
         * 110 g Unsalted Butter
         * 250 g Dark Brown Sugar
         * 40 g Yellow Cornmeal, finely ground
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 3 Eggs, room temperature
         * 1 Egg Yolk, room temperature
         * 60 g Whole Milk
@@ -15,14 +15,14 @@
     * Marshmallow Creme
         * 1 Egg White, room temperature
         * 220 g Light Corn Syrup
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
         * 85 g Powdered Sugar
         * 10 g Vanilla Extract
     * Marshmallow Meringue
         * 4 Egg Whites, room temperature
         * 100 g White Sugar
         * 1/4 t Cream of Tartar
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
     * 1 [Pie Crust, blind baked](../../breads/pastry-doughs/pie-crust.md)
     * Egg Wash
         * 1 Egg, beaten

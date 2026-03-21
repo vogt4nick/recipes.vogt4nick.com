@@ -9,7 +9,7 @@ tags:
         * 2 T Dijon Mustard
         * 2 T White Wine Vinegar
         * 6 T Olive Oil
-        * Kosher Salt
+        * Medium-Grain Salt
         * Black Peppercorn, ground
 
 === "Directions"

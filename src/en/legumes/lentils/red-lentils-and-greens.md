@@ -17,7 +17,7 @@ tags:
         * 1 T Ginger, minced
         * 1 t Paprika
         * 1 t Dried Dried Cayenne Pepper, ground
-        * Kosher Salt
+        * Medium-Grain Salt
         * Black peppercorn, ground
     * For serving
         * 200 g [Dry Basmati Rice, cooked](../../grains/rice/basmati-rice/index.md)

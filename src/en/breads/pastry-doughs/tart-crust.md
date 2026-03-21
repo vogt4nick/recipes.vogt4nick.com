@@ -1,6 +1,6 @@
 === "Ingredients"
     * 155 g White Wheat Flour
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 25 g White Sugar
     * 140 g Unsalted Butter, cold, divided into 5 g chunks
     * 1 Egg Yolk

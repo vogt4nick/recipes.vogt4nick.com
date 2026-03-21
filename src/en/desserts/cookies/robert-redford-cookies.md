@@ -7,7 +7,7 @@ title: Robert Redford cookies
         * 60 g Whole Wheat Flour
         * 180 g Rolled Oats
         * 1/2 T Baking Powder
-        * 1/2 T Kosher Salt
+        * 1/2 T Medium-Grain Salt
         * 1 t Baking Soda
         * 1/4 t Cinnamon, ground
         * 1/4 t Nutmeg, ground
@@ -20,7 +20,7 @@ title: Robert Redford cookies
     * 120 g Milk Chocolate, chopped
     * 55 g Walnuts, toasted, roughly chopped
     * For Garnish
-        * Kosher Salt
+        * Medium-Grain Salt
 
 === "Directions"
     1. **Whisk dry mix** ingredients together. Set aside.
@@ -28,7 +28,7 @@ title: Robert Redford cookies
     3. **Chill and hydrate dough.** Wrap dough tightly in plastic wrap. Chill 24-72 hours.
     4. **Reheat dough.** Rest dough at room temperature 2-3 hours before baking.
     5. **Preheat oven** to 350ºF (177ºC).
-    6. **Arrange cookies** in 2" (5 cm) dough balls on a parchment-dressed sheetpan. Slightly flatten each cookie and garnish with kosher salt.
+    6. **Arrange cookies** in 2" (5 cm) dough balls on a parchment-dressed sheetpan. Slightly flatten each cookie and garnish with Medium-Grain Salt.
     7. **Bake cookies** 16 - 18 minutes at 350ºF until edges are just slightly golden.
     8. **Cool cookies** on a wire rack before serving.
 

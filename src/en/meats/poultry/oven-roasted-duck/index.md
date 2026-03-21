@@ -4,7 +4,7 @@ title: Oven roasted duck
 === "Ingredients"
     * 1 Whole Duck
     * Seasonings
-        * 4 t Kosher Salt
+        * 4 t Medium-Grain Salt
         * 2 t Black Peppercorn, ground
     * Root Vegetables, roughly chopped (optional)
     * [Orange Marmalade Pan Sauce](./orange-marmalde-pan-sauce.md) (optional)

@@ -1,6 +1,6 @@
 === "Ingredients"
     * 100 g Unsalted Butter, room temperature
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1 T Black Peppercorn, ground
     * 2 T Fresh Thyme Leaves, minced
     * 4 T Fresh Sage Leaves, minced

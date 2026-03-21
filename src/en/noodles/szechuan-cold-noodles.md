@@ -13,7 +13,7 @@ tags:
         * 5 g Sesame Oil
         * 5 g [Tahini Paste](../sauces/tahini-paste.md)
         * 2 Garlic Cloves, minced
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
     * Garnish
         * Scallions, chopped
         * Peanuts, smashed, toasted

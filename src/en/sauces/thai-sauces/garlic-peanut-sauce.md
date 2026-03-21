@@ -9,7 +9,7 @@
     * 15 g Tamarind Paste
     * 15 g White Sugar
     * 35 g Peanut Butter
-    * Kosher Salt
+    * Medium-Grain Salt
 
 === "Directions"
     1. **Sweat onions.** Heat vegetable oil in a wok over medium-low heat. Add onion, garlic. Sweat 8 minutes until it starts to brown.

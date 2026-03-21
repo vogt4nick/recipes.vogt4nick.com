@@ -5,7 +5,7 @@
     * 1 T Tomato Paste
     * Spices
         * 1 t Cumin Seed
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/4 t Black Peppercorn, ground
         * 1 Dried Red Pepper
     * 1000 g [Chicken Stock](../stocks/meat-stock.md)

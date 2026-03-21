@@ -9,7 +9,7 @@ tags:
     * 120 g Mushrooms, sliced
     * 60 g Spinach, sliced
     * Black Peppercorn, ground
-    * Kosher Salt
+    * Medium-Grain Salt
 
 === "Directions"
     1. **Cook mushrooms.** Heat olive oil over medium heat. Add mushrooms, and cook about 10 minutes, stirring occassionally, until mushrooms are soft and their water is mostly done evaporating. Add garlic and cook an additional 2 minutes, stirring occassionally.

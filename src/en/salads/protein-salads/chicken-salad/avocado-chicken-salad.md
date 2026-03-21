@@ -9,7 +9,7 @@
         * 2 T Dried Tarragon Leaves
         * 1 T Dried Dill Leaves
         * 1 t Black Peppercorn, ground
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/4 t Garlic Powder
         * 1/4 t Onion Powder
         * Lemon Juice

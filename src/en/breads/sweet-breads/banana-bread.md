@@ -3,7 +3,7 @@
         * 180 g White Wheat Flour
         * 1 t Baking Soda
         * 1 t Baking Powder
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/4 t Cinnamon, ground
         * 1/4 t Nutmeg, grated
     * 3 Ripe Bananas, peeled, mashed

@@ -13,7 +13,7 @@
     * 110 g Celery, chopped
     * 110 g Carrot, chopped
     * 330 g Ground Beef
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1/2 t Black Peppercorn, ground
     * 240 g Whole Milk
     * 1 pinch Nutmeg

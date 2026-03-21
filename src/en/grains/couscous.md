@@ -1,7 +1,7 @@
 === "Ingredients"
     * 100 g Dry White Couscous or Dry Whole Wheat Couscous
     * 250 g Water or [Stock](../soups/stocks/vegetable-stock.md)
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
 
     !!! info "Yields 300 g cooked quinoa."
 

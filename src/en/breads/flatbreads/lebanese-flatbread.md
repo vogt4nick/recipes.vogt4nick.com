@@ -8,7 +8,7 @@ tags:
         * 1 t Active Dry Yeast
         * 1 t White Sugar
         * 120 g Water, warm
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1 T Olive Oil
     * 120 g White Wheat Flour, 13% protein
 

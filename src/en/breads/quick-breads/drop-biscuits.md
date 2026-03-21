@@ -2,7 +2,7 @@
     * 110 g Unsalted Butter, cold, cut into 1/4-inch cubes
     * 220 g White Wheat Flour
     * 2 t Baking Powder
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 180 g Whole Milk
     * 60 g Cheddar Cheese, shredded (optional)
 

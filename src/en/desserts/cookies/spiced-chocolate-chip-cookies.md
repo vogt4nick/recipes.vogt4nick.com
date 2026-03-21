@@ -11,7 +11,7 @@
         * 1/2 t Cloves, ground
         * 1/2 t Allspice Peppercorns, ground
         * 1/2 t Black Peppercorns, ground
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
     * Wet Mix
         * 220 g Unsalted Butter, melted, cooled slightly
         * 150 g Brown Sugar

@@ -1,6 +1,6 @@
 === "Julia's Ingredients"
     * 200 g White Wheat Flour
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/2 t White Sugar
     * 110 g Unsalted Butter, chilled, chopped
     * 90 g Water, cold (0-5ºC)
@@ -10,7 +10,7 @@
 === "Lisa's Ingredients"
     * 320 g White Wheat Flour
     * 1 t White Sugar
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 220 g Unsalted Butter, chilled, divided into 5 g chunks
     * 120 g Water, cold (0-5ºC)
 

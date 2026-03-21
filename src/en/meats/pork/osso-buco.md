@@ -1,6 +1,6 @@
 === "Ingredients"
     * 6 Thick-cut Pork Shank Sections
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
     * 1 T Olive Oil
     * 1 T Butter

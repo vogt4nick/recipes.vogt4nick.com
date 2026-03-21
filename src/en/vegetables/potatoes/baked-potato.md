@@ -1,7 +1,7 @@
 === "Ingredients"
     * Russet Potatoes
     * Olive Oil
-    * Kosher Salt
+    * Medium-Grain Salt
     * For Garnish
         * Unsalted Butter
         * Black Peppercorn, ground

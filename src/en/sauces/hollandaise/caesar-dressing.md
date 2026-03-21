@@ -6,7 +6,7 @@
     * 15 g Lemon Juice
     * 1 t Dijon Mustard
     * 30 g Parmigiano-Reggiano, grated
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 1/4 t Black Peppercorn, ground
 
 === "Fancy Ingredients"
@@ -19,7 +19,7 @@
     * 60 g Lemon Juice
     * 15 g Water, cold
     * 1 t Black Peppercorn, ground
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
 
 === "Directions"
     1. **Combine** all ingredients by whisking or blending in a food processor.

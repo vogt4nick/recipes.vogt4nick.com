@@ -13,7 +13,7 @@ tags:
     * 2 Bay Leaves
     * Fresh Thyme Sprigs
     * Fresh Parsley Sprigs, chopped
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
 
 === "Directions"

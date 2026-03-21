@@ -4,7 +4,7 @@
     * 1/2 T Fresh Thyme Leaves, destemmed
     * 1/2 T Fresh Rosemary Leaves, destemmed
     * 1/2 T Lemon Zest
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1 t Black Peppercorn, ground
 
 === "Directions"

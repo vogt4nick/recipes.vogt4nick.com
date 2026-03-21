@@ -6,13 +6,13 @@
     * 360 g White Rice, cooked, cold
     * 1 Egg, beaten
     * Seasonings for Egg & Vegetables
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
         * 1/2 t Black Peppercorn, ground
     * Seasonings for Rice
         * 1 Garlic Clove, chopped
         * 1/2 t Ginger, chopped
         * 1 t Unsalted Butter
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
     * Sauces
         * 2 T Rice Wine
         * 1 T Soy Sauce

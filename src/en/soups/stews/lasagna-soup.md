@@ -7,7 +7,7 @@
     * 110 g Onion, minced
     * 2 Garlic Cloves, minced
     * 330 g Beef, ground
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1/2 t Black Peppercorn, ground
     * 1 pinch Nutmeg, ground
     * 500 g Tomatoes, peeled, chopped

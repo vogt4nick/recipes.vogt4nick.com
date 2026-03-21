@@ -1,7 +1,7 @@
 === "Ingredients"
     * Waxy Potatoes, chopped into thumb-sized pieces
     * Lard, Ghee, or Neutral Oil
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
     * Dried Cayenne Pepper, ground
 

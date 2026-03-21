@@ -5,7 +5,7 @@
     * 100 g Celery, minced
     * 100 g Onions, minced
     * 2 Garlic Cloves, minced
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 3 T White Wheat Flour
     * Spices
         * 1 Bay Leaf

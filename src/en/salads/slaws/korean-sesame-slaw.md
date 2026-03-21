@@ -5,7 +5,7 @@
         * 1 1/2 T Rice Wine Vinegar
         * 3/4 T Sesame Oil
         * 1/2 t Sugar
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
     * 1/2 T Sesame Seeds, toasted
 
 === "Directions"

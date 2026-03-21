@@ -5,7 +5,7 @@
     * 1 sprig Fresh Mint Leaves, minced
     * 2 sprigs Fresh Dill Leaves, minced
     * 1 t Lemon Zest
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorns, ground
 
     !!! info "These ingredients yield 12 small meatballs."

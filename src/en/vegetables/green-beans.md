@@ -1,5 +1,5 @@
 === "Ingredients"
-    * Kosher Salt
+    * Medium-Grain Salt
     * 200 g Green Beans, trimmed
     * 15 g Unsalted Butter
     * 1/4 t Garlic Powder

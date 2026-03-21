@@ -9,7 +9,7 @@ tags:
     * 15 g Tomato Paste
     * 15 g Lemon Juice
     * 15 g Red Wine Vinegar
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1 t Garlic Powder
     * 1 t [Garam Masala](../../seasonings/spice-blends/garam-masala.md)
 

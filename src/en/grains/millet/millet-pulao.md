@@ -5,7 +5,7 @@ tags:
 ---
 === "Ingredients"
     * 100 g Dry Millet, soaked 1 hour
-    * 3/4 t Kosher Salt
+    * 3/4 t Medium-Grain Salt
     * 1 1/2 T Oil
     * 360 g Water or [Stock](../../soups/stocks/vegetable-stock.md)
     * 200 g Vegetables, chopped

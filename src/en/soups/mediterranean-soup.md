@@ -9,7 +9,7 @@
     * 110 g Carrots, minced
     * 110 g Celery, minced
     * 2 Garlic Cloves, minced
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/2 t White Pepper
     * 30 g Water
     * 110 g Zucchini, roughly chopped

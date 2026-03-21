@@ -1,7 +1,7 @@
 === "Ingredients"
     * Butternet Squash, chopped into thumb-sized pieces
     * Olive Oil or Neutral Oil
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
     * Cumin Seed, ground
     * Paprika

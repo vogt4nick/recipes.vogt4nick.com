@@ -11,7 +11,7 @@ tags:
     * 1 T Tomato Paste
     * 1 t Cumin Seed, ground
     * 1 t Paprika
-    * 1/2 T Kosher Salt
+    * 1/2 T Medium-Grain Salt
     * 2 Medium Carrots, grated
     * 1 1/2 T Apple Cider Vinegar
     * 500 g Cooked Cannellini Beans

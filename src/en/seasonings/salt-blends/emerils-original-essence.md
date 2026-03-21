@@ -3,7 +3,7 @@ title: Emeril's original essence
 ---
 === "Ingredients"
     * 2 1/2 T Paprika
-    * 2 T Kosher Salt
+    * 2 T Medium-Grain Salt
     * 2 T Garlic Powder
     * 1 T Black Peppercorn, ground
     * 1 T Onion Powder

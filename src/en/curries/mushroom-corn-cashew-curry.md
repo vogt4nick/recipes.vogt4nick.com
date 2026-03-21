@@ -12,7 +12,7 @@ tags:
     * 1/2 t Cumin Seed, whole
     * 1 Garlic Clove, minced
     * 2 t Coriander Seed, ground
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1/4 t Dried Turmeric Root, ground
     * 1/4 t Paprika
     * 200 g Mushrooms, sliced

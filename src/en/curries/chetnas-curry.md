@@ -11,7 +11,7 @@ tags:
     * 1 t Black Mustard Seed
     * 3 Garlic Cloves, chopped
     * 3 Tomatoes, peeled and chopped
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 2 Dried Red Chilis
     * 1 t Harissa or Red Chili Paste
     * Water

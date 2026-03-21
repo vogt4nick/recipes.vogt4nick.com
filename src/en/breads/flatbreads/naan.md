@@ -1,6 +1,6 @@
 === "Ingredients"
     * 180 g White Wheat Flour, 13% protein
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 2 t Baking Powder
     * 240 g Plain Greek Yogurt
     * 4 Garlic Cloves, crushed

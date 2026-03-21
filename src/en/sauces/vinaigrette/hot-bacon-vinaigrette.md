@@ -2,7 +2,7 @@
     * 220 g Bacon, roughly chopped
     * 25 g Neutral Oil
     * 80 g Onions, minced
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 2 Garlic Cloves, minced
     * 120 g Water
     * 60 g Apple Cider Vinegar
@@ -14,7 +14,7 @@
         * 1 t Cornstarch
         * 10 g Water, cold
     * For Seasoning
-        * Kosher Salt
+        * Medium-Grain Salt
         * Black Peppercorns, ground
 
 === "Directions"

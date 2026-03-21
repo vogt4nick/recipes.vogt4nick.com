@@ -3,14 +3,14 @@
     * 90 g Water
     * 3 Beefsteak Tomatoes, cored and seeded, minced
     * 1 Cucumber, minced
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
     * 1 Scallion, minced
     * Fresh Parsley Leaves, minced
     * Vinaigrette, prepared as [per recipe](../../sauces/vinaigrette/index.md) with following ingredients
         * 50 g Lemon Juice
         * 50 g Olive Oil
-        * Kosher Salt
+        * Medium-Grain Salt
         * Black Peppercorn, ground
     * For serving
         * Romaine lettuce leaves

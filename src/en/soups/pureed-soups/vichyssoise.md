@@ -2,7 +2,7 @@
     * 25 g Olive Oil
     * 300 g Potatoes, peeled, chopped
     * 100 g Leeks, halved, rinsed, sliced width-wise
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/2 t Black Peppercorn, ground
     * 800 g [Vegetable Stock](../stocks/vegetable-stock.md)
     * 200 g Heavy Cream

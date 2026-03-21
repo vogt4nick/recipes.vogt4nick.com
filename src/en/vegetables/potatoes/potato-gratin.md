@@ -1,7 +1,7 @@
 === "Ingredients"
     * 500 g Heavy Cream
     * 2 Large Eggs
-    * 1/2 T Kosher Salt
+    * 1/2 T Medium-Grain Salt
     * 1/2 t Black Peppercorn, ground
     * 1/2 t Nutmeg, grated
     * 3 Large Russet Potatoes, peeled, thinly sliced

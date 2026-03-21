@@ -13,7 +13,7 @@
     * 120 g Carrots, grated
     * 1 Red Bell Pepper, thinly sliced
     * 4 Green Onions, thinly sliced
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * For Seasoning
         * 80 g Peanuts, roasted, chopped
         * 50 g Basil Leaves, chopped

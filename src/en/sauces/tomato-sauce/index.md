@@ -5,7 +5,7 @@ title: Tomato sauce
     * 400 g Tomatoes, peeled and quartered
     * 3 T Unsalted Butter
     * 1/2 Onion
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
 
 === "Directions"
     1. **Combine ingredients** in a saucepan over medium heat. Crush tomatoes.

@@ -8,7 +8,7 @@
     * Red Bell Pepper, minced
     * Zucchini, chopped
     * 200 g Feta Cheese
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
 
 === "Directions"

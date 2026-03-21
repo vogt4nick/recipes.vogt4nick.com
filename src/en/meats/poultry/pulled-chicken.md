@@ -1,6 +1,6 @@
 === "Ingredients"
     * Spices
-        * 2 t Kosher Salt
+        * 2 t Medium-Grain Salt
         * 2 T Cumin Seed, ground
         * 1 T Sumac
         * 2 t Smoked Paprika

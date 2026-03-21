@@ -7,7 +7,7 @@
     * 250 g White Mushrooms, quartered
     * 50 g Baby Spinach Leaves
     * 30 g Soy Sauce
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 1/4 t Black Peppercorn, ground
 
 === "Directions"

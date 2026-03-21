@@ -3,7 +3,7 @@
     * Vinaigrette
         * 2 Limes, zested and juiced
         * 75 g Olive Oil
-        * 3/4 t Kosher Salt
+        * 3/4 t Medium-Grain Salt
         * 1/4 t Black Peppercorn, ground
     * 1 Onion, minced
     * 200 g Corn Kernels

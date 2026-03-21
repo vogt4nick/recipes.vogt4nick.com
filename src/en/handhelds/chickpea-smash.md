@@ -7,7 +7,7 @@
         * 10 g Dijon Mustard
         * 10 g Red Wine Vinegar
         * 2 t Dried Dill Leaves
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
         * 1/2 t Sweet Paprika
         * 1/4 t Black Peppercorn, ground
     * White Sandwich Bread, toasted

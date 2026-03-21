@@ -1,7 +1,7 @@
 === "Ingredients"
     * Corn Kernels
     * Neutral Oil
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
 
 === "Directions"

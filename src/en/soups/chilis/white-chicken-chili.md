@@ -8,7 +8,7 @@
     * 120 g Green Chilis, sliced
     * 3 Chicken Breasts, cut into thirds
     * 1000 g [Chicken Stock](../stocks/meat-stock.md)
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
     * 400 g Cooked White Beans
     * 240 g Frozen Corn Kernels

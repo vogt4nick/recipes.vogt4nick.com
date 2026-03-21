@@ -8,7 +8,7 @@
     * 1/4 t Worcestershire Sauce
     * 1 T Brown Sugar
     * 1/2 t Dijon Mustard
-    * 3/4 t Kosher Salt
+    * 3/4 t Medium-Grain Salt
     * 1/4 t Black Peppercorn, ground
     * 1/4 t Dried Cayenne Pepper, ground
     * 110 g Water

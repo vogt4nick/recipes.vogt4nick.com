@@ -2,7 +2,7 @@
     * Neutral Oil
     * 1200 g Chuck Beef
     * Rub
-        * Kosher Salt
+        * Medium-Grain Salt
         * Black Peppercorn, ground
     * Roux
         * Wheat Flour

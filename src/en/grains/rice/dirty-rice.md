@@ -4,7 +4,7 @@
     * 100 g Onion, diced
     * 100 g Celery, diced
     * 100 g Green Bell Pepper, diced
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * Spices
         * 1 T Paprika
         * 2 t Cumin Seed, ground
@@ -16,7 +16,7 @@
     * 200 g Spicy Smoked Pork Sausage, cubed
     * 200 g Chicken Liver, minced
     * 400 g Dry Long-Grain Rice, rinsed once
-    * 1/2 T Kosher Salt
+    * 1/2 T Medium-Grain Salt
     * 1000 g [Chicken Stock](../../soups/stocks/meat-stock.md)
     * 1 Bay Leaf
     * 1/2 t Worcestershire Sauce

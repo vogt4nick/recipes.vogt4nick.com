@@ -7,7 +7,7 @@
         * 100 g [Mayonnaise](../../sauces/hollandaise/mayonnaise/index.md)
         * 30 g Apple Cider Vinegar
         * 1 t White Sugar
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
         * 40 g Red Onion, minced
     * Garnish
         * Black Peppercorn, ground

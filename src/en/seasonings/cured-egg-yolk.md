@@ -1,5 +1,5 @@
 === "Ingredients"
-    * 300 g Kosher Salt
+    * 300 g Medium-Grain Salt
     * 100 g White Sugar
     * Egg Yolks
 

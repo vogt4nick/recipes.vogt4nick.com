@@ -6,7 +6,7 @@
     * 2 Cardamom Pods, crushed
     * 2 Bay Leaves
     * 200 g Dry Basmati Rice, rinsed and soaked 20 minutes
-    * 1/4 t Kosher Salt
+    * 1/4 t Medium-Grain Salt
     * 500 g Water
     * For Garnishing
         * Cilantro Leaves, chopped

@@ -1,6 +1,6 @@
 === "Ingredients"
     * 100 g Celery Seed, ground
-    * 200 g Kosher Salt
+    * 200 g Medium-Grain Salt
 
 === "Directions"
     Combine ingredients and blend thoroughly.

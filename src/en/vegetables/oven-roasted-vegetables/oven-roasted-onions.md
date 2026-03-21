@@ -2,7 +2,7 @@
     * Onions, peeled, quartered
     * Garlic Cloves
     * Lard, Ghee, or Neutral Oil
-    * Kosher Salt
+    * Medium-Grain Salt
     * Black Peppercorn, ground
     * Dried Cayenne Pepper, ground
 

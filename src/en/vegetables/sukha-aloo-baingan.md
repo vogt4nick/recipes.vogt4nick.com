@@ -4,7 +4,7 @@
     * 1/2 t Cumin Seed, whole
     * 1 Onion, chopped
     * 1 Eggplant, roughly chopped, salted and drained
-        * 1/2 t Kosher Salt
+        * 1/2 t Medium-Grain Salt
     * 1/2 t Dried Turmeric Root, ground
     * Ding Chik
         * 5 Garlic Cloves

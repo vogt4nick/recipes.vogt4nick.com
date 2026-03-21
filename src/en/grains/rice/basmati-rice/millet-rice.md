@@ -6,7 +6,7 @@ title: Millet rice
     * 50 g Dry Millet
     * Cool water, for rinsing and soaking
     * 425 g Water
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
 
 === "Directions"
     1. **Rinse** rice several times until water runs mostly clear.

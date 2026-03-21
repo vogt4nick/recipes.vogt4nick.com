@@ -10,7 +10,7 @@
     * 120 g White Wheat Flour
     * 1/4 t Baking Soda
     * 1/2 t Baking Powder
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * [Buttercream Frosting](../../toppings/american-buttercream.md) (optional)
 
 === "Directions"

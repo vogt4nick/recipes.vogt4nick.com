@@ -6,7 +6,7 @@ tags:
     * 400 g Beef Shin, diced
     * 150 g Onion, roughly chopped
     * 500 g [Beef Stock](../soups/stocks/meat-stock.md)
-    * 1 t Kosher Salt
+    * 1 t Medium-Grain Salt
     * 1 T Tomato Paste
     * 1 Sprig Parsley Leaves, chopped
     * Marinade

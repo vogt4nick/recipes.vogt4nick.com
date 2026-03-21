@@ -8,7 +8,7 @@ tags:
     * 15 g Dill Leaves
     * Dressing
         * 120 g White Wine Vinegar
-        * 4 t Kosher Salt
+        * 4 t Medium-Grain Salt
         * 4 t White Sugar
         * 120 g Water, cold
 

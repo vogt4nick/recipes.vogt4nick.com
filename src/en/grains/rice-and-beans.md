@@ -9,7 +9,7 @@ tags:
     * 1/2 t Cumin Seed, ground
     * 2 Garlic Cloves, minced
     * 240 g [Black Beans, cooked with seasonings](../legumes/beans/index.md)
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/2 t Cumin Seed, ground
     * 360 g [Rice, cooked](rice/japanese-rice/index.md)
     * Garnish

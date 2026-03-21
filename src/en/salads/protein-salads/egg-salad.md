@@ -4,7 +4,7 @@ title: Egg salad
 === "Ingredients"
     * 6 [Hardboiled Eggs](../../eggs/hardboiled-eggs.md)
     * 60 g [Mayonnaise](../../sauces/hollandaise/mayonnaise/index.md) or [Kewpie-style Mayonnaise](../../sauces/hollandaise/mayonnaise/kewpie-style-mayonnaise.md)
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/4 t White Sugar
     * 1/8 t Dried Cayenne Pepper, ground
     * 1 T Heavy Cream or Milk

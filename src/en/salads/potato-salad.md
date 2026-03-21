@@ -7,7 +7,7 @@
         * 40 g Vegetable Oil
         * 1 t White Sugar
         * 1 Sprig Parsley Leaves, chopped
-        * 1/4 t Kosher Salt
+        * 1/4 t Medium-Grain Salt
         * 1/2 t Black Peppercorn, ground
     * Garnish
         * 30 g Red Onion, sliced

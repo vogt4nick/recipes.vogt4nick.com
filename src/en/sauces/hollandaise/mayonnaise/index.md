@@ -4,7 +4,7 @@ title: Mayonnaise
 === "Ingredients"
     * 3 Egg Yolks, room temperature
     * 15 g Lemon Juice or Wine Vinegar, room temperature
-    * 1/2 t Kosher Salt
+    * 1/2 t Medium-Grain Salt
     * 1/4 t Dijon Mustard
     * For Emulsion
         * 400 g Olive Oil, room temperature
@@ -12,7 +12,7 @@ title: Mayonnaise
     * Seasoning
         * 1 T Lemon Juice or Wine Vinegar, room temperature
         * 1/4 t Dijon Mustard
-        * 1/8 t Kosher Salt
+        * 1/8 t Medium-Grain Salt
         * 1/8 t Black Peppercorn, ground
 
     !!! info "Yields about 500 g."

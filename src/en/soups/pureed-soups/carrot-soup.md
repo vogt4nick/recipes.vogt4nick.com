@@ -16,7 +16,7 @@ tags:
     * Lemon Tahini Sauce
         * 45 g [Tahini Paste](../../sauces/tahini-paste.md)
         * 30 g Lemon Juice
-        * 1 pinch Kosher Salt
+        * 1 pinch Medium-Grain Salt
         * 30 g Water
     * 15 g Parsley Leaves, chopped
     * For Serving

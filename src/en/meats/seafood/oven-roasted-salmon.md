@@ -2,7 +2,7 @@
     * Salmon Fillets, boned
     * Neutral Oil
     * For Seasoning
-        * Kosher Salt
+        * Medium-Grain Salt
         * Black Peppercorn, ground
         * Cumin Seed, ground
     * For Serving
