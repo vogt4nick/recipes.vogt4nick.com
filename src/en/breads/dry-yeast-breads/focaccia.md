@@ -8,10 +8,10 @@ tags:
     * 15 g Active Dry Yeast
     * 360 g Water, warm
     * 1 T Olive Oil
-    * 2 t Coarse Salt
+    * 2 t Coarse-Grain Salt
     * 225 g Sun-Dried Tomatoes
     * 225 g Kalamata Olives
-    * 1 t Coarse Salt
+    * 1 t Coarse-Grain Salt
     * 1 t Black Peppercorn, coarsely ground
     * 3 sprigs Rosemary Leaves
     * 1 T Olive Oil
