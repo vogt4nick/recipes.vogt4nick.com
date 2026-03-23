@@ -1,6 +1,7 @@
 ---
 tags:
     - Indian cuisine
+    - Weekday dinner
 ---
 # Chetna's curry
 

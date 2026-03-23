@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * 250 g White Bread, stale, cubed 1-cm or 1/2-inch square
     * 50 g Olive Oil

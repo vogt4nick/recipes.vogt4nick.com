@@ -1,3 +1,7 @@
+---
+tags:
+    - Weekday dinner
+---
 === "Ingredients"
     * Brussels Sprouts, stems trimmed, halved lengthwise
     * Lard, Ghee, or Neutral Oil

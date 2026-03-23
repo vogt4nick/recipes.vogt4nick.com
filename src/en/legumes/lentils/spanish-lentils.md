@@ -1,6 +1,7 @@
 ---
 tags:
     - Mediterranean cuisine
+    - Weekday dinner
 ---
 === "Ingredients"
     * 25 g Olive Oil

@@ -1,6 +1,7 @@
 ---
 tags:
     - Mediterranean cuisine
+    - Weekday dinner
 ---
 === "Ingredients"
     * 250 g Dry Pasta

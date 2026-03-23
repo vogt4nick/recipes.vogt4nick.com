@@ -1,3 +1,7 @@
+---
+tags:
+    - Weekday dinner
+---
 === "Ingredients"
     * 50 g Olive Oil
     * 150 g Whole Wheat Bread, cubed

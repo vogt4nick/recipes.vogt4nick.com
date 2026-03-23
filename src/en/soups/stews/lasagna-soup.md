@@ -1,3 +1,7 @@
+---
+tags:
+    - Weekday dinner
+---
 === "Ingredients"
     * Broth
         * 500 g [Beef Stock](../stocks/meat-stock.md)

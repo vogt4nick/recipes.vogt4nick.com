@@ -1,6 +1,6 @@
 ---
 tags:
-    - meal prep
+    - Meal prep
 ---
 === "Ingredients"
     * 2 T Medium-Grain Salt

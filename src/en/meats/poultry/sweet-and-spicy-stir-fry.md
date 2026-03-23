@@ -1,6 +1,6 @@
 ---
 tags:
-    - weeknight
+    - Weekday dinner
 ---
 # Sweet & spicy stir fry
 

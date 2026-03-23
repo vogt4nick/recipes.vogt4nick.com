@@ -1,6 +1,10 @@
 ---
-title: Southern mac & cheese
+tags:
+    - American cuisine
+    - Southern cuisine
 ---
+# Southern mac & cheese
+
 === "Ingredients"
     * Butter, for greasing
     * 360 g Whole Milk

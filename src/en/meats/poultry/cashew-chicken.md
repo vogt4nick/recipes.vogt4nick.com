@@ -1,6 +1,6 @@
 ---
 tags:
-    - weeknight
+    - Weekday dinner
 ---
 === "Ingredients"
     * Marinated Chicken

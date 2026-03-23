@@ -1,6 +1,6 @@
 ---
 tags:
-    - weeknight
+    - Weekday dinner
 ---
 === "Ingredients"
     * Waxy Potatoes, chopped into thumb-sized pieces

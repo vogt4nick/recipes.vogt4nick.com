@@ -1,3 +1,7 @@
+---
+tags:
+    - Weekday dinner
+---
 === "Ingredients"
     * 500 g [Poached Chicken Breast](../../../meats/poultry/poached-chicken-breast.md), boneless, skinless
     * 2 Celery Stalk, sliced

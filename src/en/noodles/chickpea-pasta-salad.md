@@ -2,6 +2,7 @@
 tags:
     - Continental cuisine
     - Austrian cuisine
+    - Meal prep
 ---
 === "Ingredients"
     * 400 g Zucchini, chopped

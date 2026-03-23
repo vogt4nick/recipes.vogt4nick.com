@@ -10,7 +10,7 @@ tags:
         * 2 t Toasted Sesame Oil
         * 1/4 t MSG (optional)
     * 200 g Dry Alkaline Noodles, cooked and drained
-    * 200 g Tofu, cubed
+    * 200 g [Tofu](../legumes/legume-tofu.md), cubed
     * 2 T Neutral Oil
     * 200 g Scallions, roughly chopped
     * 2 Garlic Cloves, minced

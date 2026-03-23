@@ -1,7 +1,7 @@
 ---
 tags:
     - Mediterranean cuisine
-    - weeknight
+    - Weekday dinner
 ---
 === "Ingredients"
     * 300 g Raw Chicken Thighs, boneless, skinless, chopped

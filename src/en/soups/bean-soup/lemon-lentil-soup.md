@@ -1,3 +1,7 @@
+---
+tags:
+    - Weekday dinner
+---
 === "Ingredients"
     * 3 T Olive Oil
     * 1 Onion, chopped

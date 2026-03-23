@@ -1,7 +1,7 @@
 ---
 tags:
-    - school lunch
-    - weeknight
+    - Work lunch
+    - Weekday dinner
 ---
 === "Ingredients"
     * Medium-Grain Salt

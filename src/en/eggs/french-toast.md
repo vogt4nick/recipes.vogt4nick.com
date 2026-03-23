@@ -1,6 +1,7 @@
 ---
 tags:
     - American cuisine
+    - Weekday dinner
 ---
 === "Ingredients"
     * 2 Eggs

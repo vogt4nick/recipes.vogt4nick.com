@@ -2,7 +2,8 @@
 tags:
     - American cuisine
     - Midwest cuisine
-    - school lunch
+    - Work lunch
+    - Meal prep
 ---
 === "Ingredients"
     * 60 g Bread Crumbs

@@ -1,6 +1,6 @@
 ---
 tags:
-    - weeknight
+    - Weekday dinner
 ---
 === "Ingredients"
     * 2 T Olive Oil

@@ -2,7 +2,7 @@
 tags:
     - American cuisine
     - Midwest cuisine
-    - weeknight
+    - Weekday dinner
 ---
 === "Ingredients"
     * 200 g Red Lentils, [cooked](index.md) with liquid retained

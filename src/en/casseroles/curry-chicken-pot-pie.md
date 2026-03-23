@@ -1,6 +1,6 @@
 ---
 tags:
-    - school lunch
+    - Work lunch
 ---
 === "Ingredients"
     * 400 g [Puff Pastry Dough](../breads/pastry-doughs/rough-puff-pastry-dough.md), thawed

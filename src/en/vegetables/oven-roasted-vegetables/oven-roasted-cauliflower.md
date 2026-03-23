@@ -1,3 +1,7 @@
+---
+tags:
+    - Weekday dinner
+---
 === "Ingredients"
     * 500 g Cauliflower, cut into florets and the stem cut into small pieces
     * 25 g Neutral Oil

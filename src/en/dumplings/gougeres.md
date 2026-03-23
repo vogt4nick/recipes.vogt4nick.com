@@ -1,7 +1,7 @@
 ---
 tags:
     - Continental cuisine
-    - potluck
+    - Potluck
 ---
 # Gougères (cheese puffs)
 

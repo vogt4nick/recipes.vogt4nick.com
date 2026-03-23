@@ -1,3 +1,7 @@
+---
+tags:
+    - Weekday dinner
+---
 === "Ingredients"
     * 40 g Unsalted Butter
     * 200 g Sausage, sliced

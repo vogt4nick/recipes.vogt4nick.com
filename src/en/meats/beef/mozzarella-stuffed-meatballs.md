@@ -2,7 +2,7 @@
 tags:
     - American cuisine
     - Midwest cuisine
-    - potluck
+    - Potluck
 ---
 === "Ingredients"
     * 100 g Bread Crumbs

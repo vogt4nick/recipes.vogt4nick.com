@@ -1,6 +1,7 @@
 ---
 tags:
     - East Asian cuisine
+    - Weekday dinner
 ---
 === "Ingredients"
     * Marinade

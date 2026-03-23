@@ -1,6 +1,7 @@
 ---
 tags:
     - Continental cuisine
+    - Potluck
 ---
 === "Ingredients"
     * 400 g String Beans, trimmed

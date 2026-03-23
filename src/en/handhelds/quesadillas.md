@@ -1,7 +1,7 @@
 ---
 tags:
     - Latin American cuisine
-    - weeknight
+    - Weekday dinner
 ---
 === "Ingredients"
     * 400 g Beef Shin, diced

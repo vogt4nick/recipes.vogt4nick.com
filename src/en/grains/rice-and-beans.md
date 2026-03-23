@@ -1,3 +1,7 @@
+---
+tags:
+    - Weekday dinner
+---
 === "Ingredients"
     * 1 T Unsalted Butter (optional)
     * 1 T Canola Oil

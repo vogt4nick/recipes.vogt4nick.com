@@ -1,3 +1,7 @@
+---
+tags:
+    - Weekday dinner
+---
 === "Ingredients"
     * 1 T Butter or Olive Oil
     * 40 g Scallions or Onion, chopped

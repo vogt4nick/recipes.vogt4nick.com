@@ -1,3 +1,7 @@
+---
+tags:
+    - Meal prep
+---
 === "Ingredients"
     * 10 g Olive Oil
     * 200 g Dry Quinoa, rinsed

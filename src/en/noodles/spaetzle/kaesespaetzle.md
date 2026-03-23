@@ -2,6 +2,7 @@
 tags:
     - Continental cuisine
     - Austrian cuisine
+    - Weekday dinner
 ---
 # Kaesespaetzle
 

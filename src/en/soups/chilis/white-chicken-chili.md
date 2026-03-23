@@ -2,8 +2,8 @@
 tags:
     - American cuisine
     - Midwest cuisine
-    - meal prep
-    - school lunch
+    - Meal prep
+    - Work lunch
 ---
 === "Ingredients"
     * 1 T Olive Oil

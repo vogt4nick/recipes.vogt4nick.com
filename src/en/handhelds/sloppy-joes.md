@@ -2,7 +2,7 @@
 tags:
     - American cuisine
     - Midwest cuisine
-    - weeknight
+    - Weekday dinner
 ---
 === "Ingredients"
     * 330 g Extra Lean Ground Beef

@@ -1,6 +1,10 @@
 ---
-title: Baked mac & cheese
+tags:
+    - American cuisine
+    - Midwest cuisine
 ---
+# Baked mac & cheese
+
 === "Ingredients"
     * 45 g Unsalted Butter
     * 3 T White Wheat Flour

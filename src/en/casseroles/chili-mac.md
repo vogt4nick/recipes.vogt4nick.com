@@ -2,6 +2,7 @@
 tags:
     - American cuisine
     - Midwest cuisine
+    - Weekday dinner
 ---
 === "Ingredients"
     * 500 g Ground Beef

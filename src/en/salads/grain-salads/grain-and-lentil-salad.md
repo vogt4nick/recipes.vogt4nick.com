@@ -1,3 +1,8 @@
+---
+tags:
+    - Meal prep
+    - Potluck
+---
 === "Ingredients"
     * 200 g [Cooked Brown Lentils](../../legumes/lentils/index.md)
     * 300 g [Cooked Bulgur](../../grains/bulgur.md) or [Cooked Buckwheat](../../grains/buckwheat/index.md)

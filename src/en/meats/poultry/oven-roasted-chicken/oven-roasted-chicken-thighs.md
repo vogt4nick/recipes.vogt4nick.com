@@ -1,6 +1,7 @@
 ---
 tags:
-    - school lunch
+    - Work lunch
+    - Weekday dinner
 ---
 === "Ingredients"
     * Raw Chicken Thighs, bone-in
