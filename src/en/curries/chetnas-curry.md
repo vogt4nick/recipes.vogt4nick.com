@@ -1,3 +1,7 @@
+---
+tags:
+    - indian cuisine
+---
 # Chetna's curry
 
 === "Ingredients"

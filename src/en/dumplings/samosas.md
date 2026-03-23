@@ -1,3 +1,7 @@
+---
+tags:
+    - indian cuisine
+---
 === "Ingredients"
     * Dough
         * 125 g White Wheat Flour

@@ -1,3 +1,7 @@
+---
+tags:
+    - indian cuisine
+---
 === "Ingredients"
     * 3 T Ghee or Butter
     * 150 g Onion, minced

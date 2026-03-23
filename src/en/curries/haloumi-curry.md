@@ -1,3 +1,7 @@
+---
+tags:
+    - indian cuisine
+---
 === "Ingredients"
     * 1 T Neutral Oil
     * 150 g Haloumi or Paneer, chopped into ~7 mm thick slices

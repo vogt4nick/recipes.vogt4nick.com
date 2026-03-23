@@ -1,3 +1,7 @@
+---
+tags:
+    - indian cuisine
+---
 === "Ingredients"
     * Neutral Oil
     * 1/2 t Mustard Seed, whole

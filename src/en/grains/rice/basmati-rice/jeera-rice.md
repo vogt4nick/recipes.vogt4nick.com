@@ -1,3 +1,7 @@
+---
+tags:
+    - indian cuisine
+---
 === "Ingredients"
     * 2 T Ghee
     * 1 t Cumin Seed

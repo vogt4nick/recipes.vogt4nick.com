@@ -1,3 +1,7 @@
+---
+tags:
+    - indian cuisine
+---
 === "Ingredients"
     * 200 g [Red Lentils, cooked](index.md)
         * 600 g Water

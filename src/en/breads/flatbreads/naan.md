@@ -1,3 +1,7 @@
+---
+tags:
+    - indian cuisine
+---
 === "Ingredients"
     * 180 g White Wheat Flour, 13% protein
     * 1/2 t Medium-Grain Salt

@@ -1,3 +1,7 @@
+---
+tags:
+    - indian cuisine
+---
 # Millet pulao
 
 === "Ingredients"

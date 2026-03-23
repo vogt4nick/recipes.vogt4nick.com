@@ -1,3 +1,7 @@
+---
+tags:
+    - indian cuisine
+---
 === "Ingredients"
     * 3 T Neutral Oil
     * 1 t Cumin Seed, whole

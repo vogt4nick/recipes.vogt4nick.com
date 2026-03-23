@@ -1,3 +1,7 @@
+---
+tags:
+    - indian cuisine
+---
 === "Ingredients"
     * 3 T Yellow Spices
         * 1 T Coriander Seed, ground
