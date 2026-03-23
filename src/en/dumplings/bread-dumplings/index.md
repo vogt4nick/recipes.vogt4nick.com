@@ -1,8 +1,5 @@
----
-title: Bread dumplings (Semmelknödel)
-tags:
-    - vegetarian
----
+# Bread dumplings (Semmelknödel)
+
 === "Ingredients"
     * 30 g Butter
     * 60 g Onion, minced

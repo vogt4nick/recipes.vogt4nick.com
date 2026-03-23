@@ -1,8 +1,5 @@
----
-title: Bavarian bread dumplings (Semmelknödel)
-tags:
-    - vegetarian
----
+# Bavarian bread dumplings (Semmelknödel)
+
 === "Ingredients"
     * For toasting
         * 80 g White Bread, cubed

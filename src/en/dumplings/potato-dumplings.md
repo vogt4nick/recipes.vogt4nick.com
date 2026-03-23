@@ -1,7 +1,5 @@
 ---
 title: Potato dumplings (Erdäpfelknödel)
-tags:
-    - vegatarisch
 ---
 === "Ingredients"
     * 500 g Starchy Potatoes, peeled
