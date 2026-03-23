@@ -1,6 +1,9 @@
 ---
-title: Detroit-style pizza
+tags:
+    - american midwest cuisine
 ---
+# Detroit-style pizza
+
 === "Ingredients"
     * 30 g Peanut Oil or Neutral Oil
     * 400 g [Adrienne's Pizza Dough](../../breads/pizza-doughs/adrienne's-pizza-dough.md)

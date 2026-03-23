@@ -1,5 +1,6 @@
 ---
 tags:
+    - american midwest cuisine
     - school lunch
 ---
 === "Ingredients"

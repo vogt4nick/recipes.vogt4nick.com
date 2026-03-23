@@ -1,3 +1,7 @@
+---
+tags:
+    - american midwest cuisine
+---
 === "Ingredients"
     * 15 g Unsalted Butter
     * 110 g Onion, minced

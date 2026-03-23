@@ -1,3 +1,7 @@
+---
+tags:
+    - american midwest cuisine
+---
 === "Ingredients"
     * 500 g Ground Beef
     * 500 g Dry Macaroni Pasta

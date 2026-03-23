@@ -1,6 +1,8 @@
 ---
-title: Detroit käsespätzle
+tags:
+    - american midwest cuisine
 ---
+# Detroit käsespätzle
 
 === "Ingredients"
     * 220 g [Pulled Pork](../../meats/pork/pulled-pork.md), chopped

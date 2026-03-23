@@ -1,3 +1,7 @@
+---
+tags:
+    - american midwest cuisine
+---
 === "Ingredients"
     * 1000 g 80/20 Ground Beef
     * 2 t Medium-Grain Salt

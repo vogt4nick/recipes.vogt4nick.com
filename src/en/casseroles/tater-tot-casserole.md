@@ -1,3 +1,7 @@
+---
+tags:
+    - american midwest cuisine
+---
 === "Ingredients"
     * 400 g Ground Beef
     * 600 g Cream of Mushroom Soup

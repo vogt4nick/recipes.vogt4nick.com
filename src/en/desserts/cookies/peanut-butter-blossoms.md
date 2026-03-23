@@ -1,3 +1,7 @@
+---
+tags:
+    - american midwest cuisine
+---
 === "Ingredients"
     * Dry Mix
         * 160 g White Wheat Flour
