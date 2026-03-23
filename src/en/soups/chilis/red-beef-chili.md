@@ -1,6 +1,6 @@
 ---
 tags:
-    - american midwest cuisine
+    - "cuisine: american midwest"
 ---
 === "Ingredients"
     * 1000 g 80/20 Ground Beef

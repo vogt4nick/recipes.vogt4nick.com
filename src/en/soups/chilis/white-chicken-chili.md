@@ -1,6 +1,6 @@
 ---
 tags:
-    - american midwest cuisine
+    - "cuisine: american midwest"
     - meal prep
     - school lunch
 ---

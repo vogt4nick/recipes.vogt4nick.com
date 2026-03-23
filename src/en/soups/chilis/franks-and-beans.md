@@ -1,6 +1,6 @@
 ---
 tags:
-    - american midwest cuisine
+    - "cuisine: american midwest"
 ---
 === "Ingredients"
     * 15 g Unsalted Butter

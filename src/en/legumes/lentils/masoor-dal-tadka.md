@@ -1,6 +1,6 @@
 ---
 tags:
-    - indian cuisine
+    - "cuisine: indian"
 ---
 === "Ingredients"
     * 200 g [Red Lentils, cooked](index.md)

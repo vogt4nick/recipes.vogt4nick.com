@@ -1,7 +1,7 @@
 ---
 title: Bavarian bread dumplings (Semmelknödel)
 tags:
-    - austrian cuisine
+    - "cuisine: austrian"
 ---
 
 === "Ingredients"

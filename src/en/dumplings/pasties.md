@@ -1,6 +1,6 @@
 ---
 tags:
-    - american midwest cuisine
+    - "cuisine: american midwest"
 ---
 === "Ingredients"
     * 600 g [Pie Doughs](../breads/pastry-doughs/pie-crust.md), kneaded an additional 2 minutes, chilled thoroughly

@@ -1,7 +1,7 @@
 ---
 title: Kaesespaetzle
 tags:
-    - austrian cuisine
+    - "cuisine: austrian"
 ---
 
 === "Ingredients"

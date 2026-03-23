@@ -1,6 +1,6 @@
 ---
 tags:
-    - indian cuisine
+    - "cuisine: indian"
 ---
 === "Ingredients"
     * Dough
