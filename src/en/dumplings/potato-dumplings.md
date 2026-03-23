@@ -1,5 +1,7 @@
 ---
 title: Potato dumplings (Erdäpfelknödel)
+tags:
+    - austrian cuisine
 ---
 === "Ingredients"
     * 500 g Starchy Potatoes, peeled

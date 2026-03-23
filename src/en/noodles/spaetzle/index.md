@@ -1,5 +1,7 @@
 ---
 title: Spaetzle
+tags:
+    - austrian cuisine
 ---
 === "Ingredients"
     * 333 g White Wheat Flour
