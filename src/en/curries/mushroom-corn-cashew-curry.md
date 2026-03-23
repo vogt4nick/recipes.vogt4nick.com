@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * Tomato Puree
         * 400 g Tomatoes, peeled, chopped

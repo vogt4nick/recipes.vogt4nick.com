@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * 1 T Olive Oil
     * 1/2 T Butter or Olive Oil

@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * 200 g Dry Rice, cooked
     * 15 g Olive Oil

@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * 2 t Olive Oil
     * 30 g Dry Vermicelli or Dry Spaghetti, broken into 5-cm pieces

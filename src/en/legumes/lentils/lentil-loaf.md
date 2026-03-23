@@ -1,7 +1,6 @@
 ---
 tags:
-    - vegan
-    - weeknight meal
+    - weeknight
 ---
 === "Ingredients"
     * 200 g Red Lentils, [cooked](index.md) with liquid retained

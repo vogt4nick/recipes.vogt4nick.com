@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * Sponge
         * 60 g White Wheat Flour, 13% protein

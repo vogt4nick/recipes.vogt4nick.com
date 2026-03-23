@@ -1,8 +1,5 @@
----
-title: Red lentils & greens
-tags:
-    - vegan
----
+# Red lentils & greens
+
 === "Ingredients"
     * 200 g Dry Red Lentils, rinsed
     * 1/2 t Dried Turmeric Root, ground

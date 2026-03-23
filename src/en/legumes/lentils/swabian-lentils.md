@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * Lentils, soaked, drained
         * 400 g Water, hot

@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * 300 g String Beans, trimmed
     * 1 Shallot, minced

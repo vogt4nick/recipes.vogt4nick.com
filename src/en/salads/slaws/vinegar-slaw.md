@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * 400 g Green or Red Cabbage, shredded
     * 100 g Shallot, thinly sliced

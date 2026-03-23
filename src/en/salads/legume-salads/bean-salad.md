@@ -1,8 +1,5 @@
----
-title: Bean salad
-tags:
-    - vegan
----
+# Bean salad
+
 === "Ingredients"
     * Vinaigrette
         * 80 g Olive Oil

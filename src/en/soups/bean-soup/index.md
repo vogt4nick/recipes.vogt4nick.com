@@ -1,8 +1,5 @@
----
-title: Bean soup
-tags:
-    - vegan
----
+# Bean soup
+
 === "Ingredients"
     * 1000 g [Stock](../stocks/vegetable-stock.md)
     * 150 g [Dry Beans, soaked, drained](../../legumes/beans/index.md)

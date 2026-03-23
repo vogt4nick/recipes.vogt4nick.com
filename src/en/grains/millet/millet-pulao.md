@@ -1,8 +1,5 @@
----
-title: Millet pulao
-tags:
-    - vegan
----
+# Millet pulao
+
 === "Ingredients"
     * 100 g Dry Millet, soaked 1 hour
     * 3/4 t Medium-Grain Salt

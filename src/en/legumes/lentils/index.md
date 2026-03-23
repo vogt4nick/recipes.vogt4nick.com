@@ -1,8 +1,5 @@
----
-title: Lentils
-tags:
-    - vegan
----
+# Lentils
+
 === "Ingredients"
     * 200 g Dry Lentils
     * 600 g Water or [Vegetable Stock](../../soups/stocks/vegetable-stock.md)

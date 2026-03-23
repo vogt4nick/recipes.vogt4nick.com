@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * 10 g Olive Oil
     * 100 g Onion, minced

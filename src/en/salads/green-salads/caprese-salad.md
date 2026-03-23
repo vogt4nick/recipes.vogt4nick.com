@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * 450 g Mozzarella, roughly chopped
     * 450 g Roma Tomatoes, chopped

@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * Starter
         * 100 g White Wheat Flour, 13% protein

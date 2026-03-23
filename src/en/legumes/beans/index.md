@@ -1,8 +1,5 @@
----
-title: Beans
-tags:
-    - vegan
----
+# Beans
+
 === "Ingredients"
     * 200 g Dry Beans
     * 1 t Medium-Grain Salt

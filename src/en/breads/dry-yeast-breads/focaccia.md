@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * 500 g White Wheat Flour, 13% protein
     * 20 g Semolina

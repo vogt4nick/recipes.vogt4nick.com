@@ -1,7 +1,3 @@
----
-tags:
-    - vegan
----
 === "Ingredients"
     * 450 g [Russet Potatoes, baked](../vegetables/potatoes/baked-potato.md), peeled
     * 30 g Ricotta (optional)
