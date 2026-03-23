@@ -1,6 +1,6 @@
 ---
 tags:
-    - "cuisine: indian"
+    - Indian cuisine
 ---
 === "Ingredients"
     * 180 g White Wheat Flour, 13% protein

@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * 6 Thick-cut Pork Shank Sections
     * Medium-Grain Salt

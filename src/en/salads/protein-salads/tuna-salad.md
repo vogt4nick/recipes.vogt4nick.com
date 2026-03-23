@@ -1,3 +1,7 @@
+---
+tags:
+    - American cuisine
+---
 === "Ingredients"
     * 100 g [Mayonnaise](../../sauces/hollandaise/mayonnaise/index.md)
     * 1/4 t Medium-Grain Salt

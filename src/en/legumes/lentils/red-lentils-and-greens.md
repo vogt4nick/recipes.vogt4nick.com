@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Southern cuisine
+---
 # Red lentils & greens
 
 === "Ingredients"

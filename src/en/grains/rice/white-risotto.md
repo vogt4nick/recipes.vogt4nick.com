@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * 1200 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md), simmering
     * 15 g Unsalted Butter

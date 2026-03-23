@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Midwest cuisine
+---
 # Chicken Salad
 
 === "Ingredients"

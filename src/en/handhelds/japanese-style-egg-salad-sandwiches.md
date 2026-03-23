@@ -1,6 +1,9 @@
 ---
-title: Japanese-style egg salad sandwich
+tags:
+    - Japanese cuisine
 ---
+# Japanese-style egg salad sandwich
+
 === "Ingredients"
     * 400 g [Kewpie-style Egg Salad](../salads/protein-salads/egg-salad.md)
     * Soft White Bread

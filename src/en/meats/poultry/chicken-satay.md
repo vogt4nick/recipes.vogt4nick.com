@@ -1,3 +1,7 @@
+---
+tags:
+    - East Asian cuisine
+---
 === "Ingredients"
     * Marinade
         * 2 T Crunchy Peanut Butter

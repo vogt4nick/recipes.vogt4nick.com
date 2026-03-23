@@ -1,6 +1,9 @@
 ---
-title: Tavče gravče
+tags:
+    - Balkan cuisine
 ---
+# Tavče gravče
+
 === "Ingredients"
     * 200 g [Dry Kidney Beans, cooked with seasonings below](index.md)
         * 1 Onion, halved

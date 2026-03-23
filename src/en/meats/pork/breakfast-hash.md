@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Midwest cuisine
+---
 === "Ingredients"
     * 200 g Sausage or Bacon
     * 200 g Mushrooms, sliced

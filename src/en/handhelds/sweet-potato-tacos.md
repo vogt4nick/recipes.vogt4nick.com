@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Southern cuisine
+---
 === "Ingredients"
     * 220 g Refried Beans
     * 110 g Mozzarella, shredded (optional)

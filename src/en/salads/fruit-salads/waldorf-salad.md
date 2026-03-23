@@ -1,3 +1,7 @@
+---
+tags:
+    - American cuisine
+---
 === "Ingredients"
     * Dressing
         * 180 g [Mayonnaise](../../sauces/hollandaise/mayonnaise/index.md)

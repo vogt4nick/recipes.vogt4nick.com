@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * Beef Broth
         * 1000 g [Beef Stock](stocks/meat-stock.md)

@@ -1,6 +1,7 @@
 ---
 tags:
-    - "cuisine: american midwest"
+    - American cuisine
+    - Midwest cuisine
 ---
 === "Ingredients"
     * 500 g Ground Beef

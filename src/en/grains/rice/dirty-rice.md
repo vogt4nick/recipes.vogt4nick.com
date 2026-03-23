@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Southern cuisine
+---
 === "Ingredients"
     * 1 T Neutral Oil
     * 200 g Pork Shoulder or other pork, roughly chopped

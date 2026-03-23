@@ -1,3 +1,7 @@
+---
+tags:
+    - Continental cuisine
+---
 === "Ingredients"
     * Lentils, soaked, drained
         * 400 g Water, hot

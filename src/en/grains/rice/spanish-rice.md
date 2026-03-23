@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * 10 g Ghee
     * 200 g Dry Rice, rinsed and soaked

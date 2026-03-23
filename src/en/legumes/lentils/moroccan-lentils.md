@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * 25 g Olive Oil
     * 240 g Onion, minced

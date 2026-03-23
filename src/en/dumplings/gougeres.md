@@ -1,6 +1,10 @@
 ---
-title: Gougères (Cheese Puffs)
+tags:
+    - Continental cuisine
+    - potluck
 ---
+# Gougères (cheese puffs)
+
 === "Ingredients"
     * 120 g Water
     * 60 g Unsalted Butter

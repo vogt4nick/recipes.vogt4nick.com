@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * 400 g Frisee Lettuce or Arugula, chopped
     * 200 g Bacon, chopped, cooked

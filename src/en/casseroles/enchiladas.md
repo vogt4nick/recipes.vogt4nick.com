@@ -1,3 +1,7 @@
+---
+tags:
+    - Latin American cuisine
+---
 === "Ingredients"
     * Sauce
         * 300 g Cream of Chicken Soup

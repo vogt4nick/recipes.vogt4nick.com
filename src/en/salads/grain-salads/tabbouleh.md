@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * 100 g Fine Grain Bulgur
     * 90 g Water

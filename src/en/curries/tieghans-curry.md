@@ -1,6 +1,5 @@
----
-title: Tieghan's curry
----
+# Tieghan's curry
+
 === "Ingredients"
     * 2 T Olive Oil
     * 2 Shallots, minced

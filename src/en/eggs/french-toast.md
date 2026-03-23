@@ -1,3 +1,7 @@
+---
+tags:
+    - American cuisine
+---
 === "Ingredients"
     * 2 Eggs
     * 120 g Milk

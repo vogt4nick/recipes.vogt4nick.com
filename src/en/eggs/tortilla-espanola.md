@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 # Tortilla Española
 
 === "Ingredients"

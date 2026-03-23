@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Southern cuisine
+---
 === "Ingredients"
     * 150 g Dressing
         * 80 g Olive Oil

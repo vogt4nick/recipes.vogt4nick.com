@@ -1,5 +1,7 @@
 ---
 tags:
+    - American cuisine
+    - Midwest cuisine
     - weeknight
 ---
 === "Ingredients"

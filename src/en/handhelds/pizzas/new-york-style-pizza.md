@@ -1,6 +1,5 @@
----
-title: New York-style pizza
----
+# New York-style pizza
+
 === "Ingredients"
     * Sautéed Veggies
         * 15 g Olive Oil

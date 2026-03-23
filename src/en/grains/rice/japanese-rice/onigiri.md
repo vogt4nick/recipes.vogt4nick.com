@@ -1,3 +1,7 @@
+---
+tags:
+    - Japanese cuisine
+---
 === "Ingredients"
     * 80 g [Kewpie Mayonnaise](../../../sauces/hollandaise/mayonnaise/kewpie-style-mayonnaise.md)
     * 80 g Canned Tuna

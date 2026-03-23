@@ -1,3 +1,7 @@
+---
+tags:
+    - American cuisine
+---
 === "Ingredients"
     * 200 g [Red Kidney Beans, cooked w/o seasonings](index.md)
     * 60 g Fatty Pork, diced

@@ -1,6 +1,9 @@
 ---
-title: Sweet & spicy stir fry
+tags:
+    - weeknight
 ---
+# Sweet & spicy stir fry
+
 === "Ingredients"
     * Marinated Chicken
         * 45 g Soy Sauce

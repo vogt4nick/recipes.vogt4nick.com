@@ -1,8 +1,10 @@
 ---
-title: Kaspressknoedel (baked cheese dumplings)
 tags:
-    - "cuisine: austrian"
+    - Continental cuisine
+    - Austrian cuisine
 ---
+# Kaspressknoedel (baked cheese dumplings)
+
 === "Metric"
     * 100 g Bread Cubes, 5-10 cm diameter
     * 100 g Milk, warm

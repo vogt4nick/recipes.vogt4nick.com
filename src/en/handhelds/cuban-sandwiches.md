@@ -1,3 +1,7 @@
+---
+tags:
+    - Latin American cuisine
+---
 === "Ingredients"
     * [Cuban Bread](../breads/dry-yeast-breads/cuban-bread.md)
     * Spread

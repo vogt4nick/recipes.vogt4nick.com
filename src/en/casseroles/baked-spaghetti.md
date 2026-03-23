@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Midwest cuisine
+---
 === "Ingredients"
     * Sauce
         * 500 g Tomatoes, peeled and chopped

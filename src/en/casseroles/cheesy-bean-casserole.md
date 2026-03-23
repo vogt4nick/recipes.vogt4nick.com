@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Midwest cuisine
+---
 === "Ingredients"
     * 2 T Olive Oil
     * 1 Onion, chopped

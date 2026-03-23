@@ -1,3 +1,7 @@
+---
+tags:
+    - Japanese cuisine
+---
 === "Ingredients"
     * 1 t Peanut Oil
     * 1/2 cm Ginger, minced

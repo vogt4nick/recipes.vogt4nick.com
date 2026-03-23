@@ -1,3 +1,7 @@
+---
+tags:
+    - American cuisine
+---
 === "Ingredients"
     * 500 g Dry Pasta Shells
     * Vinaigrette

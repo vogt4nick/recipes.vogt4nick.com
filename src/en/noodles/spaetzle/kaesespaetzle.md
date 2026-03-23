@@ -1,8 +1,9 @@
 ---
-title: Kaesespaetzle
 tags:
-    - "cuisine: austrian"
+    - Continental cuisine
+    - Austrian cuisine
 ---
+# Kaesespaetzle
 
 === "Ingredients"
     * 25 g Unsalted Butter

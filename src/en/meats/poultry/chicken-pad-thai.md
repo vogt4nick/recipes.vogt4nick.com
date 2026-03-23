@@ -1,3 +1,7 @@
+---
+tags:
+    - East Asian cuisine
+---
 === "Ingredients"
     * 150 g [Pad Thai Sauce](../../sauces/thai-sauces/pad-thai-sauce.md)
     * 80 g Rice Sticks

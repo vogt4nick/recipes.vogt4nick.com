@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Southern cuisine
+---
 === "Ingredients"
     * Spices
         * 2 t Medium-Grain Salt

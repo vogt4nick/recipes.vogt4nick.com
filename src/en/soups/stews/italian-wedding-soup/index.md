@@ -1,6 +1,9 @@
 ---
-title: Italian wedding soup
+tags:
+    - Mediterranean cuisine
 ---
+# Italian wedding soup
+
 === "Ingredients"
     * [Italian Wedding Soup Meatballs, uncooked](italian-wedding-soup-meatballs.md)
     * 25 g Olive Oil

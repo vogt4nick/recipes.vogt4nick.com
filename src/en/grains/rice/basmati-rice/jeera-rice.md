@@ -1,6 +1,6 @@
 ---
 tags:
-    - "cuisine: indian"
+    - Indian cuisine
 ---
 === "Ingredients"
     * 2 T Ghee

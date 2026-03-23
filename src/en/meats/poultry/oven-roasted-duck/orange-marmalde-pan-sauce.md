@@ -1,3 +1,7 @@
+---
+tags:
+    - Continental cuisine
+---
 === "Ingredients"
     * 240 g Water
     * Reserved neck and wing tips from [Roast Duck](index.md)

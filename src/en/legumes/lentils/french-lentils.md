@@ -1,3 +1,7 @@
+---
+tags:
+    - Continental cuisine
+---
 === "Ingredients"
     * 25 g Olive Oil
     * 120 g Onion, minced

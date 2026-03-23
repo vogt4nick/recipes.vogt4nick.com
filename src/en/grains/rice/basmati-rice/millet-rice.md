@@ -1,6 +1,10 @@
 ---
-title: Millet rice
+tags:
+    - African cuisine
+    - Indian cuisine
 ---
+# Millet rice
+
 === "Ingredients"
     * 150 g Dry Basmati Rice
     * 50 g Dry Millet

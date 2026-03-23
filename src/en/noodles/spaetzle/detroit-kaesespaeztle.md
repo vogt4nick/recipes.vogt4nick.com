@@ -1,6 +1,7 @@
 ---
 tags:
-    - "cuisine: american midwest"
+    - American cuisine
+    - Midwest cuisine
 ---
 # Detroit käsespätzle
 

@@ -1,3 +1,7 @@
+---
+tags:
+    - Continental cuisine
+---
 === "Ingredients"
     * 500 g Beef Chuck
     * Marinade

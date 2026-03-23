@@ -1,3 +1,7 @@
+---
+tags:
+    - East Asian cuisine
+---
 === "Ingredients"
     * Cabbage Mix
         * 60 g Cabbage, sliced thin

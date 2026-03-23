@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Southern cuisine
+---
 === "Ingredients"
     * 1/2 T Olive Oil
     * 30 g Onion, minced

@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * 250 g Dry Pasta
     * 30 g Olive Oil

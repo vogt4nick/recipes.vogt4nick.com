@@ -1,3 +1,7 @@
+---
+tags:
+    - Irish cuisine
+---
 === "Ingredients"
     * 1 Onion, chopped
     * 1 Carrot, peeled, chopped

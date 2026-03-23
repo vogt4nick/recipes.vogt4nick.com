@@ -1,3 +1,8 @@
+---
+tags:
+    - Continental cuisine
+    - Austrian cuisine
+---
 === "Ingredients"
     * 400 g Zucchini, chopped
     * 600 g Cooked Chickpeas, rinsed

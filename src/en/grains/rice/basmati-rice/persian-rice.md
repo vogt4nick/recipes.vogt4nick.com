@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * 200 g Dry Basmati Rice, rinsed, soaked 20 minutes
     * 100 g Lentils or Basmati Rice

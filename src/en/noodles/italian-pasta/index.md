@@ -1,6 +1,5 @@
----
-title: Italian pasta
----
+# Italian pasta
+
 === "Ingredients"
     * 2 Eggs
     * 125 g White Wheat Flour

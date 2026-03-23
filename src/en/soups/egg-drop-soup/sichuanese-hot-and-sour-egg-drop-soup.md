@@ -1,6 +1,9 @@
 ---
-title: Sichuanese hot & sour egg drop soup
+tags:
+    - East Asian cuisine
 ---
+# Sichuanese hot & sour egg drop soup
+
 === "Ingredients"
     * 1 t Lard or Clarified Butter
     * 1/2 cm Ginger Root, minced

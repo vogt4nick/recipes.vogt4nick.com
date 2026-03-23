@@ -1,3 +1,7 @@
+---
+tags:
+    - Continental cuisine
+---
 === "Ingredients"
     * 1 [Savory Piecrust](../breads/pastry-doughs/pie-crust.md), blind baked, cooled
     * 300 g Sausage or Bacon, cooked

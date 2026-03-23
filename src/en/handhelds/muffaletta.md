@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * Olive Salad
         * 200 g Mixed Olives, chopped

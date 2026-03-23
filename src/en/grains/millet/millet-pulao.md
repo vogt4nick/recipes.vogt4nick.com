@@ -1,6 +1,6 @@
 ---
 tags:
-    - "cuisine: indian"
+    - Indian cuisine
 ---
 # Millet pulao
 

@@ -1,6 +1,9 @@
 ---
-title: Japanese rice
+tags:
+    - Japanese cuisine
 ---
+# Japanese rice
+
 === "Ingredients"
     * 200 g Dry Japanese Rice
     * 250 g Water

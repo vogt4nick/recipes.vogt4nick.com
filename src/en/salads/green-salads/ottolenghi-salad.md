@@ -1,3 +1,7 @@
+---
+tags:
+    - Continental cuisine
+---
 === "Ingredients"
     * 400 g String Beans, trimmed
     * 400 g Snap Peas, trimmed

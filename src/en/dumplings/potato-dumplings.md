@@ -1,8 +1,10 @@
 ---
-title: Potato dumplings (Erdäpfelknödel)
 tags:
-    - "cuisine: austrian"
+    - Continental cuisine
+    - Austrian cuisine
 ---
+# Potato dumplings (Erdäpfelknödel)
+
 === "Ingredients"
     * 500 g Starchy Potatoes, peeled
     * 50 g Flour

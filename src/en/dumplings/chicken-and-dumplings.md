@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Southern cuisine
+---
 === "Ingredients"
     * [Chicken Soup](../soups/stews/chicken-soup.md)
     * 240 g White Wheat Flour

@@ -1,3 +1,8 @@
+---
+tags:
+    - American cuisine
+    - Southern cuisine
+---
 === "Ingredients"
     * 3000 g Pork Shoulder, bone-in
     * Seasonings

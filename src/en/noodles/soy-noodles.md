@@ -1,3 +1,7 @@
+---
+tags:
+    - East Asian cuisine
+---
 === "Ingredients"
     * Sauce
         * 2 T Soy Sauce

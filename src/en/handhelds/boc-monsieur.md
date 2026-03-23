@@ -1,6 +1,4 @@
----
-title: B.O.C. monsieur
----
+# B.O.C. monsieur
 
 === "Ingredients"
     * Beef Broth

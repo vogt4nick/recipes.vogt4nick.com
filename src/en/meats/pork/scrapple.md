@@ -1,3 +1,7 @@
+---
+tags:
+    - American cuisine
+---
 === "Ingredients"
     * 400 g Pork, roughly cubed
     * 1 t Black Peppercorn, ground

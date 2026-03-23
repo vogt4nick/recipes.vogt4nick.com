@@ -1,8 +1,10 @@
 ---
-title: Spaetzle
 tags:
-    - "cuisine: austrian"
+    - Continental cuisine
+    - Austrian cuisine
 ---
+# Spaetzle
+
 === "Ingredients"
     * 333 g White Wheat Flour
     * 4 Eggs

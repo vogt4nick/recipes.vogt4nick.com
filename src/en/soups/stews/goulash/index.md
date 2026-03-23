@@ -1,6 +1,9 @@
 ---
-title: Goulash
+tags:
+    - Continental cuisine
 ---
+# Goulash
+
 === "Ingredients"
     * 800 g [Chicken Stock](../../stocks/meat-stock.md)
     * 30 g Clarified Butter

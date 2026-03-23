@@ -1,3 +1,7 @@
+---
+tags:
+    - East Asian cuisine
+---
 === "Ingredients"
     * 25 g Peanut Oil
     * 50 g Carrots, chopped

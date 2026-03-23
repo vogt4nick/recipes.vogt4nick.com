@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * 50 g Pecorino Romano, finely grated
     * 25 g Parmigiano-Reggiano, finely grated

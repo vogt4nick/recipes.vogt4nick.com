@@ -1,6 +1,9 @@
 ---
-title: Egg Drop Soup
+tags:
+    - East Asian cuisine
 ---
+# Egg Drop Soup
+
 !!! quote "Stephanie Li and Chris Thomas from _Chinese Cooking Demystified_.[^demystified]"
     Egg drop soup is less of a dish and more of a technique—pretty much any type of soup you got, you can drop in an egg.
 

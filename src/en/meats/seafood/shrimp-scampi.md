@@ -1,3 +1,7 @@
+---
+tags:
+    - Mediterranean cuisine
+---
 === "Ingredients"
     * 80 g Olive Oil
     * 4 Garlic Cloves, thinly sliced

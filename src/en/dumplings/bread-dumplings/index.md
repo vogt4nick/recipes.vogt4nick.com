@@ -1,3 +1,8 @@
+---
+tags:
+    - Continental cuisine
+    - Austrian cuisine
+---
 # Bread dumplings (Semmelknödel)
 
 === "Ingredients"

@@ -1,6 +1,7 @@
 ---
 tags:
-    - "cuisine: austrian"
+    - Continental cuisine
+    - Austrian cuisine
 ---
 === "Ingredients"
     * 120 g White Wheat Flour
