@@ -1,5 +1,6 @@
 ---
 tags:
+    - meal prep
     - school lunch
 ---
 === "Ingredients"

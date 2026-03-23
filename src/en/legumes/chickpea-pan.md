@@ -1,6 +1,6 @@
 ---
 tags:
-    - weeknight meal
+    - weeknight
 ---
 === "Ingredients"
     * 2 T Olive Oil

@@ -1,6 +1,6 @@
 ---
 tags:
-    - weeknight meal
+    - weeknight
 ---
 === "Ingredients"
     * Toasted Breadcrumbs

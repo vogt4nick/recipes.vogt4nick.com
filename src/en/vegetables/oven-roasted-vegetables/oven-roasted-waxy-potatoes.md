@@ -1,3 +1,7 @@
+---
+tags:
+    - weeknight
+---
 === "Ingredients"
     * Waxy Potatoes, chopped into thumb-sized pieces
     * Lard, Ghee, or Neutral Oil

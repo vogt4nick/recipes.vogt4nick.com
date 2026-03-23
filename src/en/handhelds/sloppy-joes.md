@@ -1,3 +1,7 @@
+---
+tags:
+    - weeknight
+---
 === "Ingredients"
     * 330 g Extra Lean Ground Beef
     * 1/2 Onion, chopped

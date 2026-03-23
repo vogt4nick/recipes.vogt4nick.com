@@ -1,3 +1,7 @@
+---
+tags:
+    - meal prep
+---
 === "Ingredients"
     * 2 T Medium-Grain Salt
     * 1/2 t Baking Soda
