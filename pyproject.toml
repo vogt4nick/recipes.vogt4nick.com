@@ -3,8 +3,6 @@ name = "recipes-vogt4nick-com"
 version = "0.0.1"
 requires-python = ">=3.10"
 dependencies = [
-    "mkdocs>=1.2",
-    "mkdocs-material>=9.0.13",
     "pymdown-extensions>=10.0",
     "zensical>=0.0.27",
 ]
