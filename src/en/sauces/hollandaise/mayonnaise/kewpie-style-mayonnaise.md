@@ -2,15 +2,15 @@
 title: Kewpie-style mayonnaise
 ---
 === "Ingredients"
-    * 120 g Mayonnaise
-    * 1/4 t Medium-Grain Salt
-    * 3/4 t White Sugar
+    * 60 g Mayonnaise
+    * 1/4 t MSG or Medium-Grain Salt
+    * 1/2 t White Sugar
     * 1 t Dijon Mustard
-    * Hot Sauce, to taste
+    * 1 t Hot Sauce
     * 1 t Lemon Juice
     * 2 t Rice Vinegar
 
-    !!! info "Yields about 120 g mayonnaise."
+    !!! info "Yields about 60 g mayonnaise."
 
 === "Directions"
     Combine ingredients and mix well. Refrigerate to store.
