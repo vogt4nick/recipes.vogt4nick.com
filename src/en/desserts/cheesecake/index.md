@@ -22,7 +22,7 @@ title: Cheesecake
     3. **Make filling.** Beat cream cheese and granulated sugar on medium until perfectly smooth. Add confectioners' sugar, sour cream, lemon juice, and vanilla. Beat on medium-high 2-3 minutes until smooth and combined with no lumps.
     4. **Fold in cream.** Gently fold whipped cream into filling until combined. Fold slowly to preserve air in the whipped cream.
     5. **Fill crust.** Remove crust from freezer. Spread filling into crust and smooth top with an offset spatula.
-    6. **Chill** at least 6-8 hours until set. Refrigerate overnight for best results.
+    6. **Chill**, covered, at least 6-8 hours until set. Refrigerate overnight for best results.
     7. **Serve.** Loosen cheesecake from pan rim with a knife and remove rim. Cut into slices with a clean sharp knife, wiping clean between each cut.
 
 !!! info "Store refrigerated up to 5 days."
