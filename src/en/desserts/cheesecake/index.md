@@ -6,7 +6,7 @@ title: Cheesecake
         * 240 g Graham Cracker, ground
         * 67 g Brown Sugar
         * 113 g Unsalted Butter, melted
-    * 270 g Heavy Cream, cold
+    * 300 g Heavy Cream, cold
     * 678 g Cream Cheese, room temperature
     * 100 g Granulated Sugar
     * 15 g Confectioners' Sugar

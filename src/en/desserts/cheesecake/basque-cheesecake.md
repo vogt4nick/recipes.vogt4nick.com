@@ -6,7 +6,7 @@
     * 3 Eggs
     * 2 t Vanilla Extract
     * 2 T Lemon, juiced
-    * 220 g Heavy Cream
+    * 240 g Heavy Cream
 
     !!! info "Yields one 9x5-inch cheesecake loaf"
 
