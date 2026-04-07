@@ -11,3 +11,9 @@ dependencies = [
 dev = [
     "pre-commit>=3.2",
 ]
+
+[tool.uv]
+exclude-newer = "14 days"
+
+[tool.uv.exclude-newer-package]
+zensical = false
