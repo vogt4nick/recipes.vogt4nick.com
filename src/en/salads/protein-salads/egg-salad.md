@@ -7,9 +7,8 @@ title: Egg salad
     * 1/2 t Medium-Grain Salt
     * 1/4 t White Sugar
     * 1/8 t Dried Cayenne Pepper, ground
-    * 1 T Heavy Cream or Milk
 
-    !!! info "Yields 400 g or 4 servings."
+    !!! info "Yields 450 g or 2 servings."
 
 === "Directions"
     1. **Mash eggs** in a bowl.
