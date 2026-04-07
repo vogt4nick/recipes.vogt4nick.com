@@ -4,6 +4,12 @@ title: Menu
 
 ## Three-Day Menus
 
+* [Poached chicken](meats/poultry/poached-chicken-breast.md) grilled cheese melts  and [tomato soup](soups/pureed-soups/tomato-soup.md)
+* [Chicken salad](salads/protein-salads/chicken-salad/davids-chicken-salad.md)
+* [Cashew chicken](meats/poultry/cashew-chicken.md) and [green beans](vegetables/green-beans.md)
+
+---
+
 * [Black beans](legumes/beans/index.md) topped with cottage cheese and served with [oven-roasted potatoes](vegetables/oven-roasted-vegetables/oven-roasted-waxy-potatoes.md)
 * [Sloppy Joe](https://vogt4nick.github.io/recipes.vogt4nick.com/handhelds/sloppy-joes/)-loaded [oven-roasted potatoes](vegetables/oven-roasted-vegetables/oven-roasted-waxy-potatoes.md) and [green beans](vegetables/green-beans.md)
 * [Chicken schwarma](meats/poultry/chicken-schwarma.md) served with [green beans](vegetables/green-beans.md) and [oven-roasted potatoes](vegetables/oven-roasted-vegetables/oven-roasted-waxy-potatoes.md)
