@@ -7,11 +7,6 @@ dependencies = [
     "zensical>=0.0.27",
 ]
 
-[dependency-groups]
-dev = [
-    "pre-commit>=3.2",
-]
-
 [tool.uv]
 exclude-newer = "14 days"
 
