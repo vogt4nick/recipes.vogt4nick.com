@@ -1,34 +1,54 @@
 ---
 tags:
-    - vegatarisch
+  - vegatarisch
 ---
+
 === "Zutaten"
-    * 150 g glattes Weizenmehl
-    * 125 g Butter, kühl und in Stücke geschnittene
-    * 60 g Haselnüsse, fein gerieben
-    * 50 g Staubzucker
-    * 10 g Vanillezucker
-    * 1 Prise Salz
-    * gesiebter Staubzucker vermischt mit Vanillezucker zum Bestreuen
+
+    - 150 g glattes Weizenmehl
+    - 125 g Butter, kühl und in Stücke geschnittene
+    - 60 g Haselnüsse, fein gerieben
+    - 50 g Staubzucker
+    - 10 g Vanillezucker
+    - 1 Prise Salz
+    - gesiebter Staubzucker vermischt mit Vanillezucker zum Bestreuen
 
     !!! info "Diese Zutaten ergeben zwölf (12) Kipferl."
 
     !!! note "Ersatzweise kann mann auch Walnüsse gemischt mit Haselnüssen."
 
 === "Zubereitung"
-    1. **Stell am Platz.** Das Backrohr auf 170ºC Heißluft vorheizen. Ein Backblech mit Backpapier belegen oder mit flüssiger Butter bestreichen.
-    2. **Teig mischen.** Alle Zutaten in einer Schüssel, auf einer Arbeitsfläche mit den Händen oder in der Küchenmachine mit dem Knethaken rasch zu einem Teig verarbeiten.
-    3. **Kipferl formen.** Teig zu längchen 3 cm dicken Rollen formen, mit der Teigkarte kleine Stücke abstechen, mit der flachen Hand zu 3 cm langen Rollen formen und zu Kipferln biegen.
-    4. **Kipferl backen.** Auf das Backblech legen und im vorgeheizten Backrohr unter Aufsicht 10-12 Minuten hell backen.
-    5. **Kipferl garnieren.** Die noch heißen Kipferl auf dem Blech mit dem Staubzucker-Vanillezucker-Gemisch bestreuen.
-    6. **Auskühlen lassen.**
+
+    1. **Stell am Platz.** Das Backrohr auf 170ºC Heißluft vorheizen. Ein Backblech
+        mit Backpapier belegen oder mit flüssiger Butter bestreichen.
+    1. **Teig mischen.** Alle Zutaten in einer Schüssel, auf einer Arbeitsfläche mit
+        den Händen oder in der Küchenmachine mit dem Knethaken rasch zu einem Teig
+        verarbeiten.
+    1. **Kipferl formen.** Teig zu längchen 3 cm dicken Rollen formen, mit der
+        Teigkarte kleine Stücke abstechen, mit der flachen Hand zu 3 cm langen
+        Rollen formen und zu Kipferln biegen.
+    1. **Kipferl backen.** Auf das Backblech legen und im vorgeheizten Backrohr
+        unter Aufsicht 10-12 Minuten hell backen.
+    1. **Kipferl garnieren.** Die noch heißen Kipferl auf dem Blech mit dem
+        Staubzucker-Vanillezucker-Gemisch bestreuen.
+    1. **Auskühlen lassen.**
 
     !!! note "Nur bei Bedarf mit Frischhaltefolie abgedeckt im Kühlschrank kurz rasten lassen."
 
 ???+ quote "Der besondere Tipp von *Die Österreichisch Küche*.[^bitterman]"
-    Wenn Sie die geriebenen Nüsse vor der Verarbeitung in einer Pfanne oder im Backrohr ohne Fett rösten, kann sich ihr feines Aroma noch viel besser entfalten. Dasselbe gilt übrigens auch für Kokos- oder Haferflocken. Wenn man die Kipferl noch sehr heiß mit Staubzucker bestreut, so schmilzt der Zucker und man muss unter Umständen noch einmal nachzuckern. Abhilfe schafft hier >>süßer Schnee<< (im Fachhendel erhältlich), der auf heißem Gebäck nicht schmilzt.
 
-[^bitterman]:
-    Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula. [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251). 1. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG, 15 September 2018. 401.
-[^grannies]:
-    Theresia. ["Vanillekipferl von Oma Theresia - Rezept Video - Cooking Grannies."](https://www.youtube.com/watch?v=Ir0y8aiVUmY) _YouTube: Cooking Grannies._ 12 December 2018.
+    Wenn Sie die geriebenen Nüsse vor der Verarbeitung in einer Pfanne oder im
+    Backrohr ohne Fett rösten, kann sich ihr feines Aroma noch viel besser
+    entfalten. Dasselbe gilt übrigens auch für Kokos- oder Haferflocken. Wenn man
+    die Kipferl noch sehr heiß mit Staubzucker bestreut, so schmilzt der Zucker und
+    man muss unter Umständen noch einmal nachzuckern. Abhilfe schafft hier >>süßer
+    Schnee\<< (im Fachhendel erhältlich), der auf heißem Gebäck nicht schmilzt.
+
+[^bitterman]: Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
+    [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).
+    1\. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG,
+    15 September 2018. 401.
+
+[^grannies]: Theresia.
+    ["Vanillekipferl von Oma Theresia - Rezept Video - Cooking Grannies."](https://www.youtube.com/watch?v=Ir0y8aiVUmY)
+    _YouTube: Cooking Grannies._ 12 December 2018.

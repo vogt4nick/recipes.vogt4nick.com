@@ -1,11 +1,12 @@
 === "Zutaten"
-    * 500 g Erdäpfel, mehlig
-    * 125 g Mehl
-    * Salz
-    * Muskatnuss, gerieben
-    * 15 g Butter
-    * 1 Ei
-    * Salzwasser zum Kochen
+
+    - 500 g Erdäpfel, mehlig
+    - 125 g Mehl
+    - Salz
+    - Muskatnuss, gerieben
+    - 15 g Butter
+    - 1 Ei
+    - Salzwasser zum Kochen
 
     !!! info "Diese Zutaten sind für zwei (2) Personen geeignet."
 
@@ -14,21 +15,25 @@
     !!! tip "Erdäpfelteig wird lockerer, wenn 25 g Mehl durch Grieß ersetzt werden (z.B. 100 g Mehl + 25 g Grieß)."
 
 === "Zubereitung"
-    1. **Die Erdäpfel kochen.** Die Erdäpfel 30 Minuten im leicht wallenden Salzwasser kochen. Das Wasser abseihen, die Erdäpfeln kurz mit kaltem Wasser abschrecken und schälen.
-    2. **Erdäpfelteig vermengen.** Noch heiß auf das mit Mehl bedeckte Nudelbrett passiert und gesalzen. Nun werden Erdäpfeln und Mehl locker gemischt und mit den übrigen Zutaten rasch zu einem Teig verarbeitet.
+
+    1. **Die Erdäpfel kochen.** Die Erdäpfel 30 Minuten im leicht wallenden
+        Salzwasser kochen. Das Wasser abseihen, die Erdäpfeln kurz mit kaltem
+        Wasser abschrecken und schälen.
+    1. **Erdäpfelteig vermengen.** Noch heiß auf das mit Mehl bedeckte Nudelbrett
+        passiert und gesalzen. Nun werden Erdäpfeln und Mehl locker gemischt und
+        mit den übrigen Zutaten rasch zu einem Teig verarbeitet.
 
     !!! caution "Wird Erdäpfelteig zu lange bearbeitet wird er zäh."
 
     !!! note "Erdäpfelteig kochen: In siedendes Salzwasser einlegen, nicht kochen, zur ziehen lassen."
 
-[^gutekueche]:
-    ["Erdäpfelknödel.](https://www.gutekueche.at/erdaepfelknoedel-rezept-2153)
-    *Gute Kueche.*
-    27 Februar 2015.
-[^müller_walser]:
-    Müller, Anna, and Olga Walser. [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0) Verlag E. DORNER Gmbh, 2017. 36.
-[^gerykocht]:
-    Remias, Frankie.
+[^gutekueche]: ["Erdäpfelknödel.](https://www.gutekueche.at/erdaepfelknoedel-rezept-2153)
+    *Gute Kueche.* 27 Februar 2015.
+
+[^müller_walser]: Müller, Anna, and Olga Walser.
+    [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
+    Verlag E. DORNER Gmbh, 2017. 36.
+
+[^gerykocht]: Remias, Frankie.
     ["Waldviertlerknödel - das Original."](https://www.youtube.com/watch?v=pX3jKBJj2F8)
-    *Gery-Kocht -das Beste ganz einfach.*
-    2 November 2017.
+    *Gery-Kocht -das Beste ganz einfach.* 2 November 2017.

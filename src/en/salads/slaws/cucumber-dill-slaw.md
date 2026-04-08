@@ -1,16 +1,22 @@
 === "Ingredients"
-    * 800 g Cabbage, cored, shredded
-    * 400 g English Cucumber, thinly sliced
-    * 15 g Dill Leaves
-    * Dressing
-        * 120 g White Wine Vinegar
-        * 4 t Medium-Grain Salt
-        * 4 t White Sugar
-        * 120 g Water, cold
+
+    - 800 g Cabbage, cored, shredded
+    - 400 g English Cucumber, thinly sliced
+    - 15 g Dill Leaves
+    - Dressing
+        - 120 g White Wine Vinegar
+        - 4 t Medium-Grain Salt
+        - 4 t White Sugar
+        - 120 g Water, cold
 
 === "Directions"
-    1. **Mix dressing.** Whisk dressing ingredients together in a bowl until solid dissolve.
-    2. **Combine slaw.** Add cabbage, cucumber, dill in a large bowl. Mix. Add dressing. Mix.
-    3. **Marinate** 60-120 minutes at room-temperature.
 
-[^1]: Perelman, Deb. [*The Smitten Kitchen Cookbook*](https://www.amazon.com/dp/030759565X/). New York, NY: Alfred A. Knopf, 2017.
+    1. **Mix dressing.** Whisk dressing ingredients together in a bowl until solid
+        dissolve.
+    1. **Combine slaw.** Add cabbage, cucumber, dill in a large bowl. Mix. Add
+        dressing. Mix.
+    1. **Marinate** 60-120 minutes at room-temperature.
+
+[^1]: Perelman, Deb.
+    [*The Smitten Kitchen Cookbook*](https://www.amazon.com/dp/030759565X/).
+    New York, NY: Alfred A. Knopf, 2017.

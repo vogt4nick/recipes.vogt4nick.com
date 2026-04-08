@@ -1,54 +1,73 @@
 === "Ingredients"
-    * 420 g Compote, chilled
-        * 340 g Cranberries
-        * 75 g Brown Sugar
-        * 1 t Orange Zest
-        * 1 T Orange Juice
-    * 450 g Crumble, chilled
-        * 80 g Rolled Oats
-        * 120 g White Wheat Flour
-        * 100 g Brown Sugar
-        * 1/2 t Cinnamon, ground
-        * 1/4 t Medium-Grain Salt
-        * 140 g Unsalted Butter, chilled, chopped into 5 g pieces
-    * Filling
-        * 150 g White Sugar
-        * 30 g Tapioca Flour
-        * 1 t Nutmeg, ground
-        * 1/2 t Cinnamon, ground
-        * 1/2 t Allspice, ground
-        * 1/2 T Medium-Grain Salt
-        * 225 g Cranberries
-        * 100 g Bosc Pear, peeled, grated
-    * 1 [Pie Crust, blind baked](../../breads/pastry-doughs/pie-crust.md)
-    * 30 g Cream Cheese, room temperature
-    * 1 Egg, beaten
-    * For Serving
-        * Vanilla Ice Cream
+
+    - 420 g Compote, chilled
+        - 340 g Cranberries
+        - 75 g Brown Sugar
+        - 1 t Orange Zest
+        - 1 T Orange Juice
+    - 450 g Crumble, chilled
+        - 80 g Rolled Oats
+        - 120 g White Wheat Flour
+        - 100 g Brown Sugar
+        - 1/2 t Cinnamon, ground
+        - 1/4 t Medium-Grain Salt
+        - 140 g Unsalted Butter, chilled, chopped into 5 g pieces
+    - Filling
+        - 150 g White Sugar
+        - 30 g Tapioca Flour
+        - 1 t Nutmeg, ground
+        - 1/2 t Cinnamon, ground
+        - 1/2 t Allspice, ground
+        - 1/2 T Medium-Grain Salt
+        - 225 g Cranberries
+        - 100 g Bosc Pear, peeled, grated
+    - 1 [Pie Crust, blind baked](../../breads/pastry-doughs/pie-crust.md)
+    - 30 g Cream Cheese, room temperature
+    - 1 Egg, beaten
+    - For Serving
+        - Vanilla Ice Cream
 
 === "Directions"
-    1. **Mix compote** ingredients in a saucepan. Cook over medium-low heat until cranberries begin to burst. Remove from heat. Chill until needed.
-    2. **Mix crumble.** Mix oats, flour, sugar, and spices in a bowl. Stir in butter to coat evenly. Use a pastry blender to further divide mixture evenly until butter is incorporated. Careful not to overwork the crumble, continue to break down butter using your fingers just until the butter is no longer visible. Chill until needed.
-    3. **Preheat oven** to 350ºF (177ºC).
-    4. **Mix filling.** Mix sugar, spices, salt, and flour in a bowl. Stir in fruit and compote.
-    5. **Assemble pie.** Spread cream cheese on bottom of pie crust. Brush the crimped edge with egg. Layer filling on top of cream cheese, spreading evenly to fill the pie crust. Layer fruit with crumble, leaving a small hole in the center of the pie. Place assembled pie onto a parchment-lined sheetpan.
-    6. **Bake** 60-70 minutes at 350ºF until the pie juices begin to bubble in the center and the crumble is a uniform, deep golden brown. Remove from heat.
-    7. **Cool** 4-6 hours on a wire rack.
-    8. **Serve** with vanilla ice cream.
+
+    1. **Mix compote** ingredients in a saucepan. Cook over medium-low heat until
+        cranberries begin to burst. Remove from heat. Chill until needed.
+    1. **Mix crumble.** Mix oats, flour, sugar, and spices in a bowl. Stir in butter
+        to coat evenly. Use a pastry blender to further divide mixture evenly until
+        butter is incorporated. Careful not to overwork the crumble, continue to
+        break down butter using your fingers just until the butter is no longer
+        visible. Chill until needed.
+    1. **Preheat oven** to 350ºF (177ºC).
+    1. **Mix filling.** Mix sugar, spices, salt, and flour in a bowl. Stir in fruit
+        and compote.
+    1. **Assemble pie.** Spread cream cheese on bottom of pie crust. Brush the
+        crimped edge with egg. Layer filling on top of cream cheese, spreading
+        evenly to fill the pie crust. Layer fruit with crumble, leaving a small
+        hole in the center of the pie. Place assembled pie onto a parchment-lined
+        sheetpan.
+    1. **Bake** 60-70 minutes at 350ºF until the pie juices begin to bubble in the
+        center and the crumble is a uniform, deep golden brown. Remove from heat.
+    1. **Cool** 4-6 hours on a wire rack.
+    1. **Serve** with vanilla ice cream.
 
     !!! info "Prepare the compote and crumble up to 4 days in advance."
 
     !!! tip "When mixing the crumble, you will need to clean out the pastry blender several times."
 
     ??? caution "Be mindful not to overwork the crumble."
-        The final crumble with have variable sized chunks. Overworking the crumble can turn it into something closer to a powder.
+
+        The final crumble with have variable sized chunks. Overworking the crumble can
+        turn it into something closer to a powder.
 
     ??? question "Why leave a hole in the pie?"
+
         The hole in the center of the pie serves two purposes:
 
         1. to vent steam as the pie cooks, and
-        2. to indicate when the pie is done.
+        1. to indicate when the pie is done.
 
     !!! info "Store leftover pie up to 2 days covered at room temperature."
 
-[^1]: Ludwinski, Lisa, and E. E. Berger. [*Sister Pie: The Recipes & Stories of a Big-hearted Bakery in Detroit*](https://www.amazon.com/dp/0399579761). California: Lorena Jones Books, an Imprint of Crown Publishing Group, 2018.
+[^1]: Ludwinski, Lisa, and E. E. Berger.
+    [*Sister Pie: The Recipes & Stories of a Big-hearted Bakery in Detroit*](https://www.amazon.com/dp/0399579761).
+    California: Lorena Jones Books, an Imprint of Crown Publishing Group,
+    2018\.

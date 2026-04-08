@@ -1,11 +1,13 @@
 === "Ingredients"
-    * Zucchinis, chopped into thumb-sized pieces
-    * Lard, Ghee, or Neutral Oil
-    * Medium-Grain Salt
-    * Black Peppercorn, ground
-    * Dried Cayenne Pepper, ground
+
+    - Zucchinis, chopped into thumb-sized pieces
+    - Lard, Ghee, or Neutral Oil
+    - Medium-Grain Salt
+    - Black Peppercorn, ground
+    - Dried Cayenne Pepper, ground
 
 === "Directions"
+
     1. **Preheat oven** to 450ºF (232ºC). Dress sheet pan with aluminum foil.
-    2. **Season** with cooking fat and spices.
-    3. **Roast** 20 minutes, flipping twice.
+    1. **Season** with cooking fat and spices.
+    1. **Roast** 20 minutes, flipping twice.

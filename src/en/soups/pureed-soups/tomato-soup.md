@@ -1,18 +1,26 @@
 === "Ingredients"
-    * 10 g Olive Oil
-    * 100 g Onion, minced
-    * 1/4 t Medium-Grain Salt
-    * 1/4 t Black Peppercorn, ground
-    * 900 g Tomatoes, peeled, quartered
-    * 500 g [Vegetable Stock](../stocks/vegetable-stock.md)
-    * 5 g Parsley Leaves, chopped
-    * For Garnish
-        * Basil Leaves, chopped
+
+    - 10 g Olive Oil
+    - 100 g Onion, minced
+    - 1/4 t Medium-Grain Salt
+    - 1/4 t Black Peppercorn, ground
+    - 900 g Tomatoes, peeled, quartered
+    - 500 g [Vegetable Stock](../stocks/vegetable-stock.md)
+    - 5 g Parsley Leaves, chopped
+    - For Garnish
+        - Basil Leaves, chopped
 
 === "Directions"
-    1. **Sauté vegetables.** Heat oil in stockpan over medium heat. Add onion, salt, pepper. Coat evenly. Sauté 8 minutes, stirring every 3 minutes. Add tomatoes. Cook 15 minutes, stirring every 5 minutes, until tomatoes break down.
-    2. **Season and simmer.** Add stock and spices to stockpan. Bring soup to gentle boil, and reduce heat to low. Cover. Simmer 45 minutes.
-    3. **Puree** with immersion blender.
-    4. **Garnish & serve** with remaining spices.
 
-[^1]: Child, Julia, Louisette Bertholle, and Simone Beck. [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405). New York, NY: Knopf, 2001.
+    1. **Sauté vegetables.** Heat oil in stockpan over medium heat. Add onion, salt,
+        pepper. Coat evenly. Sauté 8 minutes, stirring every 3 minutes. Add
+        tomatoes. Cook 15 minutes, stirring every 5 minutes, until tomatoes break
+        down.
+    1. **Season and simmer.** Add stock and spices to stockpan. Bring soup to gentle
+        boil, and reduce heat to low. Cover. Simmer 45 minutes.
+    1. **Puree** with immersion blender.
+    1. **Garnish & serve** with remaining spices.
+
+[^1]: Child, Julia, Louisette Bertholle, and Simone Beck.
+    [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405).
+    New York, NY: Knopf, 2001.

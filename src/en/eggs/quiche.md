@@ -1,28 +1,38 @@
 ---
 tags:
-    - Continental cuisine
+  - Continental cuisine
 ---
+
 === "Ingredients"
-    * 1 [Savory Piecrust](../breads/pastry-doughs/pie-crust.md), blind baked, cooled
-    * 300 g Sausage or Bacon, cooked
-    * Sautéed Vegetables (optional)
-    * Egg Filling
-        * 6 Eggs, room temperature
-        * 120 g Whole Milk
-        * 120 g Heavy Cream
-    * Seasonings
-        * 1/2 t Medium-Grain Salt
-        * 1/2 t Black Peppercorn, ground
-        * 1/4 t Dried Cayenne Pepper, ground
-    * 110 g Cheddar Cheese, grated
+
+    - 1 [Savory Piecrust](../breads/pastry-doughs/pie-crust.md), blind baked, cooled
+    - 300 g Sausage or Bacon, cooked
+    - Sautéed Vegetables (optional)
+    - Egg Filling
+        - 6 Eggs, room temperature
+        - 120 g Whole Milk
+        - 120 g Heavy Cream
+    - Seasonings
+        - 1/2 t Medium-Grain Salt
+        - 1/2 t Black Peppercorn, ground
+        - 1/4 t Dried Cayenne Pepper, ground
+    - 110 g Cheddar Cheese, grated
 
 === "Directions"
-    1. **Preheat oven** to 350ºF (177ºC).
-    2. **Mix filling.** Add fillings and seasonings in a large mixing bowl. Whisk until blended.
-    3. **Build quiche.** Place the piecrust on a parchement-lined sheetpan. Layer sausage on bottom of pie crust. Layer sautéed vegetables. Pour in the the filling. Layer cheese on top. Bake 50 - 60 minutes at 350ºF until almost firm and lightly brown on top.
-    4. **Cool** 2 - 4 hours on a wire rack until cooled to room temperature.
-    5. **Serve** warm or at room-temperature.
 
-[^1]: Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
-[^2]:
-    ["Diagnose my watery quiche."](https://boards.straightdope.com/t/diagnose-my-watery-quiche/554453) *The Straight Dope Message Board: Cafe Society.* 20 September 2010.
+    1. **Preheat oven** to 350ºF (177ºC).
+    1. **Mix filling.** Add fillings and seasonings in a large mixing bowl. Whisk
+        until blended.
+    1. **Build quiche.** Place the piecrust on a parchement-lined sheetpan. Layer
+        sausage on bottom of pie crust. Layer sautéed vegetables. Pour in the the
+        filling. Layer cheese on top. Bake 50 - 60 minutes at 350ºF until almost
+        firm and lightly brown on top.
+    1. **Cool** 2 - 4 hours on a wire rack until cooled to room temperature.
+    1. **Serve** warm or at room-temperature.
+
+[^1]: Bittman, Mark.
+    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th
+    Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
+
+[^2]: ["Diagnose my watery quiche."](https://boards.straightdope.com/t/diagnose-my-watery-quiche/554453)
+    *The Straight Dope Message Board: Cafe Society.* 20 September 2010.

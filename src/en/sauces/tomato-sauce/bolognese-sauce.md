@@ -1,30 +1,45 @@
 ??? note "Notes from Marcella"
-    * The meat should not be from too lean a cut; the more marbled it is, the sweeter the sauce will be. The neck portion of the chuck works well.
-    * Add salt immediately when sauteing the meat to extract its juices for the subsequent benefit of the sauce.
-    * Cook the meat in milk before adding wine and tomatoes to protect it from the acidic bite of the latter.
-    * Do not use a demiglace or other concentrates that tip the balance of flavors toward harshness.
-    * Use a pot that retains heat. Earthenware is preferred in Bologna and bot most cooks in Emilia-Romagna, but enameled cast-iron pans or a pot whose heavy bottom is composed of layers of steel allows are fully satisfactory.
-    * Cook, uncovered, at the merest simmer for a long, long time; no less than 3 hours is necessary. More is better.
+
+    - The meat should not be from too lean a cut; the more marbled it is, the
+        sweeter the sauce will be. The neck portion of the chuck works well.
+    - Add salt immediately when sauteing the meat to extract its juices for the
+        subsequent benefit of the sauce.
+    - Cook the meat in milk before adding wine and tomatoes to protect it from the
+        acidic bite of the latter.
+    - Do not use a demiglace or other concentrates that tip the balance of flavors
+        toward harshness.
+    - Use a pot that retains heat. Earthenware is preferred in Bologna and bot most
+        cooks in Emilia-Romagna, but enameled cast-iron pans or a pot whose heavy
+        bottom is composed of layers of steel allows are fully satisfactory.
+    - Cook, uncovered, at the merest simmer for a long, long time; no less than 3
+        hours is necessary. More is better.
 
 === "Ingredients"
-    * 15 g Vegetable Oil
-    * 40 g Unsalted Butter
-    * 110 g Onion, chopped
-    * 110 g Celery, chopped
-    * 110 g Carrot, chopped
-    * 330 g Ground Beef
-    * 1 t Medium-Grain Salt
-    * 1/2 t Black Peppercorn, ground
-    * 240 g Whole Milk
-    * 1 pinch Nutmeg
-    * 240 g Dry White Wine
-    * 360 g Tomatoes, peeled, crushed
+
+    - 15 g Vegetable Oil
+    - 40 g Unsalted Butter
+    - 110 g Onion, chopped
+    - 110 g Celery, chopped
+    - 110 g Carrot, chopped
+    - 330 g Ground Beef
+    - 1 t Medium-Grain Salt
+    - 1/2 t Black Peppercorn, ground
+    - 240 g Whole Milk
+    - 1 pinch Nutmeg
+    - 240 g Dry White Wine
+    - 360 g Tomatoes, peeled, crushed
 
 === "Directions"
-    1. **Sweat vegetables.** Cook onion in butter and oil over medium heat until translucent. Stir in celery, carrot. Cook 2 minutes.
-    2. **Brown beef.** Stir in beef, salt, black pepper. Cook until beef has lost its raw, red color.
-    3. **Build sauce.** Stir in milk. Reduce 40-50 minutes, stirring occasionally. Stir in wine. Reduce 40-50 minutes, stirring occasionally. Stir in tomatoes. Simmer until sauce begins to bubble. Reduce heat to a very low simmer.
-    4. **Simmer**, uncovered, 3-6 hours, stirring as needed.
+
+    1. **Sweat vegetables.** Cook onion in butter and oil over medium heat until
+        translucent. Stir in celery, carrot. Cook 2 minutes.
+    1. **Brown beef.** Stir in beef, salt, black pepper. Cook until beef has lost
+        its raw, red color.
+    1. **Build sauce.** Stir in milk. Reduce 40-50 minutes, stirring occasionally.
+        Stir in wine. Reduce 40-50 minutes, stirring occasionally. Stir in
+        tomatoes. Simmer until sauce begins to bubble. Reduce heat to a very low
+        simmer.
+    1. **Simmer**, uncovered, 3-6 hours, stirring as needed.
 
     !!! caution "Be very careful not to burn the milk solids."
 
@@ -34,4 +49,6 @@
 
 !!! tip "Serve with fettuccine, rigatoni, conchiglie, or fusilli."
 
-[^1]: Hazan, Marcella, and Karin Kretschmann. [*Essentials of Classic Italian Cooking*](https://www.amazon.com/dp/039458404X). New York, NY: Alfred A. Knopf, 1992.
+[^1]: Hazan, Marcella, and Karin Kretschmann.
+    [*Essentials of Classic Italian Cooking*](https://www.amazon.com/dp/039458404X).
+    New York, NY: Alfred A. Knopf, 1992.

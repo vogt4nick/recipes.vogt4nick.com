@@ -1,23 +1,37 @@
 === "Ingredients"
-    * Eggs
-    * Water
-    * 1 T White Vinegar
+
+    - Eggs
+    - Water
+    - 1 T White Vinegar
 
 === "Directions"
-    1. **Simmer water** and vinegar in a saucepan. Maintain a bare simmer for the duration of the operation.
-    2. **Poach eggs.** Break the egg, hold it as closely over the water as possible, and let it fall in. Immediately and gently push the white over the yolk with a wooden spoon for 2 to 3 seconds. Poach 4 minutes.
-    3. **Shock egg.** Gently transfer egg to cold water.
+
+    1. **Simmer water** and vinegar in a saucepan. Maintain a bare simmer for the
+        duration of the operation.
+    1. **Poach eggs.** Break the egg, hold it as closely over the water as possible,
+        and let it fall in. Immediately and gently push the white over the yolk
+        with a wooden spoon for 2 to 3 seconds. Poach 4 minutes.
+    1. **Shock egg.** Gently transfer egg to cold water.
 
     ??? question "Why shock the poached egg in cold water?"
+
         Two reasons:
 
         1. The cold water stops the cooking process.
-        2. The cold water rinses any lingering vinegar clinging to the poached egg.
+        1. The cold water rinses any lingering vinegar clinging to the poached egg.
 
     ??? question "How do I prepare poached eggs ahead of time?"
-        Poached eggs can remain for several hours in cold water. They can also be drained and refrigerated, but I don't recommend it if you can avoid it.
+
+        Poached eggs can remain for several hours in cold water. They can also be
+        drained and refrigerated, but I don't recommend it if you can avoid it.
 
     ??? question "How do I reheat a poached egg?"
-        Trim off any trailing bits of white with knife. Place them in hot salted water for 30 seconds to hea them through. Remove with a slotted spoon. Holding a folded towel under the spoon, roll the egg back and forth to drain it, and it is ready to serve.
 
-[^1]: Child, Julia, Louisette Bertholle, and Simone Beck. [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405). New York, NY: Knopf, 2001.
+        Trim off any trailing bits of white with knife. Place them in hot salted water
+        for 30 seconds to hea them through. Remove with a slotted spoon. Holding a
+        folded towel under the spoon, roll the egg back and forth to drain it, and it is
+        ready to serve.
+
+[^1]: Child, Julia, Louisette Bertholle, and Simone Beck.
+    [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405).
+    New York, NY: Knopf, 2001.

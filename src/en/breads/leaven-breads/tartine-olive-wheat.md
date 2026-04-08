@@ -1,30 +1,42 @@
 === "Ingredients"
-    | Ingredient            | Leaven | Dough | Final | Final (%) |
-    | :-------------------- | -----: | ----: | ----: | --------: |
-    | White Wheat Flour     |        | 360 g | 360 g |      72 % |
-    | Whole Wheat Flour     |  110 g |  30 g | 140 g |      28 % |
-    | Wheat Starter         |   22 g |       |  22 g |     2.2 % |
-    | Water                 |  110 g | 290 g | 400 g |      80 % |
-    | Salt                  |        |   9 g |   9 g |     1.8 % |
-    | Pitted Olives, sliced |        | 150 g | 150 g |      30 % |
-    | Herbs de Provence     |        |   3 t |       |           |
-    | Lemon Zest            |        |     - |       |           |
+
+    | Ingredient | Leaven | Dough | Final | Final (%) |
+    | :- | -: | -: | -: | -: |
+    | White Wheat Flour |  | 360 g | 360 g | 72 % |
+    | Whole Wheat Flour | 110 g | 30 g | 140 g | 28 % |
+    | Wheat Starter | 22 g |  | 22 g | 2.2 % |
+    | Water | 110 g | 290 g | 400 g | 80 % |
+    | Salt |  | 9 g | 9 g | 1.8 % |
+    | Pitted Olives, sliced |  | 150 g | 150 g | 30 % |
+    | Herbs de Provence |  | 3 t |  |  |
+    | Lemon Zest |  | - |  |  |
 
 === "Directions"
-    1. **Leaven.** Mix starter, flour, and water until just incorporated. Seal, and rest 12 hours at room temperature.
-    2. **Autolyse.** Blend the flours until homogenous. Add water, and mix until just incorporated. Cover and rest 45 minutes.
-    3. **Mix.** Add salt and leaven to the autolysed dough, and mix by hand using the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s) until becomes a homogenous mass. Rest 10 minutes. Mix in olives, herbs, and lemon zest, again with pincer method, until evenly distributed.
-    4. **Knead.** Slap & fold 2 minutes to develop gluten.
-    5. **Bulk ferment** 5h 30m total, covered. Slap & fold 30 minutes for the first 3 hours, and rest for the remaining 2h 30m.
-    6. **Shape** into a medium-tight loaf.
-    7. **Cold proof (optional)** 8-24 hours in refrigerator.
-    8.  **Preheat oven** to 250ºC (482ºF).
-    9.  **Preheat dutch oven** with its lid at least 45 minutes.
-    10. **Bake** 35 minutes covered. Remove lid, and continue baking 20 minutes until dark brown all around the loaf.
-    11. **Cool** loaf at room temperature at least 20 minutes.
+
+    1. **Leaven.** Mix starter, flour, and water until just incorporated. Seal, and
+        rest 12 hours at room temperature.
+    1. **Autolyse.** Blend the flours until homogenous. Add water, and mix until
+        just incorporated. Cover and rest 45 minutes.
+    1. **Mix.** Add salt and leaven to the autolysed dough, and mix by hand using
+        the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s) until
+        becomes a homogenous mass. Rest 10 minutes. Mix in olives, herbs, and lemon
+        zest, again with pincer method, until evenly distributed.
+    1. **Knead.** Slap & fold 2 minutes to develop gluten.
+    1. **Bulk ferment** 5h 30m total, covered. Slap & fold 30 minutes for the first
+        3 hours, and rest for the remaining 2h 30m.
+    1. **Shape** into a medium-tight loaf.
+    1. **Cold proof (optional)** 8-24 hours in refrigerator.
+    1. **Preheat oven** to 250ºC (482ºF).
+    1. **Preheat dutch oven** with its lid at least 45 minutes.
+    1. **Bake** 35 minutes covered. Remove lid, and continue baking 20 minutes until
+        dark brown all around the loaf.
+    1. **Cool** loaf at room temperature at least 20 minutes.
 
     ??? question "Why do I continue kneading through bulk fermentation?"
-        The olives will inhibit gluten development. Without the additional kneading, the resulting loaf would be very dense and would struggle to rise.
 
-[^woodenspoon]:
-    Leo, Maurizio. ["Tartine Olive Sourdough."](https://www.theperfectloaf.com/tartine-olive-sourdough/) _The Perfect Loaf._ 19 April 2015.
+        The olives will inhibit gluten development. Without the additional kneading, the
+        resulting loaf would be very dense and would struggle to rise.
+
+[^woodenspoon]: Leo, Maurizio.
+    ["Tartine Olive Sourdough."](https://www.theperfectloaf.com/tartine-olive-sourdough/)
+    _The Perfect Loaf._ 19 April 2015.

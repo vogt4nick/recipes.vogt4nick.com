@@ -1,13 +1,15 @@
 === "Ingredients"
-    * Butternet Squash, chopped into thumb-sized pieces
-    * Olive Oil or Neutral Oil
-    * Medium-Grain Salt
-    * Black Peppercorn, ground
-    * Cumin Seed, ground
-    * Paprika
-    * Dried Cayenne Pepper, ground
+
+    - Butternet Squash, chopped into thumb-sized pieces
+    - Olive Oil or Neutral Oil
+    - Medium-Grain Salt
+    - Black Peppercorn, ground
+    - Cumin Seed, ground
+    - Paprika
+    - Dried Cayenne Pepper, ground
 
 === "Directions"
+
     1. **Preheat oven** to 450ºF (232ºC). Dress sheet pan with aluminum foil.
-    2. **Season** with cooking fat and spices.
-    3. **Roast** 45 minutes, flipping twice.
+    1. **Season** with cooking fat and spices.
+    1. **Roast** 45 minutes, flipping twice.

@@ -1,11 +1,13 @@
 ---
 title: Barley
 ---
+
 === "Ingredients"
-    * 400 g Water
-    * 100 g Dry Pearled Barley
-    * 1/4 t Medium-Grain Salt
-    * 1 t Butter
+
+    - 400 g Water
+    - 100 g Dry Pearled Barley
+    - 1/4 t Medium-Grain Salt
+    - 1 t Butter
 
     !!! info "Yields 300 g cooked barley."
 
@@ -14,11 +16,14 @@ title: Barley
     !!! question "_Pearled barley_ has been hulled, steamed, and polished with the bran removed.[^bittman]"
 
 === "Directions"
-    1. **Rinse** barley several times until water runs mostly clear.
-    2. **Cook.** Add all ingredients to saucepan. Bring to boil, cover, reduce to low heat, and simmer 20 minutes until chewy. Remove from heat and drain any excess water.
-    3. **Fluff** barley with a fork.
 
-[^bittman]:
-    Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
-    "Cooking Grains, the Easy Way."
-    451, 477-9.
+    1. **Rinse** barley several times until water runs mostly clear.
+    1. **Cook.** Add all ingredients to saucepan. Bring to boil, cover, reduce to
+        low heat, and simmer 20 minutes until chewy. Remove from heat and drain any
+        excess water.
+    1. **Fluff** barley with a fork.
+
+[^bittman]: Bittman, Mark.
+    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).
+    10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt,
+    2008\. "Cooking Grains, the Easy Way." 451, 477-9.

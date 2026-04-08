@@ -1,17 +1,26 @@
 ---
 title: Bechamel Sauce
 ---
+
 === "Ingredients"
-    * 480 g Milk
-    * 1/4 t Medium-Grain Salt
-    * 25 g Unsalted Butter
-    * 25 g White Wheat Flour
+
+    - 480 g Milk
+    - 1/4 t Medium-Grain Salt
+    - 25 g Unsalted Butter
+    - 25 g White Wheat Flour
 
     !!! info "Yields about 500 g."
 
 === "Directions"
-    1. **Simmer milk.** Combine milk, salt in a saucepan. Bring to simmer.
-    2. **Prepare white roux.** Heat skillet over low heat. Add butter. Melt. Slowly add flour, whisking continuously. Cook 2 minutes until roux starts to froth.
-    3. **Boil to thicken.** Add simmering milk to roux. Bring to boil over medium-high heat. Quickly whisk 60 seconds. Immediately remove from heat. Gently whisk 15 seconds. Season with salt & pepper to taste.
 
-[^1]: Child, Julia, Louisette Bertholle, and Simone Beck. [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405). New York, NY: Knopf, 2001.
+    1. **Simmer milk.** Combine milk, salt in a saucepan. Bring to simmer.
+    1. **Prepare white roux.** Heat skillet over low heat. Add butter. Melt. Slowly
+        add flour, whisking continuously. Cook 2 minutes until roux starts to
+        froth.
+    1. **Boil to thicken.** Add simmering milk to roux. Bring to boil over
+        medium-high heat. Quickly whisk 60 seconds. Immediately remove from heat.
+        Gently whisk 15 seconds. Season with salt & pepper to taste.
+
+[^1]: Child, Julia, Louisette Bertholle, and Simone Beck.
+    [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405).
+    New York, NY: Knopf, 2001.

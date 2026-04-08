@@ -1,25 +1,28 @@
 ---
 tags:
-    - Meal prep
-    - Potluck
+  - Meal prep
+  - Potluck
 ---
+
 === "Ingredients"
-    * 200 g [Cooked Brown Lentils](../../legumes/lentils/index.md)
-    * 300 g [Cooked Bulgur](../../grains/bulgur.md) or [Cooked Buckwheat](../../grains/buckwheat/index.md)
-    * 60 g [Balsalmic Vinaigrette](../../sauces/vinaigrette/balsalmic-vinaigrette.md)
-    * 120 g Feta, cubed
-    * Celery, chopped
-    * Pepper, minced
-    * Corn Kernels
+
+    - 200 g [Cooked Brown Lentils](../../legumes/lentils/index.md)
+    - 300 g [Cooked Bulgur](../../grains/bulgur.md) or
+        [Cooked Buckwheat](../../grains/buckwheat/index.md)
+    - 60 g
+        [Balsalmic Vinaigrette](../../sauces/vinaigrette/balsalmic-vinaigrette.md)
+    - 120 g Feta, cubed
+    - Celery, chopped
+    - Pepper, minced
+    - Corn Kernels
 
 === "Directions"
-    1. **Cook** lentils and bulgur per linked recipes.
-    2. **Combine** lentils and bulgur in vinaigrette. Mix in vegetables.
-    3. **Cool** at least to room temperature.
-    4. **Serve** room temperature or chilled.
 
-[^meda]:
-    Yildirim, Meda.
+    1. **Cook** lentils and bulgur per linked recipes.
+    1. **Combine** lentils and bulgur in vinaigrette. Mix in vegetables.
+    1. **Cool** at least to room temperature.
+    1. **Serve** room temperature or chilled.
+
+[^meda]: Yildirim, Meda.
     ["Barley Apple Radish Salad."](https://tastysimplyvegan.com/barley-apple-radish-salad/)
-    _Tasty Simply Vegan._
-    7 October 2022.
+    _Tasty Simply Vegan._ 7 October 2022.

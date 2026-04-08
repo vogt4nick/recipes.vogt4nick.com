@@ -1,22 +1,27 @@
 === "Ingredients"
-    * 300 g Avocado, halved, peeled
-    * 50 g Shallots, minced
-    * 50 g Jalapeño Chile, seeded, minced
-    * Seasonings
-        * 1 Garlic Clove, minced
-        * 1 t Chili Powder
-        * Medium-Grain Salt
-        * Black Peppercorn, ground
-        * 15 g Lime Juice
-    * Garnish
-        * Fresh Coriander Leaves
+
+    - 300 g Avocado, halved, peeled
+    - 50 g Shallots, minced
+    - 50 g Jalapeño Chile, seeded, minced
+    - Seasonings
+        - 1 Garlic Clove, minced
+        - 1 t Chili Powder
+        - Medium-Grain Salt
+        - Black Peppercorn, ground
+        - 15 g Lime Juice
+    - Garnish
+        - Fresh Coriander Leaves
 
     !!! info "Yields about 400 g"
 
 === "Directions"
-    1. **Combine.** Mash avocados together in a bowl. Stir in shallots, chile, seasonings.
-    2. **Garnish** with cilantro.
+
+    1. **Combine.** Mash avocados together in a bowl. Stir in shallots, chile,
+        seasonings.
+    1. **Garnish** with cilantro.
 
 !!! info "Refrigerate up to 4 hours."
 
-[^1]: Bittman, Mark. [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
+[^1]: Bittman, Mark.
+    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th
+    Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.

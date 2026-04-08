@@ -1,21 +1,27 @@
 === "Ingredients"
-    * Filling
-        * 150 g White Sugar
-        * 15 g White Wheat Flour
-        * 1 t Cinnamon, ground
-        * 1 t Nutmeg, grated
-        * 120 g Heavy Whipping Cream or Milk
-        * 2 Eggs, beaten
-    * 3 Green Apples, peeled, grated
-    * 110 g Unsalted Butter, melted
-    * 1 [Pie Crust](../../breads/pastry-doughs/pie-crust.md)
+
+    - Filling
+        - 150 g White Sugar
+        - 15 g White Wheat Flour
+        - 1 t Cinnamon, ground
+        - 1 t Nutmeg, grated
+        - 120 g Heavy Whipping Cream or Milk
+        - 2 Eggs, beaten
+    - 3 Green Apples, peeled, grated
+    - 110 g Unsalted Butter, melted
+    - 1 [Pie Crust](../../breads/pastry-doughs/pie-crust.md)
 
 === "Directions"
-    1. **Preheat oven** to 400ºF (205ºC).
-    2. **Mix filling.** Mix sugar, flour, cinnamon, and nutmeg. Stir in milk and eggs until dry ingredients are incorporated.
-    3. **Layer pie.** Spread grated apples on bottom of pie crust. Drizzle with butter. Pour filling over apples.
-    4. **Bake** 10 minutes at 400ºF. Reduce heat to 350ºF (177ºC). Bake 30-40 minutes. Remove from heat.
-    5. **Cool** 4 hours until room temperature.
 
-[^reddit]:
-    u/Laniidae_. ["A gift from Post Secret this week."](https://old.reddit.com/r/Old_Recipes/comments/juhjjw/) _Reddit: /r/Old_Recipes._ November 2020.
+    1. **Preheat oven** to 400ºF (205ºC).
+    1. **Mix filling.** Mix sugar, flour, cinnamon, and nutmeg. Stir in milk and
+        eggs until dry ingredients are incorporated.
+    1. **Layer pie.** Spread grated apples on bottom of pie crust. Drizzle with
+        butter. Pour filling over apples.
+    1. **Bake** 10 minutes at 400ºF. Reduce heat to 350ºF (177ºC). Bake 30-40
+        minutes. Remove from heat.
+    1. **Cool** 4 hours until room temperature.
+
+[^reddit]: u/Laniidae\_.
+    ["A gift from Post Secret this week."](https://old.reddit.com/r/Old_Recipes/comments/juhjjw/)
+    _Reddit: /r/Old_Recipes._ November 2020.
