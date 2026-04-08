@@ -73,7 +73,7 @@ jobs:
   deploy:
     if: github.ref == 'refs/heads/main'
     name: Deploy to GitHub Pages
-    needs: [build, pre-commit]
+    needs: [build, prek]
     runs-on: ubuntu-latest
     environment:
       name: github-pages
