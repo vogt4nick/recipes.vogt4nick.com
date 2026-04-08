@@ -27,8 +27,8 @@
 [^lagasse_recipe]:
     Lagasse, Emeril. ["Emeril's Shrimp Scampi."](https://www.emerils.com/126940/emerils-shrimp-scampi) _Emeril's._ 16 December 2014.
 [^mitzewich]:
-    Mitzewich, John. ["Garlic Shrimp – Not Necessarily In That Order."](https://foodwishes.blogspot.com/2012/02/garlic-shrimp-not-necessarily-in-that.html) _Foodwishes._ 17 February 2012.
+    Mitzewich, John. ["Garlic Shrimp - Not Necessarily In That Order."](https://foodwishes.blogspot.com/2012/02/garlic-shrimp-not-necessarily-in-that.html) _Foodwishes._ 17 February 2012.
 [^ramsay_video]:
     Ramsay, Gordon. ["Gordon Ramsay Cooks Shrimp Scampi In Just 10 Minutes | Ramsay in 10."](https://www.youtube.com/watch?v=UMp-IF6uPkk) _YouTube: Gordon Ramsay._ 19 September 2019.
 [^ramsay_recipe]:
-    Ramsay, Gordon. ["Ramsay in 10 – Shrimp Scampi with Capellini Pasta."](https://www.gordonramsay.com/gr/recipes/ramsay-in-10-shrimp-scampi-with-capellini-pasta/) _Gordon Ramsay._ 19 September 2019.
+    Ramsay, Gordon. ["Ramsay in 10 - Shrimp Scampi with Capellini Pasta."](https://www.gordonramsay.com/gr/recipes/ramsay-in-10-shrimp-scampi-with-capellini-pasta/) _Gordon Ramsay._ 19 September 2019.

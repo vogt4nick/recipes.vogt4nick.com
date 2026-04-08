@@ -20,4 +20,4 @@
 
 
 [^foodwishes]:
-    Mitzewich, John. ["Mushroom Gravy – Quick, somebody find me a slice of meatloaf!"](https://foodwishes.blogspot.com/2007/03/mushroom-gravy-quick-somebody-find-me.html) *Food Wishes.* 30 March 2007.
+    Mitzewich, John. ["Mushroom Gravy - Quick, somebody find me a slice of meatloaf!"](https://foodwishes.blogspot.com/2007/03/mushroom-gravy-quick-somebody-find-me.html) *Food Wishes.* 30 March 2007.

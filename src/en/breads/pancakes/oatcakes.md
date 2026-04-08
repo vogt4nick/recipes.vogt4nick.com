@@ -24,4 +24,4 @@
     6. **Serve** with butter and maple syrup.
 
 [^mitzewich]:
-    Mitzewich, John. ["Scottish Oatcakes – The Pancake, Not the Paperweight."](https://foodwishes.blogspot.com/2018/04/scottish-oatcakes-pancake-not.html) _Food Wishes._ 22 April 2018.
+    Mitzewich, John. ["Scottish Oatcakes - The Pancake, Not the Paperweight."](https://foodwishes.blogspot.com/2018/04/scottish-oatcakes-pancake-not.html) _Food Wishes._ 22 April 2018.

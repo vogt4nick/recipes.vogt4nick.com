@@ -3,7 +3,7 @@
     >
     > For some legumes like lentils and mung beans, the germination during sprouting neutralises the phytic acids and makes them safe to consume raw.
     >
-    > For larger legumes, like chickpeas, it’s recommended to still boil them until tender before eating.
+    > For larger legumes, like chickpeas, it's recommended to still boil them until tender before eating.
     >
     > Some legumes, like red kidney beans contain an additional toxin called phytohaemagglutinin and, once sprouted, are not safe to be consumed raw.[^hermann_legumes]
 

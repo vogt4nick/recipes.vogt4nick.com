@@ -70,9 +70,9 @@ A higher inoculation rate causes faster fermentation, milder acidity; a lower in
     Clark, Mandy. ["Does the Amount of Sourdough Starter Matter?"](https://www.livingwellwithmandy.com/post/does-the-amount-of-sourdough-starter-matter-and-what-happens-when-you-change-it) _Living Well with Mandy._ 28 August 2023.
 
 
-## Reading a Baker’s Table
+## Reading a Baker's Table
 
-Leaven formulas are expressed in **baker’s percentages**, where total flour = 100 %. All other ingredients are listed as percentages of total flour weight. This allows scaling of any recipe while keeping ingredient ratios fixed. Danielle Ellis [explains](https://severnbites.com/2018/05/26/bake-better-take-control-use-bakers-percentages/) baker's percentages in detail.
+Leaven formulas are expressed in **baker's percentages**, where total flour = 100 %. All other ingredients are listed as percentages of total flour weight. This allows scaling of any recipe while keeping ingredient ratios fixed. Danielle Ellis [explains](https://severnbites.com/2018/05/26/bake-better-take-control-use-bakers-percentages/) baker's percentages in detail.
 
 
 ## Key Breadmaking Stages

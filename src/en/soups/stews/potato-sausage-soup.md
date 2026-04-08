@@ -31,4 +31,4 @@ tags:
     !!! caution "Do not burn the paprika!"
 
 [^1]:
-    Mitzewich, John. ["Hungarian Potato and Sausage Soup – Comfortarian Cuisine."](https://foodwishes.blogspot.com/2020/03/hungarian-potato-and-sausage-soup.html) *Food Wishes.* 20 March 2020.
+    Mitzewich, John. ["Hungarian Potato and Sausage Soup - Comfortarian Cuisine."](https://foodwishes.blogspot.com/2020/03/hungarian-potato-and-sausage-soup.html) *Food Wishes.* 20 March 2020.

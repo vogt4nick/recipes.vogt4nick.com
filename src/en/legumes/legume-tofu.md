@@ -46,7 +46,7 @@
     2. **Drain** legumes.
     3. **Blend** soaked legumes in water until smooth.
     4. **Toast spices (optional)** in frying pan over medium heat.
-    5. **Cook.** Pour blended mixture into pan. Stirring constantly, bring to a simmer, reduce heat, and cook 2-5 minutes until it has formed into a thick paste that doesn’t level out in the pan anymore and holds on to the spatula.
+    5. **Cook.** Pour blended mixture into pan. Stirring constantly, bring to a simmer, reduce heat, and cook 2-5 minutes until it has formed into a thick paste that doesn't level out in the pan anymore and holds on to the spatula.
     6. **Mold tofu** food storage or another container.
     7. **Chill** in fridge at least 1 hour.
 

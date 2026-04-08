@@ -33,4 +33,4 @@ tags:
     Add finely sliced scallions and minced garlic when adding yogurt.
 
 [^1]:
-    Mitzewich, John. ["Green Onion Garlic Naan – Don’t Call This a 'Shortcut.'"](https://foodwishes.blogspot.com/2022/09/green-onion-garlic-naan-dont-call-this.html) *Food Wishes.* 9 September 2022.
+    Mitzewich, John. ["Green Onion Garlic Naan - Don't Call This a 'Shortcut.'"](https://foodwishes.blogspot.com/2022/09/green-onion-garlic-naan-dont-call-this.html) *Food Wishes.* 9 September 2022.

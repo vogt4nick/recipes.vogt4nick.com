@@ -26,8 +26,8 @@
 > Sweet and nutty **red lentils** stand apart from green and brown in that they cook quicker and lose their shape, becoming mushy, during cooking. This makes them ideal for soups and absorbing spices and stronger flavours, particularly in Indian cooking.
 > [Use red lentils for] thickening soups, stews, casseroles and satisfying curries, like dal.
 >
-> **Yellow lentils**, or yellow split peas, moong dal or yellow dal perform similarly to red lentils and are commonly found in Indian cuisine.
-> [They are good for] purées, soups, curries, mashes.
+> **Yellow lentils**, or yellow split peas, moong dal or yellow dal perform similarly to red lentils and are commonly found in Indian cuisine.
+> [They are good for] purées, soups, curries, mashes.
 >
 > **[Black beluga] lentils** are [...] the most intense with a rich and deeply earthy flavour and retain their shape when cooked.
 > [They are good for] salads.[^fdl]

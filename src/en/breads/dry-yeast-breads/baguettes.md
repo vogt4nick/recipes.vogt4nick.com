@@ -37,7 +37,7 @@
     13. **Cool baguettes.** Transfer baguettes to cooling rack. Cool 40 minutes at room temperature.
 
     ??? question "What's the windowpane test?"
-        > The 'windowpane test' is a way to check the gluten development of your dough during kneading. Break off a small piece of dough, and gently stretch it out until it’s thin enough to see through. If you can indeed see through it, you’re done kneading. If the dough breaks before you can stretch it out that thin, keep kneading.[^10]
+        > The 'windowpane test' is a way to check the gluten development of your dough during kneading. Break off a small piece of dough, and gently stretch it out until it's thin enough to see through. If you can indeed see through it, you're done kneading. If the dough breaks before you can stretch it out that thin, keep kneading.[^10]
 
     ??? question "How do I knead wet dough?"
         Read Barb Alpern's article, "Kneading wet dough by hand."[^2]

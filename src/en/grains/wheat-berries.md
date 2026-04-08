@@ -20,6 +20,6 @@
     "Cooking Grains, the Easy Way."
     451, 477-9.
 [^bob]:
-    _Bob’s Red Mill Natural Foods._
+    _Bob's Red Mill Natural Foods._
     ["Cooking Wheat Berries: Step by Step Guide."](https://www.bobsredmill.com/articles/cooking-wheat-berries)
     3 April 2019.

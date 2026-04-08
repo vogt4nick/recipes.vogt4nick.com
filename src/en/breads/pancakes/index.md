@@ -23,4 +23,4 @@ title: Pancakes
     5. **Serve** with butter and maple syrup.
 
 [^mitzewich]:
-    Mitzewich, John. ["Grandma Kelly’s Good Old Fashioned Pancakes Really Measure Up."](https://foodwishes.blogspot.com/2011/08/grandma-kellys-good-old-fashioned.html) _Food Wishes._ 22 August 2011.
+    Mitzewich, John. ["Grandma Kelly's Good Old Fashioned Pancakes Really Measure Up."](https://foodwishes.blogspot.com/2011/08/grandma-kellys-good-old-fashioned.html) _Food Wishes._ 22 August 2011.

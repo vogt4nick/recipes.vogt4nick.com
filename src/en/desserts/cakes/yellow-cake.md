@@ -18,7 +18,7 @@
     2. **Combine dry mix.** Stir together flour, baking powder, baking soda, and salt.
     3. **Combine wet mix.** Cream butter and sugar. Add egg yolks, and vanilla, and whip until combined.
     4. **Make batter.** Slowly add dry mix and buttermilk to wet mix while beating to combine: add 100 g dry mix and 120 g buttermilk and beat until combined; add another 100 g dry mix and the rest of the buttermilk and continue beating until combined; add rest of the dry mix and continue beating until combined.
-    5. **Whip egg whites** and cream of tartar to stiff peaks. Gently fold the egg whites into the batter—careful to avoid over-mixing.
+    5. **Whip egg whites** and cream of tartar to stiff peaks. Gently fold the egg whites into the batter--careful to avoid over-mixing.
     6. **Pour** batter into cake pans.
     7. **Bake.** Bake at 180ºC for 30 minutes until the cakes are baked through; after 18 minutes, tent with aluminum foil.
     8. **Cool.** Set aside cakes on a wire rack at room temperature until completely cooled.
@@ -30,6 +30,6 @@
         You may need to whisk it all by hand to make sure there are no lumps at the bottom of the bowl.
 
 [^sally]:
-    McKenney, Sally. ["The Best Yellow Cake I’ve Ever Had."](https://sallysbakingaddiction.com/yellow-cake/) *Sally's Baking Addiction.* 25 May 2020.
+    McKenney, Sally. ["The Best Yellow Cake I've Ever Had."](https://sallysbakingaddiction.com/yellow-cake/) *Sally's Baking Addiction.* 25 May 2020.
 [^sally2]:
     McKenney, Sally. ["Parchment Paper Rounds for Cakes (Video)."](https://sallysbakingaddiction.com/parchment-paper-rounds-for-cakes/) *Sally's Baking Addiction.* 10 May 2022.

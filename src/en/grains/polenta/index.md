@@ -13,6 +13,6 @@ title: Polenta
     2. **Steam.** Add butter and parmesan cheese, and steam, covered, 5 minutes removed from heat.
 
 [^1]:
-    Mitzewich, John. ["Three Corn Polenta – An old Italian classic gets 'freshened-up'."](https://foodwishes.blogspot.com/2007/06/three-corn-polenta-old-italian-classic.html) *Food Wishes.* 15 June 2007.
+    Mitzewich, John. ["Three Corn Polenta - An old Italian classic gets 'freshened-up'."](https://foodwishes.blogspot.com/2007/06/three-corn-polenta-old-italian-classic.html) *Food Wishes.* 15 June 2007.
 [^2]:
-    Mitzewich, John. ["Perfect Polenta – Dedicated to Some Fun Girl."](https://foodwishes.blogspot.com/2013/09/perfect-polenta-dedicated-to-some-fun.html) *Food Wishes.* 27 September 2013.
+    Mitzewich, John. ["Perfect Polenta - Dedicated to Some Fun Girl."](https://foodwishes.blogspot.com/2013/09/perfect-polenta-dedicated-to-some-fun.html) *Food Wishes.* 27 September 2013.

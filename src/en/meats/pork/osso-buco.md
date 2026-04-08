@@ -37,4 +37,4 @@ tags:
 !!! tip "Serve over [polenta](../../grains/polenta/index.md)."
 
 [^mitzewich]:
-    Mitzewich, John. ["Pork Osso Buco – Keeping it Real without Veal."](https://foodwishes.blogspot.com/2016/11/pork-osso-buco-keeping-it-real-without.html) *Food Wishes.* 1 November 2016.
+    Mitzewich, John. ["Pork Osso Buco - Keeping it Real without Veal."](https://foodwishes.blogspot.com/2016/11/pork-osso-buco-keeping-it-real-without.html) *Food Wishes.* 1 November 2016.

@@ -12,5 +12,5 @@ tags:
 
 === "Directions"
     1. **Parboil.** Bring a pot of salted water to a boil. Add green beans and cook 2 minutes. Drain.
-    2. **Season.** Over medium-low heat, add butter, garlic powder, salt, and pepper. Stir to coat and cook 1–2 minutes until butter is melted and beans are well seasoned.
+    2. **Season.** Over medium-low heat, add butter, garlic powder, salt, and pepper. Stir to coat and cook 1-2 minutes until butter is melted and beans are well seasoned.
     3. **Rest** until ready to eat.

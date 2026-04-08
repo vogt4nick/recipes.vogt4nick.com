@@ -20,4 +20,4 @@
     6. **Season** with salt and pepper to taste.
 
 [^foodwishes]:
-    Mitzewich, John. ["Chicken & Dumplings – Stewed Chicken with Thyme Crème Fraiche 'Dumplins'"](https://foodwishes.blogspot.com/2012/05/chicken-dumplings-stewed-chicken-with.html) _Food Wishes._ 29 May 2012.
+    Mitzewich, John. ["Chicken & Dumplings - Stewed Chicken with Thyme Crème Fraiche 'Dumplins'"](https://foodwishes.blogspot.com/2012/05/chicken-dumplings-stewed-chicken-with.html) _Food Wishes._ 29 May 2012.

@@ -11,4 +11,4 @@
     Toss together and serve.
 
 [^mitzewich]:
-    Mitzewich, John. ["New Year’s Day Spinach Salad with Hot Bacon Dressing – Good Luck with That!"](https://foodwishes.blogspot.com/2011/12/new-years-day-spinach-salad-with-hot.html) *Food Wishes.* 29 December 2011.
+    Mitzewich, John. ["New Year's Day Spinach Salad with Hot Bacon Dressing - Good Luck with That!"](https://foodwishes.blogspot.com/2011/12/new-years-day-spinach-salad-with-hot.html) *Food Wishes.* 29 December 2011.

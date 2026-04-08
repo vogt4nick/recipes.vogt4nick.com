@@ -45,7 +45,7 @@ tags:
     ["Zur Auffindung der bislang ältesten Rezepte der Linzer Torte."](https://www.land-oberoesterreich.gv.at/files/publikationen/KD_Heimatblatt_3_4_2006.pdf)
     *Oberösterreichische Heimatblätter: 60 Jahrgang, Heft 3/4.*
     2006.
-    114–122.
+    114-122.
 [^jindrak_youtube]:
     Konditorei Jindrak.
     ["Backen mit Konditormeister Jindrak | Linzer Torte."](https://www.youtube.com/watch?v=ug9VKyNdxZs)

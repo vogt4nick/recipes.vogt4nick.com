@@ -37,4 +37,4 @@ tags:
     !!! info "Thicken the soup by crushing kidney beans against the side of the stockpan."
 
 [^1]:
-    Mitzewich, John. ["Billionaire’s Franks & Beans – Welcome to the Top 1% of Comfort Foods."](https://foodwishes.blogspot.com/2015/08/billionaires-franks-beans-welcome-to.html) *Food Wishes.* 28 August 2015.
+    Mitzewich, John. ["Billionaire's Franks & Beans - Welcome to the Top 1% of Comfort Foods."](https://foodwishes.blogspot.com/2015/08/billionaires-franks-beans-welcome-to.html) *Food Wishes.* 28 August 2015.

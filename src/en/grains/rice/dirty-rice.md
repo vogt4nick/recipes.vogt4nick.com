@@ -41,4 +41,4 @@ tags:
     !!! tip "Stirring the rice helps it to cook more evenly."
 
 [^foodwishes]:
-    Mitzewich, John. ["Dirty, Dirty Rice – Filthy Delicious."](https://foodwishes.blogspot.com/2019/10/dirty-dirty-rice.html) _Food Wishes._ 25 October 2019.
+    Mitzewich, John. ["Dirty, Dirty Rice - Filthy Delicious."](https://foodwishes.blogspot.com/2019/10/dirty-dirty-rice.html) _Food Wishes._ 25 October 2019.

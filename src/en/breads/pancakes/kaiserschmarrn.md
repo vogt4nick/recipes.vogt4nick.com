@@ -23,4 +23,4 @@
     7. **Serve** immediately, dusted with powdered sugar.
 
 [^foodwishes]:
-    Mitzewich, John. ["Kaiserschmarren – Austrian Torn Pancakes."](https://www.allrecipes.com/kaiserschmarren-austrian-torn-pancakes-recipe-7483030) *Food Wishes.* 24 April 2023.
+    Mitzewich, John. ["Kaiserschmarren - Austrian Torn Pancakes."](https://www.allrecipes.com/kaiserschmarren-austrian-torn-pancakes-recipe-7483030) *Food Wishes.* 24 April 2023.

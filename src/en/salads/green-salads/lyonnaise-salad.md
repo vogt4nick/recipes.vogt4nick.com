@@ -18,4 +18,4 @@ tags:
     3. **Garnish and serve.**
 
 [^1]:
-    Mitzewich, John. ["Salad Lyonnaise – A Super Salad from a City of Meat."](https://foodwishes.blogspot.com/2013/09/salad-lyonnaise-super-salad-from-city.html) *Food Wishes.* 13 September 2013.
+    Mitzewich, John. ["Salad Lyonnaise - A Super Salad from a City of Meat."](https://foodwishes.blogspot.com/2013/09/salad-lyonnaise-super-salad-from-city.html) *Food Wishes.* 13 September 2013.

@@ -34,7 +34,7 @@ tags:
 === "Directions"
     1. **Mix marinade** ingredients until homogenous. Set aside two tablespoons for dressing before putting chicken in.
     2. **Marinate chicken** for 1-24 hours.
-    3. **Preheat oven** Heat oven to 200ºC (400ºF). Line a baking tray with foil.
+    3. **Preheat oven** Heat oven to 200ºC (400ºF). Line a baking tray with foil.
     4. **Bake chicken.** Arrange chicken strips on the baking sheet, spaced apart. Bake 8-10 mins until cooked, but still juicy.
     5. **Serve** chicken alongside vegetables and rice. Garnish chicken with reserved marinade, corn kernels, peanuts, or sesame seeds.
 

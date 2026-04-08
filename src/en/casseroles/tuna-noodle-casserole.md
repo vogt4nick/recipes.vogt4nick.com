@@ -37,6 +37,6 @@ tags:
 [^mitzewich]:
     Mitzewich, John. ["A Tuna Noodle Casserole that Will Make Even Mad Men Smile."](https://foodwishes.blogspot.com/2010/01/tuna-noodle-casserole-that-will-make.html) *Food Wishes.* 19 January 2010.
 [^mitzewich2]:
-    Mitzewich, John. ["Tuna Noddle Casserole – King of the Comfort Food Casseroles."](https://foodwishes.blogspot.com/2020/05/tuna-noddle-casserole-king-of-comfort.html) *Food Wishes.* 15 May 2020.
+    Mitzewich, John. ["Tuna Noddle Casserole - King of the Comfort Food Casseroles."](https://foodwishes.blogspot.com/2020/05/tuna-noddle-casserole-king-of-comfort.html) *Food Wishes.* 15 May 2020.
 [^zoco]:
     Zoco, Zonya. [*Lickity-Split Meals: For Health-Conscious People on the Go!*](https://www.amazon.com/dp/1890926000)

@@ -20,7 +20,7 @@ tags:
     * **Cook tofu.** Heat oil in skillet over medium-high heat. Add tofu and scallions, and cook 5 minutes until scallions are slightly blistered. Add garlic, and cook an additional 30 seconds until fragrant.
     * **Season noodles.** Mix in noodles and sauce, and cook 3-5 minutes until slightly browned.
 
-    !!! tip "After draining noodles, rinse under cold tap water so they don’t clump into an unworkable block as they cool, and shake off excess water before using."
+    !!! tip "After draining noodles, rinse under cold tap water so they don't clump into an unworkable block as they cool, and shake off excess water before using."
 
 [^nagi]:
     Maehashi, Nagi. ["Supreme Soy Noodles."](https://www.recipetineats.com/supreme-soy-noodles/#wprm-recipe-container-70822) _RecipeTin Eats._ 11 May 2022.

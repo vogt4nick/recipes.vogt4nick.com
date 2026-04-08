@@ -22,6 +22,6 @@
     4. **Season** with lime juice and additional salt as necessary.
 
 [^mitzewich]:
-    Mitzewich, John. ["Refried Beans – Cooked Well, Not Twice."](https://foodwishes.blogspot.com/2017/02/refried-beans-cooked-well-not-twice.html) _Food Wishes._ 3 February 2017.
+    Mitzewich, John. ["Refried Beans - Cooked Well, Not Twice."](https://foodwishes.blogspot.com/2017/02/refried-beans-cooked-well-not-twice.html) _Food Wishes._ 3 February 2017.
 [^isabel]:
     Orozco-Moore, Isabel. ["Easy Refried Beans."](https://www.isabeleats.com/authentic-mexican-refried-beans/) _Isabel Eats._ 10 April 2019.

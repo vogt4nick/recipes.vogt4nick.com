@@ -26,7 +26,7 @@ tags:
 
 [^foodwishes]:
     Mitzewich, John.
-    ["Black Pepper and Thyme Gougères – Just Call Me Puff Daddy."](https://foodwishes.blogspot.com/2009/10/black-pepper-and-thyme-gougeres-just.html)
+    ["Black Pepper and Thyme Gougères - Just Call Me Puff Daddy."](https://foodwishes.blogspot.com/2009/10/black-pepper-and-thyme-gougeres-just.html)
     *Food Wishes.*
     8 October 2009.
 [^allrecipes]:

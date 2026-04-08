@@ -5,7 +5,7 @@ tags:
 # Egg Drop Soup
 
 !!! quote "Stephanie Li and Chris Thomas from _Chinese Cooking Demystified_.[^demystified]"
-    Egg drop soup is less of a dish and more of a technique—pretty much any type of soup you got, you can drop in an egg.
+    Egg drop soup is less of a dish and more of a technique--pretty much any type of soup you got, you can drop in an egg.
 
 ## Ladling Method
 
@@ -21,7 +21,7 @@ This techinique gives one very fine strands of egg bits which incorporate into t
 
 ## Whirlpool Method
 
-Stir the soup rapidly. Pour egg into the stream of the whirlpool and spread against the current—if stirring in clockwise motion, pour the egg in counterclockwise. Gently stir and cook briefly until egg floats.
+Stir the soup rapidly. Pour egg into the stream of the whirlpool and spread against the current--if stirring in clockwise motion, pour the egg in counterclockwise. Gently stir and cook briefly until egg floats.
 
 This technique results in longer, chunkier strands of egg.
 

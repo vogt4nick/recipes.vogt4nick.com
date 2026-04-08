@@ -18,4 +18,4 @@ title: Pan sauce
 !!! info "This recipe is ideal for any roasted meat in a heavy pan."
 
 [^foodwishes]:
-    Mitzewich, John. ["Roast Chicken Pan Gravy - Getting to the “Bottom” of Flavor."](https://foodwishes.blogspot.com/2007/04/roast-chicken-pan-gravy-getting-to.html) _Food Wishes._ 3 April 2007.
+    Mitzewich, John. ["Roast Chicken Pan Gravy - Getting to the "Bottom" of Flavor."](https://foodwishes.blogspot.com/2007/04/roast-chicken-pan-gravy-getting-to.html) _Food Wishes._ 3 April 2007.

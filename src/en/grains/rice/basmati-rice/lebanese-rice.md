@@ -18,4 +18,4 @@ tags:
 [^tariq]:
     Tariq. ["Traditional Lebanese Rice with Vermicelli."](https://www.cheftariq.com/recipe/lebanese-rice/) _Chef Tariq._ 10 August 2020.
 [^mitzewich]:
-    Mitzewich, John. ["Chicken Rice-a-Roni – Not Actually the San Francisco Treat."](https://foodwishes.blogspot.com/2022/01/chicken-rice-roni-not-actually-san.html) *Food Wishes.* 20 January 2022.
+    Mitzewich, John. ["Chicken Rice-a-Roni - Not Actually the San Francisco Treat."](https://foodwishes.blogspot.com/2022/01/chicken-rice-roni-not-actually-san.html) *Food Wishes.* 20 January 2022.

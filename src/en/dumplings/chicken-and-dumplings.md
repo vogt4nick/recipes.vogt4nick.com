@@ -28,4 +28,4 @@ tags:
 [^cowboy]:
     Rollins, Kent. ["Old Fashioned Chicken and Dumplings."](https://www.youtube.com/watch?v=pKLA2yO_jco) _YouTube: Cowboy Kent Rollins._ 26 September 2018.
 [^foodwishes]:
-    Mitzewich, John. ["Chicken & Dumplings – Stewed Chicken with Thyme Crème Fraiche 'Dumplins'"](https://foodwishes.blogspot.com/2012/05/chicken-dumplings-stewed-chicken-with.html) _Food Wishes._ 29 May 2012.
+    Mitzewich, John. ["Chicken & Dumplings - Stewed Chicken with Thyme Crème Fraiche 'Dumplins'"](https://foodwishes.blogspot.com/2012/05/chicken-dumplings-stewed-chicken-with.html) _Food Wishes._ 29 May 2012.
