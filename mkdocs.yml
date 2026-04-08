@@ -27,6 +27,8 @@ theme:
     - header.autohide
     - navigation.indexes
     - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - navigation.tracking
     - toc.follow
     - toc.integrate
