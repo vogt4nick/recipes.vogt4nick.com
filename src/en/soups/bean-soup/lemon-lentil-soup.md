@@ -1,7 +1,7 @@
 ---
 tags:
     - Weekday dinner
-    - Leftovers
+    - Work lunch
 ---
 === "Ingredients"
     * 3 T Olive Oil
@@ -24,6 +24,8 @@ tags:
         * Olive Oil
         * Dried Cayenne Pepper, ground
         * Fresh Cilantro Leaves, chopped
+
+    !!! info "Yields 4 servings."
 
 === "Directions"
     1. **Saute onion.** Heat oil in large pot over medium heat. Saute onion and garlic 5 minutes until the onion begins to brown. Stir in tomato paste and spices, and cook 2 minutes more until spices are fragrant.
