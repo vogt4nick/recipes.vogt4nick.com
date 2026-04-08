@@ -4,7 +4,7 @@ title: Menu
 
 ## Three-Day Menus
 
-* [Poached chicken](meats/poultry/poached-chicken-breast.md) grilled cheese melts  and [tomato soup](soups/pureed-soups/tomato-soup.md)
+* [Poached chicken](meats/poultry/poached-chicken-breast.md) grilled cheese melts and [tomato soup](soups/pureed-soups/tomato-soup.md)
 * [Chicken salad](salads/protein-salads/chicken-salad/davids-chicken-salad.md)
 * [Cashew chicken](meats/poultry/cashew-chicken.md) and [green beans](vegetables/green-beans.md)
 
