@@ -11,9 +11,9 @@ Use the following multiplication table to substitute depending on which dry
 yeast you have available.[^chainbaker]
 
 | Instant Dry Yeast | Active Dry Yeast |
-| -: | -: |
-| 1 g | 1.21 g |
-| 0.825 g | 1 g |
+| ----------------: | ---------------: |
+|               1 g |           1.21 g |
+|           0.825 g |              1 g |
 
 [^chainbaker]: ["What is the Real Difference Between Various Types of Yeast?"](https://www.chainbaker.com/side-by-side-yeast-comparison/)
     _ChainBaker._ 27 November 2021.

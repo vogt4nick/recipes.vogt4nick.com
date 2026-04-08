@@ -42,10 +42,10 @@ tags:
 === "Nutrition"
 
     | Calories (kcal) | 1222 |
-    | :- | -: |
-    | Total Carb (g) | 171 |
-    | Total Fat (g) | 43 |
-    | Protein (g) | 48 |
+    | :-------------- | ---: |
+    | Total Carb (g)  |  171 |
+    | Total Fat (g)   |   43 |
+    | Protein (g)     |   48 |
 
 [^makan]: Makan, Chetna.
     ["Roast Cauliflower Chickpea Curry."](https://chetnamakan.co.uk/roast-cauliflower-chickpea-curry/)

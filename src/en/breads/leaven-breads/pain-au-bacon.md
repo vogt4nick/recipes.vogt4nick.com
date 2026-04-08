@@ -1,13 +1,13 @@
 === "Ingredients"
 
-    | Ingredient | Leaven | Dough | Final | Final (%) |
-    | :- | -: | -: | -: | -: |
-    | White Wheat Flour | 40 g | 440 g | 480 g | 96 % |
-    | Whole Wheat Flour | 10 g | 10 g | 20 g | 4 % |
-    | Wheat Starter | 10 g |  |  | 1 % |
-    | Water | 40 g | 350 g | 390 g | 78 % |
-    | Salt |  | 9 g | 9 g | 1.8 % |
-    | Bacon (raw weight) |  | 250 g | 150 g | 50 % |
+    | Ingredient         | Leaven | Dough | Final | Final (%) |
+    | :----------------- | -----: | ----: | ----: | --------: |
+    | White Wheat Flour  |   40 g | 440 g | 480 g |      96 % |
+    | Whole Wheat Flour  |   10 g |  10 g |  20 g |       4 % |
+    | Wheat Starter      |   10 g |       |       |       1 % |
+    | Water              |   40 g | 350 g | 390 g |      78 % |
+    | Salt               |        |   9 g |   9 g |     1.8 % |
+    | Bacon (raw weight) |        | 250 g | 150 g |      50 % |
 
 === "Directions"
 

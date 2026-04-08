@@ -18,8 +18,8 @@
 
         Regardless, shrimp will be 60ºC (140ºF) when fully cooked.
 
-        | Size | ºC | ºF |
-        | :- | -: | -: |
+        | Size  |   ºC |    ºF |
+        | :---- | ---: | ----: |
         | 13/15 | 73ºC | 163ºF |
         | 16/20 | 71ºC | 160ºF |
         | 21/25 | 68ºC | 155ºF |

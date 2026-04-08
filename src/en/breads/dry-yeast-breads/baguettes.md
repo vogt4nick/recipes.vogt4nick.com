@@ -15,13 +15,13 @@
 
 === "Baker's Percentage"
 
-    | Ingredient | Starter | Dough | Total | Baker's Percentage |
-    | :- | -: | -: | -: | -: |
-    | White Wheat Flour | 100 g | 400 g | 500 g | 100% |
-    | Water | 100 g | 270 g | 370 g | 64% |
-    | Medium-Grain Salt |  | 10 g | 10 g | 2% |
-    | Instant Yeast | 1 g | 13 g | 14 g | 2.8% |
-    | Diastatic Malt Powder | 2 g | 8 g | 10 g | 2% |
+    | Ingredient            | Starter | Dough | Total | Baker's Percentage |
+    | :-------------------- | ------: | ----: | ----: | -----------------: |
+    | White Wheat Flour     |   100 g | 400 g | 500 g |               100% |
+    | Water                 |   100 g | 270 g | 370 g |                64% |
+    | Medium-Grain Salt     |         |  10 g |  10 g |                 2% |
+    | Instant Yeast         |     1 g |  13 g |  14 g |               2.8% |
+    | Diastatic Malt Powder |     2 g |   8 g |  10 g |                 2% |
 
 === "Directions"
 

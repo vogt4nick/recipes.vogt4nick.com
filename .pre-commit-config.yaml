@@ -24,7 +24,7 @@ repos:
     rev: 1.0.0
     hooks:
       - id: mdformat
-        args: ["--wrap", "80", "--compact-tables", "--keep-footnote-orphans"]
+        args: ["--wrap", "80", "--keep-footnote-orphans"]
         additional_dependencies:
           - mdformat-footnote
           - mdformat-frontmatter

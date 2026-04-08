@@ -25,7 +25,7 @@ title: Basmati rice
 === "Nutrition"
 
     | Calories (kcal) | 702 |
-    | :- | -: |
-    | Total Carb (g) | 168 |
-    | Total Fat (g) | 2 |
-    | Protein (g) | 16 |
+    | :-------------- | --: |
+    | Total Carb (g)  | 168 |
+    | Total Fat (g)   |   2 |
+    | Protein (g)     |  16 |

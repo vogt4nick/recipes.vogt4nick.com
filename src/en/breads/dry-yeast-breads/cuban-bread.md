@@ -13,12 +13,12 @@
 
 === "Baker's Percentage"
 
-    | Ingredient | Starter | Dough | Total | Baker's Percentage |
-    | :- | -: | -: | -: | -: |
-    | White Wheat Flour | 60 g | 360 g | 420 g | 100 % |
-    | Water | 120 g | 180 g | 300 g | 64 % |
-    | Medium-Grain Salt |  | 10 g | 10 g | 2 % |
-    | Active Dry Yeast | 0.25 g | 7 g | 7.25 g | 1.73 % |
+    | Ingredient        | Starter | Dough |  Total | Baker's Percentage |
+    | :---------------- | ------: | ----: | -----: | -----------------: |
+    | White Wheat Flour |    60 g | 360 g |  420 g |              100 % |
+    | Water             |   120 g | 180 g |  300 g |               64 % |
+    | Medium-Grain Salt |         |  10 g |   10 g |                2 % |
+    | Active Dry Yeast  |  0.25 g |   7 g | 7.25 g |             1.73 % |
 
 === "Directions"
 

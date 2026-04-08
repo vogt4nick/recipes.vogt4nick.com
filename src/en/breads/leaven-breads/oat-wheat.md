@@ -1,15 +1,15 @@
 === "Ingredients"
 
-    | Ingredient | Soaker | Leaven | Dough | Final | Final (%) |
-    | :- | -: | -: | -: | -: | -: |
-    | White Wheat Flour |  |  | 250 g | 250 g | 50 % |
-    | Whole Wheat Flour |  | 50 g | 50 g | 100 g | 20 % |
-    | Whole Spelt Flour |  |  | 50 g | 50 g | 10 % |
-    | Rolled Oats | 100 g |  |  | 100 g | 20 % |
-    | Wheat Starter |  | 10 g |  | 10 g | 1 % |
-    | Instant Dry Yeast |  |  | 0.5 g | 0.5 g | 0.1 % |
-    | Water | 200 g | 25 g | 150 g | 375 g | 75 % |
-    | Salt |  |  | 9 g | 9 g | 1.8 % |
+    | Ingredient        | Soaker | Leaven | Dough | Final | Final (%) |
+    | :---------------- | -----: | -----: | ----: | ----: | --------: |
+    | White Wheat Flour |        |        | 250 g | 250 g |      50 % |
+    | Whole Wheat Flour |        |   50 g |  50 g | 100 g |      20 % |
+    | Whole Spelt Flour |        |        |  50 g |  50 g |      10 % |
+    | Rolled Oats       |  100 g |        |       | 100 g |      20 % |
+    | Wheat Starter     |        |   10 g |       |  10 g |       1 % |
+    | Instant Dry Yeast |        |        | 0.5 g | 0.5 g |     0.1 % |
+    | Water             |  200 g |   25 g | 150 g | 375 g |      75 % |
+    | Salt              |        |        |   9 g |   9 g |     1.8 % |
 
 === "Directions"
 

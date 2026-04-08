@@ -45,10 +45,10 @@
 === "Nutrition"
 
     | Calories (kcal) | 1307 |
-    | :- | -: |
-    | Total Carb (g) | 185 |
-    | Total Fat (g) | 56 |
-    | Protein (g) | 25 |
+    | :-------------- | ---: |
+    | Total Carb (g)  |  185 |
+    | Total Fat (g)   |   56 |
+    | Protein (g)     |   25 |
 
 [^michi]: Altenhuber, Michi.
 

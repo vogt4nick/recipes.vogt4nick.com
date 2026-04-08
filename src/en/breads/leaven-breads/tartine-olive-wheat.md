@@ -1,15 +1,15 @@
 === "Ingredients"
 
-    | Ingredient | Leaven | Dough | Final | Final (%) |
-    | :- | -: | -: | -: | -: |
-    | White Wheat Flour |  | 360 g | 360 g | 72 % |
-    | Whole Wheat Flour | 110 g | 30 g | 140 g | 28 % |
-    | Wheat Starter | 22 g |  | 22 g | 2.2 % |
-    | Water | 110 g | 290 g | 400 g | 80 % |
-    | Salt |  | 9 g | 9 g | 1.8 % |
-    | Pitted Olives, sliced |  | 150 g | 150 g | 30 % |
-    | Herbs de Provence |  | 3 t |  |  |
-    | Lemon Zest |  | - |  |  |
+    | Ingredient            | Leaven | Dough | Final | Final (%) |
+    | :-------------------- | -----: | ----: | ----: | --------: |
+    | White Wheat Flour     |        | 360 g | 360 g |      72 % |
+    | Whole Wheat Flour     |  110 g |  30 g | 140 g |      28 % |
+    | Wheat Starter         |   22 g |       |  22 g |     2.2 % |
+    | Water                 |  110 g | 290 g | 400 g |      80 % |
+    | Salt                  |        |   9 g |   9 g |     1.8 % |
+    | Pitted Olives, sliced |        | 150 g | 150 g |      30 % |
+    | Herbs de Provence     |        |   3 t |       |           |
+    | Lemon Zest            |        |     - |       |           |
 
 === "Directions"
 
