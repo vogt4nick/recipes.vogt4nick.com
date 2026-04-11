@@ -23,7 +23,7 @@ jobs:
       - uses: actions/checkout@v6
       - uses: astral-sh/setup-uv@v7
         with:
-          python-version: 3.12
+          python-version: 3.14
       - name: Install dependencies
         run: uv sync --frozen
 
@@ -34,7 +34,7 @@ jobs:
       - uses: actions/checkout@v6
       - uses: astral-sh/setup-uv@v7
         with:
-          python-version: 3.12
+          python-version: 3.14
       - name: Install dependencies
         run: uv sync --frozen
       - uses: j178/prek-action@v2
@@ -46,7 +46,7 @@ jobs:
       - uses: actions/checkout@v6
       - uses: astral-sh/setup-uv@v7
         with:
-          python-version: 3.12
+          python-version: 3.14
       - name: Install dependencies
         run: uv sync --no-dev
       - name: Build en site
