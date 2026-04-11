@@ -6,7 +6,7 @@ tags:
 === "Ingredients"
 
     - 10 g Olive Oil
-    - 200 g Dry Quinoa, rinsed
+    - 200 g Dry Quinoa, rinsed, soaked, drained
     - 350 g Water or [Stock](../../soups/stocks/vegetable-stock.md)
     - 1/2 t Medium-Grain Salt
     - 100 g Green Peas

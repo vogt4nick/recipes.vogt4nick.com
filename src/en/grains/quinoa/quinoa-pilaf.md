@@ -2,7 +2,7 @@
 
     - 1 T Butter or Olive Oil
     - 40 g Scallions or Onion, chopped
-    - 100 g Dry Quinoa
+    - 100 g Dry Quinoa, rinsed, soaked, drained
     - Dried Parsley Leaves or Dried Dill Leaves
     - 340 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md)
     - 1/2 t Medium-Grain Salt

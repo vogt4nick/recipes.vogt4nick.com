@@ -13,7 +13,8 @@ title: Quinoa
 
 === "Directions"
 
-    1. **Rinse** quinoa several times until water runs mostly clear.
+    1. **Rinse and soak.** Rinse quinoa several times until water runs mostly clear.
+        Soak quinoa at least 2 hours. Drain, and dispose of soaking liquid.
     1. **Toast (optional).** Heat olive oil over medium-low heat. Stirring
         constantly, add quinoa and toast 4-6 minutes until golden and aromatic.
     1. **Cook.** Add all ingredients to saucepan. Bring to boil, cover, reduce to
@@ -23,7 +24,7 @@ title: Quinoa
     1. **Cool and serve.** Allow quinoa to cool, uncovered, for a few minutes before
         serving.
 
-    !!! info "Rinsing the quinoa helps remove the saponin, its natural outer coating, which imparts a bitter taste.[^eggleston]"
+    !!! info "Rinsing and soaking the quinoa removes saponins and lectins that irritate your intestines and increase gas.[^eggleston]"
 
     !!! tip "If there is a little bit of liquid in the bottom of the pan after simmering, you can remove from the heat but leave covered for 5 minutes for the remaining liquid to be absorbed.[^eggleston]"
 
