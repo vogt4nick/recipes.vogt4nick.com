@@ -2,6 +2,17 @@
 title: Menu
 ---
 
+## Work Week Menus
+
+| Weekday   | Dinner                                                                                                                                        | Leftovers? |
+| :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :--------- |
+| Sunday    | [Oven-roasted chicken thighs](meats/poultry/oven-roasted-chicken/oven-roasted-chicken-thighs.md) and [green beans](vegetables/green-beans.md) | Yes        |
+| Monday    | [Mozzarella-stuffed meatballs](meats/beef/mozzarella-stuffed-meatballs.md)                                                                    | Yes        |
+| Tuesday   | [David's Chicken Salad](salads/bound-salads/chicken-salad/davids-chicken-salad.md)                                                            | Yes        |
+| Wednesday | Leftovers                                                                                                                                     | No         |
+| Thursday  | N/A                                                                                                                                           | No         |
+| Friday    | [Smoked Ham & Pea Soup](soups/pureed-soups/smoked-ham-and-pea-soup.md)                                                                        | No         |
+
 ## Three-Day Menus
 
 - [Poached chicken](meats/poultry/poached-chicken-breast.md) grilled cheese
