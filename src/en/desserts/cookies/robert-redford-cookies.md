@@ -27,7 +27,7 @@ title: Robert Redford cookies
 === "Directions"
 
     1. **Whisk dry mix** ingredients together. Set aside.
-    1. **Mix dough.** Cream butter and sugars 4 minutes until homogenous, fluffy,
+    1. **Mix dough.** Cream butter and sugars 4 minutes until homogeneous, fluffy,
         and voluminous. Whisk in eggs and vanilla 2 minutes until combined. Slowly
         stir in dry mix until the flour is almost completely incorporated. Mix in
         pretzels, chocolate, and walnuts until just combined.

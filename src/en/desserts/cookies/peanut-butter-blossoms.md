@@ -33,7 +33,7 @@ tags:
     1. **Preheat oven** to 350ºF (177ºC).
     1. **Shape and decorate.** Scoop and shape 15 g dough balls. Coat balls in
         sugar. Arrange on a parchment-lined sheetpan.
-    1. **Bake** 10 minutes at 350ºF until the tops begin to slighly crack. Remove
+    1. **Bake** 10 minutes at 350ºF until the tops begin to slightly crack. Remove
         from heat.
     1. **Cool** 10 minutes at room temperature.
     1. **Add kisses.** Press chocolate kiss candy into each cookie until it sticks.

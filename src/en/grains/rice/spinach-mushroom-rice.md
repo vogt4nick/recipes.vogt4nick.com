@@ -11,9 +11,9 @@
 === "Directions"
 
     1. **Cook mushrooms.** Heat olive oil over medium heat. Add mushrooms, and cook
-        about 10 minutes, stirring occassionally, until mushrooms are soft and
-        their water is mostly done evaporating. Add garlic and cook an additional 2
-        minutes, stirring occassionally.
+        about 10 minutes, stirring occasionally, until mushrooms are soft and their
+        water is mostly done evaporating. Add garlic and cook an additional 2
+        minutes, stirring occasionally.
     1. **Stir in spinach** and cook 5 minutes until they're wilted. Remove from
         heat.
     1. **Mix in rice.** Season to taste, and serve.

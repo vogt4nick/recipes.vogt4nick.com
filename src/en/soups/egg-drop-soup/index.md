@@ -25,7 +25,7 @@ This technique gives you sheets of egg which separate from the final product.
 Remove soup from heat, and, stirring continuously, slowly pour egg in a thin
 stream.
 
-This techinique gives one very fine strands of egg bits which incorporate into
+This technique gives one very fine strands of egg bits which incorporate into
 the final product.
 
 ## Whirlpool Method
@@ -40,7 +40,7 @@ This technique results in longer, chunkier strands of egg.
     ["Egg Drop [Anything] Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM)
     _YouTube: Chinese Cooking Demystified._ 29 December 2021.
 
-[^gallary]: Gallary, Christine.
+[^gallery]: Gallery, Christine.
     ["How To Make Egg Drop Soup."](https://www.thekitchn.com/how-to-make-egg-drop-soup-159379)
     8 November 2019.
 

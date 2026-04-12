@@ -15,12 +15,12 @@
 
     1. **Leaven.** Mix starter, flour, and water until just incorporated. Seal, and
         rest 12 hours at room temperature.
-    1. **Autolyse.** Blend the flours until homogenous. Add water, and mix until
+    1. **Autolyse.** Blend the flours until homogeneous. Add water, and mix until
         just incorporated. Cover and rest 45 minutes.
     1. **Mix.** Add salt and leaven to the autolysed dough, and mix by hand using
         the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s) until
-        becomes a homogenous mass. Rest 10 minutes. Mix in olives, herbs, and lemon
-        zest, again with pincer method, until evenly distributed.
+        becomes a homogeneous mass. Rest 10 minutes. Mix in olives, herbs, and
+        lemon zest, again with pincer method, until evenly distributed.
     1. **Knead.** Slap & fold 2 minutes to develop gluten.
     1. **Bulk ferment** 5h 30m total, covered. Slap & fold 30 minutes for the first
         3 hours, and rest for the remaining 2h 30m.

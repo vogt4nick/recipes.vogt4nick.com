@@ -13,11 +13,11 @@
 
     1. **Leaven.** Mix starter, flour, and water until just incorporated. Seal, and
         rest 12 hours at room temperature.
-    1. **Autolyse.** Blend the flours and flaxseed until homogenous. Add water, and
+    1. **Autolyse.** Blend the flours and flaxseed until homogeneous. Add water, and
         mix until just incorporated. Cover and rest 45 minutes.
     1. **Mix.** Add salt and leaven to the autolysed dough, and mix by hand using
         the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s) until
-        becomes a homogenous mass.
+        becomes a homogeneous mass.
     1. **Knead.** Slap & fold 2 minutes to develop gluten.
     1. **Bulk ferment** 9 hours total. Knead intermittently for the first 3h 30m:
         for the first hour, briefly slap & fold every 15 minutes; rest one hour;

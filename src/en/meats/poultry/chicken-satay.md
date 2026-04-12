@@ -35,7 +35,7 @@ tags:
 
 === "Directions"
 
-    1. **Mix marinade** ingredients until homogenous. Set aside two tablespoons for
+    1. **Mix marinade** ingredients until homogeneous. Set aside two tablespoons for
         dressing before putting chicken in.
     1. **Marinate chicken** for 1-24 hours.
     1. **Preheat oven** Heat oven to 200ºC (400ºF). Line a baking tray with foil.

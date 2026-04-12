@@ -21,9 +21,9 @@
     1. **Preheat oven** to 230ºC (450ºF). Grease 8x8 glass casserole dish and set
         aside.
     1. **Whisk dry mix.** Whisk cornmeal, flour, baking soda, salt, and sugar into a
-        homogenous mixture.
+        homogeneous mixture.
     1. **Whisk wet mix.** Whisk honey, eggs, butter, and buttermilk into a
-        homogenous mixture.
+        homogeneous mixture.
     1. **Mix batter.** Stir the dry ingredients into the wet ingredients until just
         combined.
     1. **Bake.** Spoon batter into casserole dish and smooth out into an even layer.

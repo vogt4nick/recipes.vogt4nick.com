@@ -133,7 +133,7 @@
     > and taste that are a subtle blend of the scent of wheat flour -- that of wheat
     > germ oil, along with the delicate hint of hazelnut aroma that comes from the
     > germ. All of these are combined with the heady smell that comes from alcoholic
-    > **dough fermentation**, along with the discreet aromas that are the results of
+    > **dough fermentation**, along with the discrete aromas that are the results of
     > caramelization and crust baking. ... the grain of French bread should be open,
     > marked here and there by large gas cells. These should be thin-walled cells,
     > with a lightly pearlescent appearance. This unique structure, resulting from

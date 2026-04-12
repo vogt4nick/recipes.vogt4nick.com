@@ -11,7 +11,7 @@ tags:
     - 1 Egg
     - 250 g Milk
     - For Serving
-        - Jam or Marmelade
+        - Jam or Marmalade
 
     !!! info "These amounts yield 2-3 large palatschinken."
 

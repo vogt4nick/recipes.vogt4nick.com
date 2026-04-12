@@ -27,7 +27,7 @@ tags:
     1. **Build base.** Heat lard in saucepan over medium heat. Fry ginger 30 seconds
         until fragrant. Add stock and seasonings. Bring to boil and reduce to
         simmer over low heat.
-    1. **Add slurry.** Mix slurry in a separate bowl. Stiring continuously, slowly
+    1. **Add slurry.** Mix slurry in a separate bowl. Stirring continuously, slowly
         pour in prepared slurry.
     1. **Make egg drop.** Ladle sheets of egg into the soup. Using a spoon, evenly
         distribute the egg by gently pulling some of the larger sheets apart and

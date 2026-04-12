@@ -37,7 +37,7 @@
     _YouTube: Cooking Grannies._ 15 October 2018.
 
 [^kochen]: ["Strudelteig selber machen (Franz Schauer) - Anleitung von Kochen & Küche - Das ländliche Kochmagazin."](https://www.youtube.com/watch?v=5nzbPcSCXhM)
-    _YouTube: Kochen & Küche - Ihr regionales Kochmagazin._ 25 Februar
+    _YouTube: Kochen & Küche - Ihr regionales Kochmagazin._ 25 February
     2016\.
 
 [^müller_walser]: Müller, Anna, and Olga Walser.

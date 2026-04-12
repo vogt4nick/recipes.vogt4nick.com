@@ -1,0 +1,22 @@
+autolyse
+brining
+brunch
+crostini
+española
+lectin
+levain
+panzanella
+provence
+reggiano
+sheetpan
+stellini
+yudane
+# ------------
+# proper nouns
+# ------------
+fallow
+hart
+mckenney
+meda
+theobald
+veganista

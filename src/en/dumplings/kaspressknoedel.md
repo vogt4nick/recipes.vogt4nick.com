@@ -70,8 +70,8 @@ tags:
 [^thack]: Hack, Thomas.
 
 [^gutekueche]: ["Kaspressknödel."](https://www.gutekueche.at/kaspressknoedel-rezept-2152)
-    *Gute Kueche.* 27 Februar 2015.
+    *Gute Kueche.* 27 February 2015.
 
 [^chefkoch]: silvi0400.
     ["Kaspressknödel."](https://www.chefkoch.de/rezepte/366141122128509/Kaspressknoedel.html).
-    *Chef Koch.* 23 Juli 2015.
+    *Chef Koch.* 23 July 2015.

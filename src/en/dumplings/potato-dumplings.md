@@ -23,7 +23,7 @@ tags:
     1. **Boil potatoes** in saltwater until fork tender. Shock with cold water, and
         let cool to room temperature.
     1. **Mash potatoes** until smooth. Mix with remaining ingredients to form a
-        homogenous mixture.
+        homogeneous mixture.
     1. **Boil saltwater.** Bring fresh saltwater to simmer---do not allow it to
         boil.
     1. **Form knoedel** with damp hands, and transfer to lightly boiling salt water.
@@ -32,7 +32,7 @@ tags:
     !!! note "If the dough is too soft, add more semolina."
 
 [^gutekueche]: ["Erdäpfelknödel.](https://www.gutekueche.at/erdaepfelknoedel-rezept-2153)
-    *Gute Kueche.* 27 Februar 2015.
+    *Gute Kueche.* 27 February 2015.
 
 [^oberndorfer]: Oberndorfer, Florian, and Zabert Sandmann.
     [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X)

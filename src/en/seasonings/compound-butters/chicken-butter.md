@@ -10,7 +10,7 @@
 
 === "Directions"
 
-    Blend ingredients into a homogenous mixture.
+    Blend ingredients into a homogeneous mixture.
 
 [^foodwishes]: Mitzewich, John.
     ["Getting Under the Skin for Great Big, Beautiful, Buttery Breasts!"](https://foodwishes.blogspot.com/2007/11/getting-under-skin-for-great-big.html)

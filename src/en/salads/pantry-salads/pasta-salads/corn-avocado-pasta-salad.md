@@ -25,7 +25,7 @@ tags:
     1. **Parboil onion.** Put onion in a colander. Drain pasta over the onion
         through the colander.
     1. **Mix** pasta, onion, vinaigrette, and corn kernels.
-    1. **Cool to room temperature**, partially covered, stirring occassionally.
+    1. **Cool to room temperature**, partially covered, stirring occasionally.
     1. **Taste**, correcting seasoning as desired.
     1. **Combine.** Mix in avocados, mozzarella, and coriander.
 

@@ -11,7 +11,7 @@
     - 1/8 t Medium-Grain Salt
     - 120 g Red Wine
     - 1 T Wheat Flour
-    - 1 T Marmelade (optional)
+    - 1 T Marmalade (optional)
 
 === "Directions"
 
@@ -20,7 +20,7 @@
         apples. Mix. Cook 4 minutes. Add red cabbage and red wine vinegar. Add
         spices and red wine.
     1. **Cook slaw** 45 minutes, covered, until cabbage is tender.
-    1. **Thicken slaw.** Filter flour over cabbage. Add marmelade. Mix.
+    1. **Thicken slaw.** Filter flour over cabbage. Add marmalade. Mix.
 
 [^1]: Arlena.
     ["Rotkohl, Blaukraut, Rotkraut - Red Cabbage."](http://www.bavariankitchen.com/vegetables/rotkohl.aspx).

@@ -12,7 +12,7 @@
 
     1. **Leaven.** Mix starter, flours, and water until just incorporated. Seal, and
         rest at room temperature for 12-24 hours.
-    1. **Autolyse.** Blend the flours until homogenous. Add water, and mix until
+    1. **Autolyse.** Blend the flours until homogeneous. Add water, and mix until
         just incorporated. Cover and rest 30 minutes.
     1. **Mix.** Add salt and leaven to the autolysed dough, and mix by hand using
         the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s). The

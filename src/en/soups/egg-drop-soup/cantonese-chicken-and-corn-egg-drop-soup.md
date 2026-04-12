@@ -35,7 +35,7 @@ tags:
         shred until the breast resembles stringy, crumbly bits.
     1. **Cook corn.** Bring to boil. Add corn, and boil 2-3 minutes until cooked.
         Reduce to simmer. Add shredded breast and stir in seasonings.
-    1. **Add slurry.** Mix slurry in a separate bowl. Stiring continuously, slowly
+    1. **Add slurry.** Mix slurry in a separate bowl. Stirring continuously, slowly
         pour in prepared slurry.
     1. **Make egg drop.** Remove from heat. Stirring continuously, slowly pour egg
         in a thin stream.

@@ -9,7 +9,7 @@
 
 === "Directions"
 
-    Blend ingredients into a homogenous mixture.
+    Blend ingredients into a homogeneous mixture.
 
 [^divas]: Monique.
     ["Sweet Honey Cornbread."](https://divascancook.com/sweet-cornbread-recipe-honey-moist/)

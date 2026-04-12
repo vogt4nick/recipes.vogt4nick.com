@@ -32,5 +32,5 @@
     1. **Cool** 30 minutes before serving.
 
 [^1]: Hart, Erren.
-    ["Rapsberry and White Chocolate Shortbread Tart."](https://www.errenskitchen.com/raspberry-and-white-chocolate-shortbread-tart/)
+    ["Raspberry and White Chocolate Shortbread Tart."](https://www.errenskitchen.com/raspberry-and-white-chocolate-shortbread-tart/)
     *Erren's Kitchen.* 4 February 2017.

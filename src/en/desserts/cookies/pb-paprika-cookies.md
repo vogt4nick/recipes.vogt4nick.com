@@ -30,8 +30,8 @@ title: PB paprika cookies
 
     1. **Combine flour mixture** ingredients in a bowl. Set aside.
     1. **Mix batter.** Add butter, peanut butter, and sugars in a second bowl. Mix
-        vigorously 4 minutes until homogenous and paste-like. Add eggs and vanilla.
-        Stir 2 minutes until combined.
+        vigorously 4 minutes until homogeneous and paste-like. Add eggs and
+        vanilla. Stir 2 minutes until combined.
     1. **Mix cookie dough.** Slowly mix in flour mixture until all dry ingredients
         are incorporated.
     1. **Chill cookie dough.** Wrap cookie dough tightly in plastic wrap. Chill

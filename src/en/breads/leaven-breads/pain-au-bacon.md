@@ -15,7 +15,7 @@
         rest 8-10 hours.
     1. **Fry bacon** until crisp. Reserve bacon fat, and remove bacon from heat.
         Cool to room temperature and crumble.
-    1. **Autolyse.** Blend the flours until homogenous. Add water, and mix until
+    1. **Autolyse.** Blend the flours until homogeneous. Add water, and mix until
         just incorporated. Cover and rest 20-30 minutes.
     1. **Mix.** Add salt and leaven to the autolysed dough, and mix by hand using
         the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s). The

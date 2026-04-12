@@ -13,7 +13,7 @@
 
 === "Directions"
 
-    Stir to combine into a homogenous mixture.
+    Stir to combine into a homogeneous mixture.
 
 [^babish]: Rea, Andrew.
     ["Binging with Babish: Krabby Supreme from Spongebob Squarepants."](https://youtu.be/Rzd0mLf366I)

@@ -6,7 +6,7 @@
 
 === "Directions"
 
-    1. **Mix cure.** Blend salt and sugar into a homogenous mixture.
+    1. **Mix cure.** Blend salt and sugar into a homogeneous mixture.
     1. **Arrange yolks.** Add layer of cure to a sealable dish. Form shallow,
         well-spaced, circular indentations in the cure for the egg yolks. Carefully
         add egg yolks. Gently cover with cure to cover the egg yolks completely.

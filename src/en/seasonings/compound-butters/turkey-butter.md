@@ -10,7 +10,7 @@
 
 === "Directions"
 
-    Blend ingredients into a homogenous mixture.
+    Blend ingredients into a homogeneous mixture.
 
 [^mitzewich]: Mitzewich, John.
     ["Turkey Compound Butter."](https://www.thespruceeats.com/perfect-turkey-compound-butter-recipe-101448)

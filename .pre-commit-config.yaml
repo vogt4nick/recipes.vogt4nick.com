@@ -20,6 +20,12 @@ repos:
       - id: fix-smartquotes
       - id: fix-spaces
       - id: fix-unicode-dashes
+  - repo: https://github.com/codespell-project/codespell
+    rev: v2.4.1
+    hooks:
+      - id: codespell
+        args: [--ignore-words=accepted-words.txt]
+        exclude: ^src/at/
   - repo: https://github.com/hukkin/mdformat
     rev: 1.0.0
     hooks:

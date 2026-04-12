@@ -60,7 +60,7 @@
         crust turns golden brown color.
     1. **Cool to room-temperature** on a wire rack before filling.
 
-    !!! info "Continue baking until crust is golden brown if the pie's filling requires no additonal baking."
+    !!! info "Continue baking until crust is golden brown if the pie's filling requires no additional baking."
 
     ??? question "Why do we weigh down the pie crust?"
 

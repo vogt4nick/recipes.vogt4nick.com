@@ -27,7 +27,7 @@
 
     1. **Preheat oven** to 350ºF (177ºC).
     1. **Mix dry mix.** Whisk dry mix and spices until combined.
-    1. **Mix wet mix.** Cream butter and sugars until homogenous, fluffy, and
+    1. **Mix wet mix.** Cream butter and sugars until homogeneous, fluffy, and
         voluminous. Add vanilla. One at a time, mix in eggs. Whip until just
         combined.
     1. **Combine.** Add dry mix to wet mix. Gently stir until just incorporated.

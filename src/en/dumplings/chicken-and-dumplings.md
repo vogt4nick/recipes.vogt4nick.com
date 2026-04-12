@@ -20,7 +20,7 @@ tags:
 === "Directions"
 
     1. **Simmer soup** in a large saucepan.
-    1. **Combine dough.** Combine flour, baking powder, and salt into a homogenous
+    1. **Combine dough.** Combine flour, baking powder, and salt into a homogeneous
         mixture. Add oil and buttermilk, and mix into a shaggy dough. Roll dough
         into a smooth ball and transfer to a floured surface.
     1. **Pick dumplings.** Press flat the dough, and knead over a handful of times
