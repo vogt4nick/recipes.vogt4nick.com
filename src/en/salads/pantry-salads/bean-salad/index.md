@@ -4,7 +4,8 @@
 
     - Vinaigrette
         - 80 g Olive Oil
-        - 25 g Red Wine Vinegar or Lemon Juice
+        - 30 g Red Wine Vinegar
+        - 10 g Lemon Juice
         - 1/2 t Medium-Grain Salt
         - 1/2 t Black Peppercorn, ground
     - 40 g Shallots or Red Onion
