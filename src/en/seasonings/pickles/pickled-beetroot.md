@@ -15,7 +15,7 @@
     1. **Seal** the jar.
     1. **Chill** at least 24 hours before serving.
 
-    !!! info "Store in refrigerator up to two weeks."
+!!! info "Store in refrigerator up to two weeks."
 
 [^fallow]: Croft, Jack, William Murray, and James Robson.
     ["This Is Why Vegetables Taste Better In Restaurants."](https://www.youtube.com/watch?v=WOZ4m6dfjPg&t=405s)

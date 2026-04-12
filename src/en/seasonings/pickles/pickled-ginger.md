@@ -18,7 +18,7 @@
     1. **Seal** the jar.
     1. **Chill** at least 24 hours before serving.
 
-    !!! info "Store in refrigerator up to two weeks."
+!!! info "Store in refrigerator up to two weeks."
 
 [^bittman]: Bittman, Mark.
     [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).

@@ -48,7 +48,7 @@ title: PB paprika cookies
 
     !!! tip "The batter should change from grainy and wet to fluffy and voluminous while mixing."
 
-    !!! info "Store in an airtight container up to 5 days."
+!!! info "Store in an airtight container up to 5 days."
 
 [^1]: Ludwinski, Lisa, and E. E. Berger.
     [*Sister Pie: The Recipes & Stories of a Big-hearted Bakery in Detroit*](https://www.amazon.com/dp/0399579761).

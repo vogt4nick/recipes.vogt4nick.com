@@ -30,6 +30,6 @@
     1. **Finish and serve.** Taste and adjust seasoning. Tear fresh mint leaves over
         the top just before serving.
 
-    !!! info "Store up to 4 days chilled in an airtight container."
-
     !!! tip "Re-season with lemon juice if the salad tastes flat after storage."
+
+!!! info "Store up to 4 days chilled in an airtight container."

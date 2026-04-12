@@ -30,7 +30,7 @@
 
     !!! tip "Err on the side of under-baking and do NOT over-bake, or the cookie bars will taste a little dry and cakey. Use a toothpick to test for doneness; if it comes out mostly clean from the center of the pan, the bars are done."
 
-    !!! info "Store leftover bars at room temperature for up to 1 week."
+!!! info "Store leftover bars at room temperature for up to 1 week."
 
 [^mckenney]: McKenney, Sally.
     ["Soft & Chewy Chocolate Chip Cookie Bars"](https://sallysbakingaddiction.com/soft-chewy-chocolate-chip-cookie-bars/)

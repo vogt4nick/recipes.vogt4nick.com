@@ -65,7 +65,7 @@
         1. to vent steam as the pie cooks, and
         1. to indicate when the pie is done.
 
-    !!! info "Store leftover pie up to 2 days covered at room temperature."
+!!! info "Store leftover pie up to 2 days covered at room temperature."
 
 [^1]: Ludwinski, Lisa, and E. E. Berger.
     [*Sister Pie: The Recipes & Stories of a Big-hearted Bakery in Detroit*](https://www.amazon.com/dp/0399579761).
