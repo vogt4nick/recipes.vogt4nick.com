@@ -9,7 +9,8 @@ title: Mayonnaise
     - 1/2 t Medium-Grain Salt
     - 1/4 t Dijon Mustard
     - For Emulsion
-        - 400 g Olive Oil, room temperature
+        - 300 g Neutral Oil, room temperature
+        - 100 g Olive Oil, room temperature
         - 30 g Water, boiling
     - Seasoning
         - 1 T Lemon Juice or Wine Vinegar, room temperature
