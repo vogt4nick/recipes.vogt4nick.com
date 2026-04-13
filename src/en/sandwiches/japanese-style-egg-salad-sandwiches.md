@@ -4,7 +4,7 @@ tags:
   - Weekday dinner
 ---
 
-# Japanese-style egg salad sandwich
+# Japanese-style egg salad sandwiches
 
 === "Ingredients"
 
