@@ -69,9 +69,7 @@ key words to clarify severity; i.e.
 - When present, the file's yaml frontmatter
     - MAY define only `tags`
     - MAY define `tags` and `title`
-    - MUST NOT define only `title` Use the h1 header instead
-- When present, every tag in `tags` MUST be one of "vegan", "vegetarian",
-    "weeknight meal"
+    - MUST NOT define only `title`. Use the h1 header instead
 - When present, the file's h1 header MUST be sentence case e.g. "Roasted
     potatoes" e.g. "Tortilla Española" because Española is a proper noun
 - The ingredients block
