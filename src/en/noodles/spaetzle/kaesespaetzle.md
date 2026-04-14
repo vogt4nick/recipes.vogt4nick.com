@@ -5,7 +5,7 @@ tags:
   - Weekday dinner
 ---
 
-# Kaesespaetzle
+# Käsespätzle
 
 === "Ingredients"
 

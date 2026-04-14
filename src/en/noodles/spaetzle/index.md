@@ -4,7 +4,7 @@ tags:
   - Austrian cuisine
 ---
 
-# Spaetzle
+# Spätzle
 
 === "Ingredients"
 
