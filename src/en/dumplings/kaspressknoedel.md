@@ -5,7 +5,7 @@ tags:
   - Weekday dinner
 ---
 
-# Kaspressknoedel (baked cheese dumplings)
+# Kaspressknödel (baked cheese dumplings)
 
 === "Metric"
 

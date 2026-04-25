@@ -4,7 +4,7 @@ tags:
   - Austrian cuisine
 ---
 
-# Potato dumplings (Erdäpfelknödel)
+# Erdäpfelknödel (potato dumplings)
 
 === "Ingredients"
 

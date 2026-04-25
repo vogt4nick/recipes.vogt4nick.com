@@ -4,7 +4,7 @@ tags:
   - Austrian cuisine
 ---
 
-# Bavarian bread dumplings (Semmelknödel)
+# Bayerische Semmelknödel (Bavarian-style bread dumplings)
 
 === "Ingredients"
 
