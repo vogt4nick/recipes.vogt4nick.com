@@ -32,11 +32,12 @@ tags:
     1. **Break up beef.** Add ground beef, carrots, and scallions to
         room-temperature skillet. Cook over medium-high heat, thoroughly breaking
         up the ground beef into small pieces as it cooks.
-    2. **Season.** Push beef mixture to the edges of the pan.
+    2. **Build sauce.** Push beef mixture to the edges of the pan.
         1. Add garlic-paste to hot center, and cook 90 seconds to cook off raw edge
-            until fragrant.
-        2. Add Ssamjang, and cook 30-60 seconds until it begins to caramelize. Mix in
-            water. Add in remaining sauces and seasonings, and mix to combine.
+            until fragrant. Push to the side revealing the hot pan bottom.
+        2. Cook Ssamjang 30-60 seconds until it begins to caramelize. Push to the
+            side revealing the hot pan bottom.
+        3. Scald soy sauce. Add mustard and hot sauce. Stir to kinda-sorta emulsify.
     3. **Simmer.** Mix in remaining water. Bring to boil and reduce to simmer.
         Simmer 45 minutes, uncovered, until the water has evaporated and mixture
         resembles a paste.
