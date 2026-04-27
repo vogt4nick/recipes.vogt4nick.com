@@ -5,6 +5,8 @@ tags:
   - Weekday dinner
 ---
 
+# Sloppy Joe
+
 === "Ingredients"
 
     - 330 g Extra Lean Ground Beef
@@ -41,7 +43,3 @@ tags:
     !!! info "Starting from a cold pan helps the ground beef to crumble into small pieces for the 'joe."
 
     !!! tip "The meat should be able to stand in a heap on a spatula without falling apart."
-
-[^foodwishes]: Mitzewich, John.
-    ["More Edible Irony: Sloppy Joes, Not that Sloppy."](https://foodwishes.blogspot.com/2010/03/sloppy-joes-recipe-video.html)
-    *Food Wishes.* 30 March 2010.
