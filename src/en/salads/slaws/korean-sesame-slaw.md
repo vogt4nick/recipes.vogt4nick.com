@@ -13,6 +13,6 @@
 
     1. **Make dressing.** Whisk together rice wine vinegar, sesame oil, sugar, and
         salt until the sugar dissolves.
-    1. **Toss.** Combine cabbage and scallions in a large bowl. Pour dressing over
+    2. **Toss.** Combine cabbage and scallions in a large bowl. Pour dressing over
         and toss well.
-    1. **Serve** immediately, topped with sesame seeds.
+    3. **Serve** immediately, topped with sesame seeds.

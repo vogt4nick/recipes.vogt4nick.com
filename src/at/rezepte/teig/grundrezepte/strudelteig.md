@@ -12,12 +12,12 @@
         Grübchen gemacht, die andern Zutaten werden nun mit einem Messer
         eingearbeitet, so dass ein weicher Teig entsteht, den man gut knetet oder
         schlägt bis er ganz glatt ist.
-    1. **Teig rasten.** Das bemehlte Teiglaibchen lässt man 30 Minuten zugedeckt
+    2. **Teig rasten.** Das bemehlte Teiglaibchen lässt man 30 Minuten zugedeckt
         rasten.
-    1. **Teig ausrollen.** Dann wird der Teig tellergroß ausgerollt, mit Öl
+    3. **Teig ausrollen.** Dann wird der Teig tellergroß ausgerollt, mit Öl
         bestrichen und mit dem Handrücken auf dem bemehlten Tuch zu einem
         papierdünnen Rechteck ausgezogen.
-    1. **Strudel füllen.** Etwa 2/3 der Fläche belegt man mit Fülle, der übrige Teil
+    4. **Strudel füllen.** Etwa 2/3 der Fläche belegt man mit Fülle, der übrige Teil
         wird mit Fett betropft. Der Teig wird nun von der belegten Seite her
         eingerollt.
 

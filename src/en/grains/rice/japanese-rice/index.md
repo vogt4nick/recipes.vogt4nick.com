@@ -13,12 +13,12 @@ tags:
 === "Directions"
 
     1. **Rinse** rice several times until water runs mostly clear.
-    1. **Soak** rice 20 minutes.
-    1. **Cook.** Add rice and water to a saucepan. Bring to boil, cover, reduce to
+    2. **Soak** rice 20 minutes.
+    3. **Cook.** Add rice and water to a saucepan. Bring to boil, cover, reduce to
         very low heat, and simmer 15 minutes. Finally, while covered, remove pan
         from heat and let stand for 10 minutes.
-    1. **Fluff** rice with a fork.
-    1. **Cool and serve.** Allow rice to cool, uncovered, for a few minutes before
+    4. **Fluff** rice with a fork.
+    5. **Cool and serve.** Allow rice to cool, uncovered, for a few minutes before
         serving.
 
 [^nagi]: Maehashi, Nagi.

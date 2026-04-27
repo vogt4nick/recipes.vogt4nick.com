@@ -20,13 +20,13 @@
 === "Directions"
 
     1. **Prepare ingredients** before Mix lemon juice and caper brine.
-    1. **Sear shrimp.** Heat olive oil in a heavy pan over high heat. When it starts
+    2. **Sear shrimp.** Heat olive oil in a heavy pan over high heat. When it starts
         to smoke, add the shrimp. Salt and saute 1 minute, salt. Toss to coat in
         oil until the outside of the shrimps have some color.
-    1. **Season** while stirring continuously: add garlic and chili flakes, and cook
+    3. **Season** while stirring continuously: add garlic and chili flakes, and cook
         1 minute; stir in lemon-brine mixture, parsley, and butter; when butter is
         melted, reduce heat to low, add remaining butter, and stir until melted.
-    1. **Garnish** with parsley and serve.
+    4. **Garnish** with parsley and serve.
 
 [^lagasse_video]: Lagasse, Emeril.
     ["Shrimp Scampi With Laurel Rice And Roast Chicken - Emeril Lagasse"](https://www.youtube.com/watch?v=_r0k81cbND0)

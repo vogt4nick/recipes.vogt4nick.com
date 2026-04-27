@@ -23,8 +23,8 @@ tags:
 === "Zubereitung"
 
     1. Aus Öl, Essig, Senf, Salz und Pfeffer ein Dressing anrühren.
-    1. Das Gemüse in eine große Schüssel geben und gut durchrühren.
-    1. Den Dressing über den Salat gießen, gut umrühren, und einige Minuten ziehen
+    2. Das Gemüse in eine große Schüssel geben und gut durchrühren.
+    3. Den Dressing über den Salat gießen, gut umrühren, und einige Minuten ziehen
         lassen.
 
 [^gutekueche]: ["Gemischter Salat."](https://www.gutekueche.at/gemischter-salat-rezept-6852)

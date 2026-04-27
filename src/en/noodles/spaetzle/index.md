@@ -20,7 +20,7 @@ tags:
 
     1. **Mix batter.** Combine all ingredients in a mixing bowl. Mix 10 minutes
         until thick, either by hand or with a stand mixer.
-    1. **Boil spätzle.** Bring a stockpot of salt water to the simmer. Dividing as
+    2. **Boil spätzle.** Bring a stockpot of salt water to the simmer. Dividing as
         necessary, push the batter through a sieve and into the simmering pot to
         form the spätzle (see note). The spätzle are done when they float to the
         top. Skim the spätzle from the top and set aside to dry slightly.

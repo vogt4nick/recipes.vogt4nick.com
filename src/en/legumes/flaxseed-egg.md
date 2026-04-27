@@ -8,7 +8,7 @@
 === "Directions"
 
     1. Beat flaxseed and water.
-    1. Chill 10 minutes before using.
+    2. Chill 10 minutes before using.
 
 [^theobald]: Theobald, Ellie.
     ["How Many Grams of Flaxseed in a Tablespoon?"](http://www.ellies-whole-grains.com/how-many-grams-of-flaxseed-in-a-tablespoon.html)

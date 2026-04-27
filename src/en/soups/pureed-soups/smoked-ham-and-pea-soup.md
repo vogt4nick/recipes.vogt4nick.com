@@ -25,11 +25,11 @@
     1. **Cook ham.** Melt butter in stockpan over medium heat. Cook smoked ham 10-15
         minutes until browned. Remove from heat and set aside; be careful to leave
         butter in stockpot.
-    1. **Sweat base.** Add carrots, celery, onion, garlic, and salt. Stir to coat
+    2. **Sweat base.** Add carrots, celery, onion, garlic, and salt. Stir to coat
         evenly. Sweat 10 minutes, stirring occasionally.
-    1. **Thicken and season.** Stir in flour and spices. Cook 2 minutes to brown
+    3. **Thicken and season.** Stir in flour and spices. Cook 2 minutes to brown
         roux slightly. Stir in peas.
-    1. **Simmer.** Stir in stock. Bring to boil, reduce heat, and simmer 60 minutes,
+    4. **Simmer.** Stir in stock. Bring to boil, reduce heat, and simmer 60 minutes,
         uncovered. Remove bay leaf before blending.
-    1. **Blend** soup with immersion blender until smooth.
-    1. **Rest.** Stir in ham and vinegar. Rest 10 minutes, covered.
+    5. **Blend** soup with immersion blender until smooth.
+    6. **Rest.** Stir in ham and vinegar. Rest 10 minutes, covered.

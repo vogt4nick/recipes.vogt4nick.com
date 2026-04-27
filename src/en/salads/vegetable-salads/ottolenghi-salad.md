@@ -22,14 +22,14 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 180ºC (350ºF).
-    1. **Blanche** string beans 4 minutes and shock in cold water. Blanche snap peas
+    2. **Blanche** string beans 4 minutes and shock in cold water. Blanche snap peas
         1 minute and shock in cold water.
-    1. **Bake hazelnuts** at 180ºC for 10 minutes. Remove from heat. Peel and
+    3. **Bake hazelnuts** at 180ºC for 10 minutes. Remove from heat. Peel and
         discard skins if necessary.
-    1. **Mix vinaigrette** ingredients in a sealable jar. Shake vigorously to
+    4. **Mix vinaigrette** ingredients in a sealable jar. Shake vigorously to
         emulsify.
-    1. **Mix** all ingredients to combine.
-    1. **Serve** at room temperature.
+    5. **Mix** all ingredients to combine.
+    6. **Serve** at room temperature.
 
     !!! question "How do I peel hazelnuts?"
 

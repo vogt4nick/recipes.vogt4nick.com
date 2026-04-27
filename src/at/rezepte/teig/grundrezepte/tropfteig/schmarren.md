@@ -16,7 +16,7 @@ title: Schmarren (Omelettenteig)
         der Milch glatt abgerührt, dann wird das Dotter und die übrige Milch
         eingerührt. Man schlägt das Eiklar zu festem Schnee und zieht diesen zum
         Schluss leicht unter den Teig.
-    1. **Omelettenteig kochen.** Der Teig wird fingerdick in heißes Fett
+    2. **Omelettenteig kochen.** Der Teig wird fingerdick in heißes Fett
         eingegossen, beiderseits goldgelb gebacken, mit Fülle belegt und
         zusammengeschlagen.
 

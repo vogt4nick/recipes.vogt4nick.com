@@ -15,7 +15,7 @@
 
     1. **Simmer stock.** Add all ingredients to stockpan. Heat until starting to
         bubble. Cover. Simmer over low heat 30 minutes.
-    1. **Strain stock** through fine-mesh colander into a large bowl.
+    2. **Strain stock** through fine-mesh colander into a large bowl.
 
 [^1]: Child, Julia, Louisette Bertholle, and Simone Beck.
     [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405).

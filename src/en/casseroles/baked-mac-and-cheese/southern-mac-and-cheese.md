@@ -26,13 +26,13 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 350ºF (177ºC).
-    1. **Combine mixture.** Stir to combine milk, heavy cream, and non-smoked
+    2. **Combine mixture.** Stir to combine milk, heavy cream, and non-smoked
         cheeses. Add salt & pepper to taste. Stir in eggs.
-    1. **Combine mac & cheese.** Grease a medium-sized baking dish with butter. Add
+    3. **Combine mac & cheese.** Grease a medium-sized baking dish with butter. Add
         macaroni and cheese mixture and stir to combine. Top with smoked cheddar,
         paprika, and pepper.
-    1. **Bake** 35-45 minutes, uncovered.
-    1. **Cool** 10-15 minutes until fully set.
+    4. **Bake** 35-45 minutes, uncovered.
+    5. **Cool** 10-15 minutes until fully set.
 
     !!! warning "Do not overbake! It may be a bit jiggly when you take it out of the oven. It will firm up as it cool."
 

@@ -19,7 +19,7 @@
     1. Add all ingredients to large stockpan. Boil 10 minutes. Reduce to simmer,
         cover, and continue cooking 60-90 minutes until the beans are very tender
         but still keep their shape, adding water as necessary.
-    1. Remove sprigs and bay leaves, and season to taste with salt and pepper. Puree
+    2. Remove sprigs and bay leaves, and season to taste with salt and pepper. Puree
         with hand blender if desired.
 
 [^bittman]: Bittman, Mark.

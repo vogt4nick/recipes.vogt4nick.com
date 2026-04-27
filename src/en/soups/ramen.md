@@ -26,7 +26,7 @@ tags:
     1. **Fry aromatics.** Heat oil in a stockpot over medium-high heat. Add in
         ginger, scallions, and red chilis and stir to coat. Fry 30-60 seconds until
         fragrant.
-    1. **Simmer.** Add stock, MSG, clove, and garlic. Simmer a few minutes.
-    1. **Cook ramen.** Add ramen noodles and cook per package instructions.
-    1. **Season** with white pepper and vinegar.
-    1. **Serve** with a small drizzle of toasted sesame seed oil and eggs.
+    2. **Simmer.** Add stock, MSG, clove, and garlic. Simmer a few minutes.
+    3. **Cook ramen.** Add ramen noodles and cook per package instructions.
+    4. **Season** with white pepper and vinegar.
+    5. **Serve** with a small drizzle of toasted sesame seed oil and eggs.

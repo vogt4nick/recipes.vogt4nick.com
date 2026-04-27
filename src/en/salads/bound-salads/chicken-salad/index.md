@@ -26,7 +26,7 @@ tags:
 === "Directions"
 
     1. **Mix** sauce, then mix remaining ingredients into the sauce.
-    1. **Serve** immediately or chill overnight.
+    2. **Serve** immediately or chill overnight.
 
 [^bittman]: Bittman, Mark.
     [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).

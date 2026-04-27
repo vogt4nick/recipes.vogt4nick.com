@@ -30,13 +30,13 @@
     1. **Cook base.** Heat butter in stockpot over medium heat. Add carrots, cumin,
         and coriander, and cook 5-10 minutes until soft. Add onion and celery, and
         cook another 5-10 minutes until soft.
-    1. **Caramelize tomato paste.** Push vegetables to the side of the pot. Add
+    2. **Caramelize tomato paste.** Push vegetables to the side of the pot. Add
         tomato paste, flatten to increase its surface area, and cook 5 minutes
         until it starts to stick to bottom. Add chilies and paprikas, and cook 1
         minute more. Add some stock to scrape up the fond that formed under the
         tomato paste.
-    1. **Simmer.** Add stock and remaining ingredients, and simmer 30 minutes.
-    1. **Season to taste.**
-    1. **Serve** with buttered bread.
+    3. **Simmer.** Add stock and remaining ingredients, and simmer 30 minutes.
+    4. **Season to taste.**
+    5. **Serve** with buttered bread.
 
 !!! info "There should be little water in the stew."

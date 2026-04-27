@@ -29,22 +29,22 @@ title: PB paprika cookies
 === "Directions"
 
     1. **Combine flour mixture** ingredients in a bowl. Set aside.
-    1. **Mix batter.** Add butter, peanut butter, and sugars in a second bowl. Mix
+    2. **Mix batter.** Add butter, peanut butter, and sugars in a second bowl. Mix
         vigorously 4 minutes until homogeneous and paste-like. Add eggs and
         vanilla. Stir 2 minutes until combined.
-    1. **Mix cookie dough.** Slowly mix in flour mixture until all dry ingredients
+    3. **Mix cookie dough.** Slowly mix in flour mixture until all dry ingredients
         are incorporated.
-    1. **Chill cookie dough.** Wrap cookie dough tightly in plastic wrap. Chill
+    4. **Chill cookie dough.** Wrap cookie dough tightly in plastic wrap. Chill
         24-72 hours.
-    1. **Warm cookie dough.** Take cookie dough out of refrigerator 2-3 hours before
-        baking.
-    1. **Preheat oven** to 350ºF (177ºC).
-    1. **Shape cookies** into 5 cm dough balls. Transfer to parchment-lined
+    5. **Warm cookie dough.** Take cookie dough out of refrigerator 2-3 hours
+        before baking.
+    6. **Preheat oven** to 350ºF (177ºC).
+    7. **Shape cookies** into 5 cm dough balls. Transfer to parchment-lined
         sheetpan. Slightly flatten cookies and use fork to etch a # design.
-    1. **Garnish cookies.** Mix garnish. Dress cookies with garnish.
-    1. **Bake** 16-18 minutes until edges begin to turn golden brown and tops are no
-        longer wet.
-    1. **Cool** at least 10 minutes on a wire rack.
+    8. **Garnish cookies.** Mix garnish. Dress cookies with garnish.
+    9. **Bake** 16-18 minutes until edges begin to turn golden brown and tops are
+        no longer wet.
+    10. **Cool** at least 10 minutes on a wire rack.
 
     !!! tip "The batter should change from grainy and wet to fluffy and voluminous while mixing."
 

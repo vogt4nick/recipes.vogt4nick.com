@@ -6,7 +6,7 @@
 === "Directions"
 
     1. **Combine** coffee beans and water in a container.
-    1. **Soak** 24-72 hours.
-    1. **Filter** coffee beans from liquid.
+    2. **Soak** 24-72 hours.
+    3. **Filter** coffee beans from liquid.
 
     !!! note "Soak at room temperature or chilled."

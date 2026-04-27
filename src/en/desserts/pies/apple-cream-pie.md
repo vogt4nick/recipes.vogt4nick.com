@@ -14,13 +14,13 @@
 === "Directions"
 
     1. **Preheat oven** to 400ºF (205ºC).
-    1. **Mix filling.** Mix sugar, flour, cinnamon, and nutmeg. Stir in milk and
+    2. **Mix filling.** Mix sugar, flour, cinnamon, and nutmeg. Stir in milk and
         eggs until dry ingredients are incorporated.
-    1. **Layer pie.** Spread grated apples on bottom of pie crust. Drizzle with
+    3. **Layer pie.** Spread grated apples on bottom of pie crust. Drizzle with
         butter. Pour filling over apples.
-    1. **Bake** 10 minutes at 400ºF. Reduce heat to 350ºF (177ºC). Bake 30-40
+    4. **Bake** 10 minutes at 400ºF. Reduce heat to 350ºF (177ºC). Bake 30-40
         minutes. Remove from heat.
-    1. **Cool** 4 hours until room temperature.
+    5. **Cool** 4 hours until room temperature.
 
 [^reddit]: u/Laniidae\_.
     ["A gift from Post Secret this week."](https://old.reddit.com/r/Old_Recipes/comments/juhjjw/)

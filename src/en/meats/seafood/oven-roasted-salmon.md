@@ -13,12 +13,12 @@
 === "Directions"
 
     1. **Preheat oven** to 232ºC (450ºF).
-    1. **Arrange** salmon on a greased pan skin-side down.
-    1. **Season** generously with salt, pepper, and cumin, and transfer directly to
+    2. **Arrange** salmon on a greased pan skin-side down.
+    3. **Season** generously with salt, pepper, and cumin, and transfer directly to
         oven for baking.
-    1. **Bake** 20 minutes until the salmon is moist and tender.
-    1. **Rest** 5 minutes at room temperature to allow salmon to finish cooking.
-    1. **Serve** with lemon wedge and chives.
+    4. **Bake** 20 minutes until the salmon is moist and tender.
+    5. **Rest** 5 minutes at room temperature to allow salmon to finish cooking.
+    6. **Serve** with lemon wedge and chives.
 
     ??? question "Why add the salt directly before baking?"
 

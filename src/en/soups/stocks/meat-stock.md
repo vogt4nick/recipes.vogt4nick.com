@@ -25,12 +25,12 @@
     1. **Prepare stock base.** Add flesh and bones to stockpot. Add water, enough to
         cover by 5 cm. Simmer over medium heat. Skim scum from surface. Add
         remaining mirepoix and seasoning. Stir to combine.
-    1. **Check water level.** The liquid should cover the ingredients by 2.5 cm. Add
+    2. **Check water level.** The liquid should cover the ingredients by 2.5 cm. Add
         water if necessary. When liquid is simmering again, skim as necessary.
-    1. **Simmer stock.** Partially cover stockpan. Simmer 4 hours or more, skimming
+    3. **Simmer stock.** Partially cover stockpan. Simmer 4 hours or more, skimming
         accumulated scum occasionally.
-    1. **Strain stock** through a fine colander to remove all solids.
-    1. **Degrease stock.** Chill stock in refrigerator until fats have hardened on
+    4. **Strain stock** through a fine colander to remove all solids.
+    5. **Degrease stock.** Chill stock in refrigerator until fats have hardened on
         the surface. Degrease solids.
 
     ??? question "When can I stop skimming scum?"

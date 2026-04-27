@@ -16,10 +16,10 @@
         pepper. Coat evenly. Sauté 8 minutes, stirring every 3 minutes. Add
         tomatoes. Cook 15 minutes, stirring every 5 minutes, until tomatoes break
         down.
-    1. **Season and simmer.** Add stock and spices to stockpan. Bring soup to gentle
+    2. **Season and simmer.** Add stock and spices to stockpan. Bring soup to gentle
         boil, and reduce heat to low. Cover. Simmer 45 minutes.
-    1. **Puree** with immersion blender.
-    1. **Garnish & serve** with remaining spices.
+    3. **Puree** with immersion blender.
+    4. **Garnish & serve** with remaining spices.
 
 [^1]: Child, Julia, Louisette Bertholle, and Simone Beck.
     [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405).

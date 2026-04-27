@@ -17,11 +17,11 @@
 
     1. **Sweat onions.** Heat vegetable oil in a wok over medium-low heat. Add
         onion, garlic. Sweat 8 minutes until it starts to brown.
-    1. **Season and thicken.** Add lemon zest, coriander, sambal oelek. Cook 2
+    2. **Season and thicken.** Add lemon zest, coriander, sambal oelek. Cook 2
         minutes. Add coconut milk. Boil 2 minutes over high heat until it starts to
         thicken. Add tamarind, sugar, peanut butter. Stir until smooth. Remove from
         heat. Salt to taste.
-    1. **Cool to room temperature** before serving.
+    3. **Cool to room temperature** before serving.
 
 [^1]: Yeo, Chris.
     ["Garlic Peanut Sauce."](https://www.foodandwine.com/recipes/garlic-peanut-sauce).

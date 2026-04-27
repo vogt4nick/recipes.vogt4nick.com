@@ -15,20 +15,20 @@ title: Nariyal burfi (coconut fudge)
 === "Directions"
 
     1. **Grease** a plate or heat-safe food storage.
-    1. **Boil.** Combine coconut flour and milk in a saucepan. Boil 30 minutes.
-    1. **Caramelize sugar.** Melt butter in saucepan over medium-high heat. Add
+    2. **Boil.** Combine coconut flour and milk in a saucepan. Boil 30 minutes.
+    3. **Caramelize sugar.** Melt butter in saucepan over medium-high heat. Add
         sugar and spread evenly. Stirring continuously, cook until sugar starts
         melting and turns light brown --- remove from heat immediately when it
         becomes golden brown.
-    1. **Dissolve sugar.** Reduce heat to medium. Slowly add milk mixture. stir
+    4. **Dissolve sugar.** Reduce heat to medium. Slowly add milk mixture. stir
         until sugar fully dissolves and the mixture takes on a light brown color.
-    1. **Cook.** Stirring continuously and scraping the sides, cook 15 minutes until
+    5. **Cook.** Stirring continuously and scraping the sides, cook 15 minutes until
         the mixture becomes lumpy. Add the remaining butter and keep stirring until
         mixture become soft dough consistency.
-    1. **Pour.** Pour fudge over greased container. Flatten with greased spoon.
+    6. **Pour.** Pour fudge over greased container. Flatten with greased spoon.
         Garnish with sliced pistachios.
-    1. **Cool.** Cool 3-4 hours.
-    1. **Serve** in 3-cm squares.
+    7. **Cool.** Cool 3-4 hours.
+    8. **Serve** in 3-cm squares.
 
     !!! warning "Caramelizing sugar requires constant awareness."
 

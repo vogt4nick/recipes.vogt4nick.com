@@ -16,11 +16,11 @@ tags:
 
     1. **Toast.** Heat olive oil over medium-low heat. Stirring constantly, add
         quinoa and toast 4-6 minutes until golden and aromatic.
-    1. **Cook.** Mix in water, salt, peas, and carrots, and bring to boil. Cover,
+    2. **Cook.** Mix in water, salt, peas, and carrots, and bring to boil. Cover,
         reduce heat to low, and cook 15 minutes until water is absorbed and kernels
         have popped. While covered, remove from heat and rest 5 minutes.
-    1. **Fluff** quinoa with a fork.
-    1. **Cool and serve.** Allow quinoa to cool, uncovered, for a few minutes before
+    3. **Fluff** quinoa with a fork.
+    4. **Cool and serve.** Allow quinoa to cool, uncovered, for a few minutes before
         serving.
 
     !!! info "Rinsing the quinoa helps remove the saponin, its natural outer coating, which imparts a bitter taste.[^eggleston]"

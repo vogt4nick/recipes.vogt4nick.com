@@ -10,6 +10,6 @@
 
     1. **Prepare kitchen**. Preheat oven to 425ºF (218ºC). Lightly grease a foiled
         sheetpan.
-    1. **Season chickpeas**. Add chickpeas, oil, salt, cumin to bowl. Coat evenly.
-    1. **Roast chickpeas**. Add seasoned chickpeas to prepared sheetpan. Spread
+    2. **Season chickpeas**. Add chickpeas, oil, salt, cumin to bowl. Coat evenly.
+    3. **Roast chickpeas**. Add seasoned chickpeas to prepared sheetpan. Spread
         evenly. Roast 10-20 minutes, tossing once or twice, until brown and crisp.

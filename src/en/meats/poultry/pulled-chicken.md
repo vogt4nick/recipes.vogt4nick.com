@@ -28,25 +28,25 @@ tags:
 === "Directions"
 
     1. **Combine spices.**
-    1. **Poach chicken.** Place chicken in stock pot breast side up, and add 1 quart
-        cold water along with garlic, onions, and half the spice mix. Bring to boil
-        over high heat, reduce heat to low, cover, and simmer gently for 1 hour,
-        turning the chicken ever 20 minutes.
-    1. **Cool.** Move chicken into a new bowl. Cool 30 minutes until cool enough to
+    2. **Poach chicken.** Place chicken in stock pot breast side up, and add 1
+        quart cold water along with garlic, onions, and half the spice mix. Bring
+        to boil over high heat, reduce heat to low, cover, and simmer gently for 1
+        hour, turning the chicken ever 20 minutes.
+    3. **Cool.** Move chicken into a new bowl. Cool 30 minutes until cool enough to
         handle.
-    1. **Pull meat** from the carcass.
-    1. **Chill meat**, covered, in refrigerator until needed.
-    1. **Simmer stock.** Transfer all bones and scraps back into the pot. Rinse the
+    4. **Pull meat** from the carcass.
+    5. **Chill meat**, covered, in refrigerator until needed.
+    6. **Simmer stock.** Transfer all bones and scraps back into the pot. Rinse the
         bowl with about 1 1/2 cups cold fresh water, and add to the pot. Bring to
         simmer over high heat. Reduce heat to low and simmer gently 2 hours.
-    1. **Strain stock.** Strain broth, and transfer broth back into the pot. Bring
+    7. **Strain stock.** Strain broth, and transfer broth back into the pot. Bring
         to boil over high heat, and cook until liquid is reduced by half, 10 to 15
         minutes.
-    1. **Shred chicken** into about 1/2-inch thick strips.
-    1. **Stew chicken.** Stir shredded chicken into the pot. Reduce heat to medium,
-        and cook, stirring often, 10-15 minutes until chicken starts to break apart
-        and absorb the sauce.
-    1. **Season to taste.** Reduce heat to low. Taste for seasoning, and add more
+    8. **Shred chicken** into about 1/2-inch thick strips.
+    9. **Stew chicken.** Stir shredded chicken into the pot. Reduce heat to medium,
+        and cook, stirring often, 10-15 minutes until chicken starts to break
+        apart and absorb the sauce.
+    10. **Season to taste.** Reduce heat to low. Taste for seasoning, and add more
         salt if needed. Season with additional shawarma spice mix to taste. Finish
         by stirring in lemon juice.
 

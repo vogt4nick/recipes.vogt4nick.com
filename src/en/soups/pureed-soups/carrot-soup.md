@@ -30,9 +30,9 @@
         onion, garlic, and spices. Sauté 15 minutes until they begin to brown. Add
         stock. Stir. Bring to simmer. Reduce heat to low. Cover. Simmer 30 minutes
         until tender. Puree soup with immersion blender until smooth.
-    1. **Mix lemon-tahini sauce.** Add tahini, lemon juice, salt, and water to small
+    2. **Mix lemon-tahini sauce.** Add tahini, lemon juice, salt, and water to small
         dish. Whisk until smooth.
-    1. **Garnish and serve** with parsley and lemon-tahini paste.
+    3. **Garnish and serve** with parsley and lemon-tahini paste.
 
     ??? question "I don't have an immersion blender. How do I puree the soup?"
 

@@ -38,19 +38,19 @@ tags:
 
     1. **Marinate beef.** Add marinade, beef to glass bowl. Rest 3 days in
         refrigerator.
-    1. **Drain beef marinade.** Remove steak from marinade. Pat steak dry. Reserve
+    2. **Drain beef marinade.** Remove steak from marinade. Pat steak dry. Reserve
         marinade.
-    1. **Sear steak.** Heat oil in stockpot over high heat. Add beef. Season with
+    3. **Sear steak.** Heat oil in stockpot over high heat. Add beef. Season with
         salt, pepper. Fry 14 minutes, flipping midway, until both sides are seared.
         Remove meat from pan and set aside.
-    1. **Cook vegetables.** Reduce heat to medium. Add vegetables. Cook 10 minutes,
+    4. **Cook vegetables.** Reduce heat to medium. Add vegetables. Cook 10 minutes,
         stirring every 4 minutes, until softened.
-    1. **Braise beef.** Return seared beef to stockpot. Add reserved marinade,
+    5. **Braise beef.** Return seared beef to stockpot. Add reserved marinade,
         garlic, red wine, and enough water so that meat is not quite covered.
         Braise at least 2.5 hours until fork tender.
-    1. **Thicken sauce.** Drain liquid into a saucepan. Filter out vegetables and
+    6. **Thicken sauce.** Drain liquid into a saucepan. Filter out vegetables and
         seasonings. Skim fat if possible. Carefully correct seasoning.
-    1. **Garnish** meat with sauce and scallion greens.
+    7. **Garnish** meat with sauce and scallion greens.
 
     !!! note "Marinate beef in 24 hours by scouring the beef before marinating."
 

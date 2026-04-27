@@ -16,10 +16,10 @@
 === "Directions"
 
     1. **Preheat** cast-iron pan over medium-high heat.
-    1. **Mix** ingredients evenly.
-    1. **Shape** into 4 patties.
-    1. **Grill** patties in cast-iron pan, flipping halfway. Remove from heat.
-    1. **Rest** patties before serving.
+    2. **Mix** ingredients evenly.
+    3. **Shape** into 4 patties.
+    4. **Grill** patties in cast-iron pan, flipping halfway. Remove from heat.
+    5. **Rest** patties before serving.
 
 | Doneness    | Internal Temp |     Duration |
 | :---------- | ------------: | -----------: |

@@ -18,10 +18,10 @@ title: Barley
 === "Directions"
 
     1. **Rinse** barley several times until water runs mostly clear.
-    1. **Cook.** Add all ingredients to saucepan. Bring to boil, cover, reduce to
+    2. **Cook.** Add all ingredients to saucepan. Bring to boil, cover, reduce to
         low heat, and simmer 20 minutes until chewy. Remove from heat and drain any
         excess water.
-    1. **Fluff** barley with a fork.
+    3. **Fluff** barley with a fork.
 
 [^bittman]: Bittman, Mark.
     [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).

@@ -31,17 +31,17 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 90ºC (195ºF).
-    1. **Season shanks** to taste with salt and pepper.
-    1. **Sear shanks.** Heat olive oil and butter in a dutch oven over high heat.
+    2. **Season shanks** to taste with salt and pepper.
+    3. **Sear shanks.** Heat olive oil and butter in a dutch oven over high heat.
         Sear shanks 5 minutes on each side until browned.
-    1. **Cook base.** Reduce heat to medium. Stirring occasionally: add vegetables
+    4. **Cook base.** Reduce heat to medium. Stirring occasionally: add vegetables
         and cook 5 minutes; add tomato paste and cook 2 minutes; add flour and cook
         2 minutes. Raise heat to medium-high. Stir in white wine, bring to simmer,
         and reduce for 2 minutes. Stir in chicken stock and seasonings. Bring to
         simmer.
-    1. **Braise shanks.** Return shanks to dutch oven, and reduce to very low
+    5. **Braise shanks.** Return shanks to dutch oven, and reduce to very low
         simmer. Cover and simmer in oven 3 hours in oven until tender.
-    1. **Garnish** with parsley and lemon zest.
+    6. **Garnish** with parsley and lemon zest.
 
 !!! tip "Serve over [polenta](../../grains/polenta/index.md)."
 

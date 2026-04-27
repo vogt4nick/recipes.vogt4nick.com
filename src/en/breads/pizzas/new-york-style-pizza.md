@@ -23,19 +23,19 @@
         minutes before baking pizza. Place pizza steel on oven's upper rack.
         Preheat oven to 550ºF (288ºC). Prepare a lightly floured surface at least
         60 cm wide.
-    1. **Prepare broiler.** Switch oven to broil 5 minutes before transferring
+    2. **Prepare broiler.** Switch oven to broil 5 minutes before transferring
         pizza.
-    1. **Sauté garlic & mushrooms.** Heat oil in skillet over medium heat. Add
+    3. **Sauté garlic & mushrooms.** Heat oil in skillet over medium heat. Add
         mushrooms, garlic, salt. Sauté 2 minutes until garlic is translucent but
         not brown. Remove from heat.
-    1. **Shape crust.** Place dough ball on floured surface. Coat moderately with
+    4. **Shape crust.** Place dough ball on floured surface. Coat moderately with
         flour. Shape pizza crust. Transfer to peel. Relax dough and work out kinks
         by running hands around perimeter.
-    1. **Dress pizza.** Spread and smooth tomato sauce over dough within 5 mm of
+    5. **Dress pizza.** Spread and smooth tomato sauce over dough within 5 mm of
         edge. Layer pecorino romano evenly. Layer mozzarella evenly. Layer
         mushrooms, pepperoni, onions evenly.
-    1. **Bake pizza.** Transfer pizza to oven. Bake 4 minutes at 550ºF until cheese
+    6. **Bake pizza.** Transfer pizza to oven. Bake 4 minutes at 550ºF until cheese
         is partially melted and crust is golden. Set oven to broil. Broil 2 minutes
         until cheese is fully melted, crust is golden with spots of brown. Remove
         from oven.
-    1. **Garnish & serve** with red pepper flakes and oregano.
+    7. **Garnish & serve** with red pepper flakes and oregano.

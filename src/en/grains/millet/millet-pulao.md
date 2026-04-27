@@ -26,11 +26,11 @@ tags:
 === "Directions"
 
     1. **Temper spices** in oil over medium heat. Add ginger and fry until fragrant.
-    1. **Fry vegetables** and mint 3-4 minutes until the raw smell goes away.
-    1. **Toast millet.** Add millet and fry an additional 2 minutes.
-    1. **Cook millet.** Add hot water and salt. Bring to boil, reduce, and cover,
+    2. **Fry vegetables** and mint 3-4 minutes until the raw smell goes away.
+    3. **Toast millet.** Add millet and fry an additional 2 minutes.
+    4. **Cook millet.** Add hot water and salt. Bring to boil, reduce, and cover,
         and cook 15 minutes. Remove from heat and rest an additional 10 minutes.
-    1. **Fluff** with a fork.
+    5. **Fluff** with a fork.
 
 [^swasthi]: Swasthi.
     ["Foxtail Millet Pulao."](https://www.indianhealthyrecipes.com/millet-biryani-korralu-thinai-biryani-recipe/)

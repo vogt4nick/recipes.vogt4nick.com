@@ -32,12 +32,12 @@ tags:
 
     1. **Toast bread cubes.** Preheat oven to 180ºC (350ºF). Mix bread and butter.
         Cook 12 minutes until golden brown.
-    1. **Sweat onion** and garlic in butter until transparent. Mix in milk, salt,
+    2. **Sweat onion** and garlic in butter until transparent. Mix in milk, salt,
         pepper, and nutmeg, and cook until mixture begins to simmer.
-    1. **Mix dough.** Combine roasted and unroasted bread cubes and dough
+    3. **Mix dough.** Combine roasted and unroasted bread cubes and dough
         ingredients. Mix in onion mixture from pan.
-    1. **Form dumplings** into balls with damp (not wet!) hands.
-    1. **Steam dumplings** 15-20 minutes, more or less depending on size.
+    4. **Form dumplings** into balls with damp (not wet!) hands.
+    5. **Steam dumplings** 15-20 minutes, more or less depending on size.
 
 [^oberndorfer]: Oberndorfer, Florian, and Zabert Sandmann.
     [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X)

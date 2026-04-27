@@ -26,30 +26,30 @@ tags:
 === "Zubereitung"
 
     1. **Backrohr vorheizen.** Das Backrohr auf 160ºC vorheizen.
-    1. **Haselnüsse rösten.** Die Haselnüsse am besten auf ein Blech geben und sie
+    2. **Haselnüsse rösten.** Die Haselnüsse am besten auf ein Blech geben und sie
         im Backrohr 20 Minuten bei 160ºC rösten. Wenn der Kern goldbraun ist, sind
         die Haselnüsse bereit. Die Haselnüsse auskühlen lassen.
-    1. **Haselnüsse mahlen.** Die braune Haut der gerösteten Haselnüsse leicht
+    3. **Haselnüsse mahlen.** Die braune Haut der gerösteten Haselnüsse leicht
         entfernen, indem man sie aneinander reibt. Sie fein mahlen.
-    1. **Teig vermengen.** Das mehl mit den gerösteten Haselnüssen sowie den
+    4. **Teig vermengen.** Das mehl mit den gerösteten Haselnüssen sowie den
         Gewürzen und dem Staubzucker vermischen. Dazu die Butter geben und kneten.
         Im Anschluss die Eier hinzufügen.
-    1. **Teig kühlen.** Der Teig in einem Puck formen und im Kühlschrank mindestens
+    5. **Teig kühlen.** Der Teig in einem Puck formen und im Kühlschrank mindestens
         30 Minuten kühlen lassen.
-    1. **Backrohr vorheizen.** Das Backrohr auf 190ºC vorheizen.
-    1. **Den Teig vierteln.** Ein Viertel zurück im Kühlschrank aufbewahren, und mit
-        dem anderen weitermachen.
-    1. **Torte formen.** Der Teig mit dem Mehl einstauben und in der Form 1.5 cm
+    6. **Backrohr vorheizen.** Das Backrohr auf 190ºC vorheizen.
+    7. **Den Teig vierteln.** Ein Viertel zurück im Kühlschrank aufbewahren, und
+        mit dem anderen weitermachen.
+    8. **Torte formen.** Der Teig mit dem Mehl einstauben und in der Form 1.5 cm
         dick ausrollen. Den Teig an der Seite der Form hoch drücken, sodass eine
         Schale entsteht.
-    1. **Marmelade aufstreichen.** Den Boden großzügig mit feiner Ribiselmarmelade
+    9. **Marmelade aufstreichen.** Den Boden großzügig mit feiner Ribiselmarmelade
         bestreichen.
-    1. **Gitter formen.** Rollen aus dem Teigrest vom Kühlschrank formen. Sie auf
+    10. **Gitter formen.** Rollen aus dem Teigrest vom Kühlschrank formen. Sie auf
         den Durchmesser der Torte grob kürzen und auf die Marmelade legen.
-    1. **Mit Ei waschen.** Bepinseln Sie das Teiggitter mit verquirltem Ei.
-    1. **Mandeln streuen.** Am äußerem Tortenrand gehobelte Mandeln streuen.
-    1. **Die Torte backen.** Die Torte bei 190ºC ca. 40-45 Minuten backen.
-    1. **Die Torte auskühlen lassen.**
+    11. **Mit Ei waschen.** Bepinseln Sie das Teiggitter mit verquirltem Ei.
+    12. **Mandeln streuen.** Am äußerem Tortenrand gehobelte Mandeln streuen.
+    13. **Die Torte backen.** Die Torte bei 190ºC ca. 40-45 Minuten backen.
+    14. **Die Torte auskühlen lassen.**
 
 [^bitterman]: Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
     [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).

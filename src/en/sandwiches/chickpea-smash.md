@@ -17,11 +17,11 @@
 
     1. **Make vinaigrette.** Combine dressing ingredients in a sealable jar. Shake
         vigorously to emulsify.
-    1. **Parboil vegetables.** Boil water, and put shallots and celery in a
+    2. **Parboil vegetables.** Boil water, and put shallots and celery in a
         colander. Pour boiling water over the vegetables through the colander to
         cook.
-    1. **Mix** chickpeas, vegetables, and vinaigrette.
-    1. **Arrange sandwich** with toasted sandwich bread and serve.
+    3. **Mix** chickpeas, vegetables, and vinaigrette.
+    4. **Arrange sandwich** with toasted sandwich bread and serve.
 
 [^deb]: Perelman, Deb.
     ["Smashed Chickpea Salad."](https://smittenkitchen.com/2009/01/smashed-chickpea-salad/)

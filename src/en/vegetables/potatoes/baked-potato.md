@@ -13,19 +13,19 @@
 === "Simple Bake"
 
     1. **Preheat oven** to 350ºF (177ºC).
-    1. **Vent potatoes** by pricking skins with a fork.
-    1. **Coat** with olive oil and salt.
-    1. **Bake** 60 minutes, turning midway.
-    1. **Garnish and serve.**
+    2. **Vent potatoes** by pricking skins with a fork.
+    3. **Coat** with olive oil and salt.
+    4. **Bake** 60 minutes, turning midway.
+    5. **Garnish and serve.**
 
 === "Jacket Potatoes"
 
     1. **Preheat oven** to 400ºF (205ºC).
-    1. **Vent potatoes** by cutting a cross into the full length of one side of the
+    2. **Vent potatoes** by cutting a cross into the full length of one side of the
         potato.
-    1. **Coat potato** with olive oil and salt.
-    1. **Bake** 2 hours until skin is dry and wrinkled.
-    1. **Garnish and serve.**
+    3. **Coat potato** with olive oil and salt.
+    4. **Bake** 2 hours until skin is dry and wrinkled.
+    5. **Garnish and serve.**
 
 [^1]: Prakash, Sheela.
     ["The Secret to Better Baked Potatoes? Cook Them Like the British Do."](https://www.thekitchn.com/jacket-potato-22943799)

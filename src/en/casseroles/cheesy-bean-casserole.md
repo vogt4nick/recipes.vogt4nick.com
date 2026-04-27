@@ -32,16 +32,16 @@ tags:
 === "Directions"
 
     1. **Preheat** oven to 220ºC (450ºF). Preheat cast-iron skillet.
-    1. **Mix casserole.** Heat oil in preheated skillet, maintaining over
+    2. **Mix casserole.** Heat oil in preheated skillet, maintaining over
         medium-high heat. Fry onion, garlic, jalapeño, and bell pepper 5 minutes
         until they soften. Add tomato paste and chili powder and cook another
         minute. Add tomatoes and beans, mix evenly, and bring up to heat. Add corn
         and spinach, and stir until the spinach wilts. Add lime juice. Season
         further to taste.
-    1. **Broil.** Cover casserole with cheese. Broil until cheese is melted and
+    3. **Broil.** Cover casserole with cheese. Broil until cheese is melted and
         browned.
-    1. **Cool** a few minutes before serving.
-    1. **Serve** with tortilla chips, hot sauce, and lime wedges.
+    4. **Cool** a few minutes before serving.
+    5. **Serve** with tortilla chips, hot sauce, and lime wedges.
 
 [^perelman]: Perelman, Deb.
     ["Black bean and vegetable bake."](https://smittenkitchen.com/2024/05/black-bean-and-vegetable-bake/)

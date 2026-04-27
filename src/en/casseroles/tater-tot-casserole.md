@@ -24,16 +24,16 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 350ºF (180ºC) and grease a 9×13 pan.
-    1. **Cook onion and beef.** Sweat onion over medium heat until translucent. Add
+    2. **Cook onion and beef.** Sweat onion over medium heat until translucent. Add
         the ground beef, and cook until ground beef until done.
-    1. **Layer hot dish.** Pour the cooked meat and onions into the 9×13 pan. Spread
+    3. **Layer hot dish.** Pour the cooked meat and onions into the 9×13 pan. Spread
         the veggies evenly over the top. Add the cheddar cheese. Spread the cream
         of mushroom soup over the veggies. Some people mix it here, some people
         don't. It's up to you.
-    1. **Arrange tater tots** evenly on top of the mixture in straight lines.
-    1. **Bake** 60-80 minutes at 350ºF until tater tots are golden brown and the
+    4. **Arrange tater tots** evenly on top of the mixture in straight lines.
+    5. **Bake** 60-80 minutes at 350ºF until tater tots are golden brown and the
         veggies are soft.
-    1. **Cool** 15 minutes and serve.
+    6. **Cool** 15 minutes and serve.
 
 [^nelliebellie]: Hutton, Janel.
     ["Minnesota Tater Tot Hotdish."](https://www.nelliebellie.com/tater-tot-hotdish-recipe/#recipe)

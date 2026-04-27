@@ -22,11 +22,11 @@ tags:
         accumulated duck juices and water to pan. Set on 2 burners over medium-high
         heat, and cook, scraping brown bits with a wooden spoon until all bits are
         scraped up.
-    1. **Strain liquid** through a fine sieve into a saucepan. Transfer neck and
+    2. **Strain liquid** through a fine sieve into a saucepan. Transfer neck and
         wing tips to saucepan, and discard remaining solids.
-    1. **Reduce.** Simmer over medium-high heat until reduced to ~100 g. Discard
+    3. **Reduce.** Simmer over medium-high heat until reduced to ~100 g. Discard
         neck and wing tips.
-    1. **Finish.** Add marmalade and spices, and whisk to a smooth consistency.
+    4. **Finish.** Add marmalade and spices, and whisk to a smooth consistency.
         Season with salt to taste.
 
 [^stewart]: Stewart, Martha.

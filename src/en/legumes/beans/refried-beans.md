@@ -22,10 +22,10 @@
     1. **Fry onions.** Heat lard in frying pan over medium-high heat. Add onion and
         salt, and fry until it starts to brown. Add pepper, paprika, and cayenne,
         and fry a minute longer.
-    1. **Mash.** Add beans, and mash about half.
-    1. **Reduce.** Dividing in several steps, stir in 100 g water, mash beans, and
+    2. **Mash.** Add beans, and mash about half.
+    3. **Reduce.** Dividing in several steps, stir in 100 g water, mash beans, and
         cook for several minutes to reach desired consistency.
-    1. **Season** with lime juice and additional salt as necessary.
+    4. **Season** with lime juice and additional salt as necessary.
 
 [^mitzewich]: Mitzewich, John.
     ["Refried Beans - Cooked Well, Not Twice."](https://foodwishes.blogspot.com/2017/02/refried-beans-cooked-well-not-twice.html)

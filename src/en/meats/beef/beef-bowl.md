@@ -41,10 +41,10 @@
 
     1. **Brown beef.** Preheat skillet over medium-high heat. Add beef and
         seasonings, stir to combine, and cook 20 minutes until thoroughly brown.
-    1. **Deglaze.** Pour sauce, scrape up the fond, and stir to combine.
-    1. **Saute vegetables.** Arrange meat on the edges of the pan. Add vegetables,
+    2. **Deglaze.** Pour sauce, scrape up the fond, and stir to combine.
+    3. **Saute vegetables.** Arrange meat on the edges of the pan. Add vegetables,
         and saute 5 minutes until cooked. Mix with brown beef. Remove from heat.
-    1. **Serve warm** with rice.
+    4. **Serve warm** with rice.
 
 [^hirasawa]: Hirasawa Chen, Namiko.
     ["Soboro Don (Ground Chicken Bowl) そぼろ丼."](https://www.justonecookbook.com/tori-soboro-donburi/)

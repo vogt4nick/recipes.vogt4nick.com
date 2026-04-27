@@ -21,17 +21,17 @@ tags:
 
     1. **Stell am Platz.** Das Backrohr auf 170ºC Heißluft vorheizen. Ein Backblech
         mit Backpapier belegen oder mit flüssiger Butter bestreichen.
-    1. **Teig mischen.** Alle Zutaten in einer Schüssel, auf einer Arbeitsfläche mit
+    2. **Teig mischen.** Alle Zutaten in einer Schüssel, auf einer Arbeitsfläche mit
         den Händen oder in der Küchenmachine mit dem Knethaken rasch zu einem Teig
         verarbeiten.
-    1. **Kipferl formen.** Teig zu längchen 3 cm dicken Rollen formen, mit der
+    3. **Kipferl formen.** Teig zu längchen 3 cm dicken Rollen formen, mit der
         Teigkarte kleine Stücke abstechen, mit der flachen Hand zu 3 cm langen
         Rollen formen und zu Kipferln biegen.
-    1. **Kipferl backen.** Auf das Backblech legen und im vorgeheizten Backrohr
+    4. **Kipferl backen.** Auf das Backblech legen und im vorgeheizten Backrohr
         unter Aufsicht 10-12 Minuten hell backen.
-    1. **Kipferl garnieren.** Die noch heißen Kipferl auf dem Blech mit dem
+    5. **Kipferl garnieren.** Die noch heißen Kipferl auf dem Blech mit dem
         Staubzucker-Vanillezucker-Gemisch bestreuen.
-    1. **Auskühlen lassen.**
+    6. **Auskühlen lassen.**
 
     !!! note "Nur bei Bedarf mit Frischhaltefolie abgedeckt im Kühlschrank kurz rasten lassen."
 

@@ -36,17 +36,17 @@ tags:
 
     1. **Fry pork shoulder.** Heat oil in dutch oven over medium-high heat. Fry pork
         shoulder until browned and most of the fat has rendered out.
-    1. **Sweat vegetables.** Add onion, celery, pepper, and salt, and cook until
+    2. **Sweat vegetables.** Add onion, celery, pepper, and salt, and cook until
         onions are translucent.
-    1. **Temper spices.** Mix in spices and continue cooking 5 minutes until
+    3. **Temper spices.** Mix in spices and continue cooking 5 minutes until
         fragrant and vegetables are soft.
-    1. **Mix rice.** Reduce heat to medium. Mix in sausage, and cook 3 minutes. Mix
+    4. **Mix rice.** Reduce heat to medium. Mix in sausage, and cook 3 minutes. Mix
         in liver and rice.
-    1. **Cook rice.** Add chicken stock, bay leaf, and Worcestershire sauce, and
+    5. **Cook rice.** Add chicken stock, bay leaf, and Worcestershire sauce, and
         stir. Bring to simmer, cover, reduce heat to medium-low, and cook 25
         minutes. Add scallions, and stir rice mixture. Return cover, and continue
         cooking 10-20 minutes until rice is tender.
-    1. **Garnish** with any remaining scallions and parsley.
+    6. **Garnish** with any remaining scallions and parsley.
 
     !!! tip "Stirring the rice helps it to cook more evenly."
 

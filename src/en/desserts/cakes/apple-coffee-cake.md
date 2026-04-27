@@ -22,16 +22,16 @@
 
     1. **Preheat oven** to 175ºC (350ºF). Grease and flour a 22 x 22 cm (9 x 9 in)
         oven-safe dish.
-    1. **Mix filling.** Combine brown sugar, cinnamon, and flour. Add the diced
+    2. **Mix filling.** Combine brown sugar, cinnamon, and flour. Add the diced
         apples and stir to coat. Set aside.
-    1. **Mix dry ingredients.** Combine flour, baking powder, baking soda, and salt.
-    1. **Mix wet ingredients.** Beat together butter, sugar, eggs, milk, and
+    3. **Mix dry ingredients.** Combine flour, baking powder, baking soda, and salt.
+    4. **Mix wet ingredients.** Beat together butter, sugar, eggs, milk, and
         vanilla.
-    1. **Mix batter.** Alternating between dry mix and sour cream and stirring after
+    5. **Mix batter.** Alternating between dry mix and sour cream and stirring after
         each addition, add to wet mixture.
-    1. **Pour layers.** Spread half the batter in the pan, and sprinkle evenly with
+    6. **Pour layers.** Spread half the batter in the pan, and sprinkle evenly with
         half the topping mixture. Repeat with the remaining batter and topping.
-    1. **Bake** 60 minutes at 175ºC until a toothpick inserted into the center comes
+    7. **Bake** 60 minutes at 175ºC until a toothpick inserted into the center comes
         out clean or with just a few moist crumbs sticking to it.
 
 [^reid]: Reid, Susan.

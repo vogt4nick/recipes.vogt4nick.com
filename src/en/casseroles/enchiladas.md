@@ -28,18 +28,18 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 350ºF (177ºC).
-    1. **Prepare sauce.** Add cream of chicken, sour cream, milk, and green chiles
+    2. **Prepare sauce.** Add cream of chicken, sour cream, milk, and green chiles
         to large bowl. Mix evenly. Referenced later as *enchilada sauce*.
-    1. **Prepare filling.** Add cheese, spices, and water to large bowl. Mix until
+    3. **Prepare filling.** Add cheese, spices, and water to large bowl. Mix until
         smooth. Add beans and chicken. Mix evenly. Referenced later as *chicken
         mixture*.
-    1. **Bake enchiladas.** Grease 13" x 9" baking dish. Add 100 g of *chicken
+    4. **Bake enchiladas.** Grease 13" x 9" baking dish. Add 100 g of *chicken
         mixture* to each tortilla. Roll and place seam side down in baking dish.
         Cover with *enchilada sauce*. Bake, uncovered, 35 minutes until heated
         through.
-    1. **Bake cheese layer.** Layer cheese over enchiladas. Bake 5 minutes until
+    5. **Bake cheese layer.** Layer cheese over enchiladas. Bake 5 minutes until
         cheese is melted.
-    1. **Garnish** with remaining green chiles.
+    6. **Garnish** with remaining green chiles.
 
 [^1]: Vogt, Brenda.
 

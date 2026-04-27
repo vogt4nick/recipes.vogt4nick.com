@@ -31,12 +31,12 @@ tags:
     1. **Break up beef.** Add ground beef and onion to a room-temperature skillet.
         Cook over medium heat, thoroughly breaking up the ground beef into small
         pieces as it cooks.
-    1. **Season.** Add garlic and bell pepper, and cook an additional 3 minutes. Mix
+    2. **Season.** Add garlic and bell pepper, and cook an additional 3 minutes. Mix
         in water. Add in remaining sauces and seasonings, and mix to combine.
-    1. **Simmer.** Mix in remaining water. Bring to boil and reduce to simmer.
+    3. **Simmer.** Mix in remaining water. Bring to boil and reduce to simmer.
         Simmer 45 minutes, uncovered, until the water has evaporated and mixture
         resembles a paste.
-    1. **Serve** in buns
+    4. **Serve** in buns
 
     !!! info "Starting from a cold pan helps the ground beef to crumble into small pieces for the 'joe."
 

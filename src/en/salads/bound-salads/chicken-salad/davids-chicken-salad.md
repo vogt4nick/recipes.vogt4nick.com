@@ -35,8 +35,8 @@ tags:
 === "Directions"
 
     1. **Emulsify vinaigrette.**
-    1. **Season.** Add herbs and spices. Let rest at least 5 minutes to rehydrate.
-    1. **Combine** vegetables and chicken.
-    1. **Add rice** and toss until just combined.
-    1. **Chill.**
-    1. **Serve.**
+    2. **Season.** Add herbs and spices. Let rest at least 5 minutes to rehydrate.
+    3. **Combine** vegetables and chicken.
+    4. **Add rice** and toss until just combined.
+    5. **Chill.**
+    6. **Serve.**

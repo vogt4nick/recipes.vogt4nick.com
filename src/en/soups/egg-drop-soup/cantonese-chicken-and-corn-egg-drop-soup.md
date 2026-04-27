@@ -29,18 +29,18 @@ tags:
 
     1. **Build base.** Heat oil in saucepan over medium heat. Fry ginger 30 seconds
         until fragrant. Add stock and chicken breast.
-    1. **Cook chicken.** Bring to boil and reduce to simmer. Simmer chicken breast
+    2. **Cook chicken.** Bring to boil and reduce to simmer. Simmer chicken breast
         5-6 miutes until cooked through. Remove chicken from water.
-    1. **Shred chicken.** Pound the cooked breast with the back of a knife, and
+    3. **Shred chicken.** Pound the cooked breast with the back of a knife, and
         shred until the breast resembles stringy, crumbly bits.
-    1. **Cook corn.** Bring to boil. Add corn, and boil 2-3 minutes until cooked.
+    4. **Cook corn.** Bring to boil. Add corn, and boil 2-3 minutes until cooked.
         Reduce to simmer. Add shredded breast and stir in seasonings.
-    1. **Add slurry.** Mix slurry in a separate bowl. Stirring continuously, slowly
+    5. **Add slurry.** Mix slurry in a separate bowl. Stirring continuously, slowly
         pour in prepared slurry.
-    1. **Make egg drop.** Remove from heat. Stirring continuously, slowly pour egg
+    6. **Make egg drop.** Remove from heat. Stirring continuously, slowly pour egg
         in a thin stream.
-    1. **Season** with white pepper and sesame oil.
-    1. **Serve** garnished with cilantro.
+    7. **Season** with white pepper and sesame oil.
+    8. **Serve** garnished with cilantro.
 
 [^demystified]: Li, Stephanie and Chris Thomas.
     ["Egg Drop [Anything] Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM)

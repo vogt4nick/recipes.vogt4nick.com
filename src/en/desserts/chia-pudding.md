@@ -10,8 +10,8 @@
 === "Directions"
 
     1. **Combine** chia, water, and frozen blueberries.
-    1. **Thaw and soak** 2-12 hours.
-    1. **Mix** in skyr and serve.
+    2. **Thaw and soak** 2-12 hours.
+    3. **Mix** in skyr and serve.
 
 [^herwholesomekitchen]: Schetzsle, Megan.
     ["Greek Yogurt Chia Pudding."](https://www.herwholesomekitchen.com/greek-yogurt-chia-pudding/)

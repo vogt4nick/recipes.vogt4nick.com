@@ -23,4 +23,4 @@ tags:
         Coat evenly. Sauté 8 minutes, stirring every 3 minutes. Add prepared beans,
         salt, remaining cumin. Stir evenly. Cook 5 minutes. Remove from heat. Add
         rice. Stir evenly.
-    1. **Garnish & serve** with cilantro.
+    2. **Garnish & serve** with cilantro.

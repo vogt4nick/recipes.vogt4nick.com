@@ -13,10 +13,10 @@
 
     1. **Activate yeast**. Add yeast, sugar, water in mixing bowl. Mix. Rest 10
         minutes until yeast activates.
-    1. **Mix dough**. Add oil and salt. Gradually add flour and mix until dough is
+    2. **Mix dough**. Add oil and salt. Gradually add flour and mix until dough is
         no longer sticky.
-    1. **Rise dough**. Cover dough in bowl with a warm, damp towel. Rest 30 minutes.
-    1. **Shape dough** into two 30 cm (12") circles or one 40 cm (16") circle.
+    3. **Rise dough**. Cover dough in bowl with a warm, damp towel. Rest 30 minutes.
+    4. **Shape dough** into two 30 cm (12") circles or one 40 cm (16") circle.
 
     ??? question "How do I shape pizza?"
 

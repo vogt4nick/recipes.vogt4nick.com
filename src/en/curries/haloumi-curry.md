@@ -29,14 +29,14 @@ tags:
 
     1. **Grill haloumi.** Heat oil in saucepan over low-medium heat. Grill haloumi
         on one side until golden brown and set aside.
-    1. **Temper spices.** Add remaining oil and raise to medium heat. Stir in cumin
+    2. **Temper spices.** Add remaining oil and raise to medium heat. Stir in cumin
         seed. When seeds begin to crack, add garlic and ginger, and saute 30
         seconds until fragrant. Add bell pepper and saute 30 seconds more. Stir in
         remaining spices, and cook 30 seconds more.
-    1. **Cook curry.** Add tomatoes, salt, and sugar. Stir and cook 3 minutes until
+    3. **Cook curry.** Add tomatoes, salt, and sugar. Stir and cook 3 minutes until
         tomatoes are just tender. Add haloumi, and cook 5 minutes until spices are
         well integrated --- do not allow tomatoes to break down. Remove from heat.
-    1. **Season** with garam masala, and serve.
+    4. **Season** with garam masala, and serve.
 
     !!! tip "The oil is hot enough when adding one cumin seed to the oil causes the seed to crack immediately."
 

@@ -16,7 +16,7 @@ tags:
 
     1. **Mix tuna salad.** Combine tuna and kewpie mayo in a small bowl. Mix
         vigorously until mixture resembles a fluffy paste.
-    1. **Shape onigiri** with damp (not wet) hands.
+    2. **Shape onigiri** with damp (not wet) hands.
 
     !!! info "Shape onigiri carefully."
 

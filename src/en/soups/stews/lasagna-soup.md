@@ -26,13 +26,13 @@ tags:
 === "Directions"
 
     1. **Simmer beef broth** with herbs until needed.
-    1. **Sweat onions.** Heat butter and olive oil in stockpot over medium heat.
+    2. **Sweat onions.** Heat butter and olive oil in stockpot over medium heat.
         Sweat onions 5 minutes until translucent. Add garlic. Cook 1 minute.
-    1. **Brown beef.** Add beef, salt, black pepper, nutmeg. Cook 8 minutes until
+    3. **Brown beef.** Add beef, salt, black pepper, nutmeg. Cook 8 minutes until
         beef has lost its raw, red color.
-    1. **Cook tomatoes.** Add tomatoes. Cook 15 minutes, stirring occasionally,
+    4. **Cook tomatoes.** Add tomatoes. Cook 15 minutes, stirring occasionally,
         until tomatoes break down.
-    1. **Simmer.** Stir in broth. Simmer 45 minutes. Stir in cooked pasta, parmesan.
-    1. **Garnish and serve** with parmesan and parsley sprigs.
+    5. **Simmer.** Stir in broth. Simmer 45 minutes. Stir in cooked pasta, parmesan.
+    6. **Garnish and serve** with parmesan and parsley sprigs.
 
 [^1]: Vogt, Brenda.

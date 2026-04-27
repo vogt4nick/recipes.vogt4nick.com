@@ -10,17 +10,17 @@ key words to clarify severity; i.e.
 
 1. **MUST** This word means that the definition is an absolute requirement of
     the recipe.
-1. **MUST NOT** This phrase means that the definition is an absolute prohibition
+2. **MUST NOT** This phrase means that the definition is an absolute prohibition
     of the recipe.
-1. **SHOULD** This word means that there may exist valid reasons in particular
+3. **SHOULD** This word means that there may exist valid reasons in particular
     circumstances to ignore a particular item, but the full recipe must be
     understood and carefully weighed before choosing a different course.
-1. **SHOULD NOT** This phrase means that there may exist valid reasons in
+4. **SHOULD NOT** This phrase means that there may exist valid reasons in
     particular circumstances when the particular behavior is acceptable or even
     useful, but the full implications should be understood and the case
     carefully weighed before implementing any behavior described with this
     label.
-1. **MAY** This word, or the adjective "OPTIONAL", mean that an item is truly
+5. **MAY** This word, or the adjective "OPTIONAL", mean that an item is truly
     optional. You may choose to include the item because a particular recipe
     requires it or because you feel that it enhances the recipe while someone
     else may omit the same item.

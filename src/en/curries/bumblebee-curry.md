@@ -28,14 +28,14 @@ tags:
 === "Directions"
 
     1. **Combine spices** and set aside as *yellow spices*.
-    1. **Sweat onion.** Heat olive oil in stock pan over medium-high heat. Add
+    2. **Sweat onion.** Heat olive oil in stock pan over medium-high heat. Add
         onion. Cook 6 minutes until soft, stirring every 2 minutes. Add garlic and
         cumin. Stir. Cook 4 minutes, stirring every 2 minutes, until fragrant.
-    1. **Mix curry.** Add tomatoes. Stir. Add coconut milk. Stir. Add *yellow
+    3. **Mix curry.** Add tomatoes. Stir. Add coconut milk. Stir. Add *yellow
         spices*. Stir.
-    1. **Simmer.** Cook 4 minutes until mixture begins to boil. Stir. Reduce heat to
+    4. **Simmer.** Cook 4 minutes until mixture begins to boil. Stir. Reduce heat to
         low. Partially cover. Simmer 60 minutes.
-    1. **Serve.** Fill bowls partway with rice and ladle curry overtop. Top with
+    5. **Serve.** Fill bowls partway with rice and ladle curry overtop. Top with
         chickpeas or roasted potatoes.
 
 [^1]: ["Alicia's Aloo Gobi."](https://www.allrecipes.com/recipe/151997/alicias-aloo-gobi/)

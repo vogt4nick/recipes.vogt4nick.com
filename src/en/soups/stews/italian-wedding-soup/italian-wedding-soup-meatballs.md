@@ -15,7 +15,7 @@
 
     1. **Prepare meatballs.** Mix all ingredients together until just combined.
         Shape into small meatballs.
-    1. **Cook** 8 minutes in simmering water.
+    2. **Cook** 8 minutes in simmering water.
 
 [^1]: Ash, John.
     ["Recipes: My Mad Men Menu."](https://chefjohnash.com/recipes-my-mad-men-menu/)

@@ -29,8 +29,8 @@
 === "Directions"
 
     1. **Mix ingredients** together in a jar.
-    1. **Chill and soak** at least 5 hours.
-    1. **Serve** with chopped nuts.
+    2. **Chill and soak** at least 5 hours.
+    3. **Serve** with chopped nuts.
 
 !!! info "Oats will keep chilled up to 5 days."
 

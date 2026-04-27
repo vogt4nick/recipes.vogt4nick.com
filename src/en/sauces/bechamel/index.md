@@ -14,10 +14,10 @@ title: Bechamel Sauce
 === "Directions"
 
     1. **Simmer milk.** Combine milk, salt in a saucepan. Bring to simmer.
-    1. **Prepare white roux.** Heat skillet over low heat. Add butter. Melt. Slowly
+    2. **Prepare white roux.** Heat skillet over low heat. Add butter. Melt. Slowly
         add flour, whisking continuously. Cook 2 minutes until roux starts to
         froth.
-    1. **Boil to thicken.** Add simmering milk to roux. Bring to boil over
+    3. **Boil to thicken.** Add simmering milk to roux. Bring to boil over
         medium-high heat. Quickly whisk 60 seconds. Immediately remove from heat.
         Gently whisk 15 seconds. Season with salt & pepper to taste.
 

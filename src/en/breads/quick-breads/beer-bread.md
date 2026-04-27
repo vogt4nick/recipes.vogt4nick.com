@@ -10,9 +10,9 @@
 === "Directions"
 
     1. **Preheat oven** to 190ºC (375ºF). Grease loaf pan with butter.
-    1. **Mix batter.** In a separate bowl, combine flour, baking powder, and salt.
+    2. **Mix batter.** In a separate bowl, combine flour, baking powder, and salt.
         Pour in the beer and honey, and mix until just combined.
-    1. **Bake.** Spoon the batter into the prepared loaf pan. Arrange the butter
+    3. **Bake.** Spoon the batter into the prepared loaf pan. Arrange the butter
         slices on top. Bake 45-55 minutes until the top of the bread is lightly
         browned.
 

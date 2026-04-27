@@ -28,8 +28,8 @@ tags:
 
     1. **Combine ingredients.** Add ingredients to a large mixing bowl. Gently stir
         to combine.
-    1. **Marinate.** Cover bowl. Marinate 2 hours. Chill in refrigerator if desired.
-    1. **Garnish & serve** with avocado and cilantro.
+    2. **Marinate.** Cover bowl. Marinate 2 hours. Chill in refrigerator if desired.
+    3. **Garnish & serve** with avocado and cilantro.
 
 !!! tip "Serve with tortilla chips"
 

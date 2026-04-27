@@ -7,6 +7,6 @@
 === "Directions"
 
     1. **Blend** ingredients until smooth.
-    1. **Seal.** Transfer to a sealable container.
+    2. **Seal.** Transfer to a sealable container.
 
 !!! info "Store chilled up to 5 weeks."

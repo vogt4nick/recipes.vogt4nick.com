@@ -20,16 +20,16 @@
 
     1. **Preheat oven** to 230ºC (450ºF). Grease 8x8 glass casserole dish and set
         aside.
-    1. **Whisk dry mix.** Whisk cornmeal, flour, baking soda, salt, and sugar into a
+    2. **Whisk dry mix.** Whisk cornmeal, flour, baking soda, salt, and sugar into a
         homogeneous mixture.
-    1. **Whisk wet mix.** Whisk honey, eggs, butter, and buttermilk into a
+    3. **Whisk wet mix.** Whisk honey, eggs, butter, and buttermilk into a
         homogeneous mixture.
-    1. **Mix batter.** Stir the dry ingredients into the wet ingredients until just
+    4. **Mix batter.** Stir the dry ingredients into the wet ingredients until just
         combined.
-    1. **Bake.** Spoon batter into casserole dish and smooth out into an even layer.
+    5. **Bake.** Spoon batter into casserole dish and smooth out into an even layer.
         Bake 20-30 minutes at 230ºC until center sets, covering with foil if
         necessary to prevent over-browning.
-    1. **Spread** with honey butter immediately after baking.
+    6. **Spread** with honey butter immediately after baking.
 
     !!! caution "Do not over-mix the batter."
 

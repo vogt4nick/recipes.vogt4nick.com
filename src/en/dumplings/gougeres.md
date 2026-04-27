@@ -23,16 +23,16 @@ tags:
 
     1. **Preheat oven** to 220ºC (425ºF). Line a baking sheet with parchment paper
         or grease the baking sheet with butter.
-    1. **Mix dough.** Stir water, butter, and salt together in a pot; bring to a
+    2. **Mix dough.** Stir water, butter, and salt together in a pot; bring to a
         simmer (~80ºC/180ºF). Reduce heat to medium. Add flour and whisk 2-3
         minutes until a paste-like dough forms.
-    1. **Cool.** Transfer dough to a bowl. Cool 5-10 minutes until warm.
-    1. **Continue mixing.** Whisk in 1 egg, thyme, and black pepper until egg is
+    3. **Cool.** Transfer dough to a bowl. Cool 5-10 minutes until warm.
+    4. **Continue mixing.** Whisk in 1 egg, thyme, and black pepper until egg is
         completely incorporated. Add remaining egg and whisk until completely
         incorporated into dough. Stir 3/4 the cheese into dough until combined.
         Scoop 1-inch balls of dough onto prepared baking sheet. Top each with
         remaining cheese.
-    1. **Bake** 15 to 20 minutes at 220ºC until golden and puffed.
+    5. **Bake** 15 to 20 minutes at 220ºC until golden and puffed.
 
 [^foodwishes]: Mitzewich, John.
     ["Black Pepper and Thyme Gougères - Just Call Me Puff Daddy."](https://foodwishes.blogspot.com/2009/10/black-pepper-and-thyme-gougeres-just.html)

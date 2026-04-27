@@ -22,11 +22,11 @@ tags:
     1. **Cook zucchini and beans.** Heat olive oil over medium heat. Cook zucchini,
         stirring continuously, 3 minutes until softened. Add chickpeas, salt, and
         pepper, and cook another 5 minutes until evenly heated.
-    1. **Make sauce.** In a second vessel, stir to combine cooked noodles, reserved
+    2. **Make sauce.** In a second vessel, stir to combine cooked noodles, reserved
         water, and pesto.
-    1. **Mix** all ingredients together.
-    1. **Chill.**
-    1. **Season to taste** and serve.
+    3. **Mix** all ingredients together.
+    4. **Chill.**
+    5. **Season to taste** and serve.
 
 [^evans]: Evans, Pete.
     [_Essen mit Freunden: 100 Rezepte für draußen und drinnen._](https://www.amazon.de/dp/3899105516)

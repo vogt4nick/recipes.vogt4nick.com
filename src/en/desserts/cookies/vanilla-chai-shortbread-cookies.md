@@ -17,17 +17,17 @@
     1. **Mix dough.** Mix butter and sugar in a large bowl until aerated cream
         forms. Add remaining batter ingredients. Mix until a cohesive, soft, tender
         dough forms.
-    1. **Chill dough.** Transfer dough to plastic wrap. Wrap and twist to seal such
+    2. **Chill dough.** Transfer dough to plastic wrap. Wrap and twist to seal such
         that the dough forms a cylinder about 5 cm in diameter. Chill 20 minutes in
         freezer or 40 minutes in refrigerator.
-    1. **Preheat oven** to 350ºF (177ºC).
-    1. **Shape cookies.** Remove dough from plastic wrap. Cut dough cylinder into 1
+    3. **Preheat oven** to 350ºF (177ºC).
+    4. **Shape cookies.** Remove dough from plastic wrap. Cut dough cylinder into 1
         cm slices.
-    1. **Bake cookies.** Transfer cookies to a parchment-lined sheetpan. Bake 18-20
+    5. **Bake cookies.** Transfer cookies to a parchment-lined sheetpan. Bake 18-20
         minutes at 350ºF until edges are golden brown.
-    1. **Cool** 30 minutes on a wire rack until cooled completely.
-    1. **Whisk icing** ingredients together until smooth.
-    1. **Ice cookies.** Dip cookies in icing halfway. Allow excess icing to drip
+    6. **Cool** 30 minutes on a wire rack until cooled completely.
+    7. **Whisk icing** ingredients together until smooth.
+    8. **Ice cookies.** Dip cookies in icing halfway. Allow excess icing to drip
         away, and transfer to parchment or wax paper to set.
 
 [^1]: Hubbell, Rebecca.

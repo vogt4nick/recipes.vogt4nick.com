@@ -36,29 +36,29 @@ tags:
 === "Directions"
 
     1. **Preheat the oven** to 200ºC (400ºF).
-    1. **Shape dough.** Seal seams of the puff pastry dough using a rolling pin.
+    2. **Shape dough.** Seal seams of the puff pastry dough using a rolling pin.
         Dock the sheet by piercing it several times with a fork. Cut into 12 5-cm
-        rounds, place on a half sheet pan, and cool in refrigerator while preparing
-        the rest of the casserole.
-    1. **Heat cooking liquid.** Add stock and milk to a saucepan. Heat to almost
+        rounds, place on a half sheet pan, and cool in refrigerator while
+        preparing the rest of the casserole.
+    3. **Heat cooking liquid.** Add stock and milk to a saucepan. Heat to almost
         boiling, reduce to simmer, and cover.
-    1. **Roast vegetable medley.** Add the frozen vegetables to a sheetpan or
+    4. **Roast vegetable medley.** Add the frozen vegetables to a sheetpan or
         casserole dish. Roast 10 minutes at 200ºC.
-    1. **Cook vegetables.** Melt butter in a frying pan over medium heat. Add the
+    5. **Cook vegetables.** Melt butter in a frying pan over medium heat. Add the
         onion, celery, and salt, and sweat 5 minutes until the onion is
         translucent.
-    1. **Mix roux.** Add the remaining butter to the onion and celery, and heat
-        until melted. Add the flour and curry powder, and whisk 1 minute until well
-        integrated.
-    1. **Mix casserole.** Whisk in the liquid and cook 3-4 minutes until thickened.
+    6. **Mix roux.** Add the remaining butter to the onion and celery, and heat
+        until melted. Add the flour and curry powder, and whisk 1 minute until
+        well integrated.
+    7. **Mix casserole.** Whisk in the liquid and cook 3-4 minutes until thickened.
         Stir in roasted vegetable medley, chicken, parsley and pepper, and stir to
         combine. Season to taste.
-    1. **Transfer.** Pour casserole into a large baking dish and mash down the
+    8. **Transfer.** Pour casserole into a large baking dish and mash down the
         mixture to compact the casserole. Top with the circles of puff pastry,
         spacing them so that they do not touch.
-    1. **Bake casserole.** 25 minutes at 200ºC until the puff pastry has browned and
-        the mixture is hot and bubbly.
-    1. **Cool** at room temperature for 30 minutes before serving.
+    9. **Bake casserole.** 25 minutes at 200ºC until the puff pastry has browned
+        and the mixture is hot and bubbly.
+    10. **Cool** at room temperature for 30 minutes before serving.
 
 [^foodnetwork]: Brown, Alten.
     ["Alton Brown's Curry Chicken Pot Pie Casserole."](https://www.youtube.com/watch?v=Q7eb_C2gyn0)

@@ -35,7 +35,7 @@ tags:
         cumin seed 30 seconds until fragrant, add onion, and cook onion until
         translucent. Stir eggplant and turmeric to coat evenly. Cook uncovered 8-10
         minutes until eggplant is tender.
-    1. **Make ding chik.** Pulverize garlic and cumin seeds; add mixture to bottom
+    2. **Make ding chik.** Pulverize garlic and cumin seeds; add mixture to bottom
         of skillet, and cook 1 minute until raw garlic aroma dissipates. Add zest,
         green chili, paprika, cayenne, and coriander seed, and cook 1 minute more.
         Finally, add potatoes, coconut flakes, and coriander leaves; stir to coat

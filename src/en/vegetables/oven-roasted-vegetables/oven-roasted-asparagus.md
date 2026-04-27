@@ -8,5 +8,5 @@
 === "Directions"
 
     1. **Preheat oven** to 232ºC (450ºF). Dress sheet pan with aluminum foil.
-    1. **Season** with cooking fat and spices.
-    1. **Roast** 12-15 minutes until tips are lightly browned and stalks are tender.
+    2. **Season** with cooking fat and spices.
+    3. **Roast** 12-15 minutes until tips are lightly browned and stalks are tender.

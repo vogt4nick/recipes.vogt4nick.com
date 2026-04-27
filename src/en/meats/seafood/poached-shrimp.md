@@ -12,7 +12,7 @@
     1. **Poach shrimp.** Add shrimp and water to a stock pot. Poach over high heat
         until water measures 71ºC (160ºF). Measure a couple shrimps to verify their
         internal temperature are 60ºC (140ºF). Remove from heat and strain.
-    1. **Shell shrimp.**
+    2. **Shell shrimp.**
 
     !!! info "Finished water temperature varies for different shrimp sizes."
 

@@ -23,10 +23,10 @@ tags:
     1. **Saute aromatics.** Heat olive oil in a large saucepan over medium heat. Add
         onion, celery, garlic, parsley, Italian seasoning, red pepper flakes, and
         salt. Cook, stirring, until onion is translucent, about 5 minutes.
-    1. **Simmer.** Stir in chicken broth, tomato sauce, and tomatoes. Reduce heat to
+    2. **Simmer.** Stir in chicken broth, tomato sauce, and tomatoes. Reduce heat to
         low and simmer 15-20 minutes.
-    1. **Cook pasta.** Add pasta and cook until tender, about 10 minutes.
-    1. **Add beans.** Stir in undrained cannellini beans and cook until heated
+    3. **Cook pasta.** Add pasta and cook until tender, about 10 minutes.
+    4. **Add beans.** Stir in undrained cannellini beans and cook until heated
         through, 3-4 minutes.
 
 [^allrecipes]: Star Pooley.

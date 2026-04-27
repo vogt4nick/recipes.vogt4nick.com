@@ -14,7 +14,7 @@ tags:
 === "Directions"
 
     1. **Combine ingredients** and coat cauliflower uniformly.
-    1. **Roast** 25-30 minutes at 200ºC, stirring halfway.
+    2. **Roast** 25-30 minutes at 200ºC, stirring halfway.
 
 === "Nutrition"
 

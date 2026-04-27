@@ -19,7 +19,7 @@
     1. **Die Erdäpfel kochen.** Die Erdäpfel 30 Minuten im leicht wallenden
         Salzwasser kochen. Das Wasser abseihen, die Erdäpfeln kurz mit kaltem
         Wasser abschrecken und schälen.
-    1. **Erdäpfelteig vermengen.** Noch heiß auf das mit Mehl bedeckte Nudelbrett
+    2. **Erdäpfelteig vermengen.** Noch heiß auf das mit Mehl bedeckte Nudelbrett
         passiert und gesalzen. Nun werden Erdäpfeln und Mehl locker gemischt und
         mit den übrigen Zutaten rasch zu einem Teig verarbeitet.
 

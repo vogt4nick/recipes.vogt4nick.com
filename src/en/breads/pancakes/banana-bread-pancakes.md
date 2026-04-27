@@ -23,12 +23,12 @@
 === "Directions"
 
     1. **Prep flour mixture.** Whisk together flour mixture. Set aside.
-    1. **Mix batter.** Peel banana into a separate bowl. Mash into a smooth paste.
+    2. **Mix batter.** Peel banana into a separate bowl. Mash into a smooth paste.
         Add egg, sugar. Whisk 2 minutes until sugar is dissolved and mixture is
         smooth and creamy. Add milk, vanilla extract, butter, walnuts, *flour
         mixture*. Whisk until just combined.
-    1. **Hydrate flour.** Rest batter 10 minutes.
-    1. **Cook pancakes.** Melt remaining butter in skillet over medium-high heat.
+    3. **Hydrate flour.** Rest batter 10 minutes.
+    4. **Cook pancakes.** Melt remaining butter in skillet over medium-high heat.
         Pour batter (about 80 g batter per pancake). Reduce heat to medium. Cook 3
         minutes until edges start to look dry and small air bubbles pop up through
         the surface. Flip. Cook 3 minutes until golden brown.

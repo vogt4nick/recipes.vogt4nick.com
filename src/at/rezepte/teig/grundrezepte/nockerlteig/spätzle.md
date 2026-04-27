@@ -12,9 +12,9 @@
 === "Zubereitung"
 
     1. **Salzwasser kochen.**
-    1. **Spätzleteig mischen.** Das Mehl in eine Schüssel geben. Eier sowie Wasser
+    2. **Spätzleteig mischen.** Das Mehl in eine Schüssel geben. Eier sowie Wasser
         zugeben und zu einem lockeren Teig verarbeiten.
-    1. **Spätzle kochen.** In einem breiten Topf reichlich Salzwasser aufkochen und
+    3. **Spätzle kochen.** In einem breiten Topf reichlich Salzwasser aufkochen und
         die Spätzle duch ein Spätzlesieb direkt in das kochenede Wasser einkochen.
         Abschöpfen und abschrecken.
 

@@ -20,7 +20,7 @@ tags:
 
     1. **Marinate chicken**. Combine all ingredients in a ziploc bag. Marinate in
         refrigerator overnight or at least one hour.
-    1. **Cook schwarma**. Heat frying pan over high heat. Add chicken and marinade
+    2. **Cook schwarma**. Heat frying pan over high heat. Add chicken and marinade
         mixture. Cook 5-7 minutes until done, stirring frequently.
 
 [^1]: *Chef Ahmad's Kitchen.*

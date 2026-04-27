@@ -26,19 +26,19 @@ tags:
 
     1. **Simmer stock.** Add beef stock and spices to saucepan. Cover. Simmer over
         low heat.
-    1. **Infuse garlic butter.** Stir together garlic and butter. Cover until
+    2. **Infuse garlic butter.** Stir together garlic and butter. Cover until
         needed.
-    1. **Panfry bacon.** Heat skillet over medium-high heat. Panfry bacon midway
+    3. **Panfry bacon.** Heat skillet over medium-high heat. Panfry bacon midway
         between crisp and floppy. Remove bacon from pan, reserving bacon drippings
         in skillet. Set aside as *bacon bits*.
-    1. **Carmelize onions.**
-    1. **Toast crostinis** with garlic butter. Set aside as *toasted baguette
+    4. **Carmelize onions.**
+    5. **Toast crostinis** with garlic butter. Set aside as *toasted baguette
         slices*.
-    1. **Prepare soup.** Start broiler. Add *carmelized onions* to individual,
+    6. **Prepare soup.** Start broiler. Add *carmelized onions* to individual,
         oven-safe soup bowls. Layer *bacon bits*. Layer 3-4 *toasted baguette
         slices*. Layer *bacon bits*. Layer gruyere cheese. Add stock over gruyere
         cheese. Broil 3-5 minutes until gruyere is somewhat melted and bubbly.
         Remove from broiler and let stand 5-10 minutes.
-    1. **Garnish and serve** with bacon bits and green onion.
+    7. **Garnish and serve** with bacon bits and green onion.
 
     !!! tip "Place loose leaf herbs in a steel ball tea infuser for seasoning your stock."

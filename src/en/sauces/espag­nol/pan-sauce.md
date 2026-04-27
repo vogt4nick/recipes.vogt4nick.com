@@ -13,12 +13,12 @@ title: Pan sauce
 
     1. **Separate fond from drippings** by pouring the drippings into a separate
         container.
-    1. **Make dry roux.** Heat pan over low heat. Add flour and combine with any
+    2. **Make dry roux.** Heat pan over low heat. Add flour and combine with any
         residual fat in the pan. Toast 5 minutes until aromatic.
-    1. **Make gravy.** About 100 g at a time, pour in some stock, scrape up the
+    3. **Make gravy.** About 100 g at a time, pour in some stock, scrape up the
         fond, and stir to combine with the roux. Bring to simmer over low heat,
         stirring, until all fond releases from the bottom of the pan.
-    1. **Adjust to taste** by adding more stock or reducing to desired consistency,
+    4. **Adjust to taste** by adding more stock or reducing to desired consistency,
         seasoning, and/or straining.
 
     !!! tip "The roux should be dry! But if it's too dry, add some of the reserved drippings to bring to desired consistency."

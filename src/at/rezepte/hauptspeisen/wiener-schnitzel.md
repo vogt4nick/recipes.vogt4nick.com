@@ -25,20 +25,20 @@ title: Wiener Schnitzel
     1. **Butterschmalz erhitzen.** In einer großen Pfanne so viel Butterschmalz
         schmelzen lassen, dass die Schnitzel gut schwimmen können. Dabei mittlerer
         Hitze erhitzen.
-    1. **Stell am platz.** Mehl sowie Semmelbrösel jeweils auf einen flachen Teller
+    2. **Stell am platz.** Mehl sowie Semmelbrösel jeweils auf einen flachen Teller
         geben. Eier in einen dritten Teller schlagen und locker mit Obers
         verrühren.
-    1. **Schnitzel vorbereiten.** Schnitzel je auf beiden Seiten mit Salz und
+    3. **Schnitzel vorbereiten.** Schnitzel je auf beiden Seiten mit Salz und
         Pfeffer würzen. Schnitzel nacheinander zuerst auf beiden Seiten in Mehl
         wenden, durch die Eier ziehen und dabei darauf achten, dass keine Stelle
         trocken bleibt. Zuletzt in den Bröseln wenden und die Panier mit der
         Rückseite der Gabel behutsam andrücken.
-    1. **Schnitzel braten.** Schnitzel je nach Stärke und Fleischsorte ca. 5 Minuten
+    4. **Schnitzel braten.** Schnitzel je nach Stärke und Fleischsorte ca. 5 Minuten
         goldbraun backen. Wenden, und auf der anderen Seite ebenfalls goldbraun
         backen.
-    1. **Schnitzel herausheben** und auf Küchenpapier abtropfen lassen. Dabei
+    5. **Schnitzel herausheben** und auf Küchenpapier abtropfen lassen. Dabei
         behutsam trocken tupfen.
-    1. **Servieren.** Damit Zitronenscheiben und Marmelade servieren.
+    6. **Servieren.** Damit Zitronenscheiben und Marmelade servieren.
 
     !!! info "Schnitzel erst einlegen, wenn das Fett so heiß ist, dass es zischend aufschäumt, wenn man einige Brösel oder ein kleines Stückchen Butter hineinfallen lässt."
 

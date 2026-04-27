@@ -10,11 +10,11 @@
 === "Directions"
 
     1. **Preheat oven** to 120ºC (250ºF).
-    1. **Sear.** Preheat pan over medium heat. Place cabbage face down in order to
+    2. **Sear.** Preheat pan over medium heat. Place cabbage face down in order to
         brown its inside face. Cook 7 minutes until cabbage is seared. Flip to sear
         the other inside face. Cook another 7 minutes until seared to desired
         color.
-    1. **Confit.** Flip cabbage so inside faces face up. Add butter. Baste cabbage
+    3. **Confit.** Flip cabbage so inside faces face up. Add butter. Baste cabbage
         in butter as it begins to melt. Salt. Add some water over cabbage to steam
         and cover pan. Transfer to oven, and bake 1h 20m or longer as desired;
         every 20m, remove from oven and baste in butter again.

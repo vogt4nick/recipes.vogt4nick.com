@@ -22,7 +22,7 @@
         pan. Mix. Cook 2 minutes, stirring every 30 seconds, until brown. Add
         flour. Mix evenly. Cook 3 minutes, stirring every 60 seconds, until golden
         brown. Add wine and water. Mix evenly.
-    1. **Season.** Remove from heat. Stir in seasonings until evenly mixed.
+    2. **Season.** Remove from heat. Stir in seasonings until evenly mixed.
 
 [^1]: Arlena.
     ["German Sauerbraten Recipe."](http://www.bavariankitchen.com/meats/sauerbraten.aspx).

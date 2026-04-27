@@ -23,12 +23,12 @@ tags:
 
     1. **Sauté vegetables.** Heat oil in dutch oven over medium heat. Add
         vegetables, salt, pepper. Sauté 3 minutes, stirring every 60 seconds.
-    1. **Boil vegetables.** Add stock. Heat to gentle boil. Boil 20 minutes until
+    2. **Boil vegetables.** Add stock. Heat to gentle boil. Boil 20 minutes until
         veggies are tender.
-    1. **Thicken soup.** Puree veggies with immersion blender. Add 120 g heavy
+    3. **Thicken soup.** Puree veggies with immersion blender. Add 120 g heavy
         cream. Heat gently.
-    1. **Chill soup.** Refrigerate until cool; i.e. no more than 48 hours.
-    1. **Garnish & serve** with chives.
+    4. **Chill soup.** Refrigerate until cool; i.e. no more than 48 hours.
+    5. **Garnish & serve** with chives.
 
 [^1]: Bittman, Mark.
     [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th

@@ -24,18 +24,18 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 190ºC (375ºF).
-    1. **Fry.** Heat an oven-safe saucepan over medium heat. Fry pork 8 minutes
+    2. **Fry.** Heat an oven-safe saucepan over medium heat. Fry pork 8 minutes
         until light brown. Add onion, and fry 4 minutes until soft. Deglaze with
         beer, and cook off the alcohol. Remove from heat. Mix beans into pork-onion
         mixture.
-    1. **Make sauce.** Combine sauce ingredients in a pan. Stirring continuously,
+    3. **Make sauce.** Combine sauce ingredients in a pan. Stirring continuously,
         bring to boil over high heat, and immediately remove from heat once
         homogeneous.
-    1. **Combine.** Layer bean mixture evenly in the oven-safe saucepan. Drizzle
+    4. **Combine.** Layer bean mixture evenly in the oven-safe saucepan. Drizzle
         sauce evenly over the beans. Sparringly add enough water to partially cover
         the top layer of beans.
-    1. **Bake** 60 minutes, covered, at 190ºC (375ºF) until beans are tender.
-    1. **Garnish** with coriander and serve.
+    5. **Bake** 60 minutes, covered, at 190ºC (375ºF) until beans are tender.
+    6. **Garnish** with coriander and serve.
 
 [^1]: Culinary Institute of America, The.
     ["Classic Baked Beans."](https://beaninstitute.com/recipes/classic-baked-beans/)

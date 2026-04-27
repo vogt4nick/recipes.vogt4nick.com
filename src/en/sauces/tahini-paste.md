@@ -7,11 +7,11 @@
 
     1. **Prepare materials.** Preheat oven to 350ºF (177ºC). Prepare a sheetpan
         dressed with parchment paper.
-    1. **Toast sesame seeds.** Add sesame seeds to sheetpan. Spread evenly. Toast 12
+    2. **Toast sesame seeds.** Add sesame seeds to sheetpan. Spread evenly. Toast 12
         minutes, tossing halfway through.
-    1. **Pulverize sesame seeds.** Dividing as necessary, pulverize toasted sesame
+    3. **Pulverize sesame seeds.** Dividing as necessary, pulverize toasted sesame
         seeds into a powder with a mortar & pestle.
-    1. **Puree tahini paste.** Combine sesame powder and olive oil. Whisk well.
+    4. **Puree tahini paste.** Combine sesame powder and olive oil. Whisk well.
 
     ??? question "I don't have a mortar & pestle. How do I pulverize the sesame seeds?"
 

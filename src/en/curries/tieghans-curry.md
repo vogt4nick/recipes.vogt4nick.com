@@ -27,14 +27,14 @@
     1. **Sweat shallots** 3-5 minutes until soft in olive oil in a large pot over
         medium heat. Add ginger and sweet potatoes, and cook 2 minutes until
         fragrant. Stir in curry paste and cook 1 minute more.
-    1. **Cook lentils.** Add vegetable stock, lentils, fish sauce, soy sauce, and
+    2. **Cook lentils.** Add vegetable stock, lentils, fish sauce, soy sauce, and
         peanut butter. Bring mix to a boil over high heat, then reduce heat to low.
         Cover and simmer 15-20 minutes, until lentils are soft and sweet potatoes
         tender.
-    1. **Thicken lentils.** When lentils are cooked, stir in coconut milk, spinach,
+    3. **Thicken lentils.** When lentils are cooked, stir in coconut milk, spinach,
         and lime juice, and cook 5 minutes. Add additional stock to thin as
         desired. Remove from heat and add cilantro.
-    1. **Serve.** Fill bowls partway with rice and ladle curry overtop. Top with
+    4. **Serve.** Fill bowls partway with rice and ladle curry overtop. Top with
         chickpeas, cilantro, and pomegranates.
 
 [^gerard]: Gerard, Tieghan.

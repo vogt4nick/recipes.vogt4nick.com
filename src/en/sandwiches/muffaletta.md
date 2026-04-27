@@ -27,9 +27,9 @@ tags:
 
     1. **Mix Olive Salad.** Add olives, veggies, oil in a small bowl. Mix. Season to
         taste with vinegar, salt, pepper.
-    1. **Dress Sandwiches.** On both halves: layer *olive salad*, meat, cheese. Fold
+    2. **Dress Sandwiches.** On both halves: layer *olive salad*, meat, cheese. Fold
         bread and cut into quarters.
-    1. **Rest.** Plastic wrap sandwiches. Rest one hour. Serve.
+    3. **Rest.** Plastic wrap sandwiches. Rest one hour. Serve.
 
 [^1]: Royer, Blake.
     ["Classic Muffaletta Sandwich Recipe."](https://www.seriouseats.com/recipes/2010/09/dinner-tonight-muffaletta-sandwich.html)

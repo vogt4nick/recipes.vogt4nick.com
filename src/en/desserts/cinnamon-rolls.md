@@ -25,26 +25,26 @@
 
     1. **Make yudane.** Mix the flour and boiling water until there is no dry flour
         left. Cover, and rest until completely cooled.
-    1. **Mix dough.** Mix water, yeast, salt, sugar, and egg yolk to dissolve the
+    2. **Mix dough.** Mix water, yeast, salt, sugar, and egg yolk to dissolve the
         salt and sugar. Mix in the yudane and the flour. Knead 3 minutes into a
         workable dough.
-    1. **Enrich dough.** Stretch dough out. Place butter in the middle, and fold
+    3. **Enrich dough.** Stretch dough out. Place butter in the middle, and fold
         dough around butter. Press the butter into the dough, tearing it using
         Charlie's method.[^charlie_youtube]
-    1. **Knead.** Knead 6 minutes, beginning with slap & fold before continuing with
-        your regular kneading method.
-    1. **Ferment.** Rest 1 hour, covered, at room temperature. Fold, and ferment 1
+    4. **Knead.** Knead 6 minutes, beginning with slap & fold before continuing
+        with your regular kneading method.
+    5. **Ferment.** Rest 1 hour, covered, at room temperature. Fold, and ferment 1
         hour more, covered, at room temperature.
-    1. **Roll out** dough, brush with butter, and sprinkle with cinnamon sugar.
-    1. **Shape.** Roll up the dough, and seal the edge. Cut the roll into 6 pieces.
+    6. **Roll out** dough, brush with butter, and sprinkle with cinnamon sugar.
+    7. **Shape.** Roll up the dough, and seal the edge. Cut the roll into 6 pieces.
         Tuck end piece underneath each roll.
-    1. **Proof.** Arrange dough buns on greased sheetpan, and rest 2 hours at room
+    8. **Proof.** Arrange dough buns on greased sheetpan, and rest 2 hours at room
         temperature.
-    1. **Preheat oven** to 160ºC (320ºF).
-    1. **Glaze** dough buns with egg white.
-    1. **Bake** 23 minutes at 160ºC (320ºF).
-    1. **Cool** to room temperature.
-    1. **Frost buns.** Mix frosting ingredients thoroughly, and frost buns before
+    9. **Preheat oven** to 160ºC (320ºF).
+    10. **Glaze** dough buns with egg white.
+    11. **Bake** 23 minutes at 160ºC (320ºF).
+    12. **Cool** to room temperature.
+    13. **Frost buns.** Mix frosting ingredients thoroughly, and frost buns before
         serving.
 
     !!! tip "Knead in additional flour as necessary, but be mindful that a wetter dough will yield lighter, fluffier cinnamon rolls."

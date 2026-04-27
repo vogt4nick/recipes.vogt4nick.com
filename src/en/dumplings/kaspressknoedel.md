@@ -48,18 +48,18 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 200ºC (425ºF) and grease a sheetpan.
-    1. **Soak the bread cubes** in milk at room temperature for at least 5 minutes.
-    1. **Heat the vegetable broth.**
-    1. **Sweat onion** and garlic in butter until soft.
-    1. **Combine ingredients.** Mix soaked bread cubes, sautéed onions, cheese, egg,
+    2. **Soak the bread cubes** in milk at room temperature for at least 5 minutes.
+    3. **Heat the vegetable broth.**
+    4. **Sweat onion** and garlic in butter until soft.
+    5. **Combine ingredients.** Mix soaked bread cubes, sautéed onions, cheese, egg,
         and seasonings together in a large bowl to form a rather soft mass.
-    1. **Rest.** Let the mixture rest at least 30 minutes at room temperature.
-    1. **Shape the dumplings.** With damp hands, form six, gently pressed dumplings
+    6. **Rest.** Let the mixture rest at least 30 minutes at room temperature.
+    7. **Shape the dumplings.** With damp hands, form six, gently pressed dumplings
         --- if it starts to fall apart, you're pressing too hard! Arrange dumplings
         on a sheet pan.
-    1. **Bake.** Bake 8 minutes at 200ºC (425ºF). Flip the dumplings, and continue
+    8. **Bake.** Bake 8 minutes at 200ºC (425ºF). Flip the dumplings, and continue
         baking another 8 minutes.
-    1. **Serve** in vegetable broth in a shallow bowl --- the dumplings must not be
+    9. **Serve** in vegetable broth in a shallow bowl --- the dumplings must not be
         fully submerged.
 
 [^bitterman]: Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.

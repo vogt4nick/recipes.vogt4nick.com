@@ -25,11 +25,11 @@ title: Orange chocolate tart
     1. **Layer almond mixture.** Mix almonds, sugar, cinnamon in small bowl.
         Sprinkle orange peel over bottom of shortbread crust. Repeat with almond
         mixture.
-    1. **Mix filling.** Bring cream to a simmer in saucepan and remove from heat.
+    2. **Mix filling.** Bring cream to a simmer in saucepan and remove from heat.
         Whisk in chocolate until chocolate melts and mixture is smooth. Stir in
         orange liqueur. Pour into crust.
-    1. **Chill** 3 hours until filling is firm. Garnish with remaining orange peel.
-    1. **Garnish and serve.** Remove tart from pan. Garnish with orange peel and
+    3. **Chill** 3 hours until filling is firm. Garnish with remaining orange peel.
+    4. **Garnish and serve.** Remove tart from pan. Garnish with orange peel and
         piped buttercream. Cut tart into wedges; serve cold.
 
 [^1]: Fenzl, Barbara Pool.

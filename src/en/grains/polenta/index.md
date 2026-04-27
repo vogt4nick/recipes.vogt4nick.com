@@ -15,7 +15,7 @@ title: Polenta
     1. **Cook polenta.** Bring salt water to boil. Whisking constantly, slowly pour
         in polenta in a steady stream. Reduce heat to low. Whisk until starts to
         thicken. Cook 30 minutes, stirring every 5-6 minutes until tender.
-    1. **Steam.** Add butter and parmesan cheese, and steam, covered, 5 minutes
+    2. **Steam.** Add butter and parmesan cheese, and steam, covered, 5 minutes
         removed from heat.
 
 [^1]: Mitzewich, John.

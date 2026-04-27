@@ -16,9 +16,9 @@ tags:
 === "Zubereitung"
 
     1. **Erdäpfel dampfen.** Erdäpfel je nach Größe ca. 20-30 Minuten weich dämpfen.
-    1. **Schälen und vierteln.** Die fertig gekochten Erdäpfel abseihen, schälen,
+    2. **Schälen und vierteln.** Die fertig gekochten Erdäpfel abseihen, schälen,
         und vierteln.
-    1. **Erdäpfel würzen.** Butter in einer Pfanne schmelzen lassen, Erdäpfel
+    3. **Erdäpfel würzen.** Butter in einer Pfanne schmelzen lassen, Erdäpfel
         zugeben, salzen und durchschwenken. Gehackte Petersilie darüberstreuen und
         auftragen.
 

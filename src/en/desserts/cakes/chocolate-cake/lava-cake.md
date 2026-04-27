@@ -17,14 +17,14 @@
 === "Directions"
 
     1. **Preheat oven** to 425°F (218°C).
-    1. **Grease** two 6-ounce ramekins.
-    1. **Melt chocolate.** Place chopped chocolate and butter in a double boiler and
+    2. **Grease** two 6-ounce ramekins.
+    3. **Melt chocolate.** Place chopped chocolate and butter in a double boiler and
         melt, stirring until smooth.
-    1. **Mix batter.** Whisk in flour, confectioners' sugar, and salt. Whisk eggs
+    4. **Mix batter.** Whisk in flour, confectioners' sugar, and salt. Whisk eggs
         and yolks separately. Combine all with chocolate mixture until no lumps
         remain. Spoon batter evenly into prepared ramekins.
-    1. **Bake** 12-14 minutes until sides are solid and tops look soft.
-    1. **Serve.** Cool 1 minute. Invert onto plates. Add toppings and serve
+    5. **Bake** 12-14 minutes until sides are solid and tops look soft.
+    6. **Serve.** Cool 1 minute. Invert onto plates. Add toppings and serve
         immediately.
 
 [^sally]: McKenney, Sally.

@@ -32,14 +32,14 @@ tags:
     1. **Sweat base.** Heat oil over medium heat in a large pot. Add onion and green
         chili, and cook 5 minutes until soft. Add garlic, oregano, and cumin, and
         cook 1 minute until fragrant.
-    1. **Simmer.** Add remaining green chilis, chicken, and stock, and season with
+    2. **Simmer.** Add remaining green chilis, chicken, and stock, and season with
         salt and pepper. Bring to a boil, then reduce heat and simmer, covered, 10
         to 12 minutes, until chicken is tender and cooked through.
-    1. **Shred chicken.** Transfer chicken to a plate and shred with two forks.
-    1. **Bulk up.** Add shredded chicken, white beans and corn. Bring to a simmer
+    3. **Shred chicken.** Transfer chicken to a plate and shred with two forks.
+    4. **Bulk up.** Add shredded chicken, white beans and corn. Bring to a simmer
         and let cook, 10 minutes, using a wooden spoon to mash about 1/4 of the
         beans. Turn off heat and stir in sour cream.
-    1. **Serve.** Ladle chili into bowls and garnish with cilantro, cheese, and
+    5. **Serve.** Ladle chili into bowls and garnish with cilantro, cheese, and
         chips before serving.
 
 [^delish]: Abraham, Lena.

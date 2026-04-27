@@ -28,13 +28,13 @@ tags:
 === "Directions"
 
     1. **Blend** tomatoes, ginger, and green chili into a puree.
-    1. **Make sauce.** Heat oil in saucepan over medium heat. Add garlic and cumin
+    2. **Make sauce.** Heat oil in saucepan over medium heat. Add garlic and cumin
         seeds. After 15-30 seconds, or when the cumin seeds crack, add the tomato
         puree, coriander, turmeric, and red chili powder. Cook 3-4 minutes until
         it's reduced by about half.
-    1. **Mix in spinach**, salt, and water. Cover and cook 4-5 minutes until spinach
+    3. **Mix in spinach**, salt, and water. Cover and cook 4-5 minutes until spinach
         has reduced in volume.
-    1. **Add chickpeas** and mash them lightly with a spatula. Add more water as
+    4. **Add chickpeas** and mash them lightly with a spatula. Add more water as
         needed to keep the sauce consistency to your liking. Reduce heat to low,
         and cook 7-8 minutes, uncovered. Remove from heat and stir in the garam
         masala.

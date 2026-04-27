@@ -26,10 +26,10 @@ tags:
 === "Directions"
 
     1. **Cook pasta** according to package directions. Drain and set aside.
-    1. **Brown beef** in a large skillet or Dutch oven over medium-high heat,
+    2. **Brown beef** in a large skillet or Dutch oven over medium-high heat,
         breaking it up, until browned, about 5 minutes. Drain excess fat.
-    1. **Add seasonings** and cook 1 minute until fragrant.
-    1. **Simmer.** Add tomatoes and beans. Bring to temperature, then reduce heat
+    3. **Add seasonings** and cook 1 minute until fragrant.
+    4. **Simmer.** Add tomatoes and beans. Bring to temperature, then reduce heat
         and simmer at least 30 minutes.
-    1. **Finish.** Remove from heat. Stir in pasta. Rest 5 minutes. Stir in cheese
+    5. **Finish.** Remove from heat. Stir in pasta. Rest 5 minutes. Stir in cheese
         until cheese is melted. Serve.

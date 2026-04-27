@@ -16,15 +16,15 @@
     1. **Preheat oven** to 220ºC (425ºF). Line a 9×5 inch loaf pan with parchment
         paper, pressing into corners and extending over the rim. Place on a rimmed
         baking sheet.
-    1. **Make batter.** Blend sugar, cornstarch, and salt until combined. Add cream
+    2. **Make batter.** Blend sugar, cornstarch, and salt until combined. Add cream
         cheese in chunks and blend until smooth, scraping down as needed. Add eggs
         one at a time, blending and scraping between each. With the last egg, add
         vanilla and lemon juice before blending. Add cream and blend until
         combined.
-    1. **Bake** 40-50 minutes until puffed, deeply golden brown, and moderately
+    3. **Bake** 40-50 minutes until puffed, deeply golden brown, and moderately
         jiggly when shimmied.
-    1. **Cool** 1-2 hours at room temperature or 1 hour in the fridge.
-    1. **Serve.** Lift cheesecake from pan using parchment. Cut into ~2.5 cm (1
+    4. **Cool** 1-2 hours at room temperature or 1 hour in the fridge.
+    5. **Serve.** Lift cheesecake from pan using parchment. Cut into ~2.5 cm (1
         inch) slices.
 
     !!! tip "Use room-temperature cream cheese when blending by hand."

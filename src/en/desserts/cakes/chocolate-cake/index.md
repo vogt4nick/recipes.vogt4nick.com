@@ -19,15 +19,15 @@ title: Chocolate cake
 === "Directions"
 
     1. **Preheat oven** to 175ºC (350ºF). Grease an 8-inch square cake pan.
-    1. **Combine wet mix.** Whisk sugar, vanilla, vinegar, oil, and water until
+    2. **Combine wet mix.** Whisk sugar, vanilla, vinegar, oil, and water until
         combined.
-    1. **Combine dry mix.** Stir together flour, cocoa, baking soda, espresso
+    3. **Combine dry mix.** Stir together flour, cocoa, baking soda, espresso
         powder, and salt.
-    1. **Mix batter.** Stir wet mix into dry until just combined. Transfer batter to
+    4. **Mix batter.** Stir wet mix into dry until just combined. Transfer batter to
         cake pan.
-    1. **Bake** 25-35 minutes at 175ºC until set.
-    1. **Cool** 5 to 10 minutes.
-    1. **Spread** with frosting, and serve.
+    5. **Bake** 25-35 minutes at 175ºC until set.
+    6. **Cool** 5 to 10 minutes.
+    7. **Spread** with frosting, and serve.
 
 [^kingarthur]: Sands, Brinna.
     ["King Arthur's Original Cake Pan Cake."](https://www.kingarthurbaking.com/recipes/king-arthurs-original-cake-pan-cake-recipe)

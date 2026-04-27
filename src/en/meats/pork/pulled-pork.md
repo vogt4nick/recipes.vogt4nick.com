@@ -19,10 +19,10 @@ tags:
 === "Directions"
 
     1. **Rub** dry pork shoulder with seasonings.
-    1. **Wrap** in 2 layers of parchment paper. Wrap in 3 layers of aluminum foil.
-    1. **Roast** at 225ºF (107ºC) for 3h 50m minutes per kilogram; e.g. 11h 30m for
+    2. **Wrap** in 2 layers of parchment paper. Wrap in 3 layers of aluminum foil.
+    3. **Roast** at 225ºF (107ºC) for 3h 50m minutes per kilogram; e.g. 11h 30m for
         3000 g pork shoulder.
-    1. **Rest** 60 minutes at room temperature. Remove wrappings. Pull and serve.
+    4. **Rest** 60 minutes at room temperature. Remove wrappings. Pull and serve.
 
     !!! caution "Cooking time is not accurate for meat less than 2 kg."
 

@@ -32,13 +32,13 @@ tags:
 
     1. **Würfeln rösten.** Der Backofen auf 180ºC vorheizen. Das Toastbrot und
         butter vermengen, und etwa 12 Minuten goldbraun rösten.
-    1. **Zwiebel andünsten.** In einer Pfanne die restliche Butter erhitzen, darin
+    2. **Zwiebel andünsten.** In einer Pfanne die restliche Butter erhitzen, darin
         Zwiebel und Knoblauch andünsten. Milch dazugießen, mit Salz, Pfeffer, und
         Muskatnuss würzen und kurz aufkochen.
-    1. **Knödel-Masse vermengen.** Geröstete und ungeröstetete Brotwürfel, Eier,
+    3. **Knödel-Masse vermengen.** Geröstete und ungeröstetete Brotwürfel, Eier,
         Quark, Mehl, Semmelbrösel, Petersilie, und Milch-Zwiebel-Mix in einer
         Schüssel gut vermengen.
-    1. **Knödel abdrehen.** Aus der Masse Knödel abdrehen und in siedendem
+    4. **Knödel abdrehen.** Aus der Masse Knödel abdrehen und in siedendem
         Salzwasser gar ziehen lassen.
 
     !!! tip "Die Knödeln drehen mit angefeuchteten (nicht nassen!) Händen ab."

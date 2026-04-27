@@ -21,8 +21,8 @@
 === "Directions"
 
     1. **Mix** infusion ingredients in a bowl.
-    1. **Chill** 2-4 hours.
-    1. **Serve** ~50 g per glass over ice mixed with tonic water.
+    2. **Chill** 2-4 hours.
+    3. **Serve** ~50 g per glass over ice mixed with tonic water.
 
 \[ˆbbc\]: Nice, Miriam.
 ["Non-alcoholic G&T."](https://www.bbcgoodfood.com/recipes/gin-free-gt) _BBC

@@ -24,16 +24,16 @@ tags:
 === "Directions"
 
     1. **Whisk dressing** until well blended, whisking in sugar at the end.
-    1. **Add vegetables** to dressing. Stir to combine, cover, and refrigerate until
+    2. **Add vegetables** to dressing. Stir to combine, cover, and refrigerate until
         macaroni is ready.
-    1. **Cook macaroni.** Boil salted water. Cook macaroni al dente. Drain and rest
+    3. **Cook macaroni.** Boil salted water. Cook macaroni al dente. Drain and rest
         5 minutes -- do not rinse!
-    1. **Cool macaroni.** Transfer macaroni to a large bowl and toss to separate.
+    4. **Cool macaroni.** Transfer macaroni to a large bowl and toss to separate.
         Cool to room temperature -- macaroni should be sticky.
-    1. **Combine.** Add dressing mixtures to macaroni and stir until evenly
+    5. **Combine.** Add dressing mixtures to macaroni and stir until evenly
         distributed. Cover and refrigerate at least 4 hours until macaroni absorbs
         dressing.
-    1. **Stir and serve.**
+    6. **Stir and serve.**
 
 [^mitzewich]: Mitzewich, John.
     ["Chef John's Classic Macaroni Salad."](https://www.allrecipes.com/recipe/244305/chef-johns-classic-macaroni-salad/)

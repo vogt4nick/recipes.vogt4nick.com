@@ -24,10 +24,10 @@
 
     1. **Make vinaigrette.** Combine vinaigrette ingredients in a sealable jar.
         Shake vigorously to emulsify. Let sit 10 minutes.
-    1. **Combine salad.** Add shredded chicken, bulgur, peas, and corn to a large
+    2. **Combine salad.** Add shredded chicken, bulgur, peas, and corn to a large
         mixing bowl. Add vinaigrette and toss until evenly coated.
-    1. **Chill** at least 8 hours.
-    1. **Finish and serve.** Taste and adjust seasoning. Tear fresh mint leaves over
+    3. **Chill** at least 8 hours.
+    4. **Finish and serve.** Taste and adjust seasoning. Tear fresh mint leaves over
         the top just before serving.
 
     !!! tip "Re-season with lemon juice if the salad tastes flat after storage."

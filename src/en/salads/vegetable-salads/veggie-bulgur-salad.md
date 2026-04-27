@@ -16,13 +16,13 @@
 
     1. **Cook base.** Sweat onion and garlic in oil. Stir in bulgur, and cook
         briefly until lightly toasted.
-    1. **Cook bulgur.** Add stock, bring to boil, cover, reduce heat, and simmer 10
+    2. **Cook bulgur.** Add stock, bring to boil, cover, reduce heat, and simmer 10
         minutes until cooked.
-    1. **Add vegetables.** Remove from heat. Stir in vegetables, cover, and let cook
+    3. **Add vegetables.** Remove from heat. Stir in vegetables, cover, and let cook
         5 minutes. Remove cover. Stir in feta, and let sit until cheese is warm and
         slightly melted.
-    1. **Chill** thoroughly.
-    1. **Season** to taste, and serve.
+    4. **Chill** thoroughly.
+    5. **Season** to taste, and serve.
 
 [^chefkoch]: [huco173](https://www.chefkoch.de/user/profil/1abe78cad80d0b1e19f142575355de97/huco173.html).
     ["Bulgur - Tomaten - Feta - Pfanne."](https://www.chefkoch.de/rezepte/505421145572120/Bulgur-Tomaten-Feta-Pfanne.html)

@@ -14,7 +14,7 @@
 
     1. **Teig mischen.** Die Zutaten werden auf dem Brett zu einem glatten Teig
         geknetet, den man mit dem Handballen gut durcharbeitet.
-    1. **Teig formen.** Der Teig wird in kleine Laibchen geteilt, etwas
+    2. **Teig formen.** Der Teig wird in kleine Laibchen geteilt, etwas
         durchgeknetet und (mit möglichst wenig Mehl) zu dünnen Blättern ausgewalkt,
         übertrocknet und zu Fleckerl, Band- oder Suppennudeln verarbeitet.
 

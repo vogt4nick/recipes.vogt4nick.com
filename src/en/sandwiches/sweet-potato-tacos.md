@@ -17,11 +17,11 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 425ºF (220ºC).
-    1. **Prepare refried beans**. Add beans and mozzarella to saucepan. Cover. Warm
+    2. **Prepare refried beans**. Add beans and mozzarella to saucepan. Cover. Warm
         over low heat.
-    1. **Prepare tacos.** Spread refried beans on tortillas. Add ~80 g of roasted
+    3. **Prepare tacos.** Spread refried beans on tortillas. Add ~80 g of roasted
         vegetables to each tortilla.
-    1. **Garnish** with lime juice and cilantro.
+    4. **Garnish** with lime juice and cilantro.
 
 [^1]: [El Arboria Taqueria.](https://goo.gl/maps/5rY1W9N4L1KLBRGN8) Brighton,
     MI.

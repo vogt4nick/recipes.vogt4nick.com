@@ -21,4 +21,4 @@
     1. **Mix base.** Combine mayonnaise and seasonings, and whisk until smooth. Mix
         in tuna and barley until evenly coated. Mix in frozen corn and green peas
         until just combined.
-    1. **Chill** at least 8 hours.
+    2. **Chill** at least 8 hours.

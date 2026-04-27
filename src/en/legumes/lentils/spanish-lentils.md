@@ -26,7 +26,7 @@ tags:
 
     1. **Sweat vegetables.** Heat oil over medium heat. Stir in onion, celery, and
         carrot to coat. Sweat 5 minutes. Add spices, and cook 1 minute more.
-    1. **Cook lentils.** Add wine, stock, and lentils. Bring to boil and reduce to
+    2. **Cook lentils.** Add wine, stock, and lentils. Bring to boil and reduce to
         simmer. Simmer, partially covered, 25-30 minutes. Season with salt and
         pepper, and continue cooking until tender.
 

@@ -26,15 +26,15 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 250ºC (480ºF) or as high as the oven can go.
-    1. **Construct pizza.** Grease pizza pan with peanut oil. Add dough to pizza pan
+    2. **Construct pizza.** Grease pizza pan with peanut oil. Add dough to pizza pan
         and spread out to fit the edges. Brush with pizza crust oil. Arrange
         mozzarella slices. Arrange toppings. Add pizza sauce in two thin lines
         lengthwise across the pizza.
-    1. **Bake pizza.** Transfer pizza to oven. Bake 20-25 minutes until edges begin
+    3. **Bake pizza.** Transfer pizza to oven. Bake 20-25 minutes until edges begin
         to carmelize. Broil 5-7 minutes until edges are thoroughly crisp. Remove
         from heat.
-    1. **Cool.** Remove pizza from pan and 5 minutes at room temperature.
-    1. **Garnish** with red pepper flakes and oregano.
+    4. **Cool.** Remove pizza from pan and 5 minutes at room temperature.
+    5. **Garnish** with red pepper flakes and oregano.
 
     !!! tip "The middle should not be wet when the pizza is done cooking!"
 

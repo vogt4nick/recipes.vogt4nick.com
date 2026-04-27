@@ -31,23 +31,23 @@
 
     1. **Mix compote** ingredients in a saucepan. Cook over medium-low heat until
         cranberries begin to burst. Remove from heat. Chill until needed.
-    1. **Mix crumble.** Mix oats, flour, sugar, and spices in a bowl. Stir in butter
+    2. **Mix crumble.** Mix oats, flour, sugar, and spices in a bowl. Stir in butter
         to coat evenly. Use a pastry blender to further divide mixture evenly until
         butter is incorporated. Careful not to overwork the crumble, continue to
         break down butter using your fingers just until the butter is no longer
         visible. Chill until needed.
-    1. **Preheat oven** to 350ºF (177ºC).
-    1. **Mix filling.** Mix sugar, spices, salt, and flour in a bowl. Stir in fruit
+    3. **Preheat oven** to 350ºF (177ºC).
+    4. **Mix filling.** Mix sugar, spices, salt, and flour in a bowl. Stir in fruit
         and compote.
-    1. **Assemble pie.** Spread cream cheese on bottom of pie crust. Brush the
+    5. **Assemble pie.** Spread cream cheese on bottom of pie crust. Brush the
         crimped edge with egg. Layer filling on top of cream cheese, spreading
         evenly to fill the pie crust. Layer fruit with crumble, leaving a small
         hole in the center of the pie. Place assembled pie onto a parchment-lined
         sheetpan.
-    1. **Bake** 60-70 minutes at 350ºF until the pie juices begin to bubble in the
+    6. **Bake** 60-70 minutes at 350ºF until the pie juices begin to bubble in the
         center and the crumble is a uniform, deep golden brown. Remove from heat.
-    1. **Cool** 4-6 hours on a wire rack.
-    1. **Serve** with vanilla ice cream.
+    7. **Cool** 4-6 hours on a wire rack.
+    8. **Serve** with vanilla ice cream.
 
     !!! info "Prepare the compote and crumble up to 4 days in advance."
 
@@ -63,7 +63,7 @@
         The hole in the center of the pie serves two purposes:
 
         1. to vent steam as the pie cooks, and
-        1. to indicate when the pie is done.
+        2. to indicate when the pie is done.
 
 !!! info "Store leftover pie up to 2 days covered at room temperature."
 

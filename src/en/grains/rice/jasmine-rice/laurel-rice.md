@@ -22,11 +22,11 @@ tags:
     1. **Sweat onion.** Heat olive oil in saucepan over medium heat. Add onion,
         garlic, bay leaves, salts, and pepper, and sweat 3 minutes until soft and
         translucent.
-    1. **Toast rice.** Stir in rice to coat evenly. Toast 1 minute.
-    1. **Cook.** Add stock and butter, bring to boil, cover, and reduce heat to low.
+    2. **Toast rice.** Stir in rice to coat evenly. Toast 1 minute.
+    3. **Cook.** Add stock and butter, bring to boil, cover, and reduce heat to low.
         Cook 15 minutes. Finally, while covered, remove pan from heat and let stand
         for 10 minutes.
-    1. **Fluff** rice with a fork.
+    4. **Fluff** rice with a fork.
 
     ??? question "Why add the butter after sweating the onions?"
 

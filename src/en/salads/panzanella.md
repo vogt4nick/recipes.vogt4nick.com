@@ -23,13 +23,13 @@ tags:
         cubes in olive oil until golden and crisp. Mix in parmesan. Continue
         toasting 3-4 minutes until the cheese melts and the cubes are crisp outside
         but slightly chewy inside.
-    1. **Cool** 10-15 minutes.
-    1. **Combine tomatoes and vinaigrette.** Mix tomatoes, red wine vinegar, olive
+    2. **Cool** 10-15 minutes.
+    3. **Combine tomatoes and vinaigrette.** Mix tomatoes, red wine vinegar, olive
         oil, minced garlic, sugar, salt, and pepper.
-    1. **Rest** at room temperature for at least 20 minutes.
-    1. **Mix salad.** Add basil and bread cubes, and toss to coat evenly.
-    1. **Rest** at least 20 minutes until bread absorbs the juices.
-    1. **Adjust seasoning** with salt, pepper, vinegar, or olive oil to taste, and
+    4. **Rest** at room temperature for at least 20 minutes.
+    5. **Mix salad.** Add basil and bread cubes, and toss to coat evenly.
+    6. **Rest** at least 20 minutes until bread absorbs the juices.
+    7. **Adjust seasoning** with salt, pepper, vinegar, or olive oil to taste, and
         serve.
 
 [^mitzewich]: Mitzewich, John.

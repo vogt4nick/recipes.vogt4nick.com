@@ -15,14 +15,14 @@
 
     1. **Mix sponge**. Add sponge ingredients to a large bowl. Whisk until smooth.
         Cover. Rest 30-60 minutes until bubbly.
-    1. **Mix dough**. Add remaining ingredients to sponge. Stir until a soft and
+    2. **Mix dough**. Add remaining ingredients to sponge. Stir until a soft and
         sticky dough ball forms. Kneed 2 minutes until a soft, slightly springy
         dough forms.
-    1. **Rest dough**. Coat a mixing bowl with olive oil. Transfer dough ball to
+    3. **Rest dough**. Coat a mixing bowl with olive oil. Transfer dough ball to
         bowl. Rest 60-90 minutes.
-    1. **Roll flatbread**. Divide dough into 8 equal pieces. Roll dough very thin
+    4. **Roll flatbread**. Divide dough into 8 equal pieces. Roll dough very thin
         until it's almost see through.
-    1. **Cook flatbread**. Heat frying pan over high heat. Add flatbread to pan.
+    5. **Cook flatbread**. Heat frying pan over high heat. Add flatbread to pan.
         Cook 60 seconds. Flip. Cook 60 seconds. Remove from heat.
 
     ??? question "How do I roll the dough so thin?"

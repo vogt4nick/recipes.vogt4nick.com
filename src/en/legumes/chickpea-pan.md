@@ -23,7 +23,7 @@ tags:
 
     1. **Cook.** Heat olive oil in frying pan over medium heat. Stir in chickpeas,
         corn, peas, onion, and seasonings, and cook 10 minutes.
-    1. **Serve** with fresh herbs and lemon juice.
+    2. **Serve** with fresh herbs and lemon juice.
 
 === "Nutrition"
 

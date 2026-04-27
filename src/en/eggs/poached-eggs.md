@@ -8,17 +8,17 @@
 
     1. **Simmer water** and vinegar in a saucepan. Maintain a bare simmer for the
         duration of the operation.
-    1. **Poach eggs.** Break the egg, hold it as closely over the water as possible,
+    2. **Poach eggs.** Break the egg, hold it as closely over the water as possible,
         and let it fall in. Immediately and gently push the white over the yolk
         with a wooden spoon for 2 to 3 seconds. Poach 4 minutes.
-    1. **Shock egg.** Gently transfer egg to cold water.
+    3. **Shock egg.** Gently transfer egg to cold water.
 
     ??? question "Why shock the poached egg in cold water?"
 
         Two reasons:
 
         1. The cold water stops the cooking process.
-        1. The cold water rinses any lingering vinegar clinging to the poached egg.
+        2. The cold water rinses any lingering vinegar clinging to the poached egg.
 
     ??? question "How do I prepare poached eggs ahead of time?"
 

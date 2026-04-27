@@ -27,18 +27,18 @@ tags:
     1. **Braise.** Combine pork shoulder, spices, and water in large saucepan. Bring
         to simmer, cover, and cook at a very low simmer for 2 hours until fork
         tender.
-    1. **Chop pork.** Remove pork and roughly chop into bite sized pieces. Set
+    2. **Chop pork.** Remove pork and roughly chop into bite sized pieces. Set
         aside.
-    1. **Cook polenta.** Stir in salt and polenta, and simmer 30 minutes until very
+    3. **Cook polenta.** Stir in salt and polenta, and simmer 30 minutes until very
         thick and tender.
-    1. **Rest.** Combine polenta and meat mixture. Remove from heat, and rest 30
+    4. **Rest.** Combine polenta and meat mixture. Remove from heat, and rest 30
         minutes to cool almost to room temperature.
-    1. **Wrap.** Line a container with plastic wrap. Transfer scrapple, wrap and
+    5. **Wrap.** Line a container with plastic wrap. Transfer scrapple, wrap and
         seal, and transfer to refrigerator.
-    1. **Chill** 8-24 hours until fully chilled.
-    1. **Unwrap.** Unwrap the scrapple, and slice 15 mm slices. Dust with cornmeal
+    6. **Chill** 8-24 hours until fully chilled.
+    7. **Unwrap.** Unwrap the scrapple, and slice 15 mm slices. Dust with cornmeal
         to dry surface.
-    1. **Pan fry.** Heat oil in heavy pan over medium heat. Pan fry scrapple until
+    8. **Pan fry.** Heat oil in heavy pan over medium heat. Pan fry scrapple until
         browned and crispy.
 
     !!! info "Correct the amount of cooking liquid after braising if necessary: there should be about 720 g remaining."

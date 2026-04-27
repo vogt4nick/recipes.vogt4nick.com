@@ -33,33 +33,33 @@
 === "Directions"
 
     1. **Preheat oven** to 350ºF (177ºC).
-    1. **Make ganache.** Stir ingredients in a double boiler until melted and
+    2. **Make ganache.** Stir ingredients in a double boiler until melted and
         smooth. Scrape into the crust. Rest until ganache is set, chilling if
         necessary.
-    1. **Mix filling.** Mix butter, sugar, cornmeal, and salt until combined and
+    3. **Mix filling.** Mix butter, sugar, cornmeal, and salt until combined and
         there are no cornmeal clumps. In separate bowl, mix eggs, egg yolk, milk,
         cream, and vanilla. Slowly whisk egg mixture into the butter mixture until
         incorporated. Brush pie crust crimps with egg wash and pour filling into
         the pie crust.
-    1. **Bake pie** 50 - 60 minutes at 350ºF until the edges have puffed and the
+    4. **Bake pie** 50 - 60 minutes at 350ºF until the edges have puffed and the
         center jiggles only slightly when shaken. Remove from heat.
-    1. **Cool pie** on a cooling rack.
-    1. **Whip marshmallow creme.** Add egg white, corn syrup, and salt. Vigorously
+    5. **Cool pie** on a cooling rack.
+    6. **Whip marshmallow creme.** Add egg white, corn syrup, and salt. Vigorously
         whip several minutes until the mixture is thick and almost doubled in
         volume. Slowly whisk in powdered sugar until blended. Set aside a cup for
         the meringue.
-    1. **Make meringue.** Whisk egg whites, sugar, cream of tartar, and salt in a
+    7. **Make meringue.** Whisk egg whites, sugar, cream of tartar, and salt in a
         double boiler until sugar is dissolved and mixture is warm.
-    1. **Whisk meringue.** Vigorously whip meringue mixture several minutes until
+    8. **Whisk meringue.** Vigorously whip meringue mixture several minutes until
         voluminous, shiny, and stiff peaks form.
-    1. **Combine creme and meringue.** Add the remaining cup of marshmallow creme.
+    9. **Combine creme and meringue.** Add the remaining cup of marshmallow creme.
         Use a silicone spatula to gently fold creme into the meringue.
-    1. **Layer meringue.** Scrape all of the meringue into the center of the cooled
+    10. **Layer meringue.** Scrape all of the meringue into the center of the cooled
         pie, and gently spread it all the way up to the crimps. Etch a decorative
         swirl.
-    1. **Broil pie** at 500ºF (260ºC) for 3 - 4 minutes until light brown.
-    1. **Decorate** with chocolate chips.
-    1. **Cool pie** at least 4 hours until room temperature.
+    11. **Broil pie** at 500ºF (260ºC) for 3 - 4 minutes until light brown.
+    12. **Decorate** with chocolate chips.
+    13. **Cool pie** at least 4 hours until room temperature.
 
 [^1]: Ludwinski, Lisa, and E. E. Berger.
     [*Sister Pie: The Recipes & Stories of a Big-hearted Bakery in Detroit*](https://www.amazon.com/dp/0399579761).

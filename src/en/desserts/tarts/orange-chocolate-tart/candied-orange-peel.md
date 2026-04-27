@@ -10,12 +10,12 @@
 
     1. **Peel orange** in strips, avoiding as much of the pith as possible. Cut peel
         into matchstick-sized pieces.
-    1. **Blanch orange peel** 30 seconds in boiling water. Drain, and rinse with
+    2. **Blanch orange peel** 30 seconds in boiling water. Drain, and rinse with
         cold water. Rinse saucepan.
-    1. **Candy orange peel.** Add simple syrup ingredients and orange peel to
+    3. **Candy orange peel.** Add simple syrup ingredients and orange peel to
         saucepan. Stir over medium-low heat until sugar dissolves. Simmer 45
         minutes until syrup is thick. Remove peel from mixture.
-    1. **Dry** 6-8 hours at room temperature minutes until coating is set and dry.
+    4. **Dry** 6-8 hours at room temperature minutes until coating is set and dry.
 
     !!! tip "We blanch the orange to sanitize it."
 

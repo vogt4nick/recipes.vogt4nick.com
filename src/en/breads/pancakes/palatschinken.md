@@ -18,11 +18,11 @@ tags:
 === "Directions"
 
     1. **Preheat pan** over medium heat.
-    1. **Mix batter** until the flour just disappears.
-    1. **Cook.** Dividing batter as necessary, pour in batter and gently shape to
+    2. **Mix batter** until the flour just disappears.
+    3. **Cook.** Dividing batter as necessary, pour in batter and gently shape to
         form roughly circular palatschinken. Cook 3 minutes per side until golden
         brown on both sides.
-    1. **Fill** with jam and roll gently and firmly.
+    4. **Fill** with jam and roll gently and firmly.
 
     !!! info "There may be small chunks of flour in the batter that won't easily mix in. This is fine."
 

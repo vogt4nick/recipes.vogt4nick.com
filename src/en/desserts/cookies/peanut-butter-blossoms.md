@@ -25,19 +25,19 @@ tags:
 === "Directions"
 
     1. **Combine dry mix.** Set aside.
-    1. **Mix dough.** Whip butter for 60 seconds until creamy. Slowly add sugars
+    2. **Mix dough.** Whip butter for 60 seconds until creamy. Slowly add sugars
         while whipping until completely creamed and smooth. Mix in egg until
         combined. Mix in peanut butter and vanilla until combined. Slowly mix in
         the dry mix until just incorporated.
-    1. **Chill dough** 30 minutes.
-    1. **Preheat oven** to 350ºF (177ºC).
-    1. **Shape and decorate.** Scoop and shape 15 g dough balls. Coat balls in
+    3. **Chill dough** 30 minutes.
+    4. **Preheat oven** to 350ºF (177ºC).
+    5. **Shape and decorate.** Scoop and shape 15 g dough balls. Coat balls in
         sugar. Arrange on a parchment-lined sheetpan.
-    1. **Bake** 10 minutes at 350ºF until the tops begin to slightly crack. Remove
+    6. **Bake** 10 minutes at 350ºF until the tops begin to slightly crack. Remove
         from heat.
-    1. **Cool** 10 minutes at room temperature.
-    1. **Add kisses.** Press chocolate kiss candy into each cookie until it sticks.
-    1. **Freeze cookies** 10 minutes to prevent melting.
+    7. **Cool** 10 minutes at room temperature.
+    8. **Add kisses.** Press chocolate kiss candy into each cookie until it sticks.
+    9. **Freeze cookies** 10 minutes to prevent melting.
 
     ??? tip "If chilling for longer than a few hours..."
 

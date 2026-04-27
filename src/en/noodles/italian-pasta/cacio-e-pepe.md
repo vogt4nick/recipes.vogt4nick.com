@@ -19,9 +19,9 @@ tags:
 
     1. **Make paste.** Combine the cheeses and pepper. Mash with just enough cold
         water to make a thick paste. Spread the paste evenly in the bowl.
-    1. **Cook pasta** in salted water per package directions just until cooked.
+    2. **Cook pasta** in salted water per package directions just until cooked.
         Drain.
-    1. **Stir into sauce.** Add pasta to bowl and stir vigorously to coat the pasta,
+    3. **Stir into sauce.** Add pasta to bowl and stir vigorously to coat the pasta,
         adding a teaspoon or two of olive oil and a bit of the pasta cooking water
         to thin the sauce if necessary.
 

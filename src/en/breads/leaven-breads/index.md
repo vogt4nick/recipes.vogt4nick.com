@@ -89,23 +89,23 @@ texture, and rise. Below is a typical sequence with emphasis on function:
 
 1. **Autolyse** promotes gluten development, enzymatic activity, and dough
     extensibility.
-1. **Mixing and/or Kneading** distributes microbes evenly, develops gluten
+2. **Mixing and/or Kneading** distributes microbes evenly, develops gluten
     network for structure.
-1. **Bulk Fermentation** builds gas, flavor, and dough strength.
+3. **Bulk Fermentation** builds gas, flavor, and dough strength.
     Stretch-and-folds can be used to strengthen gluten without intensive
     kneading.
-1. **Shaping** creates surface tension, partially degasses, prepares for final
+4. **Shaping** creates surface tension, partially degasses, prepares for final
     rise.
-1. **Proofing or Final Fermentation** allows yeast to expand dough fully and
+5. **Proofing or Final Fermentation** allows yeast to expand dough fully and
     lactic-acid bacteria to continue developing flavor; may occur at room
     temperature or in cold retardation.
-1. **Cold Fermentation** slows yeast activity while allowing LAB to produce
+6. **Cold Fermentation** slows yeast activity while allowing LAB to produce
     acids, enhancing tangy flavor without overproofing.
-1. **Scoring** controls expansion, prevents tearing, and influences final loaf
+7. **Scoring** controls expansion, prevents tearing, and influences final loaf
     shape.
-1. **Baking** produces the characteristic oven spring, gelatinization of
+8. **Baking** produces the characteristic oven spring, gelatinization of
     starches, Maillard reaction for crust and color.
-1. **Cooling** sets the crumb, redistributes moisture, and stabilizes flavor.
+9. **Cooling** sets the crumb, redistributes moisture, and stabilizes flavor.
 
 [^chainbaker]: Charlie.
     ["Sourdough Starter and Leaven. Are They The Same Thing?"](https://www.chainbaker.com/starter-leaven/)

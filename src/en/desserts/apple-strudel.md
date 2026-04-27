@@ -23,18 +23,18 @@
 === "Directions"
 
     1. **Prepare dough ball** and rest 30 minutes.
-    1. **Toast bread crumbs.** Brown butter in saucepan over medium heat. Add bread
+    2. **Toast bread crumbs.** Brown butter in saucepan over medium heat. Add bread
         crumbs, and fry 3 minutes. Stir in sugar, cinnamon, and nutmeg, and cook 1
         minute more. Set aside.
-    1. **Preheat oven** to 180ºC (350ºF).
-    1. **Stretch out dough.** Brush the outer 1/3 of the dough with oil.
-    1. **Add filling.** Evenly sprinkle half of fried bread crumbs on the inner 2/3
+    3. **Preheat oven** to 180ºC (350ºF).
+    4. **Stretch out dough.** Brush the outer 1/3 of the dough with oil.
+    5. **Add filling.** Evenly sprinkle half of fried bread crumbs on the inner 2/3
         of the dough. Gently add apples and raisins on top, evening out any apples
         that don't lay flat. Sprinkle with remaining half of fried bread crumbs and
         lemon zest.
-    1. **Roll up dough.** Wash with egg.
-    1. **Bake** 35 minutes at 180ºC (350ºF).
-    1. **Garnish** with powdered sugar and serve.
+    6. **Roll up dough.** Wash with egg.
+    7. **Bake** 35 minutes at 180ºC (350ºF).
+    8. **Garnish** with powdered sugar and serve.
 
     !!! question "Form dough as per [strudel dough](../breads/pastry-doughs/strudel-dough.md) recipe."
 

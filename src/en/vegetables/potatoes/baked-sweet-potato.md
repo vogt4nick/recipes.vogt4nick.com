@@ -8,10 +8,10 @@
 === "Directions"
 
     1. **Preheat oven** to 425ºF (218ºC).
-    1. **Prepare sweet potatoes.** Poke sweet potatoes a few times to vent. Arrange
+    2. **Prepare sweet potatoes.** Poke sweet potatoes a few times to vent. Arrange
         on a foil-lined sheetpan.
-    1. **Bake** 60 minutes at 425ºF.
-    1. **Season** with salt and pepper and serve with butter.
+    3. **Bake** 60 minutes at 425ºF.
+    4. **Season** with salt and pepper and serve with butter.
 
 [^bittman]: Bittman, Mark.
     [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).

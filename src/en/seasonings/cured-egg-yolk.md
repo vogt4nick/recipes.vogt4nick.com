@@ -7,12 +7,12 @@
 === "Directions"
 
     1. **Mix cure.** Blend salt and sugar into a homogeneous mixture.
-    1. **Arrange yolks.** Add layer of cure to a sealable dish. Form shallow,
+    2. **Arrange yolks.** Add layer of cure to a sealable dish. Form shallow,
         well-spaced, circular indentations in the cure for the egg yolks. Carefully
         add egg yolks. Gently cover with cure to cover the egg yolks completely.
-    1. **Cure.** Seal the dish and cure 5-7 days in refrigerator until firm.
-    1. **Rinse.** Handling gently, remove yolks from cure, rinse, and dry them.
-    1. **Dry.** Arrange yolks on sheetpan dressed with parchment paper. Dry egg
+    3. **Cure.** Seal the dish and cure 5-7 days in refrigerator until firm.
+    4. **Rinse.** Handling gently, remove yolks from cure, rinse, and dry them.
+    5. **Dry.** Arrange yolks on sheetpan dressed with parchment paper. Dry egg
         yolks two hours in oven at lowest available heat.
 
     !!! tip "It's sufficient to seal the dish with plastic wrap."

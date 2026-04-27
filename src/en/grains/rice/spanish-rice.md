@@ -29,11 +29,11 @@ tags:
         until coated evenly. Add jalapeños, scallion whites, garlic, and remaining
         seasonings, and stir until combined. Toast 5 minutes, stirring once or
         twice, until fragrant.
-    1. **Cook.** Add chicken stock and tomatoes. Bring to simmer and reduce heat to
+    2. **Cook.** Add chicken stock and tomatoes. Bring to simmer and reduce heat to
         low. Simmer, covered, 20 minutes. Remove from heat.
-    1. **Rest** 8 minutes, covered.
-    1. **Fluff rice** with a fork, working lemon juice throughout.
-    1. **Garnish** with scallion greens.
+    3. **Rest** 8 minutes, covered.
+    4. **Fluff rice** with a fork, working lemon juice throughout.
+    5. **Garnish** with scallion greens.
 
 [^1]: Mitzewich, John.
     ["Side Dish Stagnation? Spicy Tomato Rice to the Rescue!"](https://foodwishes.blogspot.com/2009/02/side-dish-stagnation-spicy-tomato-rice.html)

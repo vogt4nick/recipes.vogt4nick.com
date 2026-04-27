@@ -23,10 +23,10 @@ tags:
 
     1. **Die Emulsion herstellen.** Die Butter in einer Schüssel schaumig rühren,
         die Eier langsam nach und nach dazugeben. Dann den Quark gut unterrühren.
-    1. **Knödelmasse vermengen.** Das Pesto, den Grieß und die Semmelbrösel zur
+    2. **Knödelmasse vermengen.** Das Pesto, den Grieß und die Semmelbrösel zur
         Quarkmasse geben. Alles würzen und zu einer homogenen Masse vermengen.
-    1. **Ruhen lassen.** Die Knödelmasse etwa 30 Minuten ruhen lassen.
-    1. **Knödel abdrehen.** Aus der Masse Knödel abdrehen und in siedendem
+    3. **Ruhen lassen.** Die Knödelmasse etwa 30 Minuten ruhen lassen.
+    4. **Knödel abdrehen.** Aus der Masse Knödel abdrehen und in siedendem
         Salzwasser gar ziehen lassen.
 
 [^oberndorfer]: Oberndorfer, Florian, and Zabert Sandmann.

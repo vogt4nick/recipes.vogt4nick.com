@@ -22,12 +22,12 @@ tags:
     1. **Temper spices.** Heat ghee in saucepan over medium heat. Add cumin seed,
         and temper until they crack. Stir in remaining spices and temper for a few
         seconds.
-    1. **Toast rice.** Stir in rice to coat evenly. Fry 1 minute.
-    1. **Cook.** Add water and salt. Bring to boil, cover, and reduce heat to low.
+    2. **Toast rice.** Stir in rice to coat evenly. Fry 1 minute.
+    3. **Cook.** Add water and salt. Bring to boil, cover, and reduce heat to low.
         Cook 15 minutes. Finally, while covered, remove pan from heat and let stand
         for 10 minutes.
-    1. **Fluff** rice with a fork.
-    1. **Garnish** with cilantro and serve.
+    4. **Fluff** rice with a fork.
+    5. **Garnish** with cilantro and serve.
 
     !!! tip "The oil is hot enough when adding one cumin seed to the oil causes the seed to crack immediately."
 

@@ -17,14 +17,14 @@
 === "Directions"
 
     1. **Preheat oven** to 325ºF (163ºC).
-    1. **Combine dry mix.** Whisk together flour mixture. Set aside.
-    1. **Mix batter.** Combine mashed bananas, sugar, butter, egg, and vanilla
+    2. **Combine dry mix.** Whisk together flour mixture. Set aside.
+    3. **Mix batter.** Combine mashed bananas, sugar, butter, egg, and vanilla
         extract. Whisk 2 minutes until sugar is dissolved and mixture is smooth and
         creamy. Mix in walnuts, milk, and flour mixture until just combined.
-    1. **Shape loaf.** Pour batter into a greased loaf pan.
-    1. **Bake** 60 minutes at 325ºF until a toothpick inserted in the center comes
+    4. **Shape loaf.** Pour batter into a greased loaf pan.
+    5. **Bake** 60 minutes at 325ºF until a toothpick inserted in the center comes
         out clean.
-    1. **Cool** 20 minutes before removing from loaf pan.
+    6. **Cool** 20 minutes before removing from loaf pan.
 
 [^1]: Mitzewich, John.
     ["Daylight Saving Has Me Going Bananas."](https://foodwishes.blogspot.com/2010/03/day-light-saving-has-me-going-bananas.html)

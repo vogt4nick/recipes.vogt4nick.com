@@ -37,21 +37,21 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 175°C (350°F). Grease a casserole dish.
-    1. **Mix sauce.** Combine ingredients in a bowl and set aside.
-    1. **Add spaghetti** to casserole dish.
-    1. **Brown beef.** Heat skillet over medium heat. Add ground beef and salt, and
+    2. **Mix sauce.** Combine ingredients in a bowl and set aside.
+    3. **Add spaghetti** to casserole dish.
+    4. **Brown beef.** Heat skillet over medium heat. Add ground beef and salt, and
         cook 8-10 minutes until brown. Transfer beef to the casserole dish,
         retaining beef fat in the skillet.
-    1. **Cook vegetables.** Add oil and butter in skillet over medium heat. Add
+    5. **Cook vegetables.** Add oil and butter in skillet over medium heat. Add
         mushrooms, and cook 10 minutes until they release most of their water. Add
         onions, carrots, and celery, and cook 5 minutes until vegetables are soft
         and translucent. Stir in garlic and cook 1 minute until fragrant. Add
         sauce, and simmer 10 minutes until slightly reduced. Taste and correct as
         necessary. Transfer sauce to the casserole dish.
-    1. **Prepare casserole.** Toss mixture to break up the layers of pasta, meat,
+    6. **Prepare casserole.** Toss mixture to break up the layers of pasta, meat,
         and sauce. Layer with mozzarella and parmesan.
-    1. **Bake** 20 minutes at 175°C (350°F) until cheese is melted.
-    1. **Rest** 5 minutes and dress with basil and parsley before serving.
+    7. **Bake** 20 minutes at 175°C (350°F) until cheese is melted.
+    8. **Rest** 5 minutes and dress with basil and parsley before serving.
 
 [^handler]: Handler, Rian.
     ["Baked Spaghetti."](https://www.delish.com/cooking/recipe-ideas/recipes/a55510/easy-baked-spaghetti-recipe/)

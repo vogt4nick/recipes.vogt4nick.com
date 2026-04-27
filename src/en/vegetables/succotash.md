@@ -22,13 +22,13 @@
     1. **Sweat onions.** Heat oil and butter in a large frying pan over medium heat.
         Add onions and a pinch of salt, and sweat 7 minutes until they're soft and
         just begin to turn golden.
-    1. **Fry peppers.** Stir in garlic, jalapeño, and bell pepper, and cook 3-4
+    2. **Fry peppers.** Stir in garlic, jalapeño, and bell pepper, and cook 3-4
         minutes until soft.
-    1. **Steam green vegetables.** Stir in tomato, pepper, cumin, and cayenne, and
+    3. **Steam green vegetables.** Stir in tomato, pepper, cumin, and cayenne, and
         cook 1 minute. Add snap peas, zucchini, and a little salt to taste. Add
         water and cook a few minutes more until the zucchini is almost tender.
-    1. **Mix in peas and corn**, and cook 1-2 minutes until heated through.
-    1. **Taste for flavor and texture.** Add salt as necessary to bring out the
+    4. **Mix in peas and corn**, and cook 1-2 minutes until heated through.
+    5. **Taste for flavor and texture.** Add salt as necessary to bring out the
         flavors, or add a tablespoon of water and cook longer for softer texture.
 
 [^foodwishes]: Mitzewich, John.

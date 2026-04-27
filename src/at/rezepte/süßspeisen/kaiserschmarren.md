@@ -27,21 +27,21 @@ tags:
 === "Zubereitung"
 
     1. **Backrohr auf 180ºC vorheizen.**
-    1. **Die Rosinen in Rum einweichen.** Etwa 15 Minuten stehen lassen.
-    1. **Teig vermengen.** Dotter verquirlen. Milch, abgeriebener Zitronenschale,
+    2. **Die Rosinen in Rum einweichen.** Etwa 15 Minuten stehen lassen.
+    3. **Teig vermengen.** Dotter verquirlen. Milch, abgeriebener Zitronenschale,
         Zucker, und Mehl zugeben. Zu einem glatten Teig vermengen.
-    1. **Schnee verquirlen.** Eiweiße mit Zucker und Salz zu festem Schnee schlagen.
+    4. **Schnee verquirlen.** Eiweiße mit Zucker und Salz zu festem Schnee schlagen.
         Unter die Masse ziehen.
-    1. **Backen.** In einer großen feuerfesten Pfanne die Butter aufschäumen lassen.
+    5. **Backen.** In einer großen feuerfesten Pfanne die Butter aufschäumen lassen.
         Masse eingießen, und nach 1-2 Minuten die abgetropften Rosinen darüber
         verteilen. Unterseite hellbraun anbacken. Sie wenden. Im vorgeheizten
         Backrohr 6-8 Minuten goldbraun fertig backen. Herausheben.
-    1. **Den Ofen auf starke Oberhitze stellen.**
-    1. **Reisen.** In kleine Stückchen die Kaiserschmarren reißen.
-    1. **Karamellisieren.** Butterflöckchen darüber verteilen, Zucker
+    6. **Den Ofen auf starke Oberhitze stellen.**
+    7. **Reisen.** In kleine Stückchen die Kaiserschmarren reißen.
+    8. **Karamellisieren.** Butterflöckchen darüber verteilen, Zucker
         darüberstreuen, und ein Paar Minuten bei starker Oberhitze im Backrohr
         karamellisieren lassen. Herausheben.
-    1. **Garnieren.** Die Kaiserschmarren mit Staubzucker und Zimt bestreuen und mit
+    9. **Garnieren.** Die Kaiserschmarren mit Staubzucker und Zimt bestreuen und mit
         Zwetschkenröster servieren.
 
     !!! tip "Der Kaiserschmarren kann auch auf dem Herd gebacken und zum Schluss bei geschlossenem Deckel karamellisiert werden."

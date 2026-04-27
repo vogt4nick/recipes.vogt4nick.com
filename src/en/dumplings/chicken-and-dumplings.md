@@ -20,13 +20,13 @@ tags:
 === "Directions"
 
     1. **Simmer soup** in a large saucepan.
-    1. **Combine dough.** Combine flour, baking powder, and salt into a homogeneous
+    2. **Combine dough.** Combine flour, baking powder, and salt into a homogeneous
         mixture. Add oil and buttermilk, and mix into a shaggy dough. Roll dough
         into a smooth ball and transfer to a floured surface.
-    1. **Pick dumplings.** Press flat the dough, and knead over a handful of times
+    3. **Pick dumplings.** Press flat the dough, and knead over a handful of times
         (instead of kneading). Roll into a cylinder. Pinch off 1 T of dough at a
         time or to desired size.
-    1. **Simmer dumplings.** Add half the dumplings to the simmering soup, stir, and
+    4. **Simmer dumplings.** Add half the dumplings to the simmering soup, stir, and
         then add the remaining half. Simmer 5 minutes until done.
 
     !!! info "The consistency of the dumpling dough should more closely resemble a pie crust than a biscuit dough."

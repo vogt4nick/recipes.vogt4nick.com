@@ -33,13 +33,13 @@
 
     1. **Sweat vegetables.** Cook onion in butter and oil over medium heat until
         translucent. Stir in celery, carrot. Cook 2 minutes.
-    1. **Brown beef.** Stir in beef, salt, black pepper. Cook until beef has lost
+    2. **Brown beef.** Stir in beef, salt, black pepper. Cook until beef has lost
         its raw, red color.
-    1. **Build sauce.** Stir in milk. Reduce 40-50 minutes, stirring occasionally.
+    3. **Build sauce.** Stir in milk. Reduce 40-50 minutes, stirring occasionally.
         Stir in wine. Reduce 40-50 minutes, stirring occasionally. Stir in
         tomatoes. Simmer until sauce begins to bubble. Reduce heat to a very low
         simmer.
-    1. **Simmer**, uncovered, 3-6 hours, stirring as needed.
+    4. **Simmer**, uncovered, 3-6 hours, stirring as needed.
 
     !!! caution "Be very careful not to burn the milk solids."
 

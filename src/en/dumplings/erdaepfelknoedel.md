@@ -22,12 +22,12 @@ tags:
 
     1. **Boil potatoes** in saltwater until fork tender. Shock with cold water, and
         let cool to room temperature.
-    1. **Mash potatoes** until smooth. Mix with remaining ingredients to form a
+    2. **Mash potatoes** until smooth. Mix with remaining ingredients to form a
         homogeneous mixture.
-    1. **Boil saltwater.** Bring fresh saltwater to simmer---do not allow it to
+    3. **Boil saltwater.** Bring fresh saltwater to simmer---do not allow it to
         boil.
-    1. **Form knoedel** with damp hands, and transfer to lightly boiling salt water.
-    1. **Cook knoedel** 15-20 minutes until tender.
+    4. **Form knoedel** with damp hands, and transfer to lightly boiling salt water.
+    5. **Cook knoedel** 15-20 minutes until tender.
 
     !!! note "If the dough is too soft, add more semolina."
 

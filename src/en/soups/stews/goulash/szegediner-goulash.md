@@ -33,14 +33,14 @@
     1. **Saute onion.** Heat butter in dutch oven over medium heat. Add salt and
         onion, and saute 5 minutes. Stir in tomato paste and spices, and cook 3
         minutes longer.
-    1. **Scrape pot.** Add some wine, and scrape up the fond.
-    1. **Stew potatoes.** Add potatoes and sugar, and stir to coat evenly. Add stock
+    2. **Scrape pot.** Add some wine, and scrape up the fond.
+    3. **Stew potatoes.** Add potatoes and sugar, and stir to coat evenly. Add stock
         and herbs. Bring to boil, reduce, and simmer until potatoes are fork
         tender.
-    1. **Finish.** Mix in sauerkraut. Mix sour cream and flour in a separate bowl,
+    4. **Finish.** Mix in sauerkraut. Mix sour cream and flour in a separate bowl,
         then stir mixture into the sauerkraut. Correct with additional water and
         salt to taste.
-    1. **Serve** garnished sour cream and herbs.
+    5. **Serve** garnished sour cream and herbs.
 
 === "Nutrition"
 

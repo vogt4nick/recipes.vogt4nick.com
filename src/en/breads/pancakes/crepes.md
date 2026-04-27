@@ -27,11 +27,11 @@ title: Crepes
 === "Directions"
 
     1. **Mix dry mix** ingredients together.
-    1. **Make batter.** Combine eggs, milk, and olive oil. Whisk briefly. Slowly add
+    2. **Make batter.** Combine eggs, milk, and olive oil. Whisk briefly. Slowly add
         in dry mix. There will be lumps, but try for no lumps.
-    1. **Rest batter** at least 5 minutes.
-    1. **Heat pan** to medium heat.
-    1. **Cook crepes.** For each crepe: Add 120-140 g of batter to the preheated
+    3. **Rest batter** at least 5 minutes.
+    4. **Heat pan** to medium heat.
+    5. **Cook crepes.** For each crepe: Add 120-140 g of batter to the preheated
         pan. Cook 2-5 minutes until golden brown. Flip, and continue cooking an
         additional 60 seconds.
 

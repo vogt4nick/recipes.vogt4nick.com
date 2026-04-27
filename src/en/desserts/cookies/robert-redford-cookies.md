@@ -27,19 +27,19 @@ title: Robert Redford cookies
 === "Directions"
 
     1. **Whisk dry mix** ingredients together. Set aside.
-    1. **Mix dough.** Cream butter and sugars 4 minutes until homogeneous, fluffy,
+    2. **Mix dough.** Cream butter and sugars 4 minutes until homogeneous, fluffy,
         and voluminous. Whisk in eggs and vanilla 2 minutes until combined. Slowly
         stir in dry mix until the flour is almost completely incorporated. Mix in
         pretzels, chocolate, and walnuts until just combined.
-    1. **Chill and hydrate dough.** Wrap dough tightly in plastic wrap. Chill 24-72
+    3. **Chill and hydrate dough.** Wrap dough tightly in plastic wrap. Chill 24-72
         hours.
-    1. **Reheat dough.** Rest dough at room temperature 2-3 hours before baking.
-    1. **Preheat oven** to 350ºF (177ºC).
-    1. **Arrange cookies** in 2" (5 cm) dough balls on a parchment-dressed sheetpan.
+    4. **Reheat dough.** Rest dough at room temperature 2-3 hours before baking.
+    5. **Preheat oven** to 350ºF (177ºC).
+    6. **Arrange cookies** in 2" (5 cm) dough balls on a parchment-dressed sheetpan.
         Slightly flatten each cookie and garnish with Medium-Grain Salt.
-    1. **Bake cookies** 16 - 18 minutes at 350ºF until edges are just slightly
+    7. **Bake cookies** 16 - 18 minutes at 350ºF until edges are just slightly
         golden.
-    1. **Cool cookies** on a wire rack before serving.
+    8. **Cool cookies** on a wire rack before serving.
 
 [^1]: Ludwinski, Lisa, and E. E. Berger.
     [*Sister Pie: The Recipes & Stories of a Big-hearted Bakery in Detroit*](https://www.amazon.com/dp/0399579761).

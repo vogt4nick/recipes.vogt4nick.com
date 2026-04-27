@@ -19,18 +19,18 @@
     1. **Combine wet mix.** Add butter, sugars to mixing bowl. Mix quickly until
         fluffy and light colored. Add egg, vanilla extract. Mix. Set aside as *wet
         mix*.
-    1. **Mix batter.** Add flour, cocoa powder, baking soda, salt to clean mixing
+    2. **Mix batter.** Add flour, cocoa powder, baking soda, salt to clean mixing
         bowl. Mix to combine. Slowly mixing, slowly add *wet mix*. Quickly mixing,
         add milk. Quickly mixing, add chocolate chips.
-    1. **Chill batter.** Cover batter and bowl with plastic wrap. Chill 3-72 hours,
+    3. **Chill batter.** Cover batter and bowl with plastic wrap. Chill 3-72 hours,
         ideally overnight.
-    1. **Prepare baking materials.** Preheat oven to 350ºF (177ºC). Dress baking
+    4. **Prepare baking materials.** Preheat oven to 350ºF (177ºC). Dress baking
         sheets with parchment paper.
-    1. **Rest batter** 20 minutes at room temperature.
-    1. **Form dough balls.** Shape dough balls with a tablespoon. Arrange 5-8 cm
+    5. **Rest batter** 20 minutes at room temperature.
+    6. **Form dough balls.** Shape dough balls with a tablespoon. Arrange 5-8 cm
         apart.
-    1. **Bake cookies** 12 minutes at 350ºF.
-    1. **Rest cookies** 5 minutes at room temperature.
+    7. **Bake cookies** 12 minutes at 350ºF.
+    8. **Rest cookies** 5 minutes at room temperature.
 
 [^1]: McKenney, Sally.
     ["Inside Out Chocolate Chip Cookies."](https://sallysbakingaddiction.com/inside-out-chocolate-chip-cookies/)

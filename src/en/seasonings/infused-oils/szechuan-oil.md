@@ -23,9 +23,9 @@
     1. **Infuse oil**. Add oil and spices to small, room temperature saucepan. Heat
         saucepan over low heat. Gently cook 5 minutes until fragrant and the
         scallion browns slightly.
-    1. **Strain oil**. Strain the oil of all the spices. Return oil to saucepan.
+    2. **Strain oil**. Strain the oil of all the spices. Return oil to saucepan.
         Reheat oil over low heat. Remove oil from heat.
-    1. **Combine ingredients**. Add pulverized red pepper flakes to heat-safe bowl.
+    3. **Combine ingredients**. Add pulverized red pepper flakes to heat-safe bowl.
         Pour half the hot oil over the pulverized red pepper flakes (note: the
         mixture will bubble). Add remaining ingredients to mixture. Pour remaining
         oil over mixture. Stir to combine.

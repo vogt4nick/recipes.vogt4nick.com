@@ -29,14 +29,14 @@ tags:
 
     1. **Blend tomato puree.** Blend the tomatoes, cashews, ginger and green chili
         to make creamy paste. Set aside.
-    1. **Make curry.** Heat oil in saucepan over medium heat. Add garlic and cumin
+    2. **Make curry.** Heat oil in saucepan over medium heat. Add garlic and cumin
         seeds. After 15-30 seconds, or when the cumin seeds crack, add the tomato
         puree, coriander, turmeric, paprika, and salt. Cook 3-4 minutes until it's
         reduced by about half.
-    1. **Mix in corn and mushrooms**, and add water. Cook for 10-12 minutes,
+    3. **Mix in corn and mushrooms**, and add water. Cook for 10-12 minutes,
         stirring occasionally, until corn and mushrooms are tender and curry has a
         thick consistency.
-    1. **Serve** over rice and garnished with cilantro.
+    4. **Serve** over rice and garnished with cilantro.
 
     !!! tip "The oil is hot enough when adding one cumin seed to the oil causes the seed to crack immediately."
 

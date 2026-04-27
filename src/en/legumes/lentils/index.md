@@ -11,7 +11,7 @@
 === "Directions"
 
     1. **Rinse** lentils to remove any dust or debris.
-    1. **Cook.** Add lentils and cooking liquid to a large saucepan. Bring to boil,
+    2. **Cook.** Add lentils and cooking liquid to a large saucepan. Bring to boil,
         cover tightly, reduce heat, and simmer until they are tender; for whole
         lentils, cook time is typically 15-20 minutes, and for split red lentils,
         cook time is typically only about 5-7 minutes. Season with salt, as

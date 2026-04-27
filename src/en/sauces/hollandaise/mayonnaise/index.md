@@ -25,12 +25,12 @@ title: Mayonnaise
     1. **Beat eggs.** Add egg yolks to a warm mixing bowl. Whisk 2 minutes until
         eggs are thick and sticky. Add lemon juice, salt, and mustard. Whisk 30
         seconds.
-    1. **Emulsify mixture.** In teaspoon increments, add oil to mixture and whisk
+    2. **Emulsify mixture.** In teaspoon increments, add oil to mixture and whisk
         until sauce has thickened before adding more oil. After about 90 g oil has
         been incorporated, the sauce will thicken into a very heavy cream. In 20 g
         increments, add oil to mixture and whisk until sauce has thickened before
         adding more oil. Add boiling water to prevent curdling.
-    1. **Season mayonnaise** to taste.
+    3. **Season mayonnaise** to taste.
 
 [^1]: Child, Julia, Louisette Bertholle, and Simone Beck.
     [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405).

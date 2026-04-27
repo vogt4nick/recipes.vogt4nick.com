@@ -31,7 +31,7 @@
         actually cut each cube perfectly in half, but it's a good idea to break up
         the butter enough so that you can be super-efficient when it's pastry
         blender time.
-    1. It's pastry blender time! Switch to the pastry blender and begin to cut in
+    2. It's pastry blender time! Switch to the pastry blender and begin to cut in
         the butter with one hand while turning the bowl with the other. It's
         important not to aim for the same spot at the bottom of the bowl with each
         stroke of the pastry blender, but to actually slice through butter every
@@ -39,7 +39,7 @@
         clean it out with your fingers. Continue to blend and turn until the
         largest pieces are size and shape of peas and the rest of the mixture looks
         freakishly similar to canned Parmesan cheese.
-    1. At this point, add the [water] all at once. Use a bench scraper or rubber
+    3. At this point, add the [water] all at once. Use a bench scraper or rubber
         spatula to scrape as much of the mixture as you can from one side of the
         bowl to the other, until you can't see visible pools of liquid anymore.
         Using your hands, scoop up as much of the mixture as you can, and use the
@@ -49,7 +49,7 @@
         forming the mixture into a cohesive mass. Remember to incorporate any dry,
         floury bits that have congregated at the bottom of the bowl, and once those
         are completely gone and the dough is formed, it's time to stop.
-    1. Remove the dough form the bowl, place it on a lightly floured counter, and
+    4. Remove the dough form the bowl, place it on a lightly floured counter, and
         use your bench scraper to divide it into two equal pieces. Gently pat each
         into a 2-inch-thick disc, working quickly to seal any broken edges before
         wrapping them tightly in a double layer of plastic wrap. If you're
@@ -59,7 +59,7 @@
         crust, you want the discs to feel as hard and cold as the butter did when
         you removed it from the fridge to make the dough. This will make the
         roll-out way easier.
-    1. You can keep the pie dough in the fridge for a few days or in the freezer for
+    5. You can keep the pie dough in the fridge for a few days or in the freezer for
         up to 1 year. If frozen, remove the dough and place it in the refrigerator
         to thaw one full day before you intend to use it. If you're planning to
         make only one single-crust pie, wrap the discs separately and place one in
@@ -90,14 +90,14 @@
 
     1. **Prepare pie crust** following the relevant directions. The pie crust must
         be chilled before baking.
-    1. **Preheat oven** to 425ºF (218ºC).
-    1. **Weigh down pie crust.** Press pie crust firmly into the pie plate. Lightly
+    2. **Preheat oven** to 425ºF (218ºC).
+    3. **Weigh down pie crust.** Press pie crust firmly into the pie plate. Lightly
         grease one side a large sheet of foil with butter. Press the foil onto the
         crust butter-side down. Pour some dry rice or beans into the foil.
-    1. **Bake at 425ºF** for 12 minutes. Remove from oven. Remove weights and foil.
-    1. **Bake at 350ºF**. Reduce oven to 350ºF (177ºC). Bake 10 minutes until the
+    4. **Bake at 425ºF** for 12 minutes. Remove from oven. Remove weights and foil.
+    5. **Bake at 350ºF**. Reduce oven to 350ºF (177ºC). Bake 10 minutes until the
         crust turns golden brown color.
-    1. **Cool to room-temperature** on a wire rack before filling.
+    6. **Cool to room-temperature** on a wire rack before filling.
 
     !!! info "Continue baking until crust is golden brown if the pie's filling requires no additional baking."
 

@@ -27,36 +27,37 @@
 
     1. **Mix starter** ingredients. Ferment at least 6 hours, covered, at room
         temperature.
-    1. **Autolysis.** Combine flour and water in a mixing bowl until a shaggy dough
+    2. **Autolysis.** Combine flour and water in a mixing bowl until a shaggy dough
         forms. Rest 30 minutes, covered, at room temperature.
-    1. **Knead dough.** Mix starter, autolysis dough, and remaining ingredients
+    3. **Knead dough.** Mix starter, autolysis dough, and remaining ingredients
         until combined. Knead 6-10 minutes until dough passes the windowpane test.
         Careful not to add extra flour.
-    1. **Proof once.** Transfer dough to a lightly greased bowl. Roll to coat dough
-        with oil. Proof 1-2 hours, covered, until the dough nearly doubles in size.
-    1. **Divide, degas, and pre-shape loaves.** Transfer dough to a lightly floured
+    4. **Proof once.** Transfer dough to a lightly greased bowl. Roll to coat dough
+        with oil. Proof 1-2 hours, covered, until the dough nearly doubles in
+        size.
+    5. **Divide, degas, and pre-shape loaves.** Transfer dough to a lightly floured
         surface. Dividing into two loaves,
         [degas and pre-shape each baguette](https://www.youtube.com/watch?v=cpqGHiPxuQU&t=1m55s).
-    1. **Rest.** Transfer pre-shaped baguettes to a flat, floured surface. Rest 15
+    6. **Rest.** Transfer pre-shaped baguettes to a flat, floured surface. Rest 15
         minutes, covered.
-    1. **Shape loaves.** Prepare a lightly floured surface. Transfer pre-shaped
+    7. **Shape loaves.** Prepare a lightly floured surface. Transfer pre-shaped
         loaves to prepared surface.
         [Shape each baguette](https://www.youtube.com/watch?v=xlN5CgQcvAg) into a
         10 cm diameter baguette.
-    1. **Proof twice.** Transfer loaves to a sheet pan dressed with semolina. Proof
+    8. **Proof twice.** Transfer loaves to a sheet pan dressed with semolina. Proof
         60 minutes at room temperature until the loaves have grown to 1.5x times
         their original size but still spring back when poked.
-    1. **Arrange oven.** Place one oven rack in the lowest position and one in the
+    9. **Arrange oven.** Place one oven rack in the lowest position and one in the
         middle position. Place an empty sheet pan in the bottom rack; we'll use it
         to boil water later. Place a pizza stone on the top rack.
-    1. **Preheat oven** to 500ºF (260ºC).
-    1. **Score loaves.** With the seam side down, score loaf using a bread lame,
+    10. **Preheat oven** to 500ºF (260ºC).
+    11. **Score loaves.** With the seam side down, score loaf using a bread lame,
         razor blade, or a very sharp knife. Cut 3 evenly spaced diagonal slashes 1
         cm deep on the surface of the loaf.
-    1. **Bake.** Place sheet pan in oven on middle rack. Pour hot water into the
-        empty sheet pan on the bottom rack. Bake 20 minutes until baguettes' ridges
-        turn dark, coffee brown.
-    1. **Cool baguettes.** Transfer baguettes to cooling rack. Cool 40 minutes at
+    12. **Bake.** Place sheet pan in oven on middle rack. Pour hot water into the
+        empty sheet pan on the bottom rack. Bake 20 minutes until baguettes'
+        ridges turn dark, coffee brown.
+    13. **Cool baguettes.** Transfer baguettes to cooling rack. Cool 40 minutes at
         room temperature.
 
     ??? question "What's the windowpane test?"
@@ -93,7 +94,7 @@
     two qualities[^8]:
 
     1. a brown- and yellow-colored crust that crackles, and
-    1. a cream-colored crumb with big and small air pockets and a noticeably complex
+    2. a cream-colored crumb with big and small air pockets and a noticeably complex
         aroma.
 
     ___The Crust___
@@ -104,12 +105,12 @@
     1. **Dark, crackly crust.** Water vapor is more heat dense than other
         atmospheric gases. This facilitates a higher heat transfer to the crust,
         resulting in faster browning and a thicker crust that crackles.
-    1. **Bigger pockets in the crumb.** Hydration contributes to the dough's overall
+    2. **Bigger pockets in the crumb.** Hydration contributes to the dough's overall
         flexibility. This water would quickly evaporate and leave behind a rigid
         crust, but this process is slowed by the high humidity environment created
         by the steam! In short, the crust remains flexible for longer, and the
         dough has more time to rise and create big holes in the crumb.
-    1. **Prominent scoring.** We score the loaves to enable a higher rise. A more
+    3. **Prominent scoring.** We score the loaves to enable a higher rise. A more
         flexible dough will rise higher and draw attention to beautiful, prominent
         scoring.
 

@@ -10,9 +10,9 @@
 === "Directions"
 
     1. **Heat fat** in a heavy frying pan over medium-high heat.
-    1. **Add potato hash** and spread into an even layer. Season with salt, pepper,
+    2. **Add potato hash** and spread into an even layer. Season with salt, pepper,
         and cayenne.
-    1. **Cover and fry** 5 minutes. Flip hash browns. Remove from heat. Cover again,
+    3. **Cover and fry** 5 minutes. Flip hash browns. Remove from heat. Cover again,
         and allow residual heat from pan to fry 5 minutes more.
 
     !!! tip "The cooking fat is hot enough when a single shred of hash starts bubbling when it hits the pan."

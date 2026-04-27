@@ -17,11 +17,11 @@ tags:
 
     1. **Cook garlic.** Warm olive oil in a deep skillet over low heat. Add garlic
         and cook until golden.
-    1. **Cook shrimp.** Increase heat to medium-high. Add shrimp and seasoning, and
+    2. **Cook shrimp.** Increase heat to medium-high. Add shrimp and seasoning, and
         cook until they are pink all over, stirring in parsley a few minutes before
         fully cooked. Add lemon juice and cook 30 seconds more before removing from
         heat.
-    1. **Garnish** with any remaining parsley leaves and serve.
+    3. **Garnish** with any remaining parsley leaves and serve.
 
     !!! tip "You need only warm the shrimp if they come precooked."
 

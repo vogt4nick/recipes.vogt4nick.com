@@ -25,14 +25,14 @@ title: Brown sauce
     1. **Panfry bacon.** Heat stockpan over medium-high heat. Add bacon. Panfry 10
         minutes until browned, but not crispy. Leaving rendered fat in saucepan,
         remove bacon. Set aside as *bacon bits*.
-    1. **Fry vegetables.** Reduce heat to medium. Melt butter in stockpan. Add
+    2. **Fry vegetables.** Reduce heat to medium. Melt butter in stockpan. Add
         vegetables. Stir to coat evenly. Fry 10 minutes, stirring every 2 minutes.
-    1. **Brown roux.** Dividing as necessary: add flour to stockpan, stirring
+    3. **Brown roux.** Dividing as necessary: add flour to stockpan, stirring
         evenly. Cook 10 minutes until flour turns a golden, nut brown.
-    1. **Reduce sauce.** Remove from heat. Add tomato paste. Stir to combine. Add
+    4. **Reduce sauce.** Remove from heat. Add tomato paste. Stir to combine. Add
         brown stock and herbs. Stir. Cover partially. Simmer 2 hours or more over
         low heat.
-    1. **Strain, degrease, and season.** Strain sauce through colander. Degrease
+    5. **Strain, degrease, and season.** Strain sauce through colander. Degrease
         thoroughly. Season as desired, if necessary.
 
 [^1]: Child, Julia, Louisette Bertholle, and Simone Beck.

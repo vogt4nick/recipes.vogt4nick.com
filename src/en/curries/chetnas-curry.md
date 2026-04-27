@@ -32,11 +32,11 @@ tags:
         seeds. Temper 15-30 seconds until cumin seeds crack. Add onion, and cook 4
         minutes. Add garlic, and cook 4 minutes more. Mix in tomatoes, salt,
         chilis, and harissa.
-    1. **Cook.** Bring to simmer, cover, and cook 10 minutes. Add chickpeas and cook
+    2. **Cook.** Bring to simmer, cover, and cook 10 minutes. Add chickpeas and cook
         15-20 minutes more, uncovered.
-    1. **Correct.** Lightly mash some chickpeas and add water as desired to reach
+    3. **Correct.** Lightly mash some chickpeas and add water as desired to reach
         desired consistency.
-    1. **Serve.** Stir in garam masala, and garnish with coriander leaves and chili
+    4. **Serve.** Stir in garam masala, and garnish with coriander leaves and chili
         flakes as desired.
 
 === "Nutrition"

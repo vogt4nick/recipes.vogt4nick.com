@@ -34,8 +34,8 @@ tags:
 
     1. **Prepare dough.** Saute onion in butter. Combine onions, bread cubes, and
         remaining ingredients.
-    1. **Form dumplings** into balls with damp (not wet!) hands.
-    1. **Steam dumplings** 15-20 minutes, more or less depending on size.
+    2. **Form dumplings** into balls with damp (not wet!) hands.
+    3. **Steam dumplings** 15-20 minutes, more or less depending on size.
 
 [^oberndorfer_knödel]: Oberndorfer, Florian, and Zabert Sandmann.
     [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X)

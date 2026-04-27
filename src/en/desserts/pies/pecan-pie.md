@@ -12,14 +12,14 @@
 === "Directions"
 
     1. **Preheat oven** to 180ºC (350ºF).
-    1. **Make sugar mixture.** Bring corn syrup and brown sugar to boil, and remove
+    2. **Make sugar mixture.** Bring corn syrup and brown sugar to boil, and remove
         from heat. Mix in butter. Cool 10 minutes so that it won't cook the eggs in
         the next step.
-    1. **Temper eggs.** Beat eggs. Slowly beat sugar mixture to eggs.
-    1. **Fill pie.** Mix pecans, vanilla, and salt into tempered egg mixture. Pour
+    3. **Temper eggs.** Beat eggs. Slowly beat sugar mixture to eggs.
+    4. **Fill pie.** Mix pecans, vanilla, and salt into tempered egg mixture. Pour
         filling into pie crust.
-    1. **Bake** 45 minutes at 180ºC.
-    1. **Cool** to room temperature and serve.
+    5. **Bake** 45 minutes at 180ºC.
+    6. **Cool** to room temperature and serve.
 
     !!! info "Chef John [advises](https://www.youtube.com/watch?v=kWxRY_ktG5c&t=200s) how you know when the sugar mixture has cooled enough.[^foodwishes_yt]"
 

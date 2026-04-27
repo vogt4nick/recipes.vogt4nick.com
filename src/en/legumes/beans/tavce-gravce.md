@@ -27,16 +27,16 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 200ºC (400ºF).
-    1. **Blend sauce.** Blend 400 g cooking liquid, onion, and garlic.
-    1. **Make roux.** Heat an oven-safe pan over medium-low heat, sweat onion in oil
+    2. **Blend sauce.** Blend 400 g cooking liquid, onion, and garlic.
+    3. **Make roux.** Heat an oven-safe pan over medium-low heat, sweat onion in oil
         6 minutes until translucent. Stir in garlic and fry 1 minute until raw
         aroma is gone. Fry tomato paste 60 seconds. Stir in flour and paprika and
         cook an additional 60 seconds.
-    1. **Combine.** Stir blended mixture into roux until smooth. Stir in remaining
+    4. **Combine.** Stir blended mixture into roux until smooth. Stir in remaining
         ingredients. Drizzle additional olive oil as desired.
-    1. **Bake** 30 minutes at 200ºC until slightly charred.
-    1. **Cool** at least 15 minutes to room temperature.
-    1. **Serve** with crostinis.
+    5. **Bake** 30 minutes at 200ºC until slightly charred.
+    6. **Cool** at least 15 minutes to room temperature.
+    7. **Serve** with crostinis.
 
     !!! tip "Garnish the dish with sliced onion and chilis before baking for a nicer presentation."
 

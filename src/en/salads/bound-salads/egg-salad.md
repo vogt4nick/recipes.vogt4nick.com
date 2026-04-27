@@ -16,9 +16,9 @@ title: Egg salad
 === "Directions"
 
     1. **Mash eggs** in a bowl.
-    1. **Combine** ingredients.
-    1. **Chill** at least one hour.
-    1. **Taste** for seasoning.
+    2. **Combine** ingredients.
+    3. **Chill** at least one hour.
+    4. **Taste** for seasoning.
 
 [^john]: Mitzewich, John.
     ["Japanese Egg Salad Sandwich (Tamago Sando) - Food Wishes."](https://www.youtube.com/watch?v=cimAbBIZd0g)

@@ -29,7 +29,7 @@ tags:
 === "Directions"
 
     1. **Mix Seasonings** in a small bowl.
-    1. **Combine & serve.** Add noodles and cucumber to bowl. Serve with mixed
+    2. **Combine & serve.** Add noodles and cucumber to bowl. Serve with mixed
         seasonings.
 
 [^1]: Luo, Elaine.

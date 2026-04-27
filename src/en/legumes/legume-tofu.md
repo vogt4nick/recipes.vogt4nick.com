@@ -48,15 +48,15 @@
 === "Directions"
 
     1. **Soak** legumes in water 8-16 hours.
-    1. **Drain** legumes.
-    1. **Blend** soaked legumes in water until smooth.
-    1. **Toast spices (optional)** in frying pan over medium heat.
-    1. **Cook.** Pour blended mixture into pan. Stirring constantly, bring to a
+    2. **Drain** legumes.
+    3. **Blend** soaked legumes in water until smooth.
+    4. **Toast spices (optional)** in frying pan over medium heat.
+    5. **Cook.** Pour blended mixture into pan. Stirring constantly, bring to a
         simmer, reduce heat, and cook 2-5 minutes until it has formed into a thick
         paste that doesn't level out in the pan anymore and holds on to the
         spatula.
-    1. **Mold tofu** food storage or another container.
-    1. **Chill** in fridge at least 1 hour.
+    6. **Mold tofu** food storage or another container.
+    7. **Chill** in fridge at least 1 hour.
 
 !!! tip "Except salt, all seasonings are optional."
 

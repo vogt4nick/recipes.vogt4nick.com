@@ -18,20 +18,20 @@
 
     1. **Whisk wet mix.** Combine egg yolks, flour, milk, white sugar, vanilla
         extract, and salt in a bowl. Whisk until batter is smooth.
-    1. **Beat egg whites.** Combine egg whites and lemon juice in bowl, and beat
+    2. **Beat egg whites.** Combine egg whites and lemon juice in bowl, and beat
         until soft peaks form.
-    1. **Fold egg whites into wet mix.** Add egg whites to wet mix, and gently fold
+    3. **Fold egg whites into wet mix.** Add egg whites to wet mix, and gently fold
         in using a spatula until just combined.
-    1. **Cook.** Melt butter in a frying pan over medium heat. Transfer batter into
+    4. **Cook.** Melt butter in a frying pan over medium heat. Transfer batter into
         the hot pan, cover, and cook 4 minutes until the bottom is golden brown and
         bubbles appear on the surface.
-    1. **Chop.** Use a spatula to cut the pancake into 4 sections and flip over.
+    5. **Chop.** Use a spatula to cut the pancake into 4 sections and flip over.
         Cover and cook for another minute. Use 2 spatulas to tear or cut the
         pancake into 1 to 2 inch pieces.
-    1. **Finish.** Add remaining butter in little pieces to the pan and sprinkle
+    6. **Finish.** Add remaining butter in little pieces to the pan and sprinkle
         with remaining 2 teaspoons white sugar. Cook tossing and stirring for a few
         minutes until pancake pieces are lightly caramelized at the edges.
-    1. **Serve** immediately, dusted with powdered sugar.
+    7. **Serve** immediately, dusted with powdered sugar.
 
 [^foodwishes]: Mitzewich, John.
     ["Kaiserschmarren - Austrian Torn Pancakes."](https://www.allrecipes.com/kaiserschmarren-austrian-torn-pancakes-recipe-7483030)

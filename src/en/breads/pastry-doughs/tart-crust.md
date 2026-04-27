@@ -13,14 +13,14 @@
         butter. Pulse 10 seconds until the mixture is uniform. Add egg yolk and
         pulse briefly until combined. Transfer mixture to a mixing bowl. Add
         freezing water. Mix by hand until the dough forms into a ball.
-    1. **Chill.** Form the dough into a ball. Wrap in plastic. Chill 30 minutes in
+    2. **Chill.** Form the dough into a ball. Wrap in plastic. Chill 30 minutes in
         fridge.
-    1. **Roll out dough.** Transfer dough to a lightly floured surface. Sprinkle top
+    3. **Roll out dough.** Transfer dough to a lightly floured surface. Sprinkle top
         with some flour. Use a rolling pin to roll with light pressure from the
         center out. Roll, adding flour and rotating and turning the dough as
         needed. Stop when the diameter of the dough is about 5 cm greater than the
         diameter of your tart pan.
-    1. **Dress pie crust.** Drape the dough over the rolling pin to transfer it into
+    4. **Dress pie crust.** Drape the dough over the rolling pin to transfer it into
         the pie plate. Press dough firmly into the plate all over. Trim the excess
         dough to about 15 mm all around, then tuck it under itself around the edge
         of the plate. Decorate the edges with a fork or your fingers.
@@ -50,15 +50,15 @@
 
     1. **Prepare pie crust** following the relevant directions. The pie crust must
         be chilled before baking.
-    1. **Preheat oven** to 425ºF (218ºC).
-    1. **Weigh down pie crust with foil.** Press pie crust firmly into the pie
+    2. **Preheat oven** to 425ºF (218ºC).
+    3. **Weigh down pie crust with foil.** Press pie crust firmly into the pie
         plate. Lightly grease one side a large sheet of foil with butter. Press the
         foil onto the crust butter-side down. Pour some dry rice or beans into the
         foil.
-    1. **Bake at 425ºF** for 12 minutes. Remove from oven. Remove weights and foil.
-    1. **Bake at 350ºF**. Reduce oven to 350ºF (177ºC). Bake 10 minutes until the
+    4. **Bake at 425ºF** for 12 minutes. Remove from oven. Remove weights and foil.
+    5. **Bake at 350ºF**. Reduce oven to 350ºF (177ºC). Bake 10 minutes until the
         crust turns golden brown color.
-    1. **Cool to room-temperature** on a wire rack before filling.
+    6. **Cool to room-temperature** on a wire rack before filling.
 
     !!! info "Continue baking until crust is golden brown if the pie's filling requires no additional baking."
 

@@ -14,18 +14,18 @@
 
     1. **Prep chocolate.** Break up or chop chocolate into small pieces and set
         aside with butter.
-    1. **Cook yolk mixture.** Add egg yolks, sugar, water, and salt to a metal
+    2. **Cook yolk mixture.** Add egg yolks, sugar, water, and salt to a metal
         mixing bowl. Cook, whisking, directly over medium-low heat until thick,
         foamy, and hot to the touch (63 to 65ºC / 145 to 150ºF).
-    1. **Melt chocolate.** Add chocolate and butter to yolk mixture and whisk until
+    3. **Melt chocolate.** Add chocolate and butter to yolk mixture and whisk until
         all chocolate is melted. Rest a few minutes, whisking occasionally, until
         cooled to just above room temperature.
-    1. **Whip cream** until medium stiff peaks form. Do not over-whip or the final
+    4. **Whip cream** until medium stiff peaks form. Do not over-whip or the final
         texture will be grainy.
-    1. **Fold.** Transfer about 1/3 of chocolate mixture into whipped cream and fold
+    5. **Fold.** Transfer about 1/3 of chocolate mixture into whipped cream and fold
         with a spatula until almost incorporated. Gently fold in remaining
         chocolate, keeping as much air in the mixture as possible.
-    1. **Chill.** Transfer into 4 serving dishes, wrap, and chill at least 1 hour
+    6. **Chill.** Transfer into 4 serving dishes, wrap, and chill at least 1 hour
         before serving.
 
     !!! tip "Water substitutions"

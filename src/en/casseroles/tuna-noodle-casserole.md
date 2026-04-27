@@ -31,22 +31,22 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 175ºC (350ºF).
-    1. **Prepare bread crumbs.** Mix the breadcrumbs and olive oil together in a
+    2. **Prepare bread crumbs.** Mix the breadcrumbs and olive oil together in a
         small bowl until combined. Set aside.
-    1. **Cook vegetables.** Melt butter in a medium saucepan over medium heat. Cook
+    3. **Cook vegetables.** Melt butter in a medium saucepan over medium heat. Cook
         mushrooms 10 minutes until they're soft and their water is mostly done
         evaporating. Reduce heat to medium-low. Add onions and sweat about 4
         minutes.
-    1. **Make white sauce.** Increase heat to medium again. Add flour to vegetables,
+    4. **Make white sauce.** Increase heat to medium again. Add flour to vegetables,
         and cook, stirring, for another 2 minutes. While whisking vigorously,
         slowly pour in 200 g of the cold milk. When the sauce begins to simmer, add
         the rest of the milk and seasonings. Cook, stirring occasionally, until the
         sauce thickens, and comes to a simmer. Remove from heat. Taste and season
         with black as desired.
-    1. **Combine casserole.** In a casserole dish, mix in noodles, tuna, peas,
+    5. **Combine casserole.** In a casserole dish, mix in noodles, tuna, peas,
         sauce, and about 2/3 of the cheese. Mix to combine. Layer of the rest of
         cheese and another layer of the prepared bread crumbs.
-    1. **Bake** 35 minutes at 175ºC (350ºF) until browned and bubbly.
+    6. **Bake** 35 minutes at 175ºC (350ºF) until browned and bubbly.
 
 [^mitzewich]: Mitzewich, John.
     ["A Tuna Noodle Casserole that Will Make Even Mad Men Smile."](https://foodwishes.blogspot.com/2010/01/tuna-noodle-casserole-that-will-make.html)

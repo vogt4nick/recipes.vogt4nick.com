@@ -18,7 +18,7 @@
 
     1. **Combine.** Mash avocados together in a bowl. Stir in shallots, chile,
         seasonings.
-    1. **Garnish** with cilantro.
+    2. **Garnish** with cilantro.
 
 !!! info "Refrigerate up to 4 hours."
 

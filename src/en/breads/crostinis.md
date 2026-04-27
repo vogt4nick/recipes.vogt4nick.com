@@ -8,7 +8,7 @@
 === "Directions"
 
     1. **Preheat oven** to 350ºF (177ºC).
-    1. **Season crostinis.** Brush bread slices with oil, both sides. Season with
+    2. **Season crostinis.** Brush bread slices with oil, both sides. Season with
         salt and pepper.
-    1. **Bake** 10 minutes at 350ºF. Flip. Bake 5 - 10 minutes more to desired
+    3. **Bake** 10 minutes at 350ºF. Flip. Bake 5 - 10 minutes more to desired
         texture.

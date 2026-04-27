@@ -19,7 +19,7 @@ tags:
 
     1. **Blend once.** Add bay leaves, cumin, and cardamom to blender. Blend 60
         seconds until ingredients are ground and uniform.
-    1. **Blend twice.** Add remaining ingredients. Blend 30 seconds until uniform.
+    2. **Blend twice.** Add remaining ingredients. Blend 30 seconds until uniform.
 
 === "Simple Mix"
 

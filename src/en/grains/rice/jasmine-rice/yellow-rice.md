@@ -13,10 +13,10 @@
 === "Directions"
 
     1. **Mix spices** in small bowl.
-    1. **Toast rice.** Heat butter in frying pan over medium heat until fully
+    2. **Toast rice.** Heat butter in frying pan over medium heat until fully
         heated. Add garlic. Stir. Cook 60 seconds. Add mixed spices. Stir. Cook 2
         minutes. Add rice. Coat evenly. Cook 2 minutes.
-    1. **Cook rice.** Empty rice into rice cooker. Add bay leaf and chicken stock.
+    3. **Cook rice.** Empty rice into rice cooker. Add bay leaf and chicken stock.
         Cook until done.
 
 !!! tip "Reduce the spices when you make the recipe for the first time."

@@ -42,14 +42,14 @@ tags:
         and seasonings. Fry 5 minutes, stirring continuously, until they start to
         brown. Add peas. Fry 60 seconds, stirring continuously. Remove vegetables
         from wok, reserving oil in wok. Set aside.
-    1. **Fry rice**. Maintain high heat. Add garlic and ginger. Fry 30 seconds.
+    2. **Fry rice**. Maintain high heat. Add garlic and ginger. Fry 30 seconds.
         Dividing as necessary, add rice; breaking up clumps and stirring into the
         oil as necessary. Make a well in the center, and break egg into center.
         Stir egg until it is somewhat scrambled. Stir to combine rice and egg.
-    1. **Combine ingredients**. Stir fried vegetables back to wok. Add rice wine.
+    3. **Combine ingredients**. Stir fried vegetables back to wok. Add rice wine.
         Cook 60 seconds, stirring continuously. Remove from heat. Add remaining
         sauces. Stir to combine.
-    1. **Garnish & serve** with scallions.
+    4. **Garnish & serve** with scallions.
 
 [^1]: Bittman, Mark.
     [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th

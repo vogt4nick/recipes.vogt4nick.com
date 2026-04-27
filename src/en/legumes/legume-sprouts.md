@@ -23,12 +23,12 @@
 === "Directions"
 
     1. **Rinse** lentils.
-    1. **Soak** lentils 8-16 hours overnight in a mason jar or sealable container.
-    1. **Drain** water.
-    1. **Rinse** lentils and return them water to the container. Do not add water.
+    2. **Soak** lentils 8-16 hours overnight in a mason jar or sealable container.
+    3. **Drain** water.
+    4. **Rinse** lentils and return them water to the container. Do not add water.
         Cover the container with a cheesecloth. Set upside down to let excess water
         drain. Let stand 12 hours at room temperature.
-    1. **Repeat** every 12 hours. Use after three days.
+    5. **Repeat** every 12 hours. Use after three days.
 
 !!! info "Store in fridge up to 7 days in airtight container."
 

@@ -14,8 +14,8 @@
 === "Directions"
 
     1. **Mix dressing** ingredients together in a bowl.
-    1. **Combine vegetables** together in a bowl. Toss with dressing.
-    1. **Chill** before serving.
+    2. **Combine vegetables** together in a bowl. Toss with dressing.
+    3. **Chill** before serving.
 
 [^1]: ["Better living through vinegar coleslaw."](https://www.reddit.com/r/EatCheapAndHealthy/comments/i64x5l/).
     *Reddit.* August 2020.

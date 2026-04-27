@@ -15,9 +15,9 @@ title: Nockerlteig
 === "Zubereitung"
 
     1. **Salzwasser kochen.**
-    1. **Nockerlteig mischen.** Mehl, Salz, Milch, Ei, und zerlassene Butter werden
+    2. **Nockerlteig mischen.** Mehl, Salz, Milch, Ei, und zerlassene Butter werden
         zu einem lockeren Teig verarbeiten.
-    1. **Nockerl kochen.** Daraus werden mit zwei Löffeln Nockerl geformt,[^kochabo]
+    3. **Nockerl kochen.** Daraus werden mit zwei Löffeln Nockerl geformt,[^kochabo]
         die man in siedendem Salzwasser ca. 8 Min. kocht, abseiht und abschreckt.
 
 [^kochabo]: ["So formt man Nockerl mit 2 Esslöffeln."](https://www.youtube.com/watch?v=cRTRUGXAFHo)

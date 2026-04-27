@@ -15,17 +15,17 @@
 
     1. **Activate yeast**. Add yeast, sugar, water in mixing bowl. Mix. Rest 10
         minutes until yeast activates.
-    1. **Mix.** Combine activated yeast mixture with flour, salt, and baking powder.
+    2. **Mix.** Combine activated yeast mixture with flour, salt, and baking powder.
         Whisk 1-2 minutes until a smooth batter forms.
-    1. **Proof** 45 minutes in a warm spot.
-    1. **Preheat pan** to 190ºC (375ºF) over medium heat. Grease loaf pan with
+    3. **Proof** 45 minutes in a warm spot.
+    4. **Preheat pan** to 190ºC (375ºF) over medium heat. Grease loaf pan with
         butter.
-    1. **Grease** heat-safe forms or cookie cutters.
-    1. **Cook** 5 minutes in a preheated until bubbles begin to rise through the
+    5. **Grease** heat-safe forms or cookie cutters.
+    6. **Cook** 5 minutes in a preheated until bubbles begin to rise through the
         middle of the crumpet. Flip and continue cooking until crumpet is fully
         set.
-    1. **Cool** crumpets to room temperature.
-    1. **Toast** crumpets and serve with butter and jam.
+    7. **Cool** crumpets to room temperature.
+    8. **Toast** crumpets and serve with butter and jam.
 
 [^kirkwood]: Kirkwood, John.
     ["English Crumpets."](https://profoodhomemade.com/crumpets/)

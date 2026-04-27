@@ -23,8 +23,8 @@
 === "Zubereitung"
 
     1. **Backrohr auf 180ºC** Ober-Unterhitze vorheizen.
-    1. **Brösel anrösten.**
-    1. **Bestreichen und bestreuen.** Ein Drittel des ausgezogenen Strudelteiges
+    2. **Brösel anrösten.**
+    3. **Bestreichen und bestreuen.** Ein Drittel des ausgezogenen Strudelteiges
         wird mit Öl bestrichen, der übrige Teil mit den gerösteten Bröseln, Äpfeln,
         Zucker, Zimt, Muskatnuss, und Zitronenschale bestreut.
 

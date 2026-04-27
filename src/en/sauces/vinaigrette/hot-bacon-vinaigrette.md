@@ -23,13 +23,13 @@
     1. **Fry bacon.** Add bacon and oil to frying pan. Fry 15 minutes over medium
         heat until crispy. Strain bacon and infused oil into separate containers.
         Set aside.
-    1. **Sauté onion.** Add onion and salt to frying pan. Sauté 5 minutes, stirring
+    2. **Sauté onion.** Add onion and salt to frying pan. Sauté 5 minutes, stirring
         up fond, until softened. Mix and sauté garlic 60 seconds.
-    1. **Season.** Combine vinegars, water, syrup, and dijon. Whisk into frying pan.
+    3. **Season.** Combine vinegars, water, syrup, and dijon. Whisk into frying pan.
         Bring to simmer and reduce heat to low.
-    1. **Emulsify.** Whisk in black pepper and slurry. Continue whisking 60 seconds
+    4. **Emulsify.** Whisk in black pepper and slurry. Continue whisking 60 seconds
         until mixture has thickened. Slowly whisk in infused oil.
-    1. **Correct to taste** with remaining bacon and seasonings.
+    5. **Correct to taste** with remaining bacon and seasonings.
 
 [^1]: Mitzewich, John.
     ["New Year's Day Spinach Salad with Hot Bacon Dressing - Good Luck with That!"](https://foodwishes.blogspot.com/2011/12/new-years-day-spinach-salad-with-hot.html)

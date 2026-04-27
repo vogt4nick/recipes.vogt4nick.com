@@ -21,9 +21,9 @@ tags:
     1. **Pan fry.** Toast bread in oil over medium heat 7 minutes. Stir in garlic,
         thyme, and pine nuts, and cook until fragrant. Stir in mushrooms and cook 5
         minutes.
-    1. **Remove from heat.** Stir in spinach and soy sauce, and cook with residual
+    2. **Remove from heat.** Stir in spinach and soy sauce, and cook with residual
         heat until leaves just begin to wilt.
-    1. **Season** with salt and pepper to taste.
+    3. **Season** with salt and pepper to taste.
 
 [^fauda_role]: Fauda-Rôle, Sabrina. _Vegan One Pot._ München: Dorling Kindersley
     Verlag GmbH, 2023. 138-9.

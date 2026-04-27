@@ -18,7 +18,7 @@ tags:
 
     1. **Cook pasta** in saltwater per package directions. Reserve some cooking
         water. Drain.
-    1. **Pan fry** garlic and chilis in olive oil 3 minutes until just golden. Stir
+    2. **Pan fry** garlic and chilis in olive oil 3 minutes until just golden. Stir
         in pasta to coat evenly. Taste and correct with salt or reserved cooking
         water as needed.
 

@@ -8,12 +8,12 @@
 
     1. **Boil ginger** in water 35 minutes in a covered saucepan until ginger is
         tender.
-    1. **Drain ginger** in colander, reserving 60 g of the cooking liquid.
-    1. **Candy ginger.** Add ginger, sugar, and reserved cooking liquid to saucepan.
+    2. **Drain ginger** in colander, reserving 60 g of the cooking liquid.
+    3. **Candy ginger.** Add ginger, sugar, and reserved cooking liquid to saucepan.
         Stir to combine. Bring to boil, stirring frequently. Cook 20 minutes over
         medium heat, stirring frequently, until the sugar syrup appears dry, has
         almost evaporated, and begins to recrystallize.
-    1. **Cool.** Transfer the ginger immediately to a wire rack and spread to
+    4. **Cool.** Transfer the ginger immediately to a wire rack and spread to
         separate the individual pieces.
 
     !!! tip "Save the sugar that drops beneath the cooling rack and use to top ginger snaps, sprinkled over ice cream or to sweeten coffee."

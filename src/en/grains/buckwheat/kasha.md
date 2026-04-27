@@ -14,7 +14,7 @@
     1. **Cook.** Add ingredients to saucepan. Bring to boil, cover, reduce to very
         low heat, and simmer 15 minutes. Finally, while covered, remove pan from
         heat and let stand for 10 minutes.
-    1. **Fluff** kasha with a fork.
+    2. **Fluff** kasha with a fork.
 
 [^bittman]: Bittman, Mark.
     [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).

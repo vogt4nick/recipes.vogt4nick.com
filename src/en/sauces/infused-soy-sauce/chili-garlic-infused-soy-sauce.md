@@ -19,6 +19,6 @@
     1. **Temper aromatics.** Heat oil in saucepan over medium-high heat until
         shimmering, and reduce heat to medium. Stirring continuously, add
         aromatics, and cook 60 seconds until fragrant.
-    1. **Boil.** Add water, bring to low boil, and cook 5 minutes. Add soy sauce and
+    2. **Boil.** Add water, bring to low boil, and cook 5 minutes. Add soy sauce and
         flavorings, and cook 60 seconds more.
-    1. **Strain** solids from soy sauce.
+    3. **Strain** solids from soy sauce.

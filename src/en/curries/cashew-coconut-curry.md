@@ -31,16 +31,16 @@ tags:
         is shimmering. Add onion, garlic, ginger, and chili. Cook 10 minutes,
         stirring frequently, and scraping bottom of pan until golden brown and
         starting to burn in spots.
-    1. **Form curry.** Add cashews, cayenne, and Thai red curry. Cook 30 seconds,
+    2. **Form curry.** Add cashews, cayenne, and Thai red curry. Cook 30 seconds,
         stirring constantly until fragrant. Add coconut milk, and remove from heat.
         Scrape up the fond from bottom of pan.
-    1. **Blend.** Starting at a slow speed and working up, blend 30 seconds until
+    3. **Blend.** Starting at a slow speed and working up, blend 30 seconds until
         smooth.
-    1. **Thicken curry.** Add chickpeas, spinach, and remaining Thai red curry, and
+    4. **Thicken curry.** Add chickpeas, spinach, and remaining Thai red curry, and
         cook 10 minutes over low heat, stirring constantly, until vegetables are
         heated through and spinach is wilted. Add salt and lime juice to taste.
         Stir in half of cilantro.
-    1. **Serve.** Transfer to serving bowl, sprinkle with extra cilantro, and serve
+    5. **Serve.** Transfer to serving bowl, sprinkle with extra cilantro, and serve
         with lime wedges, basmati rice pilaf, or flatbread.
 
 [^lopez]: López-Alt, J. Kenji.

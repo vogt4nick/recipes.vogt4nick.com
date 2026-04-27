@@ -28,15 +28,15 @@
     1. **Temper spices.** Heat oil in a pan over medium-high heat. Add mustard and
         cumin seeds and cook until they splutter. Add curry leaves and green chili,
         and cook 1 minute.
-    1. **Saute onions** until beginning to brown. Add ginger garlic paste, and cook
+    2. **Saute onions** until beginning to brown. Add ginger garlic paste, and cook
         1 minute.
-    1. **Add tomatoes** and cook until mushy.
-    1. **Season.** Stir in seasonings. Cook 1-2 minutes.
-    1. **Add mung beans** and water. Cook until tender and soft, adding more hot
+    3. **Add tomatoes** and cook until mushy.
+    4. **Season.** Stir in seasonings. Cook 1-2 minutes.
+    5. **Add mung beans** and water. Cook until tender and soft, adding more hot
         water as needed.
-    1. **Thicken** by mashing some beans. Cook further to reduce if the curry is too
+    6. **Thicken** by mashing some beans. Cook further to reduce if the curry is too
         runny.
-    1. **Garnish** with coriander leaves, ghee and lemon juice, and serve.
+    7. **Garnish** with coriander leaves, ghee and lemon juice, and serve.
 
     !!! tip "The oil is hot enough when adding one cumin seed to the oil causes the seed to crack immediately."
 

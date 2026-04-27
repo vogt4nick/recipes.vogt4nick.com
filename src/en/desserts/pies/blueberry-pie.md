@@ -18,19 +18,19 @@
 
     1. **Preheat oven** to 425°F (218°C). Foil a baking sheet on the bottom rack to
         catch drippings.
-    1. **Mix filling.** Combine blueberries, sugar, flour, cornstarch, cinnamon,
+    2. **Mix filling.** Combine blueberries, sugar, flour, cornstarch, cinnamon,
         lemon juice, and zest. Mix until moistened, bursting some berries as
         needed.
-    1. **Assemble.** Roll one dough disc to a 12-inch circle and place in a 9-inch
+    3. **Assemble.** Roll one dough disc to a 12-inch circle and place in a 9-inch
         pie dish. Pour filling evenly into crust. Dot with butter.
-    1. **Top with lattice.** Roll second dough disc to 12 inches and cut into 1-inch
+    4. **Top with lattice.** Roll second dough disc to 12 inches and cut into 1-inch
         strips. Weave strips in a lattice pattern over filling. Press edges to
         seal, trim excess, and flute edges.
-    1. **Apply egg wash.** Brush egg wash over crust. Sprinkle with coarse sugar.
-    1. **Bake** 25 minutes at 425°F, then reduce heat to 375°F (190°C). Shield edges
+    5. **Apply egg wash.** Brush egg wash over crust. Sprinkle with coarse sugar.
+    6. **Bake** 25 minutes at 425°F, then reduce heat to 375°F (190°C). Shield edges
         and continue baking 40-50 minutes (60-90 if using frozen blueberries) until
         filling bubbles throughout and internal temperature reaches 200°F (93°C).
-    1. **Cool** on a wire rack at least 4 hours before slicing.
+    7. **Cool** on a wire rack at least 4 hours before slicing.
 
     !!! info "The filling can be prepared up to 24 hours in advance and refrigerated."
 

@@ -35,9 +35,9 @@ tags:
 
     1. **Zwiebel andünsten.** In einer Pfanne die restliche Butter erhitzen, darin
         Zwiebel andünsten.
-    1. **Knödel-Masse vermengen.** Semmelwürfeln, Zwiebeln, Petersilie, Mehl, Salz,
+    2. **Knödel-Masse vermengen.** Semmelwürfeln, Zwiebeln, Petersilie, Mehl, Salz,
         Eier, und Milch in einer Schüssel gut vermengen.
-    1. **Knödel abdrehen.** Aus der Masse Knödel abdrehen und in siedendem
+    3. **Knödel abdrehen.** Aus der Masse Knödel abdrehen und in siedendem
         Salzwasser gar ziehen lassen.
 
     !!! tip "Die Knödeln drehen mit angefeuchteten (nicht nassen!) Händen ab."

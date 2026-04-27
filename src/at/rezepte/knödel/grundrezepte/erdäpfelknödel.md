@@ -21,12 +21,12 @@ tags:
     1. **Die Erdäpfel kochen.** Die Erdäpfel 30 Minuten im leicht wallenden
         Salzwasser kochen. Das Wasser abseihen, die Kartoffeln kurz mit kaltem
         Wasser abschrecken.
-    1. **Die Erdäpfel zerdrücken.** Die Kartoffeln anschließend durch die
+    2. **Die Erdäpfel zerdrücken.** Die Kartoffeln anschließend durch die
         Erdäpfelpresse drücken. Gepresste Erdäpfel, Mehl, Erdäpfelstärke, Grieß,
         Butter, Dotter, und Salz gut vermengen.
-    1. **Die Knödel formen.** Knödel mit feuchten Händen formen und in einem Topf
+    3. **Die Knödel formen.** Knödel mit feuchten Händen formen und in einem Topf
         Salzwasser zum Kochen bringen bzw. leicht wallen lassen.
-    1. **Die Knödel kochen.** Danach die Knödel im Wasser 15-20 Minuten bissfest
+    4. **Die Knödel kochen.** Danach die Knödel im Wasser 15-20 Minuten bissfest
         kochen.
 
     !!! note "Ist der Teig zu weich, noch etwas Grieß zufügen."

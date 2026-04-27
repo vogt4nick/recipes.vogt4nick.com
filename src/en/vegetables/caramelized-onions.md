@@ -12,5 +12,5 @@
     1. **Caramelize onion.** Heat oil over medium heat. Stir in onions, sugar, salt,
         pepper to coat evenly. Cook about 40 minutes, stirring occasionally, until
         caramelized.
-    1. **Deglaze and reduce.** Add wine or water to deglaze pan. Reduce while
+    2. **Deglaze and reduce.** Add wine or water to deglaze pan. Reduce while
         scraping up fond. Remove from heat.

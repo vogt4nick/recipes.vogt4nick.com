@@ -26,15 +26,15 @@
 === "Directions"
 
     1. **Preheat oven** to 350ºF (177ºC).
-    1. **Mix dry mix.** Whisk dry mix and spices until combined.
-    1. **Mix wet mix.** Cream butter and sugars until homogeneous, fluffy, and
+    2. **Mix dry mix.** Whisk dry mix and spices until combined.
+    3. **Mix wet mix.** Cream butter and sugars until homogeneous, fluffy, and
         voluminous. Add vanilla. One at a time, mix in eggs. Whip until just
         combined.
-    1. **Combine.** Add dry mix to wet mix. Gently stir until just incorporated.
+    4. **Combine.** Add dry mix to wet mix. Gently stir until just incorporated.
         Gently stir in chocolate.
-    1. **Chill** 30 minutes, covered, if necessary.
-    1. **Bake** 12-14 minutes until matte and risen slightly. Remove from heat.
-    1. **Cool** 60 minutes until solid.
+    5. **Chill** 30 minutes, covered, if necessary.
+    6. **Bake** 12-14 minutes until matte and risen slightly. Remove from heat.
+    7. **Cool** 60 minutes until solid.
 
     !!! tip "Chill dough 30 minutes before baking if the kitchen is hot and the dough is loose and greasy."
 

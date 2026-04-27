@@ -28,9 +28,9 @@
 === "Directions"
 
     1. **Mix dressing.**
-    1. **Combine** spaghetti, chicken, vegetables, salt, and dressing by hand.
-    1. **Chill** at least 2 hours, covered, stirring once or twice.
-    1. **Season.** Combining all seasonings by hand.
+    2. **Combine** spaghetti, chicken, vegetables, salt, and dressing by hand.
+    3. **Chill** at least 2 hours, covered, stirring once or twice.
+    4. **Season.** Combining all seasonings by hand.
 
 [^1]: Mitzewich, John.
     ["Chicken Noodle Salad - Making Friends with Cold Spaghetti."](https://foodwishes.blogspot.com/2019/06/chicken-noodle-salad-making-friends.html)

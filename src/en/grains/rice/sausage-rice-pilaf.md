@@ -17,13 +17,13 @@
     1. **Fry sausage.** Heat olive oil in saucepan over medium heat. Add sausage,
         and fry until cooked. Remove sausage and set aside, retaining oil and
         sausage drippings in pan.
-    1. **Sweat onion.** Add onion, garlic, bay leaves, salts, and pepper, and sweat
+    2. **Sweat onion.** Add onion, garlic, bay leaves, salts, and pepper, and sweat
         3 minutes until soft and translucent.
-    1. **Toast rice.** Stir in rice to coat evenly. Toast 1 minute.
-    1. **Cook.** Add stock and butter, bring to boil, cover, and reduce heat to low.
+    3. **Toast rice.** Stir in rice to coat evenly. Toast 1 minute.
+    4. **Cook.** Add stock and butter, bring to boil, cover, and reduce heat to low.
         Cook 15 minutes. Finally, while covered, remove pan from heat and let stand
         for 10 minutes.
-    1. **Fluff** rice with a fork, mix in sausage, and serve.
+    5. **Fluff** rice with a fork, mix in sausage, and serve.
 
     ??? question "Why add the butter after sweating the onions?"
 

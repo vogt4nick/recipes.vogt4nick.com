@@ -21,13 +21,13 @@ title: Pancakes
 
     1. **Mix batter.** Sift dry ingredients, and whisk to combine. Whisk in milk and
         egg until dry ingredients are just combined.
-    1. **Rest** 5 minutes to allow baking powder time to react the fluids at an even
+    2. **Rest** 5 minutes to allow baking powder time to react the fluids at an even
         pace.
-    1. **Preheat** thin coat of oil in heavy pan or skillet over medium-high heat.
-    1. **Cook.** Dividing as necessary, pour 60 g batter per pancake. When bubbles
+    3. **Preheat** thin coat of oil in heavy pan or skillet over medium-high heat.
+    4. **Cook.** Dividing as necessary, pour 60 g batter per pancake. When bubbles
         begin to rise through the middle of the pancake, flip, and continue cooking
         until fully set.
-    1. **Serve** with butter and maple syrup.
+    5. **Serve** with butter and maple syrup.
 
 [^mitzewich]: Mitzewich, John.
     ["Grandma Kelly's Good Old Fashioned Pancakes Really Measure Up."](https://foodwishes.blogspot.com/2011/08/grandma-kellys-good-old-fashioned.html)

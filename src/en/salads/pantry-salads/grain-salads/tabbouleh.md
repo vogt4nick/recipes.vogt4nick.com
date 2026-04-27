@@ -25,9 +25,9 @@ tags:
 === "Directions"
 
     1. **Soak bulgur** in water until absorbed.
-    1. **Degorge tomatoes.** Place tomatoes in a colander, salt, and allow excess
+    2. **Degorge tomatoes.** Place tomatoes in a colander, salt, and allow excess
         liquid to drain off.
-    1. **Mix tabbouleh.** Mix bulgur, tomatoes, and cucumber. Season to taste with
+    3. **Mix tabbouleh.** Mix bulgur, tomatoes, and cucumber. Season to taste with
         salt and pepper. Mix in remaining ingredients.
 
 [^sogomonian]: Sogomonian, Robert.

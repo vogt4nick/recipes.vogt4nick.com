@@ -14,8 +14,8 @@
         about 10 minutes, stirring occasionally, until mushrooms are soft and their
         water is mostly done evaporating. Add garlic and cook an additional 2
         minutes, stirring occasionally.
-    1. **Stir in spinach** and cook 5 minutes until they're wilted. Remove from
+    2. **Stir in spinach** and cook 5 minutes until they're wilted. Remove from
         heat.
-    1. **Mix in rice.** Season to taste, and serve.
+    3. **Mix in rice.** Season to taste, and serve.
 
     !!! tip "This recipe works best with recently cooked rice."

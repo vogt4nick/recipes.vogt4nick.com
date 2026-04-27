@@ -19,16 +19,16 @@ title: Hollandaise
 === "Directions"
 
     1. **Simmer water** in stockpot. Maintain at a bare simmer.
-    1. **Dilute lemon juice** and set aside.
-    1. **Whisk egg yolks.** Add egg yolks to a room temperature pyrex bowl. Transfer
+    2. **Dilute lemon juice** and set aside.
+    3. **Whisk egg yolks.** Add egg yolks to a room temperature pyrex bowl. Transfer
         bowl to stockpot to form a makeshift double boiler. Whisk eggs 60 seconds
         over double boiler. Add *diluted lemon juice*. Whisk 30 seconds over double
         boiler.
-    1. **Thicken sauce.** Add cold butter. Whisk 1-2 minutes over double boiler
+    4. **Thicken sauce.** Add cold butter. Whisk 1-2 minutes over double boiler
         until mixture is 160ºF (71ºC).
-    1. **Cool sauce.** Remove bowl from heat. Add remaining cold butter. Whisk 60
+    5. **Cool sauce.** Remove bowl from heat. Add remaining cold butter. Whisk 60
         seconds.
-    1. **Thickening sauce more.** While whisking sauce, slowly drip melted butter
+    6. **Thickening sauce more.** While whisking sauce, slowly drip melted butter
         until the sauce begins to thicken into a heavy cream. Omit the milky
         residue at the bottom of the butter pan.
 

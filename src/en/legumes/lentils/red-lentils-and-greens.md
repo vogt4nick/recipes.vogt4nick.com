@@ -34,13 +34,13 @@ tags:
 
     1. **Cook lentils.** Combine lentils, turmeric, and water. Bring to a boil,
         lower heat, and simmer about 20 minutes until soft.
-    1. **Temper spices.** Heat oil in a skillet. Add cumin and mustard seeds about
+    2. **Temper spices.** Heat oil in a skillet. Add cumin and mustard seeds about
         10 seconds. Lower heat, add chili, garlic, and ginger, and cook 3-4 minutes
         until fragrant.
-    1. **Cook spinach.** Add spinach, tomatoes, salt, and pepper. Cook 3-5 minutes
+    3. **Cook spinach.** Add spinach, tomatoes, salt, and pepper. Cook 3-5 minutes
         until the leaves are totally wilted.
-    1. **Combine** cooked greens and lentils. Simmer 10 minutes. Taste for salt.
-    1. **Serve** lentils over rice. Garnish with
+    4. **Combine** cooked greens and lentils. Simmer 10 minutes. Taste for salt.
+    5. **Serve** lentils over rice. Garnish with
 
 [^1]: ["Spiced Red Lentils and Greens with Basmati Rice."](https://www.ymca.org/what-we-do/youth-development/food-programs/recipes/spiced-red-lentils-and-greens-basmati-rice)
     *YMCA.* 4 Dec 2021.

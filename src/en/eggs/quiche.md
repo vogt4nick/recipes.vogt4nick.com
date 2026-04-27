@@ -21,14 +21,14 @@ tags:
 === "Directions"
 
     1. **Preheat oven** to 350ºF (177ºC).
-    1. **Mix filling.** Add fillings and seasonings in a large mixing bowl. Whisk
+    2. **Mix filling.** Add fillings and seasonings in a large mixing bowl. Whisk
         until blended.
-    1. **Build quiche.** Place the piecrust on a parchement-lined sheetpan. Layer
+    3. **Build quiche.** Place the piecrust on a parchement-lined sheetpan. Layer
         sausage on bottom of pie crust. Layer sautéed vegetables. Pour in the the
         filling. Layer cheese on top. Bake 50 - 60 minutes at 350ºF until almost
         firm and lightly brown on top.
-    1. **Cool** 2 - 4 hours on a wire rack until cooled to room temperature.
-    1. **Serve** warm or at room-temperature.
+    4. **Cool** 2 - 4 hours on a wire rack until cooled to room temperature.
+    5. **Serve** warm or at room-temperature.
 
 [^1]: Bittman, Mark.
     [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th

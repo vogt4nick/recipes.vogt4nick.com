@@ -19,16 +19,16 @@
     1. **Prepare pota-dough.** Mash potatoes into large bowl. Add ricotta, egg,
         flour, salt, thyme. Mix. Transfer dough to well-floured surface. Knead
         gently.
-    1. **Shape dumplings.** Divide batch as necessary; roll *pota-dough* into 2 cm
+    2. **Shape dumplings.** Divide batch as necessary; roll *pota-dough* into 2 cm
         thick rope. Cut 3 cm dumplings from rope.
         [Dimple the dumplings](https://www.youtube.com/watch?v=iTmcGy9CWhE&t=175s).
-    1. **Cook dumplings.** Add water and olive oil to stockpan. Boil over high heat.
+    3. **Cook dumplings.** Add water and olive oil to stockpan. Boil over high heat.
         Divide batch as necessary; add dumplings to stockpan. Note that dumplings
         are cooked when they begin to float.
-    1. **Sear dumplings.** Heat remaining olive oil frying pan over medium-high
+    4. **Sear dumplings.** Heat remaining olive oil frying pan over medium-high
         heat. Transfer *cooked dumplings* to frying pan. Add black pepper. Cook 2
         minutes until brown. Flip. Cook 2 minutes. Remove from heat.
-    1. **Garnish and serve** with parsley.
+    5. **Garnish and serve** with parsley.
 
     ??? question "I don't have a potato masher. How do I make pota-dough?"
 

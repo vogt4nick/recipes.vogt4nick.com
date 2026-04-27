@@ -15,22 +15,22 @@
 
     1. **Leaven.** Mix starter, flour, and water until just incorporated. Seal, and
         rest 12 hours at room temperature.
-    1. **Autolyse.** Blend the flours until homogeneous. Add water, and mix until
+    2. **Autolyse.** Blend the flours until homogeneous. Add water, and mix until
         just incorporated. Cover and rest 45 minutes.
-    1. **Mix.** Add salt and leaven to the autolysed dough, and mix by hand using
+    3. **Mix.** Add salt and leaven to the autolysed dough, and mix by hand using
         the [pincer method](https://www.youtube.com/watch?v=HoY7CPw0E1s) until
         becomes a homogeneous mass. Rest 10 minutes. Mix in olives, herbs, and
         lemon zest, again with pincer method, until evenly distributed.
-    1. **Knead.** Slap & fold 2 minutes to develop gluten.
-    1. **Bulk ferment** 5h 30m total, covered. Slap & fold 30 minutes for the first
+    4. **Knead.** Slap & fold 2 minutes to develop gluten.
+    5. **Bulk ferment** 5h 30m total, covered. Slap & fold 30 minutes for the first
         3 hours, and rest for the remaining 2h 30m.
-    1. **Shape** into a medium-tight loaf.
-    1. **Cold proof (optional)** 8-24 hours in refrigerator.
-    1. **Preheat oven** to 250ºC (482ºF).
-    1. **Preheat dutch oven** with its lid at least 45 minutes.
-    1. **Bake** 35 minutes covered. Remove lid, and continue baking 20 minutes until
-        dark brown all around the loaf.
-    1. **Cool** loaf at room temperature at least 20 minutes.
+    6. **Shape** into a medium-tight loaf.
+    7. **Cold proof (optional)** 8-24 hours in refrigerator.
+    8. **Preheat oven** to 250ºC (482ºF).
+    9. **Preheat dutch oven** with its lid at least 45 minutes.
+    10. **Bake** 35 minutes covered. Remove lid, and continue baking 20 minutes
+        until dark brown all around the loaf.
+    11. **Cool** loaf at room temperature at least 20 minutes.
 
     ??? question "Why do I continue kneading through bulk fermentation?"
 

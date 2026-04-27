@@ -26,9 +26,9 @@ tags:
 === "Directions"
 
     1. **Broil** thighs and drumsticks 15 minutes, turning midway.
-    1. **Season** thighs and drumsticks.
-    1. **Bake.** Tent thighs and drumsticks in foil. Bake 40 minutes at 350ºF
+    2. **Season** thighs and drumsticks.
+    3. **Bake.** Tent thighs and drumsticks in foil. Bake 40 minutes at 350ºF
         (175ºC), turning midway.
-    1. **Rest** 10 minutes, tented.
+    4. **Rest** 10 minutes, tented.
 
     !!! tip "When marinating, marinate at least 2 hours and DO NOT put excess marinade in roasting pan."

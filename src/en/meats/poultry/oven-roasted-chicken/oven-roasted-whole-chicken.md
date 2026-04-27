@@ -16,20 +16,20 @@
 === "Directions"
 
     1. **Preheat oven** to 200ºC (400ºF).
-    1. **Mix butter**, salt, pepper, thyme and rosemary leaves, garlic, and lemon
+    2. **Mix butter**, salt, pepper, thyme and rosemary leaves, garlic, and lemon
         zest into compound butter.
-    1. **Rub breasts.** Working from the back of the chicken, gently create space
+    3. **Rub breasts.** Working from the back of the chicken, gently create space
         between the skin and the breast meat on either side --- be careful not
         separate skin from the sternum. Apply butter liberally to both breasts
         under the skin.
-    1. **Fill cavity.** Sprinkle salt and pepper to taste in the cavity. Add
+    4. **Fill cavity.** Sprinkle salt and pepper to taste in the cavity. Add
         leftover lemon halves and sprigs.
-    1. **Dress chicken.** Tuck wing tips behind the shoulders. Tie chicken legs
+    5. **Dress chicken.** Tuck wing tips behind the shoulders. Tie chicken legs
         together with twine.
-    1. **Season** all sides of the chicken with olive oil, salt, and pepper.
-    1. **Bake** 45 minutes at 200ºC.
-    1. **Baste.**
-    1. **Bake** 15 minutes at 200ºC until it reaches an internal temperature of 74ºC
+    6. **Season** all sides of the chicken with olive oil, salt, and pepper.
+    7. **Bake** 45 minutes at 200ºC.
+    8. **Baste.**
+    9. **Bake** 15 minutes at 200ºC until it reaches an internal temperature of 74ºC
         (165ºF) at thickest part of thigh.
 
 [^foodwishes]: Mitzewich, John.

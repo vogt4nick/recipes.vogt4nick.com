@@ -41,14 +41,14 @@ tags:
 
     1. **Season meat.** Thoroughly mix bread crumbs, seasonings, and parmesan. Add
         sausage, beef, eggs, and milk, and mix to combine.
-    1. **Chill**, covered, up to 24 hours.
-    1. **Preheat oven** to 165ºC (325ºF).
-    1. **Form meatballs.** Dividing meat mixture into 80 g portions, roll each
+    2. **Chill**, covered, up to 24 hours.
+    3. **Preheat oven** to 165ºC (325ºF).
+    4. **Form meatballs.** Dividing meat mixture into 80 g portions, roll each
         meatball with one mozzarella cube.
-    1. **Braise.** Coat bottom of dutch oven with olive oil. Add meatballs in an
+    5. **Braise.** Coat bottom of dutch oven with olive oil. Add meatballs in an
         even layer(s), and coat with tomato sauce. Cover and braise 1h 15m at 165ºC
         (325ºF).
-    1. **Rest** 15 minutes before serving.
+    6. **Rest** 15 minutes before serving.
 
     !!! info "Meatballs may also be braised in a slow cooker on HIGH for 2h 30m."
 

@@ -20,12 +20,12 @@ tags:
 
     1. **Saute.** Melt butter in saucepan over medium-high heat. Cook scallions 5
         minutes until soft. Add barley and cook, stirring, 1 minute until glossy.
-    1. **Simmer.** Add herbs, stock, salt, and pepper. Bring to boil, cover, reduce
+    2. **Simmer.** Add herbs, stock, salt, and pepper. Bring to boil, cover, reduce
         heat to low, and simmer 30 minutes. Finally, while covered, remove pan from
         heat and let stand for 10 minutes. The barley is done when tender and all
         the liquid is absorbed.
-    1. **Fluff** barley with a fork.
-    1. **Cool and serve.** Allow barley to cool, uncovered, for a few minutes before
+    3. **Fluff** barley with a fork.
+    4. **Cool and serve.** Allow barley to cool, uncovered, for a few minutes before
         serving.
 
 [^bittman]: Bittman, Mark.

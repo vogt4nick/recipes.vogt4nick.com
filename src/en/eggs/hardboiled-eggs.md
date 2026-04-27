@@ -6,9 +6,9 @@
 === "Directions"
 
     1. **Steam eggs** 11 minutes.
-    1. **Shock eggs.** Immediately transfer eggs to a bowl of cold water. Cool
+    2. **Shock eggs.** Immediately transfer eggs to a bowl of cold water. Cool
         completely.
-    1. **Peel and serve.**
+    3. **Peel and serve.**
 
 ??? question "Why shock the eggs in cold water?"
 

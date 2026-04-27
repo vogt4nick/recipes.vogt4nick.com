@@ -30,27 +30,27 @@
 
     1. **Document grain(s).** Record the grain or blend you chose on a piece of
         tape, and attach to the outside of the container.
-    1. **Record weight.** Weigh the container without the lid. Record it on a piece
+    2. **Record weight.** Weigh the container without the lid. Record it on a piece
         of tape, and attach to the outside of the container.
-    1. **Day 1.** Mix 100 g flour and 100 g water at 29ºC-32ºC (85ºF-90ºF) until
+    3. **Day 1.** Mix 100 g flour and 100 g water at 29ºC-32ºC (85ºF-90ºF) until
         just incorporated. Rest 2 hours, uncovered. Seal, and rest at room
         temperature for one day.
-    1. **Day 2.** Reserve 50 g of the mixture, discarding the rest. Mix in 100 g
+    4. **Day 2.** Reserve 50 g of the mixture, discarding the rest. Mix in 100 g
         flour and 100 g water at 29ºC-32ºC (85ºF-90ºF) until just incorporated.
         Rest 2 hours, uncovered. Seal, and rest at room temperature for one day.
-    1. **Repeat day 2 as necessary.** At this stage the starter should be 2x larger
+    5. **Repeat day 2 as necessary.** At this stage the starter should be 2x larger
         by volume, with bubbles throughout and a leathery alcohol smell. Repeat day
         2 as necessary until this condition is met.
-    1. **Day 3.** Reserve 50 g of the mixture, discarding the rest. Mix in 100 g
+    6. **Day 3.** Reserve 50 g of the mixture, discarding the rest. Mix in 100 g
         flour and 100 g water at 29ºC-32ºC (85ºF-90ºF) until just incorporated.
         Rest 2 hours, uncovered. Seal, and rest at room temperature for one day.
-    1. **Repeat day 3 as necessary.** At this stage the starter should be 2x larger
+    7. **Repeat day 3 as necessary.** At this stage the starter should be 2x larger
         by volume, with bubbles throughout and a distinctly pungent, sour odor.
         Repeat day 3 as necessary until this condition is met.
-    1. **Day 4.** Reserve 40 g of the mixture, discarding the rest. Mix in 100 g
+    8. **Day 4.** Reserve 40 g of the mixture, discarding the rest. Mix in 100 g
         flour and 100 g water at 29ºC-32ºC (85ºF-90ºF) until just incorporated.
         Seal, and rest at room temperature for one day.
-    1. **Feed.**
+    9. **Feed.**
 
     !!! info "Different grains may take longer to start."
 
@@ -59,13 +59,13 @@
 === "Feeding, Storing, and Refreshing"
 
     1. **Rest** 1 hour at room temperature.
-    1. **Reserve** 20 g of starter, discarding the rest.
-    1. **Hydrate** with 80 g water at 29ºC-32ºC (85ºF-90ºF).
-    1. **Refresh** with 100 g flour.
-    1. **Mix** until just incorporated.
-    1. **Rest** 2 hours, uncovered.
-    1. **Seal.** Coat with a film of water and seal.
-    1. **Store** in refrigerator for up to 30 days.
+    2. **Reserve** 20 g of starter, discarding the rest.
+    3. **Hydrate** with 80 g water at 29ºC-32ºC (85ºF-90ºF).
+    4. **Refresh** with 100 g flour.
+    5. **Mix** until just incorporated.
+    6. **Rest** 2 hours, uncovered.
+    7. **Seal.** Coat with a film of water and seal.
+    8. **Store** in refrigerator for up to 30 days.
 
     !!! info "This recipe yields 240 g."
 
@@ -78,10 +78,10 @@
 
     1. **Hydration.** More liquid leads to greater production of lactic acid.
         stiffer cultures have a flavor profile more dominated by acetic acid.
-    1. **Temperature.** Warmer temperatures from 26ºC-32ºC (78ºF-90ºF) favor lactic
+    2. **Temperature.** Warmer temperatures from 26ºC-32ºC (78ºF-90ºF) favor lactic
         acid production. Cooler temperatures from 13ºC-18ºC (55ºF-65ºF) favor
         acetic acid production. Warmer cultures also develop faster.
-    1. **Flour.** High-extraction flours, whole grain wheat or rye flours, and
+    3. **Flour.** High-extraction flours, whole grain wheat or rye flours, and
         high-ash flours all contribute to more vigorous fermentation. They can also
         create a volatile culture that requires more frequent feedings to prevent
         problems. Every type of flour and blend of flours also has its own

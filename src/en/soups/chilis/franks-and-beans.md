@@ -35,11 +35,11 @@ tags:
     1. **Sweat base.** Melt butter in stockpan over medium heat. Add onions,
         peppers, chard stems, salt, peppercorns. Sweat 5 minutes until onions are
         translucent.
-    1. **Sweat sausage.** Add sausage. Cook 5 minutes until sausage drippings start
+    2. **Sweat sausage.** Add sausage. Cook 5 minutes until sausage drippings start
         to mix with the butter.
-    1. **Season.** Add seasonings, stock, and beans.
-    1. **Simmer** 30 minutes.
-    1. **Garnish** with scallions and serve with buttered toast.
+    3. **Season.** Add seasonings, stock, and beans.
+    4. **Simmer** 30 minutes.
+    5. **Garnish** with scallions and serve with buttered toast.
 
     !!! info "Thicken the soup by crushing kidney beans against the side of the stockpan."
 

@@ -15,13 +15,13 @@ title: Quinoa
 
     1. **Rinse and soak.** Rinse quinoa several times until water runs mostly clear.
         Soak quinoa at least 2 hours. Drain, and dispose of soaking liquid.
-    1. **Toast (optional).** Heat olive oil over medium-low heat. Stirring
+    2. **Toast (optional).** Heat olive oil over medium-low heat. Stirring
         constantly, add quinoa and toast 4-6 minutes until golden and aromatic.
-    1. **Cook.** Add all ingredients to saucepan. Bring to boil, cover, reduce to
+    3. **Cook.** Add all ingredients to saucepan. Bring to boil, cover, reduce to
         low heat, and simmer 15 minutes until water is absorbed and kernels have
         popped. Remove from heat and drain any excess water.
-    1. **Fluff** quinoa with a fork.
-    1. **Cool and serve.** Allow quinoa to cool, uncovered, for a few minutes before
+    4. **Fluff** quinoa with a fork.
+    5. **Cool and serve.** Allow quinoa to cool, uncovered, for a few minutes before
         serving.
 
     !!! info "Rinsing and soaking the quinoa removes saponins and lectins that irritate your intestines and increase gas.[^eggleston]"

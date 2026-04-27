@@ -21,13 +21,13 @@ tags:
 
     1. **Make vinaigrette.** Combine vinaigrette ingredients in a sealable jar.
         Shake vigorously to emulsify.
-    1. **Cook pasta** per package directions in heavily salted water.
-    1. **Parboil onion.** Put onion in a colander. Drain pasta over the onion
+    2. **Cook pasta** per package directions in heavily salted water.
+    3. **Parboil onion.** Put onion in a colander. Drain pasta over the onion
         through the colander.
-    1. **Mix** pasta, onion, vinaigrette, and corn kernels.
-    1. **Cool to room temperature**, partially covered, stirring occasionally.
-    1. **Taste**, correcting seasoning as desired.
-    1. **Combine.** Mix in avocados, mozzarella, and coriander.
+    4. **Mix** pasta, onion, vinaigrette, and corn kernels.
+    5. **Cool to room temperature**, partially covered, stirring occasionally.
+    6. **Taste**, correcting seasoning as desired.
+    7. **Combine.** Mix in avocados, mozzarella, and coriander.
 
 [^1]: Catalano, Patty.
     ["Corn and Avocado Pasta Salad with Cilantro and Lime."](https://www.thekitchn.com/avocado-pasta-salad-23048164)

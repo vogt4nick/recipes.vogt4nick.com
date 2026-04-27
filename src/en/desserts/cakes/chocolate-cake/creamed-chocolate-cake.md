@@ -17,15 +17,15 @@
 === "Directions"
 
     1. **Preheat oven** to 175ºC (350ºF). Grease an 8-inch square cake pan.
-    1. **Combine wet mix.** Cream butter and sugar. Add egg yolk, and vanilla, and
+    2. **Combine wet mix.** Cream butter and sugar. Add egg yolk, and vanilla, and
         whip until combined. Add buttermilk, and continue whipping until combined.
-    1. **Combine dry mix.** Sift flour, cocoa, baking soda, baking powder, and salt,
+    3. **Combine dry mix.** Sift flour, cocoa, baking soda, baking powder, and salt,
         and whisk to combine.
-    1. **Mix batter.** Stir dry mix into wet mix until just combined. Transfer
+    4. **Mix batter.** Stir dry mix into wet mix until just combined. Transfer
         batter to cake pan.
-    1. **Bake** 25-35 minutes at 175ºC until set.
-    1. **Cool** for 5 to 10 minutes.
-    1. **Spread** with frosting, and serve.
+    5. **Bake** 25-35 minutes at 175ºC until set.
+    6. **Cool** for 5 to 10 minutes.
+    7. **Spread** with frosting, and serve.
 
     !!! tip "The batter looks uneven; that's okay."
 

@@ -18,7 +18,7 @@
 === "Directions"
 
     1. **Soak chilis** in boiling water at least 30 minutes.
-    1. **Blend** ingredients until smooth.
+    2. **Blend** ingredients until smooth.
 
     !!! info "If necessary, add additional 2-3 T water as you blend."
 

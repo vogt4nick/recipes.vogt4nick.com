@@ -15,8 +15,8 @@ title: Weicher Backpulverteig
 === "Zubereitung"
 
     1. **Mehl und Backpulver vermischen.**
-    1. **Butter aufschäumen.** Die Butter wird flaumig gerührt.
-    1. **Backpulverteig mischen.** Man gibt abwechselnd Dotter und Zucker, die
+    2. **Butter aufschäumen.** Die Butter wird flaumig gerührt.
+    3. **Backpulverteig mischen.** Man gibt abwechselnd Dotter und Zucker, die
         Geschmacksstoffe und etwas Milch dazu, rührt das mit Mehl-Mix und die Milch
         ein und hebt den festgeschlagenen Schnee leicht darunter.
 

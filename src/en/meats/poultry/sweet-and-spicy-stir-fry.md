@@ -32,13 +32,13 @@ tags:
         Refrigerate for no more than 24 hours. Let cold chicken rest for 20 minutes
         at room temperature before cooking. Referenced later as *marinated
         chicken*.
-    1. **Sear chicken.** Heat a large wok over high heat. Add chicken. Cook 10
+    2. **Sear chicken.** Heat a large wok over high heat. Add chicken. Cook 10
         minutes, tossing frequently. Set chicken aside as *seared chicken*.
-    1. **Cook vegetables.** Add vegetables to wok. Mix. Cook 4 minutes, toss every
+    3. **Cook vegetables.** Add vegetables to wok. Mix. Cook 4 minutes, toss every
         30 seconds. Add water to bottom of pan as necessary to consistently steam
         vegetables. Cook 4 minutes, tossing every 60 seconds, until vegetables
         start to soften. Add *seared chicken* to wok. Mix. Remove from heat.
-    1. **Garnish** with cilantro.
+    4. **Garnish** with cilantro.
 
 [^1]: Bittman, Mark.
     [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th

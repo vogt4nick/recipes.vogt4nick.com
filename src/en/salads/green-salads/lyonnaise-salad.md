@@ -17,8 +17,8 @@ tags:
 === "Directions"
 
     1. **Mix dressing** ingredients in a small bowl.
-    1. **Combine ingredients.** Toss evenly.
-    1. **Garnish and serve.**
+    2. **Combine ingredients.** Toss evenly.
+    3. **Garnish and serve.**
 
 [^1]: Mitzewich, John.
     ["Salad Lyonnaise - A Super Salad from a City of Meat."](https://foodwishes.blogspot.com/2013/09/salad-lyonnaise-super-salad-from-city.html)

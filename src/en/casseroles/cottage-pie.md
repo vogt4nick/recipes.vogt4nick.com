@@ -33,22 +33,22 @@ tags:
     1. **Brown beef.** Heat a large skillet over medium-high heat. Add ground beef,
         breaking it up with a spoon. Cook until well browned. Transfer beef to a
         bowl with a slotted spoon, leaving the rendered fat in the skillet.
-    1. **Cook vegetables.** Reduce heat to medium. Add onion, carrot, and celery.
+    2. **Cook vegetables.** Reduce heat to medium. Add onion, carrot, and celery.
         Cook 5-7 minutes until softened. Stir in garlic and cook 1 minute more.
-    1. **Build filling.** Return beef to the skillet. Stir in tomato paste, beef
+    3. **Build filling.** Return beef to the skillet. Stir in tomato paste, beef
         stock, Worcestershire sauce, thyme, salt, and pepper. Simmer 10 minutes
         until thickened. Stir in black beans and frozen peas. Remove from heat.
-    1. **Boil potatoes.** Place chopped potatoes in a large pot of salted water.
+    4. **Boil potatoes.** Place chopped potatoes in a large pot of salted water.
         Bring to a boil and cook until fork-tender, about 15-20 minutes.
-    1. **Mash.** Drain potatoes, reserving 30 g cooking water. Return potatoes to
+    5. **Mash.** Drain potatoes, reserving 30 g cooking water. Return potatoes to
         pot. Add butter, warm milk, salt, and pepper. Mash until smooth. Stir in
         parmesan. Add reserved cooking water a splash at a time if needed.
-    1. **Assemble.** Transfer filling to a 9-inch pie tin. Spoon mashed potatoes
+    6. **Assemble.** Transfer filling to a 9-inch pie tin. Spoon mashed potatoes
         over filling and spread to cover. Drag a fork across the surface to create
         ridges.
-    1. **Bake** at 200ºC (400ºF) for 25-30 minutes until golden on top and bubbling
+    7. **Bake** at 200ºC (400ºF) for 25-30 minutes until golden on top and bubbling
         at the edges.
-    1. **Rest** 5-10 minutes before serving.
+    8. **Rest** 5-10 minutes before serving.
 
 !!! tip "Double the recipe and bake in a 9x13-inch casserole dish."
 

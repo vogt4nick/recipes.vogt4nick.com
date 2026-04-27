@@ -26,11 +26,11 @@ tags:
 
     1. **Soak lentils** at least 8 hours at room temperature. Drain. Remove bay leaf
         and berries.
-    1. **Prepare sauce.** Melt butter over medium heat. Sweat onion and apple 8
+    2. **Prepare sauce.** Melt butter over medium heat. Sweat onion and apple 8
         minutes. Stir in flour to form roux. Cook 2-3 minutes until toasty. Stir in
         vegetable stock until no clumps remain. Stir in vinegar, mustard, and
         lentils.
-    1. **Simmer.** Bring mixture to boil and reduce to simmer. Simmer, partially
+    3. **Simmer.** Bring mixture to boil and reduce to simmer. Simmer, partially
         covered, 25 minutes until tender.
 
 !!! info "Store in refrigerator up to 3 days."

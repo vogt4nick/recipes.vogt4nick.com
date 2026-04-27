@@ -24,7 +24,7 @@ tags:
     1. **Temper spices.** Heat oil in pan over medium heat. Cook black mustard seed
         30 seconds until the seeds pop. Add remaining spices; stir and cook 2-3
         minutes.
-    1. **Finish.** Stir in cooked lentils to combine, and cook 5 minutes more.
+    2. **Finish.** Stir in cooked lentils to combine, and cook 5 minutes more.
 
 [^reddit]: /u/Zeddog13.
     ["Good Dahl Recipe Please."](https://old.reddit.com/r/IndianFood/comments/13aiyz1/)

@@ -32,12 +32,12 @@ tags:
 
     1. **Brown beef.** Heat heavy-bottomed stock pot over medium-high heat. Add
         beef, salt, and pepper. Cook, breaking apart, 7-10 minutes until browned.
-    1. **Caramelize tomato paste.** Push beef to the sides of the pan to expose the
+    2. **Caramelize tomato paste.** Push beef to the sides of the pan to expose the
         pot's bottom. Add tomato paste and cook 3-4 minutes until bubbling.
-    1. **Bloom spices.** Reduce heat to medium. Mix spices into tomato paste. Cook
+    3. **Bloom spices.** Reduce heat to medium. Mix spices into tomato paste. Cook
         1-2 minutes until fragrant. Then stir into the beef.
-    1. **Deglaze.** Add beer and scrape up browned bits from the bottom of the pot.
-    1. **Simmer.** Mix in water, spinach and beans. Bring to a boil, then reduce
+    4. **Deglaze.** Add beer and scrape up browned bits from the bottom of the pot.
+    5. **Simmer.** Mix in water, spinach and beans. Bring to a boil, then reduce
         heat and simmer uncovered 45-60 minutes, stirring occasionally, until
         thickened to desired consistency.
 
