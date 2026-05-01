@@ -37,7 +37,7 @@ counterclockwise. Gently stir and cook briefly until egg floats.
 This technique results in longer, chunkier strands of egg.
 
 [^demystified]: Li, Stephanie and Chris Thomas.
-    ["Egg Drop [Anything] Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM)
+    ["Egg Drop (Anything) Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM)
     _YouTube: Chinese Cooking Demystified._ 29 December 2021.
 
 [^gallery]: Gallery, Christine.

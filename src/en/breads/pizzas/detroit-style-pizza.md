@@ -9,8 +9,7 @@ tags:
 === "Ingredients"
 
     - 30 g Peanut Oil or Neutral Oil
-    - 400 g
-        [Adrienne's Pizza Dough](../../breads/pizza-doughs/adrienne's-pizza-dough.md)
+    - 400 g [Adrienne's Pizza Dough](pizza-dough/index.md)
     - 30 g [Pizza Crust Oil](../../seasonings/infused-oils/pizza-crust-oil.md)
         (optional)
     - 200 g Mozzarella, sliced

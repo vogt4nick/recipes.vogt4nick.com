@@ -9,5 +9,5 @@
 
 ??? tip "Pair with savory, meaty entrees."
 
-    e.g. [B.O.C. Monsieur](../../handhelds/boc-monsieur.md),
+    e.g. [B.O.C. Monsieur](../../sandwiches/boc-monsieur.md),
     [Sauerbraten](../../meats/beef/sauerbraten.md).

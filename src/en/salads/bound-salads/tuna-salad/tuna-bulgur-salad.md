@@ -1,6 +1,6 @@
 === "Ingredients"
 
-    - 100 g [Mayonnaise](../../sauces/hollandaise/mayonnaise/index.md)
+    - 100 g [Mayonnaise](../../../sauces/hollandaise/mayonnaise/index.md)
         - 1/4 t Medium-Grain Salt
         - 1 t Dijon Mustard
         - 1 t Hot Sauce
@@ -12,7 +12,7 @@
         - 1/4 t Dried Thyme Leaves
         - 1/4 t Garlic Powder
     - 200 g Canned Tuna
-    - 200 g Dry Pearl Barley, [cooked](../../grains/barley/index.md)
+    - 200 g Dry Pearl Barley, [cooked](../../../grains/barley/index.md)
     - 300 g Frozen Corn Kernels
     - 300 g Frozen Green Peas
 

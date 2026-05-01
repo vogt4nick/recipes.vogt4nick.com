@@ -8,7 +8,7 @@ tags:
 
 === "Ingredients"
 
-    - 400 g [Kewpie-style Egg Salad](../salads/protein-salads/egg-salad.md)
+    - 400 g [Kewpie-style Egg Salad](../salads/bound-salads/egg-salad.md)
     - Soft White Bread
 
     !!! info "Yields 4 sandwiches."

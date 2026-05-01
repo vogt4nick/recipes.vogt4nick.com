@@ -52,6 +52,8 @@ tags:
 
 [^mitzewich]: Mitzewich, John.
     ["Pulled Chicken Shawarma Sandwich."](https://www.allrecipes.com/pulled-chicken-shawarma-sandwich-recipe-11733785)
-    *All Recipes.* 16 May 2025. [^mitzewich_yt] Mitzewich, John.
+    *All Recipes.* 16 May 2025.
+
+[^mitzewich_yt]: Mitzewich, John.
     ["Pulled Chicken Shawarma Sandwich | Food Wishes"](https://www.youtube.com/watch?v=dbXSMZwpe4k)
     *YouTube: Food Wishes.* 16 May 2025.

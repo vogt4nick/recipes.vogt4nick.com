@@ -16,7 +16,7 @@ tags:
     - 1/2 t Medium-Grain Salt
     - Scallion Whites, minced
     - Carrots, shredded
-    - 3 T [Ginger-Garlic Paste](../../sauces/ginger-garlic-paste.md)
+    - 3 T [Ginger-Garlic Paste](../../../sauces/ginger-garlic-paste.md)
     - 3 T Ssamjang or BBQ Sauce
     - 1 T Soy Sauce
     - 1 T Dijon Mustard

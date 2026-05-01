@@ -43,5 +43,5 @@ tags:
     8. **Serve** garnished with cilantro.
 
 [^demystified]: Li, Stephanie and Chris Thomas.
-    ["Egg Drop [Anything] Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM)
+    ["Egg Drop (Anything) Soup."](https://www.youtube.com/watch?v=jz2KcqzP7kM)
     _YouTube: Chinese Cooking Demystified._ 29 December 2021.

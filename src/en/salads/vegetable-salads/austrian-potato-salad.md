@@ -1,7 +1,7 @@
 === "Ingredients"
 
     - 500 g Russet Potatoes, cooked, peeled, thinly sliced
-    - 500 g [Beef Stock](../soups/stocks/meat-stock.md), hot
+    - 500 g [Beef Stock](../../soups/stocks/meat-stock.md), hot
     - 100 g Sweet Onion, minced
     - Seasonings
         - 45 g White Vinegar

@@ -9,7 +9,8 @@
         - 1/2 t Medium-Grain Salt
         - 1/2 t Black Peppercorn, ground
     - 40 g Shallots or Red Onion
-    - 400 g [Dry Legumes, slightly undercooked](../../legumes/beans/index.md), warm
+    - 400 g [Dry Legumes, slightly undercooked](../../../legumes/beans/index.md),
+        warm
     - Garnish
         - Fresh Parsley Leaves, chopped
 
@@ -19,7 +20,7 @@
 
         1. Chopped fresh, dried, or oven-roasted tomatoes.
         2. Raw or
-           [roasted](../../vegetables/oven-roasted-vegetables/oven-roasted-bell-peppers.md)
+           [roasted](../../../vegetables/oven-roasted-vegetables/oven-roasted-bell-peppers.md)
            chopped peppers or chilis.
         3. Chopped salad greens like romaine, arugula, spinach, etc.
         4. Cooked greens like kale, chard, spinach, broccoli, bok choy, green beans,

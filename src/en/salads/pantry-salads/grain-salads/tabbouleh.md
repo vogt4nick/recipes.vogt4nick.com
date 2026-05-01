@@ -13,8 +13,7 @@ tags:
     - Black Peppercorn, ground
     - 1 Scallion, minced
     - Fresh Parsley Leaves, minced
-    - Vinaigrette, prepared as [per recipe](../../sauces/vinaigrette/index.md) with
-        following ingredients
+    - [Vinaigrette](../../../sauces/vinaigrette/index.md)
         - 50 g Lemon Juice
         - 50 g Olive Oil
         - Medium-Grain Salt

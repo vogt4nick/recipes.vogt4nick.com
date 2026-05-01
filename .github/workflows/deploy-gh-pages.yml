@@ -50,7 +50,7 @@ jobs:
       - name: Install dependencies
         run: uv sync --no-dev
       - name: Build en site
-        run: uv run zensical build -f mkdocs.yml
+        run: uv run zensical build --strict -f mkdocs.yml
 
         # fix file permissions before packaging; GitHub Pages requires all files to be readable
       - name: Fix permissions

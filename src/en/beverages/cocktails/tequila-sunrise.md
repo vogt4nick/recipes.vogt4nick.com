@@ -9,4 +9,4 @@
 
 ??? tip "Pair with spicy seafood or spanish entrees."
 
-    e.g. [Quesadillas](../../handhelds/quesadillas.md)
+    e.g. [Quesadillas](../../sandwiches/quesadillas.md)

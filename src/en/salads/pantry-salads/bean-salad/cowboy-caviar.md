@@ -14,8 +14,8 @@ tags:
         - 2 Garlic Cloves, minced
         - 1 t Lime Juice
         - 1/2 t Oregano Leaves
-    - 400 g [Black Eyed Peas, slightly undercooked](../../legumes/beans/index.md)
-    - 400 g [Black Beans, slightly undercooked](../../legumes/beans/index.md)
+    - 400 g [Black Eyed Peas, slightly undercooked](../../../legumes/beans/index.md)
+    - 400 g [Black Beans, slightly undercooked](../../../legumes/beans/index.md)
     - 400 g Corn Kernels
     - 150 g Cherry Tomatoes, roughly chopped
     - 150 g Red Bell Pepper, chopped

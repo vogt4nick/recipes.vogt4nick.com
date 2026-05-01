@@ -1,8 +1,8 @@
 === "Ingredients"
 
     - 550 g Chicken Breast,
-        [poached](../../meats/poultry/poached-chicken-breast.md), shredded
-    - 200 g Dry Bulgur, [cooked](../../grains/bulgur.md)
+        [poached](../../../meats/poultry/poached-chicken-breast.md), shredded
+    - 200 g Dry Bulgur, [cooked](../../../grains/bulgur.md)
     - 250 g Frozen Green Peas, blanched
     - 250 g Frozen Corn Kernels, blanched
     - Lemon Herb Vinaigrette
