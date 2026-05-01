@@ -44,3 +44,11 @@ repos:
         always_run: true
         files: '\.md$'
         args: [-q, --config, .markdown-link-check.json]
+  - repo: local
+    hooks:
+      - id: zensical-build
+        name: zensical build
+        entry: uv run zensical build --strict -f mkdocs.yml
+        language: system
+        pass_filenames: false
+        always_run: true
