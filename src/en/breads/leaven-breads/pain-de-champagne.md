@@ -5,7 +5,7 @@
     | White Wheat Flour |   80 g | 270 g | 350 g |      70 % |
     | Whole Wheat Flour |   20 g |  80 g | 100 g |      20 % |
     | Whole Rye Flour   |        |  50 g |  50 g |      10 % |
-    | Wheat Leaven      |   20 g |       |       |       2 % |
+    | Wheat Starter     |   20 g |       |       |       2 % |
     | Instant Dry Yeast |        |   1 g |   1 g |     0.2 % |
     | Water             |   80 g | 310 g | 390 g |      78 % |
     | Salt              |        |  10 g |  10 g |       2 % |
