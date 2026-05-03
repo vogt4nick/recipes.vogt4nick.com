@@ -1,3 +1,5 @@
+# Buckwheat
+
 === "Ingredients"
 
     - 100 g Dry Buckwheat Groats

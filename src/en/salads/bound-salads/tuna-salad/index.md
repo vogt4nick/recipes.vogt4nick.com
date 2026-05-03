@@ -3,6 +3,8 @@ tags:
   - American cuisine
 ---
 
+# Tuna salad
+
 === "Ingredients"
 
     - 100 g [Mayonnaise](../../../sauces/hollandaise/mayonnaise/index.md)
