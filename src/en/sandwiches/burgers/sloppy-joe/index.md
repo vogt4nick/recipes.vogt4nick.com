@@ -2,7 +2,6 @@
 tags:
   - American cuisine
   - Midwest cuisine
-  - Weekday dinner
 ---
 
 # Sloppy Joe
