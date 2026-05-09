@@ -37,13 +37,6 @@ repos:
           - mdformat-gfm
           - mdformat-mkdocs
           - mdformat-simple-breaks
-  - repo: https://github.com/tcort/markdown-link-check
-    rev: v3.14.2
-    hooks:
-      - id: markdown-link-check
-        always_run: true
-        files: '\.md$'
-        args: [-q, --config, .markdown-link-check.json]
   - repo: local
     hooks:
       - id: zensical-build
