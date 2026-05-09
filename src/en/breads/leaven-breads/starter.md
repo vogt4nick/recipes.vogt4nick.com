@@ -96,10 +96,6 @@
     the baking process. Some breads, such as sourdough bread, rely on the production
     of lactic and acetic acids to give them their characteristic tangy flavor.
 
-[^forkish_flour]: Forkish, Ken.
-    [*Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza*](https://amazon.com/dp/160774838X).
-    New York, NY: Ten Speed Press, 2012. 121-37.
+[^forkish_flour]: {{ cite.forkish_flour_water_salt_yeast }} 121-37.
 
-[^forkish_elements]: Forkish, Ken.
-    [*The Elements of Pizza: Unlocking the Secrets to World-Class Pies at Home*](https://amazon.com/dp/160774838X).
-    New York, NY: Ten Speed Press, 2016. 127-9.
+[^forkish_elements]: {{ cite.forkish_elements_of_pizza }} 127-9.

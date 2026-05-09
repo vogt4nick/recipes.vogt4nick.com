@@ -37,13 +37,9 @@ tags:
     2. **Form dumplings** into balls with damp (not wet!) hands.
     3. **Steam dumplings** 15-20 minutes, more or less depending on size.
 
-[^oberndorfer_knödel]: Oberndorfer, Florian, and Zabert Sandmann.
-    [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X)
-    München Zs, 2021. 22-3, 29.
+[^oberndorfer_knödel]: {{ cite.oberndorfer_knödel }} 22-3, 29.
 
-[^müller_walser]: Müller, Anna, and Olga Walser.
-    [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
-    Verlag E. DORNER Gmbh, 2017. 84, 108.
+[^müller_walser]: {{ cite.müller_walser_mein_erstes_kochbuch }} 84, 108.
 
 [^gutekueche]: ["Semmelknödel."](https://www.gutekueche.at/klassischer-semmelknoedel-rezept-876)
     *Gute Kueche.* 1 March 2015.

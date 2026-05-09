@@ -35,6 +35,4 @@ tags:
 
 !!! tip "Plate on a platter to steam off any extra liquid before serving."
 
-[^1]: Hazan, Marcella, and Karin Kretschmann.
-    [*Essentials of Classic Italian Cooking*](https://www.amazon.com/dp/039458404X).
-    New York, NY: Alfred A. Knopf, 1992.
+[^1]: {{ cite.hazan_italian_cooking }}

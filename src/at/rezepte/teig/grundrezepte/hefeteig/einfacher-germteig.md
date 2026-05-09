@@ -18,6 +18,4 @@ title: Einfacher Germteig
     Butter, Milch, Zucker, Ei, Geschmacksstoffe werden mit der Gärprobe unter das
     vorgewärmte, gesalzene Mehl gemengt.
 
-[^müller_walser]: Müller, Anna, and Olga Walser.
-    [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
-    Verlag E. DORNER Gmbh, 2017. 38.
+[^müller_walser]: {{ cite.müller_walser_mein_erstes_kochbuch }} 38.

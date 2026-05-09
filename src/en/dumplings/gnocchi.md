@@ -40,9 +40,7 @@
         Adding dimples to the dumplings helps them retain their shape and cook evenly
         while boiling.
 
-[^1]: Perelman, Deb.
-    [*The Smitten Kitchen Cookbook*](https://www.amazon.com/dp/030759565X/).
-    New York, NY: Alfred A. Knopf, 2017.
+[^1]: {{ cite.perelman_the_smitten_kitchen_cookbook }}
 
 [^2]: Ramsay, Gordon.
     ["Gordon Ramsay Shows More Ultimate Recipes To Cook On A Budget | Ultimate Cookery Course."](https://www.youtube.com/watch?v=iTmcGy9CWhE&t=20s)

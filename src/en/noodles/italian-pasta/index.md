@@ -51,9 +51,7 @@
     ["Perfect Pasta Dough with Gennaro."](https://www.youtube.com/watch?v=ESz55eORW44)
     _YouTube: Jamie Oliver._ 1 June 2013.
 
-[^hazan]: Hazan, Marcella, and Karin Kretschmann.
-    [*Essentials of Classic Italian Cooking*](https://www.amazon.com/dp/039458404X).
-    New York, NY: Alfred A. Knopf, 1992.
+[^hazan]: {{ cite.hazan_italian_cooking }}
 
 [^tasty]: *Tasty.*
     ["The Best Homemade Pasta You'll Ever Eat."](https://www.youtube.com/watch?v=YNHqjFyk5gU)

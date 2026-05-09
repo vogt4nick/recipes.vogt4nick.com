@@ -34,7 +34,5 @@ title: Quinoa
     ["How to Cook Quinoa Perfectly Every Time."](https://www.thespruceeats.com/how-to-cook-quinoa-2238655)
     *The Spruce Eats.* 13 April 2010.
 
-[^bittman]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).
-    10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt,
-    2008\. "Cooking Grains, the Easy Way." 451, 477-9.
+[^bittman]: {{ cite.bittman_how_to_cook_everything }} "Cooking Grains, the Easy
+    Way." 451, 477-9.

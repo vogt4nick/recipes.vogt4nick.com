@@ -22,10 +22,7 @@ tags:
         zugeben, salzen und durchschwenken. Gehackte Petersilie darüberstreuen und
         auftragen.
 
-[^bitterman]: Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
-    [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).
-    1\. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG,
-    15 September 2018. 133.
+[^bitterman]: {{ cite.bitterman_die_österreichische_küche }} 133.
 
 [^gutekueche]: ["Petersilienkartoffeln."](https://www.gutekueche.at/petersilienkartoffeln-rezept-24703)
     *Gute Kueche.* 7 Jänner 2016.

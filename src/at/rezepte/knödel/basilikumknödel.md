@@ -29,6 +29,4 @@ tags:
     4. **Knödel abdrehen.** Aus der Masse Knödel abdrehen und in siedendem
         Salzwasser gar ziehen lassen.
 
-[^oberndorfer]: Oberndorfer, Florian, and Zabert Sandmann.
-    [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X)
-    München Zs, 2021. 46.
+[^oberndorfer]: {{ cite.oberndorfer_knödel }} 46.

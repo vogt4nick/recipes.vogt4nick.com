@@ -18,5 +18,4 @@
     3. **Rest.** Cover and remove from heat. Rest 5 minutes.
     4. **Serve** with fresh herbs and lemon juice.
 
-[^fauda_role]: Fauda-Rôle, Sabrina. _Vegan One Pot._ München: Dorling Kindersley
-    Verlag GmbH, 2023. 154-5.
+[^fauda_role]: {{ cite.fauda_role_vegan_one_pot }} 154-5.

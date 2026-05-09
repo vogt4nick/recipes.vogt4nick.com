@@ -30,7 +30,4 @@
 | Medium-Well |  155ºF (68ºC) | 7 min / side |
 | Well Done   |  160ºF (71ºC) | 8 min / side |
 
-[^bittman]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).
-    10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt,
-    2008\. 721.
+[^bittman]: {{ cite.bittman_how_to_cook_everything }} 721.

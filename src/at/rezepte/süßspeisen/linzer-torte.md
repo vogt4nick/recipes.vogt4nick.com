@@ -51,10 +51,7 @@ tags:
     13. **Die Torte backen.** Die Torte bei 190ºC ca. 40-45 Minuten backen.
     14. **Die Torte auskühlen lassen.**
 
-[^bitterman]: Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
-    [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).
-    1\. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG,
-    15 September 2018. 361.
+[^bitterman]: {{ cite.bitterman_die_österreichische_küche }} 361.
 
 [^faißner]: Faißner, Waltraud.
     ["Zur Auffindung der bislang ältesten Rezepte der Linzer Torte."](https://www.land-oberoesterreich.gv.at/files/publikationen/KD_Heimatblatt_3_4_2006.pdf)

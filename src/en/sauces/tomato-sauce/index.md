@@ -18,6 +18,4 @@ title: Tomato sauce
 
     !!! info "The sauce and butter will separate while cooking."
 
-[^hazan]: Hazan, Marcella, and Karin Kretschmann.
-    [*Essentials of Classic Italian Cooking*](https://www.amazon.com/dp/039458404X).
-    New York, NY: Alfred A. Knopf, 1992.
+[^hazan]: {{ cite.hazan_italian_cooking }}

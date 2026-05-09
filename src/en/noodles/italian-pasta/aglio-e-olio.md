@@ -22,7 +22,5 @@ tags:
         in pasta to coat evenly. Taste and correct with salt or reserved cooking
         water as needed.
 
-[^bittman]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).
-    10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt,
-    2008\. "Linguine with Garlic and Oil: Pasta Aglio e Olio." 504-5.
+[^bittman]: {{ cite.bittman_how_to_cook_everything }} "Linguine with Garlic and
+    Oil: Pasta Aglio e Olio." 504-5.

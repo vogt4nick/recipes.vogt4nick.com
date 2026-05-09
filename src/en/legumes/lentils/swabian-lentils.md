@@ -35,10 +35,8 @@ tags:
 
 !!! info "Store in refrigerator up to 3 days."
 
-[^bittman]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).
-    10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt,
-    2008\. "Lentils, Six Ways." 431-432.
+[^bittman]: {{ cite.bittman_how_to_cook_everything }} "Lentils, Six Ways."
+    431-432.
 
 [^bummi68]: bummi68.
     ["Linsen schwäbisch."](https://www.chefkoch.de/rezepte/272611104325658/Linsen-schwaebisch.html)

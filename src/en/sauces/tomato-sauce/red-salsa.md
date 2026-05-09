@@ -27,6 +27,4 @@
 
 !!! info "Refrigerate up to 48 hours."
 
-[^1]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th
-    Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
+[^1]: {{ cite.bittman_how_to_cook_everything }}

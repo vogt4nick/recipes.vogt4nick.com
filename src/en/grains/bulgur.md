@@ -17,10 +17,7 @@ title: Bulgur
     Fine bulgur will be tender in 10-15 minutes, medium in 15-20 minutes, and coarse
     bulgur in 20-25 minutes.
 
-[^bittman]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).
-    10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt,
-    2008\. "Basic Bulgur." 481-2.
+[^bittman]: {{ cite.bittman_how_to_cook_everything }} "Basic Bulgur." 481-2.
 
 [^pittman]: Pittman, Ann Taylor.
     ["The Only Basic Bulgur Recipe You'll Ever Need."](https://www.eatingwell.com/recipe/8031238/simply-seasoned-bulgur/)

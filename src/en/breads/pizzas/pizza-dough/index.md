@@ -39,7 +39,6 @@
 
     !!! question "Divide dough into 5 equal pieces for thin crust."
 
-[^1]: Forkish, Ken. [*The Elements of Pizza*](https://amazon.com/dp/160774838X).
-    Ten Speed Press, 2016.
+[^1]: {{ cite.forkish_elements_of_pizza }}
 
 [^2]: Vogt, Adrienne

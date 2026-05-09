@@ -113,11 +113,6 @@
     Lisa's dough is intended for thick pie crusts large crimping designs and
     decoration. Julia's dough yields a thinner crust.
 
-[^2]: Ludwinski, Lisa, and E. E. Berger.
-    [*Sister Pie: The Recipes & Stories of a Big-hearted Bakery in Detroit*](https://www.amazon.com/dp/0399579761).
-    California: Lorena Jones Books, an Imprint of Crown Publishing Group,
-    2018\.
+[^2]: {{ cite.ludwinski_sister_pie }}
 
-[^1]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th
-    Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
+[^1]: {{ cite.bittman_how_to_cook_everything }}

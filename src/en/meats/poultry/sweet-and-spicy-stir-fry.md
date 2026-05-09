@@ -40,9 +40,7 @@ tags:
         start to soften. Add *seared chicken* to wok. Mix. Remove from heat.
     4. **Garnish** with cilantro.
 
-[^1]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th
-    Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
+[^1]: {{ cite.bittman_how_to_cook_everything }}
 
 [^2]: Moncel, Beth.
     ["Sticky Ginger Soy Glazed Chicken."](https://www.budgetbytes.com/sticky-ginger-soy-glazed-chicken/)

@@ -57,10 +57,7 @@ title: Wiener Schnitzel
 [^gutekueche]: ["Wiener Schnitzel."](https://www.gutekueche.at/wiener-schnitzel-rezept-170)
     *Gute Kueche.* 28 März 2015.
 
-[^bitterman]: Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
-    [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).
-    1\. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG,
-    15 September 2018. 243.
+[^bitterman]: {{ cite.bitterman_die_österreichische_küche }} 243.
 
 [^chefkoch]: Sonja.
     ["Das echte Wiener Schnitzel."](https://www.chefkoch.de/rezepte/87975334071/Das-echte-Wiener-Schnitzel.html)

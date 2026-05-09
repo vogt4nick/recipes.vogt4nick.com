@@ -32,6 +32,4 @@ title: Mayonnaise
         adding more oil. Add boiling water to prevent curdling.
     3. **Season mayonnaise** to taste.
 
-[^1]: Child, Julia, Louisette Bertholle, and Simone Beck.
-    [*Mastering the Art of French Cooking: Volume 1*](https://www.amazon.com/dp/0375413405).
-    New York, NY: Knopf, 2001.
+[^1]: {{ cite.child_french_cooking }}

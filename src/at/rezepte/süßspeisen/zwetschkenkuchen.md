@@ -44,7 +44,4 @@ tags:
         Masse über einem heißen Wasserbad unter ständigem Ruuhren etwas erwärmen, aber
         nur so viel, bis sich Butter und Eier wieder verbinden.
 
-[^bitterman]: Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
-    [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).
-    1\. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG,
-    15 September 2018. 133.
+[^bitterman]: {{ cite.bitterman_die_österreichische_küche }} 133.

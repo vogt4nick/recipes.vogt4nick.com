@@ -30,9 +30,7 @@
 [^gutekueche]: ["Erdäpfelknödel.](https://www.gutekueche.at/erdaepfelknoedel-rezept-2153)
     *Gute Kueche.* 27 Februar 2015.
 
-[^müller_walser]: Müller, Anna, and Olga Walser.
-    [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
-    Verlag E. DORNER Gmbh, 2017. 36.
+[^müller_walser]: {{ cite.müller_walser_mein_erstes_kochbuch }} 36.
 
 [^gerykocht]: Remias, Frankie.
     ["Waldviertlerknödel - das Original."](https://www.youtube.com/watch?v=pX3jKBJj2F8)

@@ -67,6 +67,4 @@
         The pie crust can bubble and lose its shape while baking. Weighing it down helps
         safeguard a crust that looks as good as it tastes.
 
-[^1]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650). 10th
-    Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt, 2008.
+[^1]: {{ cite.bittman_how_to_cook_everything }}

@@ -20,11 +20,6 @@
 
     !!! caution "Mischen schnell. Lang rühren und abschlagen macht den Teig zäh."
 
-[^bitterman]: Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
-    [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).
-    1\. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG,
-    15 September 2018. 188.
+[^bitterman]: {{ cite.bitterman_die_österreichische_küche }} 188.
 
-[^müller_walser]: Müller, Anna, and Olga Walser.
-    [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
-    Verlag E. DORNER Gmbh, 2017. 33.
+[^müller_walser]: {{ cite.müller_walser_mein_erstes_kochbuch }} 33.

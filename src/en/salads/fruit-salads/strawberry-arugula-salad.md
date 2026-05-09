@@ -16,7 +16,5 @@
         with olive oil and toss again.
     3. **Season to taste** and serve.
 
-[^bittman]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).
-    10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt,
-    2008\. "Balsamic Strawberries with Arugula." 214.
+[^bittman]: {{ cite.bittman_how_to_cook_everything }} "Balsamic Strawberries
+    with Arugula." 214.

@@ -25,6 +25,4 @@ gehen.
 
 !!! tip "Alle Zutaten zum Hefeteig leicht vorwärmen."
 
-[^müller_walser]: Müller, Anna, and Olga Walser.
-    [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
-    Verlag E. DORNER Gmbh, 2017. 37-9.
+[^müller_walser]: {{ cite.müller_walser_mein_erstes_kochbuch }} 37-9.

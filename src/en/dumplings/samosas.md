@@ -58,10 +58,7 @@ tags:
 
     !!! tip "Use the top of a mason jar to cut dough into perfect circles."
 
-[^bittman]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).
-    10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt,
-    2008\.
+[^bittman]: {{ cite.bittman_how_to_cook_everything }}
 
 [^manjula]: Jain, Manjula. ["Samosa."](https://www.manjulaskitchen.com/samosa/)
     _Manjula's Kitchen._ 19 April 2007.

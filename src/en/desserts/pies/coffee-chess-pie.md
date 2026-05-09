@@ -38,7 +38,4 @@
 
 !!! info "Store up to 3 days under plastic wrap at room temperature."
 
-[^1]: Ludwinski, Lisa, and E. E. Berger.
-    [*Sister Pie: The Recipes & Stories of a Big-hearted Bakery in Detroit*](https://www.amazon.com/dp/0399579761).
-    California: Lorena Jones Books, an Imprint of Crown Publishing Group,
-    2018\.
+[^1]: {{ cite.ludwinski_sister_pie }}

@@ -33,5 +33,4 @@ tags:
     | Total Fat (g)   |   40 |
     | Protein (g)     |   38 |
 
-[^fauda_role]: Fauda-Rôle, Sabrina. _Vegan One Pot._ München: Dorling Kindersley
-    Verlag GmbH, 2023. 148-9.
+[^fauda_role]: {{ cite.fauda_role_vegan_one_pot }} 148-9.

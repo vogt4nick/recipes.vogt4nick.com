@@ -30,6 +30,4 @@
         until dark brown all around the loaf.
     10. **Cool** loaf at room temperature at least 20 minutes.
 
-[^forkish_flour]: Forkish, Ken.
-    [*Flour Water Salt Yeast: The Fundamentals of Artisan Bread and Pizza*](https://amazon.com/dp/160774838X).
-    New York, NY: Ten Speed Press, 2012. 140-3.
+[^forkish_flour]: {{ cite.forkish_flour_water_salt_yeast }} 140-3.

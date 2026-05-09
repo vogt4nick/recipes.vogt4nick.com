@@ -42,6 +42,4 @@
     ["Handgezogener Apfelstrudel von Oma Aloisia - Rezept Video - Cooking Grannies."](https://youtu.be/eyoi82xgOxE)
     _YouTube: Cooking Grannies._ 15 October 2018.
 
-[^müller_walser]: Müller, Anna, and Olga Walser.
-    [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
-    Verlag E. DORNER Gmbh, 2017. 134-5.
+[^müller_walser]: {{ cite.müller_walser_mein_erstes_kochbuch }} 134-5.

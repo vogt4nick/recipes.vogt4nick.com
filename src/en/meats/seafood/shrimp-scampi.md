@@ -25,7 +25,5 @@ tags:
 
     !!! tip "You need only warm the shrimp if they come precooked."
 
-[^bittman]: Bittman, Mark.
-    [*How to Cook Everything*](https://www.amazon.com/dp/0764578650).
-    10th Anniversary Edition. Boston, MA: Houghton Mifflin Harcourt,
-    2008\. "Spicy Grilled or Boiled Shrimp." 574.
+[^bittman]: {{ cite.bittman_how_to_cook_everything }} "Spicy Grilled or Boiled
+    Shrimp." 574.

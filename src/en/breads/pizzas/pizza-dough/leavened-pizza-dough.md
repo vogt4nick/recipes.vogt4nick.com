@@ -33,6 +33,4 @@
 
     !!! info "Chill after second rise and bake later as desired."
 
-[^forkish]: Forkish, Ken.
-    [*The Elements of Pizza: Unlocking the Secrets to World-Class Pies at Home*](https://amazon.com/dp/160774838X).
-    New York, NY: Ten Speed Press, 2016. 130-132.
+[^forkish]: {{ cite.forkish_elements_of_pizza }} 130-132.

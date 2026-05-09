@@ -62,10 +62,7 @@ tags:
     9. **Serve** in vegetable broth in a shallow bowl --- the dumplings must not be
         fully submerged.
 
-[^bitterman]: Bitterman, Adi, Ingrid Pernkopf, und Renate Wagner-Wittula.
-    [*Die Österreichische Küche*](https://www.amazon.de/dp/3222140251).
-    1\. Edition. Pichler Verlag in Verlagsgruppe Styria GmbH & Co. KG,
-    15 September 2018. 86.
+[^bitterman]: {{ cite.bitterman_die_österreichische_küche }} 86.
 
 [^thack]: Hack, Thomas.
 

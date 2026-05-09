@@ -26,6 +26,4 @@ tags:
 
     !!! info "There may be small chunks of flour in the batter that won't easily mix in. This is fine."
 
-[^müller]: Müller, Anna, and Olga Walser.
-    [Mein Erstes Kochbuch: Mit Servierkunde und Nahrungsmittellehre.](https://www.amazon.de/Mein-erstes-Kochbuch-Servierkunde-Nahrungsmittellehre/dp/B0028S3CM0)
-    Verlag E. DORNER Gmbh, 2017.
+[^müller]: {{ cite.müller_walser_mein_erstes_kochbuch }}

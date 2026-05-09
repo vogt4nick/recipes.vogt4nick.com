@@ -34,9 +34,7 @@ tags:
 [^gutekueche]: ["Erdäpfelknödel.](https://www.gutekueche.at/erdaepfelknoedel-rezept-2153)
     *Gute Kueche.* 27 February 2015.
 
-[^oberndorfer]: Oberndorfer, Florian, and Zabert Sandmann.
-    [*Knödel: Die Besten Klassischen Und Internationalen Knödelrezepte.*](https://www.amazon.de/dp/396584170X)
-    München Zs, 2021. 26-7.
+[^oberndorfer]: {{ cite.oberndorfer_knödel }} 26-7.
 
 [^gerykocht]: Remias, Frankie.
     ["Waldviertlerknödel - das Original."](https://www.youtube.com/watch?v=pX3jKBJj2F8)
