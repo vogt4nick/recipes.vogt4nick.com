@@ -1,6 +1,6 @@
 === "Ingredients"
 
-    - 180 g [Mayonnaise](../hollandaise/mayonnaise/index.md)
+    - 180 g [Mayonnaise](../../hollandaise/mayonnaise/index.md)
     - 60 g Sour Cream
     - 1 Garlic Clove
     - 3 Anchovy Fillets

@@ -8,7 +8,7 @@ tags:
     - 400 g Frisee Lettuce or Arugula, chopped
     - 200 g Bacon, chopped, cooked
     - 4 [Eggs, poached](../../eggs/poached-eggs.md)
-    - [Lyonnaise Vinaigrette](../../sauces/vinaigrette/lyonnaise-vinaigrette.md)
+    - [Lyonnaise Vinaigrette](../../sauces/vinaigrette/mustard-based/lyonnaise-vinaigrette.md)
     - Garnish
         - Chives, chopped
         - Parmigiano-Reggiano, grated

@@ -2,7 +2,7 @@
 
     - 100 g Red Wine Vinegar
     - 180 g Olive Oil
-    - 1/2 t [Italian Herbs](../../seasonings/spice-blends/italian-herbs.md)
+    - 1/2 t [Italian Herbs](../../../seasonings/spice-blends/italian-herbs.md)
     - 1/2 t Dried Oregano Leaves
     - 5 Fresh Thyme Sprigs
     - 1 t Dijon Mustard

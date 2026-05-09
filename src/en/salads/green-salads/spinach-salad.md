@@ -4,7 +4,7 @@
     - 180 g White Button Mushrooms, thinly sliced
     - 120 g Cherry Tomatoes, quartered
     - 150 g [Dry Black-Eyed Peas, cooked](../../legumes/beans/index.md)
-    - [Hot Bacon Vinaigrette](../../sauces/vinaigrette/hot-bacon-vinaigrette.md)
+    - [Hot Bacon Vinaigrette](../../sauces/vinaigrette/mustard-based/hot-bacon-vinaigrette.md)
 
     !!! info "Ingredients yield 4 servings."
 
