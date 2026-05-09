@@ -13,3 +13,6 @@ site/
 
 # privacy plugin cache
 .cache
+
+# claude
+.claude/*.local.json
