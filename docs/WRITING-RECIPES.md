@@ -82,7 +82,9 @@ key words to clarify severity; i.e.
     - SHOULD be prefixed by a measurement e.g. `100 g Green Peas`
     - MAY have no measurement, deferring to the cook's discretion e.g. `Salt`
     - MUST be named in its whole, unprocessed form; processing belongs in the
-        preparation Good: `Black Peppercorn, ground` Bad: `Black Pepper, ground`
+        preparation
+        - Good: `Black Peppercorn, ground`
+        - Bad: `Black Pepper, ground`
     - MUST be formatted in Title Case
     - MAY be followed by ingredient preparations e.g. 1 Onion, minced
     - MAY x-link to another recipe e.g.
@@ -93,19 +95,22 @@ key words to clarify severity; i.e.
     - MUST be formatted in lower case
     - MUST be separated from the ingredient by a trailing comma e.g. 1 Onion,
         minced
-    - MAY include multiple preparations separated by commas Good:
-        `3 Potatoes, parboiled, chopped` Bad: `3 Potatoes, parboiled and chopped`
+    - MAY include multiple preparations separated by commas
+        - Good: `3 Potatoes, parboiled, chopped`
+        - Bad: `3 Potatoes, parboiled and chopped`
     - SHOULD use "minced", "chopped" or "roughly chopped" when referring to cuts
-        Good: `3 Potatoes, roughly chopped` Good: `1 Onion, minced` Bad:
-        `1 Onion, diced`
+        - Good: `3 Potatoes, roughly chopped`
+        - Good: `1 Onion, minced`
+        - Bad: `1 Onion, diced`
     - MAY use a more specific description when precision matters for the recipe
         e.g. `150 g Haloumi or Paneer, chopped into ~7 mm thick slices`
 - Every ingredient measurement
     - MUST use one of the following units: g (grams), t (teaspoons), T
         (tablespoons)
     - MUST NOT use size qualifiers (e.g. large, medium, small) as a measurement
-        Bad: `1 large Onion, diced` Good: `1 Onion, diced` Good:
-        `150 g Onion, diced`
+        - Bad: `1 large Onion, diced`
+        - Good: `1 Onion, diced`
+        - Good: `150 g Onion, diced`
     - SHOULD be denoted by a whole number or fraction and a unit e.g. 1/2 t Black
         Peppercorn e.g. 1 t Salt e.g. 2 T Flour e.g. 240 g Water
     - MAY be denoted only by a number e.g. 1 Celery Stalk e.g. 2 Onions
@@ -123,20 +128,23 @@ key words to clarify severity; i.e.
             We want to keep the dry, starchy outsides of the potatoes. These will crisp and help the texture. A fine colander will grate these off.
         ```
 - Every direction
-    - MUST use imperative voice (see [voice and tone](#voice-and-tone)) Good:
-        `Boil water.` Good: `Bring water to the boil.` Bad:
-        `The water should be boiling.` Bad:
-        `You should boil the water when you're ready.`
+    - MUST use imperative voice (see [voice and tone](#voice-and-tone))
+        - Good: `Boil water.`
+        - Good: `Bring water to the boil.`
+        - Bad: `The water should be boiling.`
+        - Bad: `You should boil the water when you're ready.`
     - MUST begin with a command formatted in bold
         ```markdown
         1. **Preheat oven** to 200ºC (400ºF).
         ```
-    - SHOULD avoid definite articles Good: `Cook vegetables.` Bad:
-        `Cook the vegetables.`
-    - SHOULD have a description following the command Good:
-        `1. **Mix ingredients.**` Good: `1. **Preheat oven** to 200ºC (400ºF).`
-        Good:
-        `1. **Season.** Mix bread and garlic oil to coat evenly. Add seasonings. Mix evenly.`
+    - SHOULD avoid definite articles
+        - Good: `Cook vegetables.`
+        - Bad: `Cook the vegetables.`
+    - SHOULD have a description following the command
+        - Good: `1. **Mix ingredients.**`
+        - Good: `1. **Preheat oven** to 200ºC (400ºF).`
+        - Good:
+            `1. **Season.** Mix bread and garlic oil to coat evenly. Add seasonings. Mix evenly.`
     - MAY begin with an imperative sentence fragment
         ```markdown
         1. **Infuse garlic oil.** Mix oil and garlic. Rest at least 1 hour at room temperature. Strain garlic.
@@ -178,8 +186,10 @@ ambiguity between recipes.
 
 ### Spices
 
-- **Black Peppercorn**; a.k.a. Black Pepper, Pepper Good: 1/2 t Black
-    Peppercorn, ground Bad: 1/2 t Black Pepper Bad: 1/2 t Pepper
+- **Black Peppercorn**; a.k.a. Black Pepper, Pepper
+    - Good: `1/2 t Black Peppercorn, ground`
+    - Bad: `1/2 t Black Pepper`
+    - Bad: `1/2 t Pepper`
 - **Paprika**
 - **Garlic Powder**
 - **Onion Powder**
@@ -188,17 +198,24 @@ ambiguity between recipes.
 
 Seeds are often easily prepared from whole.
 
-- **Cumin Seed**; a.k.a. Cumin Good: 1 t Cumin Seed Good: 1 t Cumin Seed, ground
-    Bad: 1 t Cumin
+- **Cumin Seed**; a.k.a. Cumin
+    - Good: `1 t Cumin Seed`
+    - Good: `1 t Cumin Seed, ground`
+    - Bad: `1 t Cumin`
 - **Coriander Seed**
-- **Dried Cayenne Pepper**; a.k.a. Cayenne, Cayenne Pepper Good: 1/4 t Dried
-    Cayenne Pepper, ground Bad: 1/4 t Cayenne
+- **Dried Cayenne Pepper**; a.k.a. Cayenne, Cayenne Pepper
+    - Good: `1/4 t Dried Cayenne Pepper, ground`
+    - Bad: `1/4 t Cayenne`
 
 ### Herbs
 
 - Herbs
-    - MUST be named as fresh or dried Good: Dried Coriander Leaves Good: Fresh
-        Coriander Leaves Bad: Coriander
-    - MUST name what part of the plant Good: Dried Coriander Leaves Good: Fresh
-        Coriander Leaves and Stems Good: Fresh Coriander Roots Bad: Fresh
-        Coriander
+    - MUST be named as fresh or dried
+        - Good: `Dried Coriander Leaves`
+        - Good: `Fresh Coriander Leaves`
+        - Bad: `Coriander`
+    - MUST name what part of the plant
+        - Good: `Dried Coriander Leaves`
+        - Good: `Fresh Coriander Leaves and Stems`
+        - Good: `Fresh Coriander Roots`
+        - Bad: `Fresh Coriander`
