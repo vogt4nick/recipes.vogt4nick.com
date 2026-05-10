@@ -10,10 +10,10 @@ tags:
     - 120 g Yellow Onion, minced
     - 1/2 t Cumin Seed, ground
     - 2 Garlic Cloves, minced
-    - 240 g [Black Beans, cooked with seasonings](../legumes/beans/index.md)
+    - 240 g [Black Beans, cooked with seasonings](../../legumes/beans/index.md)
     - 1/2 t Medium-Grain Salt
     - 1/2 t Cumin Seed, ground
-    - 360 g [Rice, cooked](rice/japanese-rice/index.md)
+    - 360 g [Rice, cooked](japanese-rice/index.md)
     - Garnish
         - Coriander Leaves, chopped
 
