@@ -12,6 +12,7 @@ provence
 reggiano
 sheetpan
 stellini
+sting
 yudane
 # ------------
 # proper nouns

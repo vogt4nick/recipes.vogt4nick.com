@@ -13,7 +13,7 @@ tags:
     - Black Peppercorn, ground
     - 1 Scallion, minced
     - Fresh Parsley Leaves, minced
-    - [Vinaigrette](../../../sauces/vinaigrette/index.md)
+    - [Vinaigrette](../../../sauces/vinaigrette/basic-vinaigrette.md)
         - 50 g Lemon Juice
         - 50 g Olive Oil
         - Medium-Grain Salt
