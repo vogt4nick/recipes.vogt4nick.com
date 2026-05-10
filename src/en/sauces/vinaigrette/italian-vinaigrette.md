@@ -17,6 +17,8 @@
 
     Combine ingredients in a sealable jar. Shake vigorously to emulsify.
 
+!!! tip "Use on green salads, pasta salads, and antipasto platters."
+
 [^hurrell]: Hurrell, Sonny.
     ["STOP Buying Salad Dressing! My 5 Best Recipes."](https://www.youtube.com/watch?v=RF9aLBuW2-0)
     _YouTube: ThatDudeCanCook._ 31 May 2025.

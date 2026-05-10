@@ -18,6 +18,8 @@
 
     Puree ingredients until smooth.
 
+!!! tip "Use on green salads, raw vegetables, and chicken."
+
 [^hurrell]: Hurrell, Sonny.
     ["STOP Buying Salad Dressing! My 5 Best Recipes."](https://www.youtube.com/watch?v=RF9aLBuW2-0)
     _YouTube: ThatDudeCanCook._ 31 May 2025.
