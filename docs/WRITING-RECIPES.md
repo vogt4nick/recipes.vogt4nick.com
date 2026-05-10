@@ -146,10 +146,21 @@ key words to clarify severity; i.e.
     parentheses e.g. `177ºC (350ºF)`
 - Every direction advising timing
     - MAY express times as a range e.g. `5-7 minutes`, `25-30 minutes`
-    - SHOULD advise how one knows when to stop Good:
-        `**Sweat** onions 5-7 minutes until soft and translucent.` Bad:
-        `**Saute** onions 5-7 minutes.` Passive steps with a fixed duration are
-        exempt: e.g. `**Soak lentils** 30 minutes in salted water.`
+    - MUST express time before the outcome indicator
+        - Good: `**Sweat** onions 5-7 minutes until soft and translucent.`
+        - Bad: `**Sweat** onions until soft and translucent, about 5-7 minutes.`
+    - SHOULD advise how one knows when to stop
+        - Good: `**Sweat** onions 5-7 minutes until soft and translucent.`
+        - Bad: `**Saute** onions 5-7 minutes.`
+        - Passive steps with a fixed duration are exempt: e.g.
+            `**Soak lentils** 30 minutes in salted water.`
+    - MUST NOT editorialize or use subjective quality language
+        - Good: `**Roast** 25-30 minutes until edges are browned.`
+        - Bad: `**Roast** 25-30 minutes until beautifully caramelized.`
+        - Bad: `**Roast** 25-30 minutes until perfectly golden.`
+    - MUST NOT include encouragement, praise, or commentary on the result
+        - Good: `**Rest** dough 1 hour.`
+        - Bad: `**Rest** dough 1 hour -- this is the key to a great texture!`
 
 ## Voice and Tone
 
