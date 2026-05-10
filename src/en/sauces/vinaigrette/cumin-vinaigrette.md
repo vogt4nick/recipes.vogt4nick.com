@@ -7,6 +7,8 @@
     - Salt
     - Black Peppercorn, ground
 
+    !!! info "Yields approx 120 g."
+
 === "Directions"
 
     Combine dressing ingredients in a sealable jar. Shake vigorously to emulsify.
