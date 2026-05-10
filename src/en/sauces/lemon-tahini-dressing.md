@@ -1,6 +1,6 @@
 === "Ingredients"
 
-    - 60 g [Tahini Paste](../tahini-paste.md)
+    - 60 g [Tahini Paste](tahini-paste.md)
     - 45 g Lemon Juice
     - 2 Garlic Cloves, grated
     - 1/2 t Medium-Grain Salt
