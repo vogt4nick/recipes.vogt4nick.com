@@ -4,6 +4,15 @@ title: Menu
 
 ## Work Week Menus
 
+| Weekday   | Dinner                                                                                                                        | Leftovers? |
+| :-------- | :---------------------------------------------------------------------------------------------------------------------------- | :--------- |
+| Sunday    | [Confetti salad](salads/pantry-salads/confetti-salad.md) w/ [poached chicken breast](meats/poultry/poached-chicken-breast.md) | Yes        |
+| Monday    | [Sloppy Jeongs](sandwiches/burgers/sloppy-joe/sloppy-jeong.md) and [green beans](vegetables/green-beans.md)                   | Yes        |
+| Tuesday   | [Beef bowl](meats/beef/beef-bowl.md) with [Japanese rice](grains/rice/japanese-rice/index.md)                                 | No         |
+| Wednesday | Leftovers                                                                                                                     | No         |
+| Thursday  | Jause                                                                                                                         | No         |
+| Friday    | N/A                                                                                                                           | No         |
+
 | Weekday   | Dinner                                                                                                                                        | Leftovers? |
 | :-------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :--------- |
 | Sunday    | [Oven-roasted chicken thighs](meats/poultry/oven-roasted-chicken/oven-roasted-chicken-thighs.md) and [green beans](vegetables/green-beans.md) | Yes        |
