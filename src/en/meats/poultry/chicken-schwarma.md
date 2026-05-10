@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mediterranean cuisine
+  - Levantine cuisine
   - Weekday dinner
 ---
 
