@@ -3,9 +3,9 @@
 === "Ingredients"
 
     - 450 g Soda Water or Water
-    - 2 T Apple Cider Vinegar
+    - 2 T Apple Cider Vinegar or [Infused Vinegar](../seasonings/infused-vinegar.md)
     - 1 T Sweetener
-    - 1 t Fresh Ginger, grated
+    - 1 t Fresh Ginger, grated or [Ginger Paste](../sauces/ginger-paste.md)
     - 1/4 t Sea Salt
 
     !!! info "Yields one 500 ml serving."
