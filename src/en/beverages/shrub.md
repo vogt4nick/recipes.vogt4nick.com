@@ -2,8 +2,8 @@
 
     - 500 g Fruit, crushed, chopped, etc.
     - 250 g Sugar
+    - [Infused Vinegar](../seasonings/infused-vinegar.md), to taste
     - Aromatics (optional)
-    - Vinegar, to taste
 
     ??? tip "Crush and chop fruit to extract more juice."
 
