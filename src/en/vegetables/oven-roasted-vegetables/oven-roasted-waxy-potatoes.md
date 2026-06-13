@@ -9,7 +9,7 @@ tags:
     - Lard, Ghee, or Neutral Oil
     - Medium-Grain Salt
     - Black Peppercorn, ground
-    - Dried Cayenne Pepper, ground
+    - [Spud Thunder Spice Blend](../../seasonings/spice-blends/spud-thunder.md)
 
 === "Directions"
 

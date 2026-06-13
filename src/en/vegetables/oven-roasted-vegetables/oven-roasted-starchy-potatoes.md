@@ -5,13 +5,11 @@ tags:
 
 === "Ingredients"
 
-    - 2 T Medium-Grain Salt
     - 1/2 t Baking Soda
     - 900 g Starchy Potatoes, peeled, quartered
     - 80 g Cooking Fat
-    - 3 sprigs Rosemary Leaves
     - 1/2 T Black Peppercorn, ground
-    - 1/2 T Medium-Grain Salt
+    - [Spud Thunder Spice Blend](../../seasonings/spice-blends/spud-thunder.md)
     - For Serving
         - 90 g Sour Cream (optional)
 
