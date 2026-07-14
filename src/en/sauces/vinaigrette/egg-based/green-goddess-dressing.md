@@ -3,7 +3,7 @@
     - 180 g [Mayonnaise](../../hollandaise/mayonnaise/index.md)
     - 60 g Sour Cream
     - 1 Garlic Clove
-    - 3 Anchovy Fillets
+    - 3 Anchovy Fillets or 20 g Cashews
     - 1 T Anchovy Oil (from the tin)
     - 2 T Lemon Juice
     - 1 T White Whine Vinegar or Sherry Vinegar
@@ -13,6 +13,8 @@
     - 1/2 t Sea Salt
     - 1/4 t Black Peppercorn, ground
     - 30 g Spinach Leaves, blanched
+
+    !!! info "Yields approx. 300 g dressing"
 
 === "Directions"
 
