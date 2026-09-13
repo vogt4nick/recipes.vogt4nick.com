@@ -64,6 +64,7 @@ validation:
   unused_footnotes: false
 plugins:
   - awesome-nav
+  - tags
   - minify:
       minify_html: true
   - privacy
