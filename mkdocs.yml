@@ -61,9 +61,10 @@ markdown_extensions:
       alternate_style: true
   - zensical.extensions.macros
 validation:
-  unresolved_references: false
   unused_footnotes: false
 plugins:
+  - minify:
+      minify_html: true
   - privacy
   - search:
       lang: en
