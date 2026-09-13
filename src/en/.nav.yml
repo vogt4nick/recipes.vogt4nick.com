@@ -1,0 +1,5 @@
+sort:
+  type: alphabetical
+  ignore_case: true
+  by: title
+  sections: mixed
