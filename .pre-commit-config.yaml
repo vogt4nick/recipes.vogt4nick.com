@@ -41,7 +41,7 @@ repos:
     hooks:
       - id: zensical-build
         name: zensical build
-        entry: uv run zensical build --strict -f mkdocs.yml
+        entry: uv run zensical build --strict -f zensical.toml
         language: system
         pass_filenames: false
         always_run: true
