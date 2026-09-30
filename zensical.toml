@@ -28,6 +28,31 @@ tags = {}
 "minify".minify_html = true
 "search".lang = "en"
 
+[project.plugins.llmstxt]
+markdown_description = "Nick's personal recipe collection."
+full_output = "llms-full.txt"
+
+[project.plugins.llmstxt.sections]
+Home = ["index.md"]
+Beverages = ["beverages/**/*.md"]
+Breads = ["breads/**/*.md"]
+Casseroles = ["casseroles/**/*.md"]
+Curries = ["curries/**/*.md"]
+Desserts = ["desserts/**/*.md"]
+Dumplings = ["dumplings/**/*.md"]
+Eggs = ["eggs/**/*.md"]
+Grains = ["grains/**/*.md"]
+Legumes = ["legumes/**/*.md"]
+Meats = ["meats/**/*.md"]
+Noodles = ["noodles/**/*.md"]
+Salads = ["salads/**/*.md"]
+Sandwiches = ["sandwiches/**/*.md"]
+Sauces = ["sauces/**/*.md"]
+Seasonings = ["seasonings/**/*.md"]
+Soups = ["soups/**/*.md"]
+Spreads = ["spreads/**/*.md"]
+Vegetables = ["vegetables/**/*.md"]
+
 [project.theme]
 custom_dir = "overrides/"
 language = "en"
