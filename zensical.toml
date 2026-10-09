@@ -64,6 +64,7 @@ features = [
   "navigation.instant.prefetch",
   "navigation.instant.progress",
   "navigation.path",
+  "navigation.tabs",
   "navigation.tracking",
   "toc.follow",
   "toc.integrate",
