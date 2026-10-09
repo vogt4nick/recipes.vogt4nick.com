@@ -506,6 +506,33 @@
     border-radius: 0;
 }
 
+.md-nav__link:is(:focus, :hover) {
+    background: none;
+}
+
+/* A section with its own page wraps a link and a toggle in one more
+   .md-nav__link. Pad only the inner two, so every row lines up and is the
+   same height. */
+.md-nav__link.md-nav__container {
+    padding: 0;
+}
+
+.md-nav__container>.md-nav__link:nth-child(2) {
+    align-self: center;
+    padding: 0 0.4rem;
+}
+
+/* The theme spaces nested lists with empty pseudo-elements. Drop them and
+   give the first nested row the same gap as every other row. */
+.md-nav__item--nested .md-nav__list::before,
+.md-nav__item--nested .md-nav__list::after {
+    display: none;
+}
+
+.md-nav__list .md-nav__list>.md-nav__item:first-child {
+    margin-top: 0.2rem;
+}
+
 .md-nav--primary .md-nav__item .md-nav__link--active {
     color: var(--md-accent-fg-color);
     font-weight: 700;
