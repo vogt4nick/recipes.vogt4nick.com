@@ -66,6 +66,16 @@ key words to clarify severity; i.e.
             Mitzewich, John. ["French Toast - The Fancy Brunch Restaurant Style."](https://foodwishes.blogspot.com/2007/09/french-toast-fancy-brunch-restaurant.html) _Food Wishes._ 17 September 2007.
 
         ```
+- Every admonition
+    - SHOULD use the type that matches its purpose, because the site prints the
+        type as a label before the title e.g. `!!! tip "Chill dough."` renders as
+        `[TIP] Chill dough.`
+    - MUST NOT repeat the type in the title
+        - Good: `!!! tip "Chill dough."`
+        - Bad: `!!! tip "Tip: Chill dough."`
+    - When a `quote`, SHOULD use the title for attribution e.g.
+        `!!! quote "Julia Child in _Mastering the Art of French Cooking_"`, which
+        renders below the quoted passage as an em-dash attribution line
 - When present, the file's yaml frontmatter
     - MAY define only `tags`
     - MAY define `tags` and `title`
