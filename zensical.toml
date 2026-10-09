@@ -69,6 +69,26 @@ features = [
   "toc.integrate",
 ]
 
+[project.theme.font]
+text = "Courier Prime"
+code = "Courier Prime"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
 [project.theme.icon]
 logo = "material/silverware"
 
