@@ -34,6 +34,7 @@ full_output = "llms-full.txt"
 
 [project.plugins.llmstxt.sections]
 Home = ["index.md"]
+Agents = ["agents/*.md", "agents/**/*.md"]
 Beverages = ["recipes/beverages/*.md", "recipes/beverages/**/*.md"]
 Breads = ["recipes/breads/*.md", "recipes/breads/**/*.md"]
 Casseroles = ["recipes/casseroles/*.md", "recipes/casseroles/**/*.md"]
