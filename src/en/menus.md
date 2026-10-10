@@ -1,8 +1,3 @@
----
-hide:
-  - navigation
----
-
 ## Work Week Menus
 
 | Weekday   | Dinner                                                                                                                                        | Leftovers? |
@@ -109,7 +104,3 @@ Pick three:
 - Sandwiches
 - Salads
 - Eggs
-
-## Tags
-
-<!-- material/tags -->
