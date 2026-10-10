@@ -456,24 +456,81 @@
     display: none;
 }
 
-/* ---------- Tables: ruled ledger ---------- */
+/* ---------- Tables: typed tabulation ----------
+
+   No box and no cell lines. Columns sit on tab stops 2ch apart, a row of
+   typed hyphens runs under the header and another closes the table:
+
+     INGREDIENT          STARTER  DOUGH
+     ----------------------------------
+     White Wheat Flour     100 g  400 g
+     ----------------------------------
+
+   Each rule is typed into the header cells and last-row cells, clipped to
+   their width, so together they span the table. Cells never wrap, so a
+   wrapped name can't read as two rows; a table too wide for the column
+   scrolls instead. */
+
+.md-typeset__scrollwrap {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.md-typeset__table {
+    margin-bottom: 0;
+}
 
 .md-typeset table:not([class]) {
-    border: 1px solid var(--md-default-fg-color);
+    border: 0;
     border-radius: 0;
-    font-size: 0.72rem;
+    font-size: inherit;
+    background: none;
     box-shadow: none;
+}
+
+.md-typeset table:not([class])+* {
+    margin-top: 0.5em;
 }
 
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-    padding: 0.3em 0.7em;
-    border-top: 1px solid var(--md-default-fg-color--lightest);
+    position: relative;
+    min-width: 0;
+    padding: 0 2ch 0 0;
+    border: 0;
+    white-space: nowrap;
+}
+
+.md-typeset table:not([class]) :is(th, td):last-child {
+    padding-right: 0;
 }
 
 .md-typeset table:not([class]) th {
+    padding-bottom: 1.45em;
     text-transform: uppercase;
-    border-bottom: 1px solid var(--md-default-fg-color);
+}
+
+.md-typeset table:not([class]) tbody tr:last-child td {
+    padding-bottom: 1.45em;
+}
+
+.md-typeset table:not([class]) th::after,
+.md-typeset table:not([class]) tbody tr:last-child td::after {
+    content: var(--typed-rule);
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    font-weight: 400;
+    text-align: left;
+    color: var(--md-default-fg-color--lighter);
+    white-space: nowrap;
+}
+
+.md-typeset table:not([class]) tbody tr:hover {
+    background: none;
+    box-shadow: none;
 }
 
 /* ---------- Footnotes ---------- */
