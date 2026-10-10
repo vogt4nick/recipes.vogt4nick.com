@@ -478,7 +478,7 @@
     backdrop-filter: none;
 }
 
-.md-header__topic:first-child {
+.md-header__topic {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 0.05em;
