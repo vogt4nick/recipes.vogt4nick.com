@@ -84,6 +84,23 @@
     list-style-type: "- ";
 }
 
+/* Top-level lists hang their markers from the column edge, so a recipe's
+   ingredients and steps start where its prose does. The indent is the
+   marker's width: "- " is 2ch, "1. " is 3ch. [dir] outranks the theme's
+   [dir=ltr] list rules. */
+[dir] .md-typeset :is(ul, ol),
+[dir] .md-typeset .footnote>ol {
+    margin-left: 0;
+}
+
+[dir] .md-typeset ul>li {
+    margin-left: 2ch;
+}
+
+[dir] .md-typeset ol>li {
+    margin-left: 3ch;
+}
+
 .md-typeset ul li,
 .md-typeset ol li {
     margin-bottom: 0.1em;
@@ -587,6 +604,41 @@
    for paths under /en/recipes/.
    ========================================================================== */
 
+/* Hidden, not removed: the empty slot keeps the content column centered in
+   the same place as on pages with a TOC. */
 .no-toc .md-sidebar--secondary {
-    display: none;
+    visibility: hidden;
+}
+
+/* ==========================================================================
+   Fixed content column: the article takes its width from its content, capped
+   at a comfortable reading width, instead of stretching to fill the grid. The
+   TOC (or empty space) then sits beside the content rather than at the far
+   edge of a wide screen.
+   ========================================================================== */
+
+.md-content {
+    flex: 0 1 90ch;
+    max-width: 90ch;
+}
+
+/* Center nav, content and TOC as one group. Every page fills all three slots
+   (a hidden TOC or a reserved nav column stands in for a missing one), so the
+   content lands in the same place on every page, centered in the window. */
+.md-main__inner {
+    justify-content: center;
+}
+
+/* Pages without a section nav (e.g. Menus) reserve the same left column, so
+   their content lines up with the other pages. Below 76.25em the theme moves
+   the nav into a drawer, so there is no column to reserve. The values are the
+   theme's sidebar width and the margin it gives content beside a nav. */
+@media screen and (min-width: 76.25em) {
+    .md-main__inner:has(> .md-sidebar--primary[hidden]) {
+        padding-left: 12.1rem;
+    }
+
+    .md-main__inner:has(> .md-sidebar--primary[hidden]) .md-content__inner {
+        margin-left: 1.2rem;
+    }
 }
