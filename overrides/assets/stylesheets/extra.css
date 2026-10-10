@@ -156,7 +156,7 @@
 }
 
 .md-typeset .tabbed-content::before,
-.md-tabs .md-grid::after {
+.md-tabs::after {
     content: var(--typed-rule);
     display: block;
     overflow: hidden;
@@ -210,8 +210,8 @@
     margin-top: 0.4rem;
 }
 
-.md-tabs .md-grid::after {
-    margin: 0 0.4rem;
+.md-tabs::after {
+    margin: 0 0.8rem;
 }
 
 .md-tabs~.md-main .md-main__inner {
