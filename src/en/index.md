@@ -1,5 +1,7 @@
 ---
 title: Menu
+hide:
+  - navigation
 ---
 
 ## Work Week Menus
