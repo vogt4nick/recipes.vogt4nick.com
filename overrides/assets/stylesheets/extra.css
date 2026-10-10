@@ -581,3 +581,12 @@
         font-size: 10pt;
     }
 }
+
+/* ==========================================================================
+   Recipes have no table of contents. toc-hide.js sets .no-toc on <html>
+   for paths under /en/recipes/.
+   ========================================================================== */
+
+.no-toc .md-sidebar--secondary {
+    display: none;
+}
