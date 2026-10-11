@@ -7,7 +7,7 @@ tags:
 === "Ingredients"
 
     - 320 g Dry Spaghetti or Rigatoni
-    - 240 g Guanciale, chopped into ~1 cm thick strips
+    - 240 g Guanciale, rind removed, chopped into ~1 cm thick strips
     - 60 g Pecorino Romano, finely grated
     - Black Peppercorn, ground
     - Salt
