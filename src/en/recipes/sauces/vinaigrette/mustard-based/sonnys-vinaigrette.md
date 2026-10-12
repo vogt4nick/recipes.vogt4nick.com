@@ -1,5 +1,7 @@
 ---
 title: Sonny's vinaigrette
+tags:
+  - technique/mustard emulsification
 ---
 
 === "Ingredients"

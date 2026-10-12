@@ -1,3 +1,9 @@
+---
+tags:
+  - technique/acid in poaching liquid
+  - technique/poaching
+---
+
 === "Ingredients"
 
     - Eggs

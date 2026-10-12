@@ -1,3 +1,9 @@
+---
+tags:
+  - technique/confit
+  - technique/searing
+---
+
 === "Ingredients"
 
     - 1/4 Cabbage, sliced into wedges

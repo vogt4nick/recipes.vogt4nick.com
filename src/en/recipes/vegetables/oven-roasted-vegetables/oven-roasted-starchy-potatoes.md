@@ -1,6 +1,7 @@
 ---
 tags:
-  - Meal prep
+  - occasion/meal prep
+  - technique/roasting
 ---
 
 === "Ingredients"

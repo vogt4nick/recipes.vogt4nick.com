@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/resting
+---
+
 === "Ingredients"
 
     - Starter

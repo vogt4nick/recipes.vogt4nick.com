@@ -1,7 +1,7 @@
 ---
 tags:
-  - American cuisine
-  - Weekday dinner
+  - cuisine/american
+  - occasion/weekday dinner
 ---
 
 === "Ingredients"

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Work lunch
+  - occasion/work lunch
 ---
 
 # Kewpie-style tuna salad

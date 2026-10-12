@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/egg emulsification
+---
+
 === "Ingredients"
 
     - 1 Egg

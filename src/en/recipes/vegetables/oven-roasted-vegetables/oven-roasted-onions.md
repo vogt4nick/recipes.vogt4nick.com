@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/roasting
+---
+
 === "Ingredients"
 
     - Onions, peeled, quartered

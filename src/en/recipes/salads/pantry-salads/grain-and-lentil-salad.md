@@ -1,7 +1,7 @@
 ---
 tags:
-  - Meal prep
-  - Potluck
+  - occasion/meal prep
+  - occasion/potluck
 ---
 
 === "Ingredients"

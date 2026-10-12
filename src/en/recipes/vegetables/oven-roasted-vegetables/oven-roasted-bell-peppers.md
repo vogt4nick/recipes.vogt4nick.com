@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/roasting
+---
+
 === "Ingredients"
 
     - Bell Peppers, whole

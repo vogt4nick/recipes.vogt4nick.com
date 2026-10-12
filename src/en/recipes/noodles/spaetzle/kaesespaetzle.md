@@ -1,8 +1,8 @@
 ---
 tags:
-  - Continental cuisine
-  - Austrian cuisine
-  - Weekday dinner
+  - cuisine/continental
+  - cuisine/austrian
+  - occasion/weekday dinner
 ---
 
 # Käsespätzle

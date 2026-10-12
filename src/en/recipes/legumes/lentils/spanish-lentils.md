@@ -1,7 +1,7 @@
 ---
 tags:
-  - Mediterranean cuisine
-  - Weekday dinner
+  - cuisine/mediterranean
+  - occasion/weekday dinner
 ---
 
 === "Ingredients"

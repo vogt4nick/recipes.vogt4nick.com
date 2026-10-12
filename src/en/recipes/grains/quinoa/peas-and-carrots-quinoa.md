@@ -1,6 +1,6 @@
 ---
 tags:
-  - Meal prep
+  - occasion/meal prep
 ---
 
 === "Ingredients"

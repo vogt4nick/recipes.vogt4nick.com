@@ -1,6 +1,6 @@
 ---
 tags:
-  - Mediterranean cuisine
+  - cuisine/mediterranean
 ---
 
 # Italian wedding soup

@@ -1,6 +1,10 @@
 ---
 tags:
-  - Continental cuisine
+  - cuisine/continental
+  - technique/marinating
+  - technique/braising
+  - technique/searing
+  - technique/patting dry
 ---
 
 === "Ingredients"

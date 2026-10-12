@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/roasting
+---
+
 === "Ingredients"
 
     - Asparagus, woody ends trimmed

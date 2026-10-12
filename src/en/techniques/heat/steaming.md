@@ -6,20 +6,16 @@ surface.[^flach] Kept out of the water, food holds on to what dissolves in it.
 Steamed broccoli keeps its vitamin C, soluble sugars, and soluble proteins,
 which boiling, microwaving, and stir-frying all reduce.[^yuan]
 
-## Where it's used
-
-- [Hardboiled eggs](../../recipes/eggs/hardboiled-eggs.md)
-- [Erdäpfelkas](../../recipes/spreads/erd%C3%A4pfelkas.md) -- steams the
-    potatoes.
-- [Semmelknödel](../../recipes/dumplings/semmelknoedel/index.md)
-- [Bayerische Semmelknödel](../../recipes/dumplings/semmelknoedel/bavarian-bread-dumplings.md)
-- [Persian rice](../../recipes/grains/rice/basmati-rice/persian-rice.md) --
-    parboils the rice, then steams it 45 minutes under a towel and lid.
-
 ## See also
 
 - [Water](../water/index.md)
 - [Poaching](poaching.md)
+
+## Recipes
+
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/steaming], toc: false } -->
+</div>
 
 [^flach]: Flach, S., S. Parnovsky, and A. Varlamov.
     ["The Egg Steamer Paradox."](https://doi.org/10.1088/1361-6552/ac3930)

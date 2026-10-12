@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/egg emulsification
+---
+
 === "Basic Ingredients"
 
     - 1 Garlic Clove, minced

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Japanese cuisine
+  - cuisine/japanese
 ---
 
 # Japanese rice

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Indian cuisine
+  - cuisine/indian
 ---
 
 === "Ingredients"

@@ -15,17 +15,15 @@ heat before straining.
     is kept constantly refrigerated, which is why the FDA requires acidifying agents
     or microbial inhibitors in commercial versions.[^morse]
 
-## Where it's used
-
-- [Garlic infused olive oil](../../recipes/seasonings/infused-oils/garlic-infused-olive-oil.md)
-- [Lemon infused olive oil](../../recipes/seasonings/infused-oils/lemon-infused-olive-oil.md)
-- [Pizza crust oil](../../recipes/seasonings/infused-oils/pizza-crust-oil.md)
-- [Szechuan oil](../../recipes/seasonings/infused-oils/szechuan-oil.md)
-- [Aglio e olio](../../recipes/noodles/italian-pasta/aglio-e-olio.md)
-
 ## See also
 
 - [Confit](../heat/confit.md) -- serves the food that cooks in the fat.
+
+## Recipes
+
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/infusing oils], toc: false } -->
+</div>
 
 [^sarasin]: Sarasin, Keith.
     ["The Sacred Act of Tadka (Tempering Spices)."](https://www.thecookscook.com/columns/the-sacred-table/the-sacred-act-of-tadka-tempering-spices/)

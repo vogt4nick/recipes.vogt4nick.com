@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/sautéing
+---
+
 === "Ingredients"
 
     - 1 1/2 T Olive Oil

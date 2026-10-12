@@ -1,5 +1,8 @@
 ---
 title: Pan sauce
+tags:
+  - technique/deglazing
+  - technique/roux
 ---
 
 === "Ingredients"

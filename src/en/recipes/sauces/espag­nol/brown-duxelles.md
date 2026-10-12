@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/mounting with butter
+---
+
 === "Ingredients"
 
     - Sautéed Mushrooms

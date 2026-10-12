@@ -1,6 +1,6 @@
 ---
 tags:
-  - Weekday dinner
+  - occasion/weekday dinner
 ---
 
 === "Ingredients"

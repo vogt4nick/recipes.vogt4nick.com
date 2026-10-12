@@ -5,13 +5,15 @@ at the surface, and its small pores draw oil in. Dough fried at 180ºC (356ºF)
 ends up 14.4% oil, at 150ºC (302ºF) 12.2%, and at 120ºC (248ºF) 1.3%.[^verma]
 Most of that oil enters as the food cools after frying.[^esrf]
 
-## Where it's used
-
-- [Samosas](../../recipes/dumplings/samosas.md) -- 6 cm of oil at 190ºC (375ºF).
-
 ## See also
 
 - [Pan-frying](pan-frying.md)
+
+## Recipes
+
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/deep-frying], toc: false } -->
+</div>
 
 [^verma]: Verma, U., I. Riley, B. Lukić, L. Broche, P. Verboven, J. Delcour, and
     B. Nicolaï.

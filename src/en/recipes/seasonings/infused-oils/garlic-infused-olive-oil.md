@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/infusing oils
+---
+
 === "Ingredients"
 
     - 60 g Olive Oil

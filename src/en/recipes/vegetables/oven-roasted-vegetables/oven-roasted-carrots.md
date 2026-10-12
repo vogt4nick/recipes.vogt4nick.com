@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/roasting
+---
+
 === "Ingredients"
 
     - Carrots, chopped into thumb-sized pieces

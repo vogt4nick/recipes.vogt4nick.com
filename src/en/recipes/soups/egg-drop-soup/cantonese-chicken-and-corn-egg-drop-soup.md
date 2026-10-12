@@ -1,7 +1,7 @@
 ---
 tags:
-  - East Asian cuisine
-  - Weekday dinner
+  - cuisine/east asian
+  - occasion/weekday dinner
 ---
 
 # Cantonese chicken & corn egg drop soup

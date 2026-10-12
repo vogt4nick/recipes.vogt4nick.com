@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/starter tuning
+---
+
 === "Ingredients"
 
     | Ingredient        | Soaker | Leaven | Dough | Final | Final (%) |

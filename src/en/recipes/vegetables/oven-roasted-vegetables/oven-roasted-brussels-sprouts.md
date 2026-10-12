@@ -1,6 +1,7 @@
 ---
 tags:
-  - Weekday dinner
+  - occasion/weekday dinner
+  - technique/roasting
 ---
 
 === "Ingredients"

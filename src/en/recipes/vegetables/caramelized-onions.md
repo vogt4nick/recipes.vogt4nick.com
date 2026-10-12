@@ -1,3 +1,9 @@
+---
+tags:
+  - technique/deglazing
+  - technique/sweating
+---
+
 === "Ingredients"
 
     - 30 g Neutral Oil or Lard

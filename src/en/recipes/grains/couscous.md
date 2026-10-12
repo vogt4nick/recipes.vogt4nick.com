@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/toasting
+---
+
 === "Ingredients"
 
     - 100 g Dry White Couscous or Dry Whole Wheat Couscous

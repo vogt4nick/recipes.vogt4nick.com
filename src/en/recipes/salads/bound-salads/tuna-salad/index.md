@@ -1,6 +1,6 @@
 ---
 tags:
-  - American cuisine
+  - cuisine/american
 ---
 
 # Tuna salad

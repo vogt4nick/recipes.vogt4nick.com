@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/pickling
+---
+
 === "Ingredients"
 
     - 240 g Vinegar

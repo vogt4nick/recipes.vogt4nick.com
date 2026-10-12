@@ -1,6 +1,8 @@
 ---
 tags:
-  - Indian cuisine
+  - cuisine/indian
+  - technique/deglazing
+  - technique/blooming spices
 ---
 
 === "Ingredients"

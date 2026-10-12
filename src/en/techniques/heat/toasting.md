@@ -9,19 +9,15 @@ Whole spices hold more of their oils than ground ones, so they toast
 better,[^miller] and are ground after toasting.[^card] Burnt spices taste harsh
 and bitter.[^miller]
 
-## Where it's used
-
-- [Garam masala](../../recipes/seasonings/spice-blends/garam-masala.md)
-- [Chinese five spice](../../recipes/seasonings/spice-blends/chinese-five-spice.md)
-- [Wheat berries](../../recipes/grains/wheat-berries.md) -- toasted 10 minutes
-    in a 190ºC (375ºF) oven.
-- [Couscous](../../recipes/grains/couscous.md) -- toasted in olive oil.
-- [Panzanella](../../recipes/salads/panzanella.md) -- toasts the bread cubes in
-    olive oil.
-
 ## See also
 
 - [Blooming spices](../fat/blooming-spices.md)
+
+## Recipes
+
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/toasting], toc: false } -->
+</div>
 
 [^gong]: Gong, Y., A. Kerrihard, and R. Pegg.
     ["Characterization of the Volatile Compounds in Raw and Roasted Georgia Pecans by HS-SPME-GC-MS."](https://doi.org/10.1111/1750-3841.14365)

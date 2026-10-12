@@ -1,6 +1,6 @@
 ---
 tags:
-  - Continental cuisine
+  - cuisine/continental
 ---
 
 === "Ingredients"

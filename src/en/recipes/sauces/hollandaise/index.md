@@ -1,5 +1,8 @@
 ---
 title: Hollandaise
+tags:
+  - technique/egg emulsification
+  - technique/mounting with butter
 ---
 
 === "Ingredients"

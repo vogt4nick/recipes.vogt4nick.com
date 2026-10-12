@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/roasting
+---
+
 === "Ingredients"
 
     - Zucchinis, chopped into thumb-sized pieces

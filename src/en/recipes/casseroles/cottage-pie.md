@@ -1,6 +1,6 @@
 ---
 tags:
-  - Irish cuisine
+  - cuisine/irish
 ---
 
 === "Ingredients"

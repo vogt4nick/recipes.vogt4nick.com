@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/poaching
+---
+
 === "Ingredients"
 
     - Raw Chicken Breast, boneless, skinless

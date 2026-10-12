@@ -1,5 +1,7 @@
 ---
 title: Kewpie-style vinaigrette
+tags:
+  - technique/mustard emulsification
 ---
 
 === "Ingredients"

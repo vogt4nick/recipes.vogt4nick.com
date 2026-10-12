@@ -1,7 +1,8 @@
 ---
 tags:
-  - Indian cuisine
-  - Weekday dinner
+  - cuisine/indian
+  - occasion/weekday dinner
+  - technique/blooming spices
 ---
 
 # Chetna's curry

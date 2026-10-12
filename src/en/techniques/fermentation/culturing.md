@@ -7,13 +7,15 @@ cream, so it can be cooked without curdling.[^mccord]
 [Crème fraîche](../../recipes/sauces/creme-fraiche.md) rests 24 hours in a warm
 spot, about 22ºC (75ºF), then chills 24 hours.
 
-## Where it's used
-
-- [Crème fraîche](../../recipes/sauces/creme-fraiche.md)
-
 ## See also
 
 - [Lacto-fermentation](lacto-fermentation.md)
+
+## Recipes
+
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/culturing], toc: false } -->
+</div>
 
 [^mccord]: McCord, Garrett.
     ["Soured Milks: What's the Difference?"](https://www.kqed.org/bayareabites/61214/soured-milks)

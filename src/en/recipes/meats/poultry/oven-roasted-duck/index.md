@@ -1,5 +1,8 @@
 ---
 title: Oven roasted duck
+tags:
+  - technique/roasting
+  - technique/patting dry
 ---
 
 === "Ingredients"

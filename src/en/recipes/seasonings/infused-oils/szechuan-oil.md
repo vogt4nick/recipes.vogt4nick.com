@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/infusing oils
+---
+
 === "Ingredients"
 
     - 220 g Vegetable oil

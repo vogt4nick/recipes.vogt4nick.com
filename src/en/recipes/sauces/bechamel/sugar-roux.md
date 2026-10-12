@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/roux
+---
+
 === "Ingredients"
 
     - 25 g Unsalted Butter

@@ -1,3 +1,12 @@
+---
+tags:
+  - technique/deglazing
+  - technique/braising
+  - technique/resting
+  - technique/searing
+  - technique/roux
+---
+
 === "Ingredients"
 
     - Neutral Oil

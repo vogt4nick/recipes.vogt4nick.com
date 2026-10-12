@@ -1,7 +1,9 @@
 ---
 tags:
-  - Mediterranean cuisine
-  - Weekday dinner
+  - cuisine/mediterranean
+  - occasion/weekday dinner
+  - technique/infusing oils
+  - technique/pasta water emulsification
 ---
 
 === "Ingredients"

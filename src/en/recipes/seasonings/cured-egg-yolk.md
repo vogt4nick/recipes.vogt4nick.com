@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/curing
+---
+
 === "Ingredients"
 
     - 300 g Medium-Grain Salt

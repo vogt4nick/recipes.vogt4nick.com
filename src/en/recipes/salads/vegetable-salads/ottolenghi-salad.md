@@ -1,7 +1,7 @@
 ---
 tags:
-  - Continental cuisine
-  - Potluck
+  - cuisine/continental
+  - occasion/potluck
 ---
 
 === "Ingredients"

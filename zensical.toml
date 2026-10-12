@@ -25,9 +25,11 @@ unused_footnotes = false
 
 [project.plugins]
 awesome-nav = {}
-tags = {}
 "minify".minify_html = true
 "search".lang = "en"
+
+[project.plugins.tags]
+tags_hierarchy = true
 
 [project.plugins.llmstxt]
 markdown_description = "Nick's personal recipe collection."
@@ -99,6 +101,7 @@ abbr = {}
 admonition = {}
 attr_list = {}
 footnotes = {}
+md_in_html = {}
 "pymdownx.details" = {}
 "pymdownx.snippets" = {}
 "pymdownx.superfences" = {}

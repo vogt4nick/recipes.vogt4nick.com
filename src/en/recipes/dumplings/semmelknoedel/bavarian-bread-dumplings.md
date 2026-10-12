@@ -1,7 +1,8 @@
 ---
 tags:
-  - Continental cuisine
-  - Austrian cuisine
+  - cuisine/continental
+  - cuisine/austrian
+  - technique/steaming
 ---
 
 # Bayerische Semmelknödel (Bavarian-style bread dumplings)

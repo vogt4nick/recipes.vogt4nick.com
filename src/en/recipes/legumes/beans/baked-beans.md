@@ -1,6 +1,7 @@
 ---
 tags:
-  - American cuisine
+  - cuisine/american
+  - technique/deglazing
 ---
 
 === "Ingredients"

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Meal prep
-  - Work lunch
+  - occasion/meal prep
+  - occasion/work lunch
 ---
 
 === "Ingredients"

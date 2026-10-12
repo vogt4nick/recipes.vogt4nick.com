@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/roasting
+---
+
 === "Ingredients"
 
     - Sweet Potatoes, peeled, chopped into thumb-sized pieces

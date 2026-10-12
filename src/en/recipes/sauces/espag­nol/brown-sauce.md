@@ -1,5 +1,7 @@
 ---
 title: Brown sauce
+tags:
+  - technique/roux
 ---
 
 ???+ quote "Julia Child in _Mastering the Art of French Cooking_"

@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/toasting
+---
+
 === "Ingredients"
 
     - 400 g Water

@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/steaming
+---
+
 # Erdäpfelkas (potato cheese)
 
 === "Ingredients"

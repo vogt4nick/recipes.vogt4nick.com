@@ -1,7 +1,8 @@
 ---
 tags:
-  - Work lunch
-  - Weekday dinner
+  - occasion/work lunch
+  - occasion/weekday dinner
+  - technique/roasting
 ---
 
 === "Ingredients"

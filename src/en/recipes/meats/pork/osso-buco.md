@@ -1,6 +1,10 @@
 ---
 tags:
-  - Mediterranean cuisine
+  - cuisine/mediterranean
+  - technique/deglazing
+  - technique/braising
+  - technique/searing
+  - technique/roux
 ---
 
 === "Ingredients"

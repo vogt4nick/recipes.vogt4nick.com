@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/roux
+---
+
 === "Ingredients"
 
     - 480 g [Bechamel Sauce](./index.md)

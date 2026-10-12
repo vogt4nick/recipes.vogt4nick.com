@@ -1,7 +1,8 @@
 ---
 tags:
-  - Levantine cuisine
-  - Weekday dinner
+  - cuisine/levantine
+  - occasion/weekday dinner
+  - technique/marinating
 ---
 
 === "Ingredients"

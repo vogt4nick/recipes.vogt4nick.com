@@ -1,8 +1,8 @@
 ---
 tags:
-  - American cuisine
-  - Midwest cuisine
-  - Potluck
+  - cuisine/american
+  - cuisine/midwest
+  - occasion/potluck
 ---
 
 === "Ingredients"

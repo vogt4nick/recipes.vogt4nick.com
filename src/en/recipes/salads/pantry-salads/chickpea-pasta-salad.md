@@ -1,8 +1,8 @@
 ---
 tags:
-  - Continental cuisine
-  - Austrian cuisine
-  - Meal prep
+  - cuisine/continental
+  - cuisine/austrian
+  - occasion/meal prep
 ---
 
 === "Ingredients"

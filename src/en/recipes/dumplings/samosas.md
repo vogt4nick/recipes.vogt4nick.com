@@ -1,6 +1,7 @@
 ---
 tags:
-  - Indian cuisine
+  - cuisine/indian
+  - technique/deep-frying
 ---
 
 === "Ingredients"

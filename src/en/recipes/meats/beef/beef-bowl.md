@@ -1,3 +1,9 @@
+---
+tags:
+  - technique/deglazing
+  - technique/sautéing
+---
+
 === "Ingredients"
 
     - 600 g 80/20 Ground Beef

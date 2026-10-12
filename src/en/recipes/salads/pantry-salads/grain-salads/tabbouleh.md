@@ -1,6 +1,6 @@
 ---
 tags:
-  - Levantine cuisine
+  - cuisine/levantine
 ---
 
 === "Ingredients"

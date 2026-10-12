@@ -1,7 +1,9 @@
 ---
 tags:
-  - American cuisine
-  - Southern cuisine
+  - cuisine/american
+  - cuisine/southern
+  - technique/braising
+  - technique/resting
 ---
 
 === "Ingredients"

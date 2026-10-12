@@ -1,6 +1,6 @@
 ---
 tags:
-  - Latin American cuisine
+  - cuisine/latin american
 ---
 
 === "Ingredients"

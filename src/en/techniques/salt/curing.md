@@ -7,9 +7,11 @@ into the food, where it makes conditions hostile to them.[^cooksinfo]
 [Cured egg yolks](../../recipes/seasonings/cured-egg-yolk.md) sit 5-7 days in
 salt and sugar, then dry in a low oven.
 
-## Where it's used
+## Recipes
 
-- [Cured egg yolk](../../recipes/seasonings/cured-egg-yolk.md)
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/curing], toc: false } -->
+</div>
 
 [^cooksinfo]: ["Curing."](https://www.cooksinfo.com/curing) _CooksInfo._ 17 June
     2020\.

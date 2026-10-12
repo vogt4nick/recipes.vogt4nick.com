@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/pickling
+---
+
 === "Ingredients"
 
     - 100 g Fresh Beetroot, peeled, thinly sliced

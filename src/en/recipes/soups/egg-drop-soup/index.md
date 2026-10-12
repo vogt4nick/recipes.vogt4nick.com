@@ -1,6 +1,6 @@
 ---
 tags:
-  - East Asian cuisine
+  - cuisine/east asian
 ---
 
 # Egg Drop Soup

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Continental cuisine
-  - Austrian cuisine
+  - cuisine/continental
+  - cuisine/austrian
 ---
 
 === "Ingredients"

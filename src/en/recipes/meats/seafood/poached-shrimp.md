@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/poaching
+---
+
 === "Ingredients"
 
     - 500 g Raw Shrimp

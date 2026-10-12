@@ -1,7 +1,7 @@
 ---
 tags:
-  - American cuisine
-  - Midwest cuisine
+  - cuisine/american
+  - cuisine/midwest
 ---
 
 # Sloppy Joe

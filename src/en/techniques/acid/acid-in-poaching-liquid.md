@@ -7,13 +7,15 @@ the yolk.
 [Poached eggs](../../recipes/eggs/poached-eggs.md) rinse in cold water afterward
 to wash off the lingering vinegar.
 
-## Where it's used
-
-- [Poached eggs](../../recipes/eggs/poached-eggs.md)
-
 ## See also
 
 - [Poaching](../heat/poaching.md) -- the gentle heat that cooks the egg.
+
+## Recipes
+
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/acid in poaching liquid], toc: false } -->
+</div>
 
 [^croguennec]: Croguennec, T., F. Nau, and G. Brulé.
     ["Influence of pH and Salts on Egg White Gelation."](https://doi.org/10.1111/j.1365-2621.2002.tb10646.x)

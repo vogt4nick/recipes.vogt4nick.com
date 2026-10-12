@@ -540,6 +540,26 @@
     color: var(--md-default-fg-color--light);
 }
 
+/* ---------- Tag listings on technique pages: just the recipes ----------
+
+   The tags plugin nests each listing under a heading per tag level, one level
+   below the heading before it. Collapse the headings, keeping them as targets
+   for the tag links on recipe pages, and unindent the list so it reads as a
+   plain list. */
+
+.md-typeset .tag-listing [id^="tag:"] {
+    height: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+/* The recipes sit in a list inside each tag's list item, which the theme
+   indents as a sublist. */
+[dir] .md-typeset .tag-listing ul,
+[dir] .md-typeset .tag-listing>ul>li {
+    margin-left: 0;
+}
+
 /* ---------- Chrome: plain header, compact sidebar ---------- */
 
 .md-header {

@@ -1,6 +1,7 @@
 ---
 tags:
-  - Continental cuisine
+  - cuisine/continental
+  - technique/deglazing
 ---
 
 === "Ingredients"

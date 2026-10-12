@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/mustard emulsification
+---
+
 === "Ingredients"
 
     - 15 g Shallots, minced

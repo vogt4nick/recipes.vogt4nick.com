@@ -1,6 +1,7 @@
 ---
 tags:
-  - Mediterranean cuisine
+  - cuisine/mediterranean
+  - technique/toasting
 ---
 
 === "Ingredients"

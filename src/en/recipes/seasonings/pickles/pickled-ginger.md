@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/pickling
+---
+
 === "Ingredients"
 
     - 100 g Fresh Ginger Root, peeled, thinly sliced

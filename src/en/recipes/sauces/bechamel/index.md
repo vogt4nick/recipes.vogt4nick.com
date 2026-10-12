@@ -1,5 +1,7 @@
 ---
 title: Bechamel Sauce
+tags:
+  - technique/roux
 ---
 
 === "Ingredients"

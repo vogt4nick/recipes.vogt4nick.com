@@ -1,9 +1,9 @@
 ---
 tags:
-  - American cuisine
-  - Midwest cuisine
-  - Meal prep
-  - Work lunch
+  - cuisine/american
+  - cuisine/midwest
+  - occasion/meal prep
+  - occasion/work lunch
 ---
 
 === "Ingredients"

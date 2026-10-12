@@ -1,7 +1,7 @@
 ---
 tags:
-  - African cuisine
-  - Indian cuisine
+  - cuisine/african
+  - cuisine/indian
 ---
 
 # Millet rice

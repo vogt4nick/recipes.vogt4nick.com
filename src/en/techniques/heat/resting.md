@@ -6,19 +6,16 @@ too early, the juices run onto the board.[^thermapen] Bread keeps setting as it
 cools; until then, baker Paul Adams says, it "is effectively undercooked," with
 a sticky interior.[^white]
 
-## Where it's used
-
-- [Oven roasted salmon](../../recipes/meats/seafood/oven-roasted-salmon.md) --
-    rests 5 minutes to finish cooking.
-- [Braised beef](../../recipes/meats/beef/braised-beef.md) -- rests 10 minutes.
-- [Pulled pork](../../recipes/meats/pork/pulled-pork.md) -- rests an hour.
-- [Baguettes](../../recipes/breads/dry-yeast-breads/baguettes.md) -- cool 40
-    minutes.
-
 ## See also
 
 - [Roasting](roasting.md)
 - [Braising](braising.md)
+
+## Recipes
+
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/resting], toc: false } -->
+</div>
 
 [^thermapen]: ["The Science of Resting Lamb."](https://thermapen.co.uk/recipes/post/the-science-of-resting-lamb)
     _Thermapen._ 1 March 2024.

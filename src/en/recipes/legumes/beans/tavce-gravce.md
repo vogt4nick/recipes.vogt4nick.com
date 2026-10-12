@@ -1,6 +1,6 @@
 ---
 tags:
-  - Balkan cuisine
+  - cuisine/balkan
 ---
 
 # Tavče gravče

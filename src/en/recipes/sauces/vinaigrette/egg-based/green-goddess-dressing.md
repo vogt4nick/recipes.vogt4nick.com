@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/egg emulsification
+---
+
 === "Ingredients"
 
     - 180 g [Mayonnaise](../../hollandaise/mayonnaise/index.md)

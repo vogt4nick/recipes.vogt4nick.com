@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/toasting
+---
+
 === "Ingredients"
 
     - 10 g Star Anise, toasted, ground

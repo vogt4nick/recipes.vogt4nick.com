@@ -1,7 +1,8 @@
 ---
 tags:
-  - Latin American cuisine
-  - Weekday dinner
+  - cuisine/latin american
+  - occasion/weekday dinner
+  - technique/sautéing
 ---
 
 === "Ingredients"

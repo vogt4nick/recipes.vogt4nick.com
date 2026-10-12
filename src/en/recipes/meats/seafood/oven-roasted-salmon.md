@@ -1,3 +1,9 @@
+---
+tags:
+  - technique/resting
+  - technique/roasting
+---
+
 === "Ingredients"
 
     - Salmon Fillets, boned

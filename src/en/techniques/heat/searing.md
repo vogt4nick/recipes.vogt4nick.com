@@ -9,20 +9,18 @@ A sauce browns the same way. Soy sauce poured down the hot side of a wok browns
 as its water boils off against the metal; poured into the food, it sits among
 wet ingredients near 100ºC (212ºF), and the stir-fry loses its _wok hei_.[^lieu]
 
-## Where it's used
-
-- [Braised beef](../../recipes/meats/beef/braised-beef.md)
-- [Osso buco](../../recipes/meats/pork/osso-buco.md)
-- [Sauerbraten](../../recipes/meats/beef/sauerbraten.md)
-- [Confit cabbage](../../recipes/vegetables/confit-cabbage.md) -- sears the cut
-    faces before the slow bake.
-
 ## See also
 
 - [Deglazing](../acid/deglazing.md) -- recovers the browned bits searing leaves
     in the pan.
 - [Braising](braising.md) -- the usual next step for a seared tough cut.
 - [Patting dry](../water/patting-dry.md)
+
+## Recipes
+
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/searing], toc: false } -->
+</div>
 
 [^aoki]: Aoki, Peggy.
     ["The Crucial Step You Should Never Skip Before Browning Beef."](https://www.tastingtable.com/1791074/how-to-dry-beef-before-searing-browning/)

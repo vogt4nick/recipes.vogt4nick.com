@@ -1,7 +1,7 @@
 ---
 tags:
-  - American cuisine
-  - Southern cuisine
+  - cuisine/american
+  - cuisine/southern
 ---
 
 # Southern mac & cheese

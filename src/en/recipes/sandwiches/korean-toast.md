@@ -1,7 +1,7 @@
 ---
 tags:
-  - East Asian cuisine
-  - Weekday dinner
+  - cuisine/east asian
+  - occasion/weekday dinner
 ---
 
 === "Ingredients"

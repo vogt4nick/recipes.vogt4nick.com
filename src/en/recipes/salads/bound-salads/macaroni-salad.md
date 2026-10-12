@@ -1,6 +1,6 @@
 ---
 tags:
-  - Midwest cuisine
+  - cuisine/midwest
 ---
 
 === "Ingredients"

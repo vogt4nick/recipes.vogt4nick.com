@@ -1,5 +1,7 @@
 ---
 title: Crème fraîche
+tags:
+  - technique/culturing
 ---
 
 === "Ingredients"

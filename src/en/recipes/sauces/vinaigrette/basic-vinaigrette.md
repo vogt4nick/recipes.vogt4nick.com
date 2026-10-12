@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/mustard emulsification
+---
+
 === "Ingredients"
 
     - 30 g Dijon Mustard

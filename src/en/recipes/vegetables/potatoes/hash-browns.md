@@ -1,3 +1,9 @@
+---
+tags:
+  - technique/pan-frying
+  - technique/patting dry
+---
+
 === "Ingredients"
 
     - 40 g Clarified Butter or Neutral Oil

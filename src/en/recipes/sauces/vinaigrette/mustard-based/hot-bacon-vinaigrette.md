@@ -1,3 +1,10 @@
+---
+tags:
+  - technique/mustard emulsification
+  - technique/sweating
+  - technique/slurry
+---
+
 === "Ingredients"
 
     - 220 g Bacon, roughly chopped

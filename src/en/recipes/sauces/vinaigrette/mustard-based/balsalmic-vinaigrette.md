@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/mustard emulsification
+---
+
 === "Ingredients"
 
     - 60 g Balsamic Vinegar
