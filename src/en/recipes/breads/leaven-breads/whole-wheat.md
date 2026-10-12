@@ -1,8 +1,3 @@
----
-tags:
-  - technique/starter-tuning
----
-
 === "Ingredients"
 
     | Ingredient        | Leaven | Autolyse | Dough | Final | Final (%) |
