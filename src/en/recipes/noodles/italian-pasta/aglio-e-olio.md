@@ -3,7 +3,7 @@ tags:
   - cuisine/mediterranean
   - occasion/weekday dinner
   - technique/infusing oils
-  - technique/starch emulsification
+  - technique/emulsification
 ---
 
 === "Ingredients"

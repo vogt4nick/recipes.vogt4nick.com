@@ -1,7 +1,7 @@
 ---
 title: Mayonnaise
 tags:
-  - technique/egg emulsification
+  - technique/emulsification
 ---
 
 === "Ingredients"

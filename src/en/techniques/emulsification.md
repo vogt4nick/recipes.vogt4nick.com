@@ -7,6 +7,10 @@ mucilage, a mix of proteins and polysaccharides around the seed hull.[^atk] In a
 sauce of grated cheese and water, starch keeps the cheese from
 clumping.[^bartolucci]
 
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/emulsification], toc: false } -->
+</div>
+
 ## Egg emulsification
 
 As oil or butter is whisked into egg yolk a little at a time, the yolk's
@@ -16,10 +20,6 @@ from running back together.
 
 [Mayonnaise](../recipes/sauces/hollandaise/mayonnaise/index.md) starts with
 teaspoons of oil until the sauce thickens.
-
-<div class="tag-listing" markdown>
-<!-- material/tags { include: [technique/egg emulsification], toc: false } -->
-</div>
 
 ## Mustard emulsification
 
@@ -31,10 +31,6 @@ powder won't emulsify at all.[^atk]
 
 See also [Slurry](starch.md#slurry) -- hot bacon vinaigrette uses both.
 
-<div class="tag-listing" markdown>
-<!-- material/tags { include: [technique/mustard emulsification], toc: false } -->
-</div>
-
 ## Starch emulsification
 
 Starch keeps cheese from clumping. In a sauce of grated cheese and water, starch
@@ -42,18 +38,10 @@ concentration is the key factor in stability; with starch below about 1% of the
 cheese's weight, the sauce seizes into clumps, the "Mozzarella
 phase."[^bartolucci]
 
-<div class="tag-listing" markdown>
-<!-- material/tags { include: [technique/starch emulsification], toc: false } -->
-</div>
-
 ## Mounting with butter
 
 Butter whisked into a little warm liquid emulsifies. Keep the sauce below a
 simmer; if bubbles form, pull it off the heat before the emulsion splits.[^fdl]
-
-<div class="tag-listing" markdown>
-<!-- material/tags { include: [technique/mounting with butter], toc: false } -->
-</div>
 
 [^mine]: Mine, Y.
     ["Adsorption Behavior of Egg Yolk Low-Density Lipoproteins in Oil-in-Water Emulsions."](https://doi.org/10.1021/jf970306y)

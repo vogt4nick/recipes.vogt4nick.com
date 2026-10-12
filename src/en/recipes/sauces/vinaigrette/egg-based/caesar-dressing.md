@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/egg emulsification
+  - technique/emulsification
 ---
 
 === "Ingredients"

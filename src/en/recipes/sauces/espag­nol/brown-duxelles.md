@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/mounting with butter
+  - technique/emulsification
 ---
 
 === "Ingredients"

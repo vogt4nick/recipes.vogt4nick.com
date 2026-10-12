@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/mustard emulsification
+  - technique/emulsification
 ---
 
 === "Ingredients"
