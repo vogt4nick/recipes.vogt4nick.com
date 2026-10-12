@@ -11,12 +11,14 @@ panzanella
 provence
 reggiano
 sheetpan
+steams
 stellini
 sting
 yudane
 # ------------
 # proper nouns
 # ------------
+devine
 fallow
 hart
 mckenney
