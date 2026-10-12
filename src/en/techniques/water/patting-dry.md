@@ -6,8 +6,8 @@ removes that water before the heat has to boil it off.
 
 ## See also
 
-- [Dry-brining](../salt/dry-brining.md) -- salting ahead also leaves the skin
-    drier.
+- [Dry-brining](../salt/brining.md#dry-brining) -- salting ahead also leaves the
+    skin drier.
 
 ## Recipes
 

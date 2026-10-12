@@ -5,8 +5,8 @@ their moisture.[^rothman] Given time, salt also changes meat's proteins so they
 hold water. In salt solutions like those used in meat processing, muscle
 myofibrils swell to about twice their volume, and water losses on cooking may
 come from the same filaments shrinking.[^offer] [Curing](curing.md) pulls water
-out for good; [dry-brining](dry-brining.md) lets it back in, carrying the salt
-with it.
+out for good; [dry-brining](brining.md#dry-brining) lets it back in, carrying
+the salt with it.
 
 [^rothman]: Rothman, Lauren.
     ["Why Adding Salt Is So Important When Cooking Onions."](https://www.tastingtable.com/834374/why-adding-salt-is-so-important-when-cooking-onions/)
