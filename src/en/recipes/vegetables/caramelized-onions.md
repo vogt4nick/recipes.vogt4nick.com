@@ -1,7 +1,6 @@
 ---
 tags:
   - technique/deglazing
-  - technique/sweating
 ---
 
 === "Ingredients"

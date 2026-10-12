@@ -18,6 +18,7 @@ heat dries the surface and browns it.
 | [Sautéing](sauteing.md)       | Oil    | 135-204ºC |  275-400ºF |
 | [Searing](searing.md)         | Dry    | 204-232ºC |  400-450ºF |
 | [Steaming](steaming.md)       | Steam  |     100ºC |      212ºF |
+| [Sweating](sweating.md)       | Oil    |     100ºC |      212ºF |
 | [Toasting](toasting.md)       | Dry    | 175-190ºC |  347-375ºF |
 
 Food keeps cooking while it [rests](resting.md) off the heat.

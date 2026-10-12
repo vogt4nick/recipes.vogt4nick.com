@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/sweating
+---
+
 ??? note "Notes from Marcella"
 
     - The meat should not be from too lean a cut; the more marbled it is, the

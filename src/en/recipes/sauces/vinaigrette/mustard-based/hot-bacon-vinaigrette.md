@@ -1,7 +1,6 @@
 ---
 tags:
   - technique/mustard emulsification
-  - technique/sweating
   - technique/slurry
 ---
 

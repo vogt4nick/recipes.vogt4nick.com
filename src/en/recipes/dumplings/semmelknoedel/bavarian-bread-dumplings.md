@@ -3,6 +3,7 @@ tags:
   - cuisine/continental
   - cuisine/austrian
   - technique/steaming
+  - technique/sweating
 ---
 
 # Bayerische Semmelknödel (Bavarian-style bread dumplings)

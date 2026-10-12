@@ -2,6 +2,7 @@
 tags:
   - cuisine/american
   - cuisine/midwest
+  - technique/sweating
 ---
 
 === "Ingredients"

@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/sweating
+---
+
 === "Ingredients"
 
     - 1/2 T Olive Oil

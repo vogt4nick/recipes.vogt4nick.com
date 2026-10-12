@@ -1,6 +1,5 @@
 ---
 tags:
-  - technique/sweating
   - technique/roux
 ---
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - cuisine/mediterranean
+  - technique/sweating
 ---
 
 # Italian wedding soup

@@ -1,6 +1,7 @@
 ---
 tags:
   - occasion/weekday dinner
+  - technique/sweating
 ---
 
 === "Ingredients"

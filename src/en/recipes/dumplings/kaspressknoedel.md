@@ -3,6 +3,7 @@ tags:
   - cuisine/continental
   - cuisine/austrian
   - occasion/weekday dinner
+  - technique/sweating
 ---
 
 # Kaspressknödel (baked cheese dumplings)

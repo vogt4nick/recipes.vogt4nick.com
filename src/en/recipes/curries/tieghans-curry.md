@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/sweating
+---
+
 # Tieghan's curry
 
 === "Ingredients"
