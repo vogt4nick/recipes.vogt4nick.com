@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/starter tuning
+  - technique/starter-tuning
 ---
 
 === "Ingredients"

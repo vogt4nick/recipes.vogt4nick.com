@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/infusing oils
+  - technique/infusing-oils
 ---
 
 === "Ingredients"

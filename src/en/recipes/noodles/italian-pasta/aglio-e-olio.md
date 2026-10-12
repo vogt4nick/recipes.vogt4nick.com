@@ -1,8 +1,8 @@
 ---
 tags:
   - cuisine/mediterranean
-  - occasion/weekday dinner
-  - technique/infusing oils
+  - occasion/weekday-dinner
+  - technique/infusing-oils
   - technique/emulsification
 ---
 

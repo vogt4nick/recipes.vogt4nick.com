@@ -1,7 +1,7 @@
 ---
 tags:
-  - cuisine/latin american
-  - occasion/weekday dinner
+  - cuisine/latin-american
+  - occasion/weekday-dinner
   - technique/sautéing
 ---
 

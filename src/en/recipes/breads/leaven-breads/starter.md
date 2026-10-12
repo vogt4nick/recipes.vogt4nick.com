@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/starter tuning
+  - technique/starter-tuning
 ---
 
 !!! info "The starter can be used straight out of the fridge for any recipe in this section."

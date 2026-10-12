@@ -1,6 +1,6 @@
 ---
 tags:
-  - occasion/weekday dinner
+  - occasion/weekday-dinner
 ---
 
 # Sloppy Jeong

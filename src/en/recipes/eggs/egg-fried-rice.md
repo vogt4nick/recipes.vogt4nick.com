@@ -1,6 +1,6 @@
 ---
 tags:
-  - cuisine/east asian
+  - cuisine/east-asian
 ---
 
 === "Ingredients"

@@ -2,8 +2,8 @@
 tags:
   - cuisine/american
   - cuisine/midwest
-  - occasion/meal prep
-  - occasion/work lunch
+  - occasion/meal-prep
+  - occasion/work-lunch
   - technique/sweating
 ---
 

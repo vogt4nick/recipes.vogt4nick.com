@@ -12,7 +12,7 @@ carries it through the dish. Spices bloom when they hit fat at about 180-200ºC
 ## Recipes
 
 <div class="tag-listing" markdown>
-<!-- material/tags { include: [technique/blooming spices], toc: false } -->
+<!-- material/tags { include: [technique/blooming-spices], toc: false } -->
 </div>
 
 [^sarasin]: Sarasin, Keith.

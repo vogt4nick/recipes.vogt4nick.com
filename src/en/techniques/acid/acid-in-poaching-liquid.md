@@ -14,7 +14,7 @@ to wash off the lingering vinegar.
 ## Recipes
 
 <div class="tag-listing" markdown>
-<!-- material/tags { include: [technique/acid in poaching liquid], toc: false } -->
+<!-- material/tags { include: [technique/acid-in-poaching-liquid], toc: false } -->
 </div>
 
 [^croguennec]: Croguennec, T., F. Nau, and G. Brulé.

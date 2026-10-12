@@ -1,7 +1,7 @@
 ---
 tags:
   - technique/pan-frying
-  - technique/patting dry
+  - technique/patting-dry
 ---
 
 === "Ingredients"

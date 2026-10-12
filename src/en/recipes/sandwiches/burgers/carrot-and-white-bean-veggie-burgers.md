@@ -2,7 +2,7 @@
 tags:
   - cuisine/american
   - cuisine/midwest
-  - occasion/weekday dinner
+  - occasion/weekday-dinner
 ---
 
 === "Ingredients"

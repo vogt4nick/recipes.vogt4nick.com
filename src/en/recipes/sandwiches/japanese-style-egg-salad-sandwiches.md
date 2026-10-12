@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/japanese
-  - occasion/weekday dinner
+  - occasion/weekday-dinner
 ---
 
 # Japanese-style egg salad sandwiches

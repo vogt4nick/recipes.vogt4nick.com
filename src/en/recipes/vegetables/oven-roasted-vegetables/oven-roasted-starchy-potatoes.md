@@ -1,6 +1,6 @@
 ---
 tags:
-  - occasion/meal prep
+  - occasion/meal-prep
   - technique/roasting
 ---
 

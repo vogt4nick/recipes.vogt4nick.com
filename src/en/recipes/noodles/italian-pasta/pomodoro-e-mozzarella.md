@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/mediterranean
-  - occasion/weekday dinner
+  - occasion/weekday-dinner
   - technique/emulsification
 ---
 

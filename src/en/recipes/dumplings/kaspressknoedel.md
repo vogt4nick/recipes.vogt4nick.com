@@ -2,7 +2,7 @@
 tags:
   - cuisine/continental
   - cuisine/austrian
-  - occasion/weekday dinner
+  - occasion/weekday-dinner
   - technique/sweating
 ---
 

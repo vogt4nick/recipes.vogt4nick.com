@@ -12,7 +12,7 @@ removes that water before the heat has to boil it off.
 ## Recipes
 
 <div class="tag-listing" markdown>
-<!-- material/tags { include: [technique/patting dry], toc: false } -->
+<!-- material/tags { include: [technique/patting-dry], toc: false } -->
 </div>
 
 [^aoki]: Aoki, Peggy.

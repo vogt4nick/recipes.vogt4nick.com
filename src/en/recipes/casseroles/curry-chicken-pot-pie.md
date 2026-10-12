@@ -1,6 +1,6 @@
 ---
 tags:
-  - occasion/work lunch
+  - occasion/work-lunch
 ---
 
 === "Ingredients"

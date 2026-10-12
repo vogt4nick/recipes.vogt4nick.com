@@ -2,7 +2,7 @@
 tags:
   - cuisine/continental
   - cuisine/austrian
-  - occasion/meal prep
+  - occasion/meal-prep
 ---
 
 === "Ingredients"

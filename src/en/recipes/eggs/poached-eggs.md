@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/acid in poaching liquid
+  - technique/acid-in-poaching-liquid
   - technique/poaching
 ---
 

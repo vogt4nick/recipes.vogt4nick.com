@@ -2,7 +2,7 @@
 tags:
   - cuisine/indian
   - technique/deglazing
-  - technique/blooming spices
+  - technique/blooming-spices
 ---
 
 === "Ingredients"

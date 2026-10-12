@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/levantine
-  - occasion/weekday dinner
+  - occasion/weekday-dinner
   - technique/marinating
 ---
 

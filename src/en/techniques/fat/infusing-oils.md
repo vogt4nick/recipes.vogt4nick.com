@@ -22,7 +22,7 @@ heat before straining.
 ## Recipes
 
 <div class="tag-listing" markdown>
-<!-- material/tags { include: [technique/infusing oils], toc: false } -->
+<!-- material/tags { include: [technique/infusing-oils], toc: false } -->
 </div>
 
 [^sarasin]: Sarasin, Keith.

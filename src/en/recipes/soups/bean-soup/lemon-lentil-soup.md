@@ -1,7 +1,7 @@
 ---
 tags:
-  - occasion/weekday dinner
-  - occasion/work lunch
+  - occasion/weekday-dinner
+  - occasion/work-lunch
 ---
 
 === "Ingredients"

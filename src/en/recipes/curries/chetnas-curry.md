@@ -1,8 +1,8 @@
 ---
 tags:
   - cuisine/indian
-  - occasion/weekday dinner
-  - technique/blooming spices
+  - occasion/weekday-dinner
+  - technique/blooming-spices
 ---
 
 # Chetna's curry
