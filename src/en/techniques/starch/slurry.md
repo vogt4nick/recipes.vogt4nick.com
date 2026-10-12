@@ -8,8 +8,8 @@ the slurry right before it goes in.[^leung]
 
 ## See also
 
-- [Mustard emulsification](../emulsion/mustard-emulsification.md) -- hot bacon
-    vinaigrette uses both.
+- [Mustard emulsification](../emulsification.md#mustard-emulsification) -- hot
+    bacon vinaigrette uses both.
 
 ## Recipes
 
