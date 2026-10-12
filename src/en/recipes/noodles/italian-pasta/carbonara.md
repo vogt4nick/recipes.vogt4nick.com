@@ -3,7 +3,7 @@ tags:
   - cuisine/mediterranean
   - occasion/weekday dinner
   - technique/egg emulsification
-  - technique/pasta water emulsification
+  - technique/starch emulsification
 ---
 
 === "Ingredients"

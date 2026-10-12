@@ -10,8 +10,8 @@ teaspoons of oil until the sauce thickens.
 
 ## See also
 
-- [Pasta water emulsification](../starch/pasta-water-emulsification.md) --
-    carbonara also leans on starch.
+- [Starch emulsification](starch-emulsification.md) -- carbonara also leans on
+    starch.
 - [Mounting with butter](mounting-with-butter.md) -- hollandaise whisks butter
     into warm yolks.
 
