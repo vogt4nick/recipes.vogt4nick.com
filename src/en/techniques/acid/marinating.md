@@ -5,11 +5,6 @@ penetrates less than 1 mm into beef short ribs in 18 hours, and acid left too
 long turns the outermost layer mushy, not tender.[^atk] Because a marinade works
 on the surface, it matters most on small or thin pieces.
 
-## See also
-
-- [Patting dry](../water/patting-dry.md) -- sauerbraten dries the beef after
-    marinating so it will sear.
-
 ## Recipes
 
 <div class="tag-listing" markdown>

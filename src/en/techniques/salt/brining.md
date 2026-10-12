@@ -27,7 +27,6 @@ pats them dry so the oven can brown them sooner.
 
 ## See also
 
-- [Patting dry](../water/patting-dry.md) -- a dry surface browns.
 - [Soaking](../water/soaking.md#legumes) -- a brine softens bean skins.
 
 ## Recipes

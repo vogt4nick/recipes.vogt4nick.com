@@ -14,7 +14,6 @@ wet ingredients near 100ºC (212ºF), and the stir-fry loses its _wok hei_.[^lie
 - [Deglazing](../acid/deglazing.md) -- recovers the browned bits searing leaves
     in the pan.
 - [Braising](braising.md) -- the usual next step for a seared tough cut.
-- [Patting dry](../water/patting-dry.md)
 
 ## Recipes
 

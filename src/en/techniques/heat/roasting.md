@@ -10,7 +10,6 @@ go in at 232ºC (450ºF).
 
 ## See also
 
-- [Patting dry](../water/patting-dry.md)
 - [Resting](resting.md)
 
 ## Recipes

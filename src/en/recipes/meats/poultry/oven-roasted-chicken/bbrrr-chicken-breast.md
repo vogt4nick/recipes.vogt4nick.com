@@ -2,7 +2,6 @@
 title: BBRRR chicken
 tags:
   - technique/roasting
-  - technique/patting-dry
   - technique/brining
 ---
 

@@ -4,7 +4,6 @@ tags:
   - technique/marinating
   - technique/braising
   - technique/searing
-  - technique/patting-dry
 ---
 
 === "Ingredients"
