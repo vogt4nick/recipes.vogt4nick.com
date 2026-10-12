@@ -34,5 +34,5 @@ tags:
     _New York Times: Cooking._ 22 March 2015.
 
 [^jandre]: [*YouTube: Jandre.*](https://www.youtube.com/@jandrefoodfilms)
-    ["If You Understand Cacio e Pepe, You Understand Pasta"](https://www.youtube.com/watch?v=jyZyT7lQpns)
+    ["If You Understand Cacio e Pepe, You Understand Pasta."](https://www.youtube.com/watch?v=jyZyT7lQpns)
     1 October 2026.
