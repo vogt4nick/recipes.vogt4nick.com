@@ -10,15 +10,15 @@ heat dries the surface and browns it.
 | Method                        | Medium |   Celsius | Fahrenheit |
 | :---------------------------- | :----- | --------: | ---------: |
 | [Braising](braising.md)       | Broth  |   85-90ºC |  185-195ºF |
-| [Confit](confit.md)           | Oil    |  82-107ºC |  180-225ºF |
-| [Deep-frying](deep-frying.md) | Oil    | 180-190ºC |  356-375ºF |
-| [Pan-frying](pan-frying.md)   | Oil    | 170-190ºC |  340-375ºF |
+| [Confit](confit.md)           | Fat    |  82-107ºC |  180-225ºF |
+| [Deep-frying](deep-frying.md) | Fat    | 180-190ºC |  356-375ºF |
+| [Pan-frying](pan-frying.md)   | Fat    | 170-190ºC |  340-375ºF |
 | [Poaching](poaching.md)       | Water  |   71-82ºC |  160-180ºF |
 | [Roasting](roasting.md)       | Air    | 165-232ºC |  325-450ºF |
-| [Sautéing](sauteing.md)       | Oil    | 135-204ºC |  275-400ºF |
+| [Sautéing](sauteing.md)       | Fat    | 135-204ºC |  275-400ºF |
 | [Searing](searing.md)         | Dry    | 204-232ºC |  400-450ºF |
 | [Steaming](steaming.md)       | Steam  |     100ºC |      212ºF |
-| [Sweating](sweating.md)       | Oil    |     100ºC |      212ºF |
+| [Sweating](sweating.md)       | Fat    |     100ºC |      212ºF |
 | [Toasting](toasting.md)       | Dry    | 175-190ºC |  347-375ºF |
 
 Food keeps cooking while it [rests](resting.md) off the heat.
