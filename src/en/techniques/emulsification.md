@@ -29,7 +29,7 @@ lasts. Whole-grain mustard keeps one together for a week in the fridge and Dijon
 for about 2 hours; yellow mustard separates soon after whisking, and mustard
 powder won't emulsify at all.[^atk]
 
-See also [Slurry](starch/slurry.md) -- hot bacon vinaigrette uses both.
+See also [Slurry](starch.md#slurry) -- hot bacon vinaigrette uses both.
 
 <div class="tag-listing" markdown>
 <!-- material/tags { include: [technique/mustard emulsification], toc: false } -->

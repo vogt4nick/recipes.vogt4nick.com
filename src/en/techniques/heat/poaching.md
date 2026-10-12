@@ -12,7 +12,7 @@ holds the water at 80ºC (175ºF) and stops when the breast reads 68ºC (155ºF)
 ## See also
 
 - [Acid in poaching liquid](../acid/acid-in-poaching-liquid.md)
-- [Velveting](../starch/velveting.md) -- par-cooks meat in oil or water before
+- [Velveting](../starch.md#velveting) -- par-cooks meat in oil or water before
     the wok.
 
 ## Recipes
