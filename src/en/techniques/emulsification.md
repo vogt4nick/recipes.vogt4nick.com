@@ -7,10 +7,6 @@ mucilage, a mix of proteins and polysaccharides around the seed hull.[^atk] In a
 sauce of grated cheese and water, starch keeps the cheese from
 clumping.[^bartolucci]
 
-<div class="tag-listing" markdown>
-<!-- material/tags { include: [technique/emulsification], toc: false } -->
-</div>
-
 ## Egg emulsification
 
 As oil or butter is whisked into egg yolk a little at a time, the yolk's
@@ -42,6 +38,12 @@ phase."[^bartolucci]
 
 Butter whisked into a little warm liquid emulsifies. Keep the sauce below a
 simmer; if bubbles form, pull it off the heat before the emulsion splits.[^fdl]
+
+## Recipes
+
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/emulsification], toc: false } -->
+</div>
 
 [^mine]: Mine, Y.
     ["Adsorption Behavior of Egg Yolk Low-Density Lipoproteins in Oil-in-Water Emulsions."](https://doi.org/10.1021/jf970306y)
