@@ -3,7 +3,7 @@ name = "recipes-vogt4nick-com"
 version = "0.0.1"
 requires-python = ">=3.14"
 dependencies = [
-    "zensical>=0.0.27",
+    "zensical>=0.0.72",
 ]
 
 [tool.uv]

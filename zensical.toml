@@ -28,6 +28,9 @@ awesome-nav = {}
 "minify".minify_html = true
 "search".lang = "en"
 
+[project.plugins.privacy]
+assets_include = ["fonts.googleapis.com/*", "fonts.gstatic.com/*"]
+
 [project.plugins.tags]
 tags_allowed = [
   "cuisine/african",
