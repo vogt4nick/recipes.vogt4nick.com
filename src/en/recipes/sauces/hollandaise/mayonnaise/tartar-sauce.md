@@ -1,6 +1,6 @@
 === "Ingredients"
 
-    - 30 g [Mayonnaise](hollandaise/mayonnaise/index.md)
+    - 30 g [Mayonnaise](index.md)
     - 1/4 t Worcestershire Sauce
     - 5 g Lemon Juice
     - 15 g Pickle, minced
