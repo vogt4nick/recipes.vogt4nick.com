@@ -1,5 +1,7 @@
 ---
 title: PB paprika cookies
+tags:
+  - technique/aeration
 ---
 
 === "Ingredients"

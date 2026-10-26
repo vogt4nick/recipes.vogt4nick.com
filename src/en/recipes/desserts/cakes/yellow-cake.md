@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/aeration
+---
+
 === "Ingredients"
 
     - 285 g Cake Flour

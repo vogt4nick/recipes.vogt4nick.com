@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/aeration
+---
+
 === "Ingredients"
 
     - 80 g Unsalted Butter, room temperature

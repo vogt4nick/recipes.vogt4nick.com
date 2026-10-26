@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/aeration
+---
+
 === "Ingredients"
 
     - Wet Mix

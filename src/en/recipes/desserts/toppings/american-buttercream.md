@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/aeration
+---
+
 === "Ingredients"
 
     - 55 g Unsweetened Chocolate, melted and cooled

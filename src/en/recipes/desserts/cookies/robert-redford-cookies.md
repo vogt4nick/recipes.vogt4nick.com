@@ -1,5 +1,7 @@
 ---
 title: Robert Redford cookies
+tags:
+  - technique/aeration
 ---
 
 === "Ingredients"

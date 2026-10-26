@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/aeration
+---
+
 === "Ingredients"
 
     - Bittersweet Chocolate Ganache
