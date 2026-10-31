@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/gluten-development
+---
+
 === "Ingredients"
 
     - 125 g White Wheat Flour

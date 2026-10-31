@@ -1,6 +1,7 @@
 ---
 tags:
   - technique/aeration
+  - technique/caramelization
 ---
 
 === "Ingredients"

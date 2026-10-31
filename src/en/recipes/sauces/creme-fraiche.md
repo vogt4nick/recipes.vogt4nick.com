@@ -1,7 +1,7 @@
 ---
 title: Crème fraîche
 tags:
-  - technique/culturing
+  - technique/fermentation
 ---
 
 === "Ingredients"

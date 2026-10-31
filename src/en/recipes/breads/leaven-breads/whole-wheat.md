@@ -1,3 +1,9 @@
+---
+tags:
+  - technique/fermentation
+  - technique/gluten-development
+---
+
 === "Ingredients"
 
     | Ingredient        | Leaven | Autolyse | Dough | Final | Final (%) |

@@ -1,5 +1,7 @@
 ---
 title: Nariyal burfi (coconut fudge)
+tags:
+  - technique/caramelization
 ---
 
 === "Ingredients"

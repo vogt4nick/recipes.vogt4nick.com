@@ -1,5 +1,6 @@
 ---
 tags:
+  - technique/caramelization
   - technique/gelatinization
 ---
 
