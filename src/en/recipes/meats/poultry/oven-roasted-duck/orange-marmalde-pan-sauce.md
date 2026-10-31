@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/continental
-  - technique/deglazing
+  - technique/extraction
 ---
 
 === "Ingredients"

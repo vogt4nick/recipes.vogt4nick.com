@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/curing
+  - technique/diffusion
 ---
 
 === "Ingredients"

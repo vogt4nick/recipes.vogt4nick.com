@@ -1,7 +1,7 @@
 ---
 tags:
   - technique/emulsification
-  - technique/slurry
+  - technique/gelatinization
 ---
 
 === "Ingredients"

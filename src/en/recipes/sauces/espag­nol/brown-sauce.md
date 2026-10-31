@@ -1,7 +1,7 @@
 ---
 title: Brown sauce
 tags:
-  - technique/roux
+  - technique/gelatinization
 ---
 
 ???+ quote "Julia Child in _Mastering the Art of French Cooking_"

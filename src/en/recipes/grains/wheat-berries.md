@@ -1,6 +1,7 @@
 ---
 tags:
-  - technique/toasting
+  - technique/maillard-reaction
+  - technique/diffusion
 ---
 
 === "Ingredients"

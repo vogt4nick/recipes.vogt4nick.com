@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/indian
-  - technique/blooming-spices
+  - technique/extraction
 ---
 
 === "Ingredients"

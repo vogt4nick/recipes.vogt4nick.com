@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/american
-  - technique/deglazing
+  - technique/extraction
 ---
 
 === "Ingredients"

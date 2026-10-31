@@ -1,7 +1,7 @@
 ---
 tags:
   - occasion/meal-prep
-  - technique/roasting
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

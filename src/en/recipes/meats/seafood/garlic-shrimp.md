@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/sautéing
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

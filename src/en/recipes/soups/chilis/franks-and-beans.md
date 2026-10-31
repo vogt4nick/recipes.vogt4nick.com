@@ -2,7 +2,7 @@
 tags:
   - cuisine/american
   - cuisine/midwest
-  - technique/sweating
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

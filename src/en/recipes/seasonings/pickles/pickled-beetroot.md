@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/pickling
+  - technique/diffusion
 ---
 
 === "Ingredients"

@@ -1,7 +1,7 @@
 ---
 tags:
-  - technique/resting
-  - technique/roasting
+  - technique/denaturation
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

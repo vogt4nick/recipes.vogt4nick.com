@@ -2,7 +2,7 @@
 tags:
   - cuisine/continental
   - cuisine/austrian
-  - technique/steaming
+  - technique/gelatinization
 ---
 
 # Semmelknödel (Bread dumplings)

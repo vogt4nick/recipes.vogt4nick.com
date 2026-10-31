@@ -1,7 +1,7 @@
 ---
 title: Oven roasted duck
 tags:
-  - technique/roasting
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

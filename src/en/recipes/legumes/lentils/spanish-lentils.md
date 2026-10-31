@@ -2,7 +2,7 @@
 tags:
   - cuisine/mediterranean
   - occasion/weekday-dinner
-  - technique/sweating
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

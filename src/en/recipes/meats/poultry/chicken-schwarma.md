@@ -2,7 +2,7 @@
 tags:
   - cuisine/levantine
   - occasion/weekday-dinner
-  - technique/marinating
+  - technique/diffusion
 ---
 
 === "Ingredients"

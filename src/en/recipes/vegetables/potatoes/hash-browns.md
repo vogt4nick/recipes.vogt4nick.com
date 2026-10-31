@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/pan-frying
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

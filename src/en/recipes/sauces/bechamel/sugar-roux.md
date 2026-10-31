@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/roux
+  - technique/gelatinization
 ---
 
 === "Ingredients"

@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/american
-  - technique/pan-frying
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

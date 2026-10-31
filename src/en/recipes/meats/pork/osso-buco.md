@@ -1,10 +1,10 @@
 ---
 tags:
   - cuisine/mediterranean
-  - technique/deglazing
-  - technique/braising
-  - technique/searing
-  - technique/roux
+  - technique/extraction
+  - technique/denaturation
+  - technique/maillard-reaction
+  - technique/gelatinization
 ---
 
 === "Ingredients"

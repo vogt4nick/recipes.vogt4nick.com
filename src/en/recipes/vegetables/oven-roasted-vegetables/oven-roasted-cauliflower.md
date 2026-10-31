@@ -1,7 +1,7 @@
 ---
 tags:
   - occasion/weekday-dinner
-  - technique/roasting
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

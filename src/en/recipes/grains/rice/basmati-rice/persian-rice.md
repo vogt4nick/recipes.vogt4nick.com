@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/mediterranean
-  - technique/steaming
+  - technique/gelatinization
 ---
 
 === "Ingredients"

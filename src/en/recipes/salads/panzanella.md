@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/mediterranean
-  - technique/toasting
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

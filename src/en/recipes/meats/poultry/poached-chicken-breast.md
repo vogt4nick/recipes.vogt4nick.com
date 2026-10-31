@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/poaching
+  - technique/denaturation
 ---
 
 === "Ingredients"

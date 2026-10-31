@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/sweating
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

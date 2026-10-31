@@ -7,7 +7,19 @@ mucilage, a mix of proteins and polysaccharides around the seed hull.[^atk] In a
 sauce of grated cheese and water, starch keeps the cheese from
 clumping.[^bartolucci]
 
-## Egg emulsification
+## Levers
+
+- **Emulsifier:** the more hull a mustard has, the longer its vinaigrette lasts.
+    Whole-grain mustard keeps one together for a week in the fridge and Dijon
+    for about 2 hours; yellow mustard separates soon after whisking, and mustard
+    powder won't emulsify at all.[^atk]
+- **Starch concentration:** with starch below about 1% of the cheese's weight, a
+    cheese sauce seizes into clumps.[^bartolucci]
+- **Temperature:** a butter emulsion splits if the sauce reaches a simmer.[^fdl]
+
+## Methods
+
+### Egg emulsification
 
 As oil or butter is whisked into egg yolk a little at a time, the yolk's
 low-density lipoproteins come apart at the surface of each droplet, leaving
@@ -17,24 +29,18 @@ from running back together.
 [Mayonnaise](../recipes/sauces/hollandaise/mayonnaise/index.md) starts with
 teaspoons of oil until the sauce thickens.
 
-## Mustard emulsification
+### Mustard emulsification
 
-The mediator in mustard is mucilage, a mix of proteins and polysaccharides
-around the seed hull, so the more hull a mustard has, the longer its vinaigrette
-lasts. Whole-grain mustard keeps one together for a week in the fridge and Dijon
-for about 2 hours; yellow mustard separates soon after whisking, and mustard
-powder won't emulsify at all.[^atk]
+Mustard whisked into a vinaigrette holds the oil and vinegar together with the
+mucilage around its seed hulls.[^atk]
 
-See also [Slurry](starch.md#slurry) -- hot bacon vinaigrette uses both.
+### Starch emulsification
 
-## Starch emulsification
-
-Starch keeps cheese from clumping. In a sauce of grated cheese and water, starch
-concentration is the key factor in stability; with starch below about 1% of the
-cheese's weight, the sauce seizes into clumps, the "Mozzarella
+In a sauce of grated cheese and water, starch concentration is the key factor in
+stability. Too little, and the sauce seizes into clumps, the "Mozzarella
 phase."[^bartolucci]
 
-## Mounting with butter
+### Mounting with butter
 
 Butter whisked into a little warm liquid emulsifies. Keep the sauce below a
 simmer; if bubbles form, pull it off the heat before the emulsion splits.[^fdl]
@@ -44,6 +50,12 @@ simmer; if bubbles form, pull it off the heat before the emulsion splits.[^fdl]
 <div class="tag-listing" markdown>
 <!-- material/tags { include: [technique/emulsification], toc: false } -->
 </div>
+
+## See also
+
+- [Gelatinization](gelatinization.md#slurry) -- hot bacon vinaigrette thickens
+    with a slurry as well as mustard.
+- [Aeration](aeration.md) -- hollandaise starts as a warm yolk foam.
 
 [^mine]: Mine, Y.
     ["Adsorption Behavior of Egg Yolk Low-Density Lipoproteins in Oil-in-Water Emulsions."](https://doi.org/10.1021/jf970306y)

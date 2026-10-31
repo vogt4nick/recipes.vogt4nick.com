@@ -2,8 +2,8 @@
 tags:
   - cuisine/east-asian
   - occasion/weekday-dinner
-  - technique/marinating
-  - technique/roasting
+  - technique/diffusion
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

@@ -1,3 +1,9 @@
+---
+tags:
+  - technique/diffusion
+  - technique/pectin-breakdown
+---
+
 # Beans
 
 === "Ingredients"

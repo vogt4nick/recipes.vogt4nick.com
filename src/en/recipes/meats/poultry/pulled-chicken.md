@@ -2,7 +2,7 @@
 tags:
   - cuisine/american
   - cuisine/southern
-  - technique/poaching
+  - technique/denaturation
 ---
 
 === "Ingredients"

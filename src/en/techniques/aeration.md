@@ -4,20 +4,29 @@ Air beaten into a liquid escapes unless something holds each bubble. In egg
 white, it's protein that unfolds at the surface of the bubble and bonds to its
 neighbors.[^soc] In cream, it's partly crystallized fat globules that lock
 together around the bubbles.[^fredrick] In creamed butter, it's the fat itself,
-which sugar crystals drag air into.[^exploratorium] Whatever holds the air, the
-cook's job is the same: get it in, then keep it.
+which sugar crystals drag air into.[^exploratorium]
 
-## Egg white foams
+## Levers
+
+- **Fat:** a trace of yolk or a greasy bowl keeps egg whites from foaming, but
+    once the foam has formed, fat no longer matters.[^soc]
+- **Acid:** about 1/8 t cream of tartar or 1/2 t lemon juice per white steadies
+    the foam.[^soc] A copper bowl does the same work.[^mcgee]
+- **Fat content:** cream at about 35% fat makes a very stable foam.[^soc]
+- **Temperature:** cream whips only while its fat is partly
+    crystallized,[^fredrick] so it goes in cold. Butter creams best at room
+    temperature.[^exploratorium]
+- **Time:** overbeaten whites clump and won't come back to smooth peaks.[^soc]
+    Cream whipped too long turns grainy, then to butter.
+
+## Methods
+
+### Whipping egg whites
 
 Beating unfolds egg white proteins, which line up around each bubble with their
 water-repelling side in the air and their water-loving side in the liquid, then
-bond to each other.[^soc] Fat sits at the same surface but doesn't bond, so a
-trace of yolk or a greasy bowl keeps whites from foaming; once the foam has
-formed, fat no longer matters.[^soc] Acid steadies the foam -- about 1/8 t cream
-of tartar or 1/2 t lemon juice per white.[^soc] A copper bowl does the same work
-through conalbumin, a metal-binding egg white protein, and makes overbeating
-less likely.[^mcgee] Overbeaten whites clump and won't come back to smooth
-peaks.[^soc]
+bond to each other.[^soc] The copper in a copper bowl binds to conalbumin, an
+egg white protein, and makes overbeating less likely.[^mcgee]
 
 [Kaiserschmarrn](../recipes/breads/pancakes/kaiserschmarrn.md) beats whites with
 lemon juice to soft peaks.
@@ -26,12 +35,12 @@ tartar to stiff peaks.
 [Toasted marshmallow butterscotch pie](../recipes/desserts/pies/toasted-marshmallow-butterscotch-pie.md)
 whips a cream of tartar meringue until voluminous and shiny.
 
-## Egg yolk foams
+### Ribbon stage
 
 Yolks and sugar beaten together thicken, turn pale, and fall from the whisk in
-ribbons that rest on the surface before sinking -- the ribbon stage. Whisking
-over a water bath gets there sooner; sabayon is yolks and sugar whisked to
-ribbon over gentle heat.[^cooksinfo]
+ribbons that rest on the surface before sinking. Whisking over a water bath gets
+there sooner; sabayon is yolks and sugar whisked to ribbon over gentle
+heat.[^cooksinfo]
 
 [Chocolate mousse](../recipes/desserts/chocolate-mousse.md) whisks its yolks
 over heat until thick, foamy, and 63 to 65ºC.
@@ -40,31 +49,26 @@ eggs with sugar before the juice goes in, and
 [Tortilla Española](../recipes/eggs/tortilla-espanola.md) beats its eggs until
 frothy, twice.
 
-See also [Emulsification](emulsification.md) -- hollandaise starts as a warm
-yolk foam before the butter goes in.
+### Whipping cream
 
-## Whipped cream
-
-Cream whips because its fat globules are partly crystallized. Whipping knocks
-them together; the crystals keep them from merging into one drop, so they stick
-into a network around the bubbles. This is partial coalescence, and it's what
-gives whipped toppings their structure.[^fredrick] Whipping cream at about 35%
-fat makes a very stable foam.[^soc] Keep the cream cold so its fat stays partly
-solid. Whip too long and the network turns grainy, then to butter.
+Whipping knocks partly crystallized fat globules together. The crystals keep
+them from merging into one drop, so they stick into a network around the
+bubbles. This is partial coalescence, and it's what gives whipped toppings their
+structure.[^fredrick]
 
 [Chocolate mousse](../recipes/desserts/chocolate-mousse.md) whips cream to
 medium stiff peaks and warns against going further.
 [Cheesecake](../recipes/desserts/cheesecake/index.md) whips cold cream 4-5
 minutes to stiff peaks.
 
-## Creaming
+### Creaming
 
 Beaten with sugar, butter turns pale and light as the jagged edges of the sugar
-crystals drag air into the fat. Start with room-temperature butter; creaming
-takes 2 to 4 minutes, depending on the temperature of the ingredients and the
-mixer.[^exploratorium] Baking powder and soda don't make bubbles of their own --
-the carbon dioxide they give off collects in the air cells that creaming
-made.[^exploratorium] Skimp on creaming and the leavener has less to fill.
+crystals drag air into the fat. Creaming takes 2 to 4 minutes, depending on the
+temperature of the ingredients and the mixer.[^exploratorium] Baking powder and
+soda don't make bubbles of their own -- the carbon dioxide they give off
+collects in the air cells that creaming made.[^exploratorium] Skimp on creaming
+and the leavener has less to fill.
 
 [Yellow cake](../recipes/desserts/cakes/yellow-cake.md),
 [Creamed chocolate cake](../recipes/desserts/cakes/chocolate-cake/creamed-chocolate-cake.md),
@@ -72,7 +76,7 @@ and six of the cookies below cream butter and sugar until fluffy.
 [Russian buttercream](../recipes/desserts/toppings/russian-buttercream.md) whips
 butter alone until aerated before the condensed milk goes in.
 
-## Folding
+### Folding
 
 Air that took minutes to beat in is gone in a few strokes of a whisk. To combine
 a foam with a heavier base, fold with a spatula: cut down through the middle,
@@ -84,7 +88,7 @@ chocolate into the cream first, then the rest, "keeping as much air in the
 mixture as possible." [Cheesecake](../recipes/desserts/cheesecake/index.md)
 folds slowly to preserve the air in its whipped cream.
 
-## Limiting foam
+### Limiting foam
 
 Sometimes foam is the problem.
 [Aged egg nog](../recipes/beverages/aged-egg-nog.md) keeps the stick blender
@@ -95,6 +99,13 @@ submerged so it doesn't whip air into the yolks.
 <div class="tag-listing" markdown>
 <!-- material/tags { include: [technique/aeration], toc: false } -->
 </div>
+
+## See also
+
+- [Emulsification](emulsification.md) -- hollandaise starts as a warm yolk foam
+    before the butter goes in.
+- [Denaturation](denaturation.md) -- the same protein unfolding sets egg white
+    in a poaching pot.
 
 [^soc]: ["Food Foams and Culinary Foams."](https://www.scienceofcooking.com/foams/culinary_foams.htm)
     _Science of Cooking._

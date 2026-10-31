@@ -2,7 +2,7 @@
 tags:
   - cuisine/indian
   - occasion/weekday-dinner
-  - technique/blooming-spices
+  - technique/extraction
 ---
 
 # Chetna's curry

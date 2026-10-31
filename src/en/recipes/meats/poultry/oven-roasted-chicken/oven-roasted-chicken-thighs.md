@@ -2,7 +2,7 @@
 tags:
   - occasion/work-lunch
   - occasion/weekday-dinner
-  - technique/roasting
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

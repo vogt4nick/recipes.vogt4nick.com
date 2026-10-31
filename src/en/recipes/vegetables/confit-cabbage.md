@@ -1,7 +1,7 @@
 ---
 tags:
-  - technique/confit
-  - technique/searing
+  - technique/pectin-breakdown
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

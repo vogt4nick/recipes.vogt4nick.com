@@ -1,8 +1,9 @@
 ---
 title: BBRRR chicken
 tags:
-  - technique/roasting
-  - technique/brining
+  - technique/maillard-reaction
+  - technique/diffusion
+  - technique/denaturation
 ---
 
 === "Ingredients"

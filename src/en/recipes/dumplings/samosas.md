@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/indian
-  - technique/deep-frying
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

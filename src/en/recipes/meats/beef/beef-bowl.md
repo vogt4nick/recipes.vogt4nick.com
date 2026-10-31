@@ -1,7 +1,7 @@
 ---
 tags:
-  - technique/deglazing
-  - technique/sautéing
+  - technique/extraction
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

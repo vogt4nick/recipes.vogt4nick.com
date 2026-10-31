@@ -2,7 +2,7 @@
 tags:
   - cuisine/mediterranean
   - occasion/weekday-dinner
-  - technique/infusing-oils
+  - technique/extraction
   - technique/emulsification
 ---
 

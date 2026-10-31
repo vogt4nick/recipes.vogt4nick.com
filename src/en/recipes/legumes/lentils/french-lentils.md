@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/continental
-  - technique/sweating
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

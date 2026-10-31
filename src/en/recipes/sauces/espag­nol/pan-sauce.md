@@ -1,8 +1,8 @@
 ---
 title: Pan sauce
 tags:
-  - technique/deglazing
-  - technique/roux
+  - technique/extraction
+  - technique/gelatinization
 ---
 
 === "Ingredients"

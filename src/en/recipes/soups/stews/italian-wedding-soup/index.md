@@ -1,7 +1,7 @@
 ---
 tags:
   - cuisine/mediterranean
-  - technique/sweating
+  - technique/maillard-reaction
 ---
 
 # Italian wedding soup

@@ -2,8 +2,7 @@
 tags:
   - cuisine/american
   - cuisine/southern
-  - technique/braising
-  - technique/resting
+  - technique/denaturation
 ---
 
 === "Ingredients"

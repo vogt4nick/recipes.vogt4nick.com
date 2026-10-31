@@ -1,9 +1,9 @@
 ---
 tags:
   - cuisine/continental
-  - technique/marinating
-  - technique/braising
-  - technique/searing
+  - technique/diffusion
+  - technique/denaturation
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

@@ -1,3 +1,9 @@
+---
+tags:
+  - technique/aeration
+  - technique/extraction
+---
+
 === "Ingredients"
 
     - Phase 1

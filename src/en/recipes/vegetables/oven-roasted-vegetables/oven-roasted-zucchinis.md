@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/roasting
+  - technique/maillard-reaction
 ---
 
 === "Ingredients"

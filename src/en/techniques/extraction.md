@@ -1,43 +1,32 @@
 # Extraction
 
-Extraction moves soluble compounds out of a solid and into a solvent. Pharmacy
-separates infusion, decoction, and maceration by temperature and
-duration,[^pharm] but in the kitchen all three turn on the solvent's polarity,
-its temperature, contact time, and the surface area the solid exposes.
+Soluble compounds move out of a solid and into a liquid. Most taste compounds
+are polar and most aroma compounds aren't, which makes water the solvent for
+taste and oil the solvent for aroma.[^ethanol]
 
-## Breaking cells
+## Levers
 
-Most flavor compounds are held inside intact cells, so yield depends first on
-how much tissue has been ruptured. Rupture isn't chemically neutral. Crushing
-garlic lets its enzymes cleave sulfur precursors into sharper compounds the
-whole clove never contained.[^kubec] Heat ruptures cell walls as well.[^rsc]
+- **Cell rupture:** most flavor compounds are held inside intact cells, so yield
+    depends first on how much tissue has been ruptured. Heat ruptures cell walls
+    as well.[^rsc] Crushing garlic lets its enzymes cleave sulfur precursors
+    into sharper compounds the whole clove never contained.[^kubec]
+- **Solvent:** ethanol, a polar hydroxyl group on a short hydrocarbon chain,
+    dissolves both taste and aroma compounds.[^ethanol] How much of an aroma
+    reaches you from a fat depends on the fat and on how fat-soluble the aroma
+    compound is.[^relkin]
+- **Temperature:** hot water extracts more bitter compounds from coffee than
+    cool water, and loses volatiles a cooler brew retains.[^coffee]
+- **Time:** solubles at the cut surface dissolve almost immediately, and what
+    remains has to diffuse slowly out of the interior.[^unimi]
 
-The rate of extraction falls off steeply. Solubles at the cut surface dissolve
-almost immediately, and what remains has to diffuse out of the interior, which
-is slow.[^unimi] Particle size and temperature have their largest effect during
-that initial washing phase.[^sanchez]
+## Methods
 
-## Choosing a liquid
+### Infusing oils
 
-Solubility follows polarity. Most taste compounds are polar and most aroma
-compounds aren't, which makes water the solvent for taste and oil the solvent
-for aroma. Ethanol, a polar hydroxyl group on a short hydrocarbon chain,
-dissolves both classes.[^ethanol]
+Capsaicin dissolves readily in fat and barely at all in water.[^oil] Oil warmed
+with aromatics takes up their fat-soluble flavor compounds,[^sarasin] which stay
+behind after the solids are strained out.
 
-### Water
-
-Temperature changes the composition of a water extract, not only its rate.
-Hot-brewed coffee has more titratable acidity than cold brew from the same grind
-even though the two share a pH,[^rao] and it extracts more bitter compounds
-while losing volatiles a cooler brew retains.[^coffee]
-
-Stock is a decoction whose main product is gelatin, formed as hot water
-hydrolyzes collagen.[^nist] Smaller pieces, a lower pH, and longer, hotter
-cooking all raise the yield.[^gelatin]
-
-### Oil
-
-Capsaicin dissolves readily in fat and barely at all in water.[^oil]
 [Garlic](../recipes/seasonings/infused-oils/garlic-infused-olive-oil.md),
 [lemon](../recipes/seasonings/infused-oils/lemon-infused-olive-oil.md), and
 [pizza crust](../recipes/seasonings/infused-oils/pizza-crust-oil.md) oils get
@@ -45,11 +34,32 @@ cell rupture from a few minutes over low heat, then leave the slower diffusion
 to a long steep off the burner.
 
 Garlic oil belongs in the refrigerator. Garlic is a low-acid food, and under oil
-at room temperature it can support *Clostridium botulinum*; an outbreak traced
+at room temperature it can support _Clostridium botulinum_; an outbreak traced
 to garlic-in-oil is why the FDA requires commercial versions to contain an
 acidifier or microbial inhibitor.[^morse]
 
-### Vinegar
+### Blooming spices
+
+Frying spices briefly in hot fat, a _tadka_, pulls their fat-soluble flavor into
+the fat, which then carries it through the dish. Spices bloom when they hit fat
+at about 180-200ºC (356-392ºF).[^sarasin]
+
+### Deglazing
+
+The browned bits stuck to a pan after searing, the fond, are concentrated
+flavor, and hot liquid dissolves them. Water, stock, wine, and vinegar all
+work.[^falkowitz]
+
+[Braised beef](../recipes/meats/beef/braised-beef.md) braises in the dutch oven
+it seared in, so the stock takes up the fond.
+
+### Stock
+
+Stock is a decoction whose main product is gelatin, formed as hot water
+hydrolyzes collagen.[^nist] Smaller pieces, a lower pH, and longer, hotter
+cooking all raise the yield.[^gelatin]
+
+### Infusing vinegar
 
 Vinegar behaves as an aqueous solvent,[^ethanol] but its low pH acts on what it
 extracts. Anthocyanins are most stable between pH 2 and 3, which keeps berries
@@ -61,30 +71,50 @@ The acid also moves the safety concern from botulism to mold and yeast, which is
 why [infused vinegar](../recipes/seasonings/infused-vinegar.md) can steep at
 room temperature for days.[^clemson]
 
-### Alcohol
+### Steeping in alcohol
 
-A high-proof spirit also pulls bitter and astringent compounds that a weaker one
+A high-proof spirit pulls bitter and astringent compounds that a weaker one
 leaves behind.[^ethanol] Ethanol is also antimicrobial: eggnog inoculated with
 salmonella tested sterile after three weeks under refrigeration.[^nog]
 
-### Sugar
+### Limiting extraction
 
-Sugar macerates fruit without any added liquid, drawing water out of the cells
-by osmosis. It works more slowly than salt because sucrose stays a single
-molecule in solution, while salt dissociates into two ions.[^macerate]
+Kept out of the water, food holds on to what dissolves in it. Steamed broccoli
+keeps its vitamin C, soluble sugars, and soluble proteins, which boiling,
+microwaving, and stir-frying all reduce.[^yuan]
+
+## Recipes
+
+<div class="tag-listing" markdown>
+<!-- material/tags { include: [technique/extraction], toc: false } -->
+</div>
 
 ## See also
 
-- [Blooming spices](fat/blooming-spices.md) -- a hot infusion that stays in the
-    dish.
-- [Confit](heat/confit.md) -- serves the food that cooks in the fat.
-- [Pickling](acid/pickling.md) -- keeps the solids instead of straining them
-    out.
-- [Salt](salt/index.md) -- pulls water by the same osmosis as sugar.
+- [Diffusion](diffusion.md#macerating) -- sugar and salt draw water out of fruit
+    and vegetables by osmosis.
+- [Maillard reaction](maillard-reaction.md#searing) -- where the fond comes
+    from.
+- [Pectin breakdown](pectin-breakdown.md#confit) -- confit serves the food that
+    cooks in the fat.
 
-[^pharm]: ["Extraction."](https://www.scribd.com/document/782015539/Extraction)
-    Pharmaceutical extraction notes, after _Remington: The Science and
-    Practice of Pharmacy._
+[^ethanol]: Lersch, Martin.
+    ["Wonders of Extraction: Ethanol."](https://khymos.org/2008/06/08/wonders-of-extraction-ethanol/)
+    _Khymos._ 8 June 2008.
+
+    Explains why liqueurs and extracts settle on 40 to 50% ethanol, and makes
+    the case for spice tinctures as a way to season drop by drop without leaving
+    solids in the dish. The comments add a Soxhlet experiment and a blackberry
+    leaf aquavit.
+
+[^rsc]: Royal Society of Chemistry.
+    ["Kitchen Chemistry: The Chemistry of Flavour."](https://edu.rsc.org/download?ac=12369)
+    _RSC Education._
+
+    A classroom worksheet that separates two ways cooking ruptures cells, the
+    breakdown of cellulose and the burst of steam, then argues from solubility
+    that asparagus should cook in butter and broccoli in water. Its exercises
+    have students predict a flavor molecule's solvent from its skeletal formula.
 
 [^kubec]: Kubec, R., M. Hrbáčová, R. A. Musah, and J. Velíšek.
     ["Allium Discoloration: The Nature of Onion Pinking and Garlic Greening."](https://doi.org/10.17221/10629-CJFS)
@@ -95,14 +125,19 @@ molecule in solution, while salt dissociates into two ions.[^macerate]
     meets the amino acid: methyl and propyl give pinks and magentas, while allyl
     gives blue.
 
-[^rsc]: Royal Society of Chemistry.
-    ["Kitchen Chemistry: The Chemistry of Flavour."](https://edu.rsc.org/download?ac=12369)
-    _RSC Education._
+[^relkin]: Relkin, P., M. Fabre, and E. Guichard.
+    ["Effect of Fat Nature and Aroma Compound Hydrophobicity on Flavor Release from Complex Food Emulsions."](https://doi.org/10.1021/jf049477a)
+    _Journal of Agricultural and Food Chemistry_ 52 (20): 6257-6263.
+    2004\.
 
-    A classroom worksheet that separates two ways cooking ruptures cells, the
-    breakdown of cellulose and the burst of steam, then argues from solubility
-    that asparagus should cook in butter and broccoli in water. Its exercises
-    have students predict a flavor molecule's solvent from its skeletal formula.
+[^coffee]: ["Effect of Extraction Temperature on Coffee Flavor."](http://zgspxb.cnjournals.org/html/2026/1/20260118.html)
+    _Journal of Chinese Institute of Food Science and Technology_ 26 (1):
+    200-213. 2026.
+
+    Brews light, medium, and dark roasts from 55 to 95 °C and follows individual
+    organic acids through the range. Malic, lactic, and tartaric acids move most
+    in light roasts, and caffeine grows more sensitive to temperature as the
+    roast darkens.
 
 [^unimi]: Zanoni, B., E. Pagliarini, and C. Peri.
     ["Modelling the Aqueous Extraction of Soluble Substances from Ground Roasted Coffee."](https://air.unimi.it/handle/2434/191955)
@@ -114,41 +149,30 @@ molecule in solution, while salt dissociates into two ions.[^macerate]
     slow diffusion out of the pores, and the extract's composition stays the
     same however long it brews.
 
-[^sanchez]: Sánchez-López, J. A., S. Yener, S. Smrke, T. D. Märk, G. Bonn, R.
-    Zimmermann, F. Biasioli, and C. Yeretzian.
-    ["Extraction Kinetics of Tea Aroma Compounds as a Function of Brewing Temperature, Leaf Size and Water Hardness."](https://doi.org/10.1002/ffj.3571)
-    _Flavour and Fragrance Journal_ 35 (4): 365-375. 2020.
+[^oil]: Lersch, Martin.
+    ["Wonders of Extraction: Oil."](https://khymos.org/?p=436) _Khymos._ 24
+    October 2008.
 
-    Samples the headspace over brewing tea every 30 seconds by PTR-ToF-MS, which
-    turns aroma extraction into a time course instead of an endpoint. Hard water
-    shifts the profile slightly.
+    Makes partition visible with a blender and a plastic bag. Blueberry color
+    stays in the water, carrot color moves into the oil, and the oil skimmed
+    from stock carries the meaty aroma while the salt stays behind.
 
-[^ethanol]: Lersch, Martin.
-    ["Wonders of Extraction: Ethanol."](https://khymos.org/2008/06/08/wonders-of-extraction-ethanol/)
-    _Khymos._ 8 June 2008.
+[^sarasin]: Sarasin, Keith.
+    ["The Sacred Act of Tadka (Tempering Spices)."](https://www.thecookscook.com/columns/the-sacred-table/the-sacred-act-of-tadka-tempering-spices/)
+    _The Cook's Cook._
 
-    Explains why liqueurs and extracts settle on 40 to 50% ethanol, and makes
-    the case for spice tinctures as a way to season drop by drop without leaving
-    solids in the dish. The comments add a Soxhlet experiment and a blackberry
-    leaf aquavit.
+[^morse]: Morse, D. L., L. K. Pickard, J. J. Guzewich, B. D. Devine, and M.
+    Shayegani.
+    ["Garlic-in-Oil Associated Botulism: Episode Leads to Product Modification."](https://doi.org/10.2105/ajph.80.11.1372)
+    _American Journal of Public Health_ 80 (11): 1372-1373. November 1990.
 
-[^rao]: Rao, Niny Z., and Megan Fuller.
-    ["Acidity and Antioxidant Activity of Cold Brew Coffee."](https://doi.org/10.1038/s41598-018-34392-w)
-    _Scientific Reports_ 8: 16030. October 2018.
+    The investigation of three botulism cases from garlic bread made with a
+    commercial garlic-in-oil in 1989, the second outbreak from such a product,
+    and the regulatory change that followed.
 
-    Brews light roasts from several origins hot and cold and separates pH from
-    titratable acidity, which most brewing advice treats as one thing. Hot
-    brew's higher antioxidant activity doesn't track its caffeoylquinic acid
-    content.
-
-[^coffee]: ["Effect of Extraction Temperature on Coffee Flavor."](http://zgspxb.cnjournals.org/html/2026/1/20260118.html)
-    _Journal of Chinese Institute of Food Science and Technology_ 26 (1):
-    200-213. 2026.
-
-    Brews light, medium, and dark roasts from 55 to 95 °C and follows individual
-    organic acids through the range. Malic, lactic, and tartaric acids move most
-    in light roasts, and caffeine grows more sensitive to temperature as the
-    roast darkens.
+[^falkowitz]: Falkowitz, Max.
+    ["What Is Deglazing?"](https://tastecooking.com/what-is-deglazing/)
+    _Taste._
 
 [^nist]: Kanagy, Joseph R.
     ["Chemistry of Collagen."](https://nvlpubs.nist.gov/nistpubs/Legacy/circ/nbscircular458.pdf)
@@ -166,23 +190,6 @@ molecule in solution, while salt dissociates into two ions.[^macerate]
     cook: pH 3.5 to 5, 80 to 110 °C, particles under 300 µm, and 5 to 40
     minutes, converting up to 85% of the collagen. It replaces days of
     demineralization or months of liming.
-
-[^oil]: Lersch, Martin.
-    ["Wonders of Extraction: Oil."](https://khymos.org/?p=436) _Khymos._ 24
-    October 2008.
-
-    Makes partition visible with a blender and a plastic bag. Blueberry color
-    stays in the water, carrot color moves into the oil, and the oil skimmed
-    from stock carries the meaty aroma while the salt stays behind.
-
-[^morse]: Morse, D. L., L. K. Pickard, J. J. Guzewich, B. D. Devine, and M.
-    Shayegani.
-    ["Garlic-in-Oil Associated Botulism: Episode Leads to Product Modification."](https://doi.org/10.2105/ajph.80.11.1372)
-    _American Journal of Public Health_ 80 (11): 1372-1373. November 1990.
-
-    The investigation of three botulism cases from garlic bread made with a
-    commercial garlic-in-oil in 1989, the second outbreak from such a product,
-    and the regulatory change that followed.
 
 [^onion]: ["Effect of Different Extraction Methods on Stability of Anthocyanins Extracted from Red Onion Peels (Allium cepa) and Its Uses as Food Colorants."](https://journals.ekb.eg/article_4218.html)
     _Bulletin of the National Nutrition Institute of the Arab Republic of
@@ -218,8 +225,6 @@ molecule in solution, while salt dissociates into two ions.[^macerate]
     80-proof liquor per egg, aged three weeks without the dairy, which goes in
     at serving.
 
-[^macerate]: ["Macerating vs. Salting."](https://www.americastestkitchen.com/how_tos/9311-macerating-vs-salting)
-    _America's Test Kitchen._
-
-    Explains in a paragraph why sugar draws water more slowly than salt, and why
-    cooks make up for it with a heavy dose.
+[^yuan]: Yuan, G., B. Sun, J. Yuan, and Q. Wang.
+    ["Effects of Different Cooking Methods on Health-Promoting Compounds of Broccoli."](https://doi.org/10.1631/jzus.B0920051)
+    _Journal of Zhejiang University Science B_ 10 (8): 580-588. 2009.

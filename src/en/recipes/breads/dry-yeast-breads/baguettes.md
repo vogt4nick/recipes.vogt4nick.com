@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/resting
+  - technique/denaturation
 ---
 
 === "Ingredients"

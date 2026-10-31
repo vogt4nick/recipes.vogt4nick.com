@@ -1,6 +1,6 @@
 ---
 tags:
-  - technique/steaming
+  - technique/gelatinization
 ---
 
 # Erdäpfelkas (potato cheese)

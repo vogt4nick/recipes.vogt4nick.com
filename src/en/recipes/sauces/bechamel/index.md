@@ -1,7 +1,7 @@
 ---
 title: Bechamel Sauce
 tags:
-  - technique/roux
+  - technique/gelatinization
 ---
 
 === "Ingredients"
