@@ -19,31 +19,14 @@ clumping.[^bartolucci]
 
 ## Methods
 
-### Egg emulsification
-
-As oil or butter is whisked into egg yolk a little at a time, the yolk's
-low-density lipoproteins come apart at the surface of each droplet, leaving
-cholesterol and phospholipids coating it.[^mine] That coating keeps the droplets
-from running back together.
-
-[Mayonnaise](../recipes/sauces/hollandaise/mayonnaise/index.md) starts with
-teaspoons of oil until the sauce thickens.
-
-### Mustard emulsification
-
-Mustard whisked into a vinaigrette holds the oil and vinegar together with the
-mucilage around its seed hulls.[^atk]
-
-### Starch emulsification
-
-In a sauce of grated cheese and water, starch concentration is the key factor in
-stability. Too little, and the sauce seizes into clumps, the "Mozzarella
-phase."[^bartolucci]
-
-### Mounting with butter
-
-Butter whisked into a little warm liquid emulsifies. Keep the sauce below a
-simmer; if bubbles form, pull it off the heat before the emulsion splits.[^fdl]
+- [Egg emulsification](../methods/stocks-and-sauces.md#egg-emulsification) --
+    yolk coats each droplet of oil.
+- [Mustard emulsification](../methods/stocks-and-sauces.md#mustard-emulsification)
+    -- mucilage holds a vinaigrette together.
+- [Starch emulsification](../methods/stocks-and-sauces.md#starch-emulsification)
+    -- starch keeps cheese from clumping.
+- [Mounting with butter](../methods/stocks-and-sauces.md#mounting-with-butter)
+    -- butter emulsifies into warm liquid.
 
 ## Recipes
 
@@ -53,8 +36,8 @@ simmer; if bubbles form, pull it off the heat before the emulsion splits.[^fdl]
 
 ## See also
 
-- [Gelatinization](gelatinization.md#slurry) -- hot bacon vinaigrette thickens
-    with a slurry as well as mustard.
+- [Gelatinization](gelatinization.md) -- hot bacon vinaigrette thickens with a
+    slurry as well as mustard.
 - [Aeration](aeration.md) -- hollandaise starts as a warm yolk foam.
 
 [^mine]: Mine, Y.

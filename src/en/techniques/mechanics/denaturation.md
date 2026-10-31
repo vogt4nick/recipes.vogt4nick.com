@@ -20,43 +20,18 @@ weight it loses.[^laakkonen]
 
 ## Methods
 
-### Poaching
-
-Water held below a boil caps the temperature of whatever cooks in it. Poaching
-water sits at 71-82ºC (160-180ºF).[^wca]
-
-[Poached chicken breast](../recipes/meats/poultry/poached-chicken-breast.md)
-holds the water at 80ºC (175ºF) and stops when the breast reads 68ºC (155ºF);
-[poached shrimp](../recipes/meats/seafood/poached-shrimp.md) come out at 60ºC
-(140ºF).
-
-### Acid in poaching liquid
-
-Vinegar in the poaching water lowers the pH the white meets as it sets around
-the yolk.[^croguennec]
-
-[Poached eggs](../recipes/eggs/poached-eggs.md) rinse in cold water afterward to
-wash off the lingering vinegar.
-
-### Braising
-
-A braise cooks a tough cut in liquid just below a boil until its collagen
-dissolves into gelatin. Hotter liquid squeezes more juice out of the meat and
-dries it.[^blais]
-
-### Brining
-
-Salt changes meat's muscle proteins so they hold on to more water through
-cooking.[^bomze] A brined lean cut comes out juicier for having gained water on
-top of what it keeps.[^bomze]
-
-### Resting
-
-Food keeps cooking after it leaves the heat. A roast leg of lamb rises an
-average of 13ºC (23ºF) while resting, and its juices thicken as it cools; carved
-too early, the juices run onto the board.[^thermapen] Bread keeps setting as it
-cools; until then, baker Paul Adams says, it "is effectively undercooked," with
-a sticky interior.[^white]
+- [Poaching](../methods/moist-heat-cooking.md#poaching) -- water below a boil
+    sets proteins gently.
+- [Acid in poaching liquid](../methods/moist-heat-cooking.md#acid-in-poaching-liquid)
+    -- vinegar changes how egg white sets.
+- [Braising](../methods/combination-cooking.md#braising) -- collagen dissolves
+    into gelatin.
+- [Wet-brining](../methods/curing-and-brining.md#wet-brining) -- salted muscle
+    proteins hold more water through cooking.
+- [Resting](../methods/dry-heat-cooking.md#resting) -- proteins keep setting
+    after the heat is off.
+- [Whipping egg whites](../methods/mixing-methods.md#whipping-egg-whites) -- egg
+    white proteins unfold around air bubbles.
 
 ## Recipes
 
@@ -93,17 +68,3 @@ a sticky interior.[^white]
 [^blais]: Blais, Christina.
     ["How to Perfect the Art of Braising."](https://www.ricardocuisine.com/en/articles/food-chemistry/643-how-to-perfect-the-art-of-braising)
     _Ricardo._
-
-[^wca]: ["Poaching vs. Simmering vs. Boiling Temperatures."](https://whatscookingamerica.net/information/poachingsimmeringboiling.htm)
-    _What's Cooking America._
-
-[^bomze]: Bomze, Liz.
-    ["How to Salt Chicken & How to Brine Chicken."](https://www.americastestkitchen.com/articles/610-how-to-salt-chicken-and-how-to-brine-chicken)
-    _America's Test Kitchen._ 10 April 2017.
-
-[^thermapen]: ["The Science of Resting Lamb."](https://thermapen.co.uk/recipes/post/the-science-of-resting-lamb)
-    _Thermapen._ 1 March 2024.
-
-[^white]: White, Caren.
-    ["Cooling Cakes and Cookies Is About More Than Not Burning Your Tongue."](https://www.americastestkitchen.com/articles/8064-why-you-should-cool-baked-goods)
-    _America's Test Kitchen._ 8 March 2024.

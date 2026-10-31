@@ -19,42 +19,13 @@ stretches before it tears.[^hamel]
 
 ## Methods
 
-### Kneading
-
-Kneading builds gluten fast, and bread dough is hard to
-over-knead.[^anastopoulo] To check it, stretch a small piece of dough thin.
-Strong gluten stretches thin enough to see light through before it tears.
-Butter, sugar, and egg weaken a dough, so enriched doughs knead longer.[^hamel]
-
-### Autolyse and folding
-
-Water and time develop gluten without kneading.[^anastopoulo] An autolyse rests
-the flour and water before the salt and leaven go in. During bulk fermentation,
-folds stretch the dough every so often, and sourdough gets much of its strength
-this way.[^hamel]
-
-[Whole wheat](../recipes/breads/leaven-breads/whole-wheat.md) does both. It
-autolyses half an hour before mixing and folds through bulk fermentation, and
-never kneads.
-
-### Resting
-
-A rest relaxes the gluten, so the dough stretches instead of springing
-back.[^exploratorium]
-
-[Strudel dough](../recipes/breads/pastry-doughs/strudel-dough.md) is kneaded for
-strength, then rests before it's stretched thin enough to read a newspaper
-through.
-
-### Limiting gluten
-
-Gluten makes pie crust tough and chewy.[^anastopoulo] Cutting fat into flour
-coats some of the flour, which can't absorb water, and only the uncoated flour
-forms gluten.[^lopezalt]
-
-[Pie crust](../recipes/breads/pastry-doughs/pie-crust.md) cuts its butter in
-before any water goes in, and stops working the dough as soon as it holds
-together.
+- [Kneading](../methods/yeast-doughs.md#kneading) -- work builds gluten fast.
+- [Autolyse and folding](../methods/yeast-doughs.md#autolyse-and-folding) --
+    water and time build it without kneading.
+- [Resting](../methods/mixing-methods.md#resting-dough) -- relaxed gluten
+    stretches instead of springing back.
+- [Limiting gluten](../methods/mixing-methods.md#limiting-gluten) -- fat keeps
+    pastry tender.
 
 ## Recipes
 

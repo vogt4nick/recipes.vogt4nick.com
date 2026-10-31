@@ -2,78 +2,60 @@
 
 ## Contributing techniques
 
-A technique page explains one **mechanism**: a physical or chemical process that
-many recipes rely on, whether or not they mention it. Pages are organized by
-what happens to the food, not by the ingredient that causes it or the name of
-the method.
+Techniques are split into three kinds of page, each in its own directory under
+`techniques/`.
 
-| Not a technique page | Why                                     | Where it belongs                                    |
-| -------------------- | --------------------------------------- | --------------------------------------------------- |
-| Salt                 | An agent. It drives several mechanisms. | A lever on Diffusion, Denaturation and Preservation |
-| Brining              | A method. It uses a mechanism.          | A method on Diffusion and Denaturation              |
-| Diffusion            | A mechanism.                            | Its own page                                        |
+| Kind     | What it explains                                        | Example   | Directory              |
+| -------- | ------------------------------------------------------- | --------- | ---------------------- |
+| Mechanic | A physical or chemical change that many recipes rely on | Diffusion | `techniques/mechanics` |
+| Method   | Something a recipe tells the cook to do                 | Braising  | `techniques/methods`   |
+| Agent    | An ingredient that works on several mechanics           | Salt      | `techniques/agents`    |
 
 ### Before you add a page
 
-- **Is it a mechanism?** You should be able to describe it without naming a dish
-    or an ingredient. "Proteins unfold and bind together" is a mechanism.
-    "Marinating chicken" is not.
-- **Is it already covered?** Check the existing pages. A new method or agent
-    usually belongs on an existing page as a lever or a method, not on a new
-    page.
-- **Does a recipe use it?** Every page links to at least one recipe on the site.
-    If none uses it yet, add the recipe first or wait.
+- **Which kind is it?** A mechanic can be described without naming a dish or an
+    ingredient: "proteins unfold and bind together." A method is a verb a recipe
+    uses: "brine," "fold," "sear." An agent is an ingredient that shows up as a
+    lever on more than one mechanic.
+- **Is it already covered?** A new method usually belongs as a section on an
+    existing method page, and a new lever belongs on an existing mechanic page.
+- **Does it teach something?** If every cook already knows what it does, it
+    doesn't need a page.
+- **Does a recipe use it?** Every mechanic and method page names at least one
+    recipe. If none uses it yet, add the recipe first or wait.
 
-### Where it goes
-
-Technique pages are flat: each one lives directly under `techniques/`, for
-example `techniques/diffusion/`. There are no sections or subpages. Connect
-related pages with **See also** links instead.
-
-### Page structure
-
-Each page connects the science to the method in four steps:
+### Mechanic pages
 
 1. **Mechanism:** what happens, in one or two plain sentences.
-2. **Levers:** what controls it. Agents (salt, acid, fat, sugar, water) go here,
-    along with time, temperature, concentration and size. Say which way each
-    lever pushes.
-3. **Methods:** the named techniques that use those levers, and what each is
-    trying to achieve.
-4. **Recipes:** where the methods appear on the site.
+2. **Levers:** what controls it. Agents, time, temperature, concentration and
+    size go here. Say which way each lever pushes.
+3. **Methods:** one line per method that uses the mechanic, linking to its
+    section on a method page and saying what the mechanic does there.
+4. **Recipes:** the tag listing.
+5. **See also:** related mechanics, each with a one-line reason.
 
-```markdown
-# Diffusion
+### Method pages
 
-Salt, sugar and flavor move from where they are concentrated toward where
-they are not, so a soak seasons food from the outside in.[^source]
+Method pages group methods the way cooking schools teach them: cooking by what
+carries the heat (moist heat, dry heat, fat, or a combination), mixing by what
+it does to a dough or batter, and the cold kitchen by what preserves the food
+(salt, acid, or microbes).
 
-## Levers
+The page opens with what its category does to food. Each method gets an `##`
+section that explains it, links the mechanics it relies on, and names recipes
+that use it. The explanation of a method lives only here; mechanic pages link to
+it.
 
-- **Time:** the flavored layer deepens the longer the food soaks.
-- **Temperature:** warmth speeds diffusion; refrigeration slows it.
-- **Distance:** going twice as deep takes about four times as long.
+### Agent pages
 
-## Methods
-
-### Brining
-
-...
-
-[Soy-marinated eggs](../../recipes/eggs/...) soak for days so the
-seasoning reaches the yolk.
-
-## See also
-
-- [Denaturation](...) -- why brined meat stays juicy.
-
-[^source]: Author. ["Title."](https://...) *Publication.* Date.
-```
+An agent page opens with one sentence on what the agent is. Then it lists each
+mechanic the agent works on, with a sourced sentence on what it does there and a
+link to the method where it matters most. Levers stay on the mechanic pages.
 
 ### Writing style
 
-- **Lead with the mechanism.** The first sentence says what happens, not what
-    the technique is called.
+- **Lead with what happens.** The first sentence says what happens to the food,
+    not what the technique is called.
 - **Connect every claim to a method.** If a fact doesn't change what the cook
     does, cut it.
 - **Treat agents as causes.** Write "salt draws water out", not "the Salt
@@ -95,18 +77,16 @@ seasoning reaches the yolk.
 
 ### Linking recipes
 
-- Tag each recipe that uses the technique with `technique/<page-slug>`. The
-    page's Recipes list is built from these tags.
-- Name at least one recipe in the page's prose, saying how it uses the
-    mechanism.
-- When a technique spans several pages, link them under **See also** with a
-    one-line reason for each link.
+- Tag each recipe with `technique/<mechanic-slug>` for each mechanic it relies
+    on. A mechanic page's Recipes list is built from these tags. Methods and
+    agents aren't tagged.
+- On method pages, name recipes in prose, saying how each one uses the method.
 
 ### Changing existing pages
 
-- **Merging:** If two pages describe the same mechanism, merge them and move the
-    methods under the surviving page.
-- **Splitting:** If a page covers two mechanisms with different levers, split
-    it.
+- **Merging:** If two pages describe the same thing, merge them and update the
+    links that point to the page that goes away.
+- **Splitting:** If a mechanic page covers two mechanisms with different levers,
+    split it.
 - **Redirecting:** When you move or rename a page, update every recipe tag and
-    **See also** link that points to it.
+    every link that points to it.

@@ -19,19 +19,10 @@ where it still tastes mild and very sweet.[^lam]
 
 ## Methods
 
-### Dry caramel
-
-Sugar melts without water. It's fast, and the sugar can scorch where it melts
-first.[^lam]
-
-[Nariyal burfi](../recipes/desserts/nariyal-burfi.md) melts its sugar in a
-little butter and comes off the heat the moment it turns golden, because caramel
-keeps darkening in a hot pan. The milk that goes in next stops it.
-
-### Wet caramel
-
-Sugar dissolves in water first, which melts it more evenly.[^lam] No recipe
-makes a wet caramel yet.
+- [Dry caramel](../methods/cooking-sugar.md#dry-caramel) -- sugar melts alone,
+    fast and unevenly.
+- [Wet caramel](../methods/cooking-sugar.md#wet-caramel) -- water spreads the
+    sugar so it melts evenly.
 
 ## Recipes
 

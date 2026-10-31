@@ -14,20 +14,10 @@ a vegetable or bean turns tender.[^bassett][^atk]
 
 ## Methods
 
-### Confit
-
-Confit cooks food submerged in fat, low and slow, until tender.[^allclad]
-
-[Confit cabbage](../recipes/vegetables/confit-cabbage.md) sears its cut faces
-first, because fat held that low never browns them.
-
-### Brining beans
-
-Salt in the soaking water softens bean skins, and brined beans burst less as
-they cook.[^atk]
-
-[Beans](../recipes/legumes/beans/index.md) soak in salted water to soften their
-skins.
+- [Confit](../methods/cooking-in-fat.md#confit) -- low fat softens vegetables
+    without frying them.
+- [Brining beans](../methods/curing-and-brining.md#brining-beans) -- salt
+    weakens the pectin in bean skins.
 
 ## Recipes
 
@@ -49,10 +39,6 @@ skins.
 
 [^atk]: ["Technique #45: Brine Dried Beans for Tender, Never Tough, Skins."](https://www.americastestkitchen.com/articles/7720-how-to-brine-beans)
     _America's Test Kitchen._ 17 September 2023.
-
-    The test kitchen's brine is 3 tablespoons of table salt in 4 quarts of water
-    per pound of beans, left 8-24 hours at room temperature. Bringing it to a
-    boil and letting it stand covered for an hour works as a quick brine.
 
 [^allclad]: ["What Is Confit? The Ancient Cooking Method Worth Mastering."](https://www.all-clad.com/blog/post/what-is-confit-the-ancient-cooking-method-worth-mastering)
     _All-Clad._ 24 July 2026.
