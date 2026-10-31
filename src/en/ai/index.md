@@ -1,4 +1,4 @@
-# Agents
+# AI Agents
 
 Help the user satisfy their use case. Each has an
 [agent prompt](choose-a-weeknight-dinner.md) for use with an AI assistant.
