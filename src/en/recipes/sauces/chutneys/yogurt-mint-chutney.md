@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/chemesthesis
+---
+
 # Yogurt mint chutney
 
 === "Ingredients"

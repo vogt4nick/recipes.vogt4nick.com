@@ -21,6 +21,8 @@ ferment all lower the pH of what they touch.
 - **[Fermentation](../mechanics/fermentation.md):** lactic acid breaks up the
     casein in cream and rejoins it into a network that thickens it.[^mccord] See
     [culturing](../methods/pickling-and-fermenting.md#culturing).
+- **[Astringency](../mechanics/astringency.md):** a lower pH thins
+    saliva.[^wang]
 
 [^croguennec]: Croguennec, T., F. Nau, and G. Brulé.
     ["Influence of pH and Salts on Egg White Gelation."](https://doi.org/10.1111/j.1365-2621.2002.tb10646.x)
@@ -56,3 +58,8 @@ ferment all lower the pH of what they touch.
 [^mccord]: McCord, Garrett.
     ["Soured Milks: What's the Difference?"](https://www.kqed.org/bayareabites/61214/soured-milks)
     _KQED Bay Area Bites._ 17 June 2013.
+
+[^wang]: Wang, S., H. E. Smyth, S. M. Olarte Mantilla, J. R. Stokes, and P. A.
+    Smith.
+    ["Astringency and Its Sub-Qualities: A Review of Astringency Mechanisms and Methods for Measuring Saliva Lubrication."](https://doi.org/10.1093/chemse/bjae016)
+    _Chemical Senses_ 49: bjae016. 2024.

@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/chemesthesis
+---
+
 # Sweet tamarind chutney
 
 === "Ingredients"

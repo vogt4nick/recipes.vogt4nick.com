@@ -1,5 +1,6 @@
 ---
 tags:
+  - technique/astringency
   - technique/diffusion
 ---
 

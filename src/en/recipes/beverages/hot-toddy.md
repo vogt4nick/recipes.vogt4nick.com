@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/astringency
+---
+
 === "Ingredients"
 
     - 1 cup Black or Herbal Tea

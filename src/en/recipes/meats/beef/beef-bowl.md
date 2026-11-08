@@ -2,6 +2,7 @@
 tags:
   - technique/extraction
   - technique/maillard-reaction
+  - technique/umami-synergy
 ---
 
 === "Ingredients"

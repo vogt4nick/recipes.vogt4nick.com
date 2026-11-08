@@ -1,3 +1,8 @@
+---
+tags:
+  - technique/chemesthesis
+---
+
 === "Ingredients"
 
     - 500 g Water, boiling

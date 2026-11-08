@@ -1,6 +1,7 @@
 ---
 tags:
   - cuisine/indian
+  - technique/chemesthesis
   - technique/extraction
 ---
 
