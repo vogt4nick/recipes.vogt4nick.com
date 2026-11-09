@@ -1,25 +1,23 @@
-# Chemesthesis
+# Spiciness
 
-Pungent compounds set off the nerves in the mouth and nose that report pain,
-heat, cold, and touch. This chemical sense is chemesthesis, and it's why chili
-registers as a burn rather than a taste.[^green]
+Chili, black pepper, ginger, mustard, and Sichuan pepper set off the nerves in
+the mouth and nose that report pain, heat, and touch. The term of art is
+chemesthesis, and it's why chili registers as a burn rather than a
+taste.[^green]
 
 ## Levers
 
-- **[Capsaicin](../agents/capsaicin.md):** opens TRPV1, the receptor that fires
-    at painful heat.[^caterina]
-- **[Piperine](../agents/piperine.md):** opens TRPV1 as well as TRPA1.[^okumura]
-- **[Gingerol](../agents/gingerol.md):** a full agonist of TRPV1, like
-    capsaicin.[^dedov] Drying ginger converts it to shogaol, which is twice as
-    pungent.[^narasimhan]
-- **[Allyl isothiocyanate](../agents/allyl-isothiocyanate.md):** the sting of
-    mustard and wasabi comes through TRPA1, a different channel from
-    chili's.[^jordt]
-- **[Sanshool](../agents/sanshool.md):** blocks potassium channels in touch
-    neurons and needs neither TRPV1 nor TRPA1.[^bautista] The lips read it as a
-    vibration of about 50 Hz.[^hagura]
-- **[Menthol](../agents/menthol.md):** opens TRPM8, the receptor for cold, so
-    mint feels cool at room temperature.[^mckemy]
+- **[Chili](../agents/chili.md):** capsaicin opens TRPV1, the receptor that
+    fires at painful heat.[^caterina]
+- **Black pepper:** piperine opens TRPV1 as well as TRPA1.[^okumura]
+- **Ginger:** gingerol is a full agonist of TRPV1, like capsaicin.[^dedov]
+    Drying converts it to shogaol, which is twice as hot.[^narasimhan]
+- **[Mustard](../agents/mustard.md):** the sting of mustard, horseradish, and
+    wasabi is allyl isothiocyanate, which comes through TRPA1, a different
+    channel from chili's.[^jordt]
+- **Sichuan pepper:** sanshool blocks potassium channels in touch neurons and
+    needs neither TRPV1 nor TRPA1.[^bautista] The lips read it as a vibration of
+    about 50 Hz.[^hagura]
 - **Temperature:** a rinse at 5ºC (41ºF) eases a capsaicin burn better than one
     at 20ºC (68ºF).[^nasrawi]
 - **Milk:** skim milk eases a capsaicin burn as well as whole milk, and better
@@ -34,15 +32,17 @@ registers as a burn rather than a taste.[^green]
 
 ## Recipes
 
-<div class="tag-listing" markdown>
-<!-- material/tags { include: [technique/chemesthesis], toc: false } -->
-</div>
+[Sweet tamarind chutney](../../recipes/sauces/chutneys/sweet-tamarind-chutney.md)
+calls for dried ginger, which has had some of its gingerol turned to shogaol.
 
 ## See also
 
-- [Astringency](astringency.md) -- another sensation the mouth reads by touch.
-- [Extraction](extraction.md) -- crushing mustard seed sets off the enzyme that
-    makes allyl isothiocyanate.
+- [Astringency](astringency.md) -- another effect the mouth reads through its
+    pain and touch nerves.
+- [Extraction](../mechanics/extraction.md) -- crushing mustard seed sets off the
+    enzyme that makes allyl isothiocyanate.
+- [Temperature](temperature.md) -- capsaicin opens the receptor for heat, and
+    menthol opens the one for cold.
 
 [^green]: Green, Barry G.
     ["Chemesthesis: Pungency as a Component of Flavor."](https://doi.org/10.1016/S0924-2244%2896%2910043-1)
@@ -64,6 +64,8 @@ registers as a burn rather than a taste.[^green]
     ["Gingerols: A Novel Class of Vanilloid Receptor (VR1) Agonists."](https://doi.org/10.1038/sj.bjp.0704925)
     _British Journal of Pharmacology_ 137 (6): 793-798. 2002.
 
+    VR1 is the channel now called TRPV1.
+
 [^narasimhan]: Narasimhan, S., and V. S. Govindarajan.
     ["Evaluation of Spices and Oleoresin VI: Pungency of Ginger Components, Gingerols and Shogaols and Quality."](https://doi.org/10.1111/j.1365-2621.1978.tb00773.x)
     _Journal of Food Technology_ 13 (1): 31-36. 1978.
@@ -83,10 +85,6 @@ registers as a burn rather than a taste.[^green]
 [^hagura]: Hagura, N., H. Barber, and P. Haggard.
     ["Food Vibrations: Asian Spice Sets Lips Trembling."](https://doi.org/10.1098/rspb.2013.1680)
     _Proceedings of the Royal Society B_ 280 (1770): 20131680. 2013.
-
-[^mckemy]: McKemy, D. D., W. M. Neuhausser, and D. Julius.
-    ["Identification of a Cold Receptor Reveals a General Role for TRP Channels in Thermosensation."](https://doi.org/10.1038/nature719)
-    _Nature_ 416: 52-58. 2002.
 
 [^nasrawi]: Nasrawi, C. W., and R. M. Pangborn.
     ["Temporal Effectiveness of Mouth-Rinsing on Capsaicin Mouth-Burn."](https://doi.org/10.1016/0031-9384%2890%2990067-e)

@@ -2,27 +2,29 @@
 
 ## Contributing techniques
 
-Techniques are split into three kinds of page, each in its own directory under
+Techniques are split into four kinds of page, each in its own directory under
 `techniques/`.
 
-| Kind     | What it explains                                        | Example   | Directory              |
-| -------- | ------------------------------------------------------- | --------- | ---------------------- |
-| Mechanic | A physical or chemical change that many recipes rely on | Diffusion | `techniques/mechanics` |
-| Method   | Something a recipe tells the cook to do                 | Braising  | `techniques/methods`   |
-| Agent    | An ingredient that works on several mechanics           | Salt      | `techniques/agents`    |
+| Kind       | What it explains                                             | Example   | Directory               |
+| ---------- | ------------------------------------------------------------ | --------- | ----------------------- |
+| Mechanic   | A physical or chemical change that many recipes rely on      | Diffusion | `techniques/mechanics`  |
+| Perception | An effect some ingredients have on the eater, not the food   | Spiciness | `techniques/perception` |
+| Method     | Something a recipe tells the cook to do                      | Braising  | `techniques/methods`    |
+| Agent      | An ingredient that works on several mechanics or perceptions | Salt      | `techniques/agents`     |
 
 ### Before you add a page
 
 - **Which kind is it?** A mechanic can be described without naming a dish or an
-    ingredient: "proteins unfold and bind together." A method is a verb a recipe
-    uses: "brine," "fold," "sear." An agent is an ingredient that shows up as a
-    lever on more than one mechanic.
+    ingredient: "proteins unfold and bind together." A perception happens in the
+    mouth or nose rather than the pan: "chili opens the receptor for heat." A
+    method is a verb a recipe uses: "brine," "fold," "sear." An agent is an
+    ingredient that shows up as a lever on more than one mechanic or perception.
 - **Is it already covered?** A new method usually belongs as a section on an
     existing method page, and a new lever belongs on an existing mechanic page.
 - **Does it teach something?** If every cook already knows what it does, it
     doesn't need a page.
-- **Does a recipe use it?** Every mechanic and method page names at least one
-    recipe. If none uses it yet, add the recipe first or wait.
+- **Does a recipe use it?** Every mechanic, perception, and method page names at
+    least one recipe. If none uses it yet, add the recipe first or wait.
 
 ### Mechanic pages
 
@@ -33,6 +35,14 @@ Techniques are split into three kinds of page, each in its own directory under
     section on a method page and saying what the mechanic does there.
 4. **Recipes:** the tag listing.
 5. **See also:** related mechanics, each with a one-line reason.
+
+### Perception pages
+
+Perception pages follow the mechanic template, with one difference: recipes
+aren't tagged with perceptions, so the Recipes section names them in prose and
+says how each one ties to the effect. Levers include what the eater does, such
+as drinking milk or a cold rinse, as well as the ingredients that cause the
+effect. Compound and receptor names belong in the lever, not the heading.
 
 ### Method pages
 
@@ -48,9 +58,10 @@ it.
 
 ### Agent pages
 
-An agent page opens with one sentence on what the agent is. Then it lists each
-mechanic the agent works on, with a sourced sentence on what it does there and a
-link to the method where it matters most. Levers stay on the mechanic pages.
+An agent page opens with one sentence on what the agent is, named the way a cook
+buys it. Then it lists each mechanic or perception the agent works on, with a
+sourced sentence on what it does there and a link to the method where it matters
+most. Levers stay on the mechanic and perception pages.
 
 ### Writing style
 
@@ -78,9 +89,10 @@ link to the method where it matters most. Levers stay on the mechanic pages.
 ### Linking recipes
 
 - Tag each recipe with `technique/<mechanic-slug>` for each mechanic it relies
-    on. A mechanic page's Recipes list is built from these tags. Methods and
-    agents aren't tagged.
-- On method pages, name recipes in prose, saying how each one uses the method.
+    on. A mechanic page's Recipes list is built from these tags. Perceptions,
+    methods, and agents aren't tagged.
+- On perception and method pages, name recipes in prose, saying how each one
+    uses the effect or method.
 
 ### Changing existing pages
 

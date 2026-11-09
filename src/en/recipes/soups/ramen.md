@@ -1,7 +1,6 @@
 ---
 tags:
   - cuisine/japanese
-  - technique/umami-synergy
 ---
 
 === "Ingredients"

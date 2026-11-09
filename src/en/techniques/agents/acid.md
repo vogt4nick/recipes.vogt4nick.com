@@ -21,8 +21,10 @@ ferment all lower the pH of what they touch.
 - **[Fermentation](../mechanics/fermentation.md):** lactic acid breaks up the
     casein in cream and rejoins it into a network that thickens it.[^mccord] See
     [culturing](../methods/pickling-and-fermenting.md#culturing).
-- **[Astringency](../mechanics/astringency.md):** a lower pH thins
+- **[Astringency](../perception/astringency.md):** a lower pH thins
     saliva.[^wang]
+- **[Balance](../perception/balance.md):** citric acid suppresses the sweetness
+    of sugar, and how much depends only on the acid.[^schifferstein]
 
 [^croguennec]: Croguennec, T., F. Nau, and G. Brulé.
     ["Influence of pH and Salts on Egg White Gelation."](https://doi.org/10.1111/j.1365-2621.2002.tb10646.x)
@@ -63,3 +65,7 @@ ferment all lower the pH of what they touch.
     Smith.
     ["Astringency and Its Sub-Qualities: A Review of Astringency Mechanisms and Methods for Measuring Saliva Lubrication."](https://doi.org/10.1093/chemse/bjae016)
     _Chemical Senses_ 49: bjae016. 2024.
+
+[^schifferstein]: Schifferstein, H. N. J., and J. E. R. Frijters.
+    ["Sensory Integration in Citric Acid/Sucrose Mixtures."](https://doi.org/10.1093/chemse/15.1.87)
+    _Chemical Senses_ 15 (1): 87-109. 1990.

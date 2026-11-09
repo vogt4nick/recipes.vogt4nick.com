@@ -1,8 +1,3 @@
----
-tags:
-  - technique/chemesthesis
----
-
 === "Ingredients"
 
     - 4 Fresh Green Chilis, seeded and chopped

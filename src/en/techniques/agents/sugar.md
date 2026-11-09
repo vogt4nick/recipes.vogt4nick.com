@@ -17,6 +17,8 @@ on water.
     [creaming](../methods/mixing-methods.md#creaming).
 - **[Gluten development](../mechanics/gluten-development.md):** sugar weakens a
     dough, so enriched doughs knead longer.[^hamel]
+- **[Balance](../perception/balance.md):** sugar suppresses the sourness of
+    acid.[^schifferstein]
 
 [^atk-caramel]: ["Caramelizing vs. Browning."](https://www.americastestkitchen.com/how_tos/5643-caramelizing-vs-browning)
     _America's Test Kitchen._
@@ -33,3 +35,7 @@ on water.
 [^hamel]: Hamel, PJ.
     ["What Is the Windowpane Test for Bread Dough?"](https://www.kingarthurbaking.com/blog/2022/10/14/what-is-the-windowpane-test-for-bread-dough)
     _King Arthur Baking._ 14 October 2022.
+
+[^schifferstein]: Schifferstein, H. N. J., and J. E. R. Frijters.
+    ["Sensory Integration in Citric Acid/Sucrose Mixtures."](https://doi.org/10.1093/chemse/15.1.87)
+    _Chemical Senses_ 15 (1): 87-109. 1990.

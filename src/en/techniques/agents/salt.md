@@ -15,6 +15,8 @@ Salt moves water, and that one property reaches into five mechanics.
     weight slows yeast without killing it.[^battilana]
 - **[Gluten development](../mechanics/gluten-development.md):** salt tightens
     the gluten so the dough holds carbon dioxide better.[^kasalt]
+- **[Balance](../perception/balance.md):** salt suppresses bitterness more than
+    sweetness, which lets the sweetness through.[^breslin]
 
 [^rothman]: Rothman, Lauren.
     ["Why Adding Salt Is So Important When Cooking Onions."](https://www.tastingtable.com/834374/why-adding-salt-is-so-important-when-cooking-onions/)
@@ -37,3 +39,7 @@ Salt moves water, and that one property reaches into five mechanics.
 
 [^kasalt]: ["Salt."](https://www.kingarthurbaking.com/pro/reference/salt) _King
     Arthur Baking._
+
+[^breslin]: Breslin, P. A. S., and G. K. Beauchamp.
+    ["Salt Enhances Flavour by Suppressing Bitterness."](https://doi.org/10.1038/42388)
+    _Nature_ 387 (6633): 563. 1997.

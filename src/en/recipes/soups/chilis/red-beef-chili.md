@@ -2,7 +2,6 @@
 tags:
   - cuisine/american
   - cuisine/midwest
-  - technique/chemesthesis
 ---
 
 === "Ingredients"

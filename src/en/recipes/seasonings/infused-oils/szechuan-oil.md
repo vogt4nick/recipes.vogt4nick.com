@@ -1,6 +1,5 @@
 ---
 tags:
-  - technique/chemesthesis
   - technique/extraction
 ---
 

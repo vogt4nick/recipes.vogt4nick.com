@@ -1,9 +1,9 @@
-# Capsaicin
+# Chili
 
 Fresh and dried chili peppers, chili flakes, cayenne, and gochugaru all owe
-their heat to capsaicin and related capsaicinoids.
+their heat to capsaicin.
 
-- **[Chemesthesis](../mechanics/chemesthesis.md):** capsaicin opens TRPV1, the
+- **[Spiciness](../perception/spiciness.md):** capsaicin opens TRPV1, the
     receptor that fires at painful heat.[^caterina] Skim milk puts out the burn
     as well as whole milk does, so the relief doesn't come from the
     fat.[^nolden]

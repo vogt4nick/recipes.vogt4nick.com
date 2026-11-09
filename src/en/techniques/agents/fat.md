@@ -21,6 +21,9 @@ Fat carries heat past the boiling point of water and dissolves what water can't.
 - **[Emulsification](../mechanics/emulsification.md):** butter whisked into a
     little warm liquid emulsifies, and splits if the sauce simmers.[^fdl] See
     [mounting with butter](../methods/stocks-and-sauces.md#mounting-with-butter).
+- **[Astringency](../perception/astringency.md):** fat softens the astringency
+    of tea, wine, and pickles, and they make it seem less fatty in
+    turn.[^peyrot]
 
 [^atk]: ["Science: Shimmer and Smoke."](https://www.americastestkitchen.com/how_tos/9830-science-shimmer-and-smoke)
     _America's Test Kitchen._
@@ -44,3 +47,8 @@ Fat carries heat past the boiling point of water and dissolves what water can't.
 
 [^fdl]: ["Beurre Monté: The French Butter Technique Explained."](https://www.finedininglovers.com/explore/recipes/beurre-monte-french-butter-technique-explained)
     _Fine Dining Lovers._ 26 August 2026.
+
+[^peyrot]: Peyrot des Gachons, C., E. Mura, C. Speziale, C. J. Favreau, G. F.
+    Dubreuil, and P. A. S. Breslin.
+    ["Opponency of Astringent and Fat Sensations."](https://doi.org/10.1016/j.cub.2012.08.017)
+    _Current Biology_ 22 (19): R829-R830. 2012.

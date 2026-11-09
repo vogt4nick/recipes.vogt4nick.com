@@ -10,13 +10,12 @@ keeps the receptor switched on.[^zhang][^mouritsen]
 
 ## Levers
 
-- **[Glutamate](../agents/glutamate.md):** a cheese gains free glutamate as it
-    ages, because enzymes break its milk protein down into amino
-    acids.[^uic-cheese]
-- **[Nucleotides](../agents/nucleotides.md):** inosinate forms as ATP breaks
-    down in meat and fish after slaughter, and in yellowtail it peaks about 10
-    hours after killing.[^kurihara]
-- **Drying:** raw mushrooms have little guanylate, and dried shiitake have a
+- **Glutamate:** besides MSG itself, kombu, tomato, and cheese are rich in
+    it.[^kurihara] A cheese gains free glutamate as it ages, because enzymes
+    break its milk protein down into amino acids.[^uic-cheese]
+- **Inosinate:** forms as ATP breaks down in meat and fish after slaughter, and
+    in yellowtail it peaks about 10 hours after killing.[^kurihara]
+- **Guanylate:** raw mushrooms have little, and dried shiitake have a
     lot.[^kurihara]
 
 ## Methods
@@ -26,15 +25,13 @@ keeps the receptor switched on.[^zhang][^mouritsen]
 
 ## Recipes
 
-<div class="tag-listing" markdown>
-<!-- material/tags { include: [technique/umami-synergy], toc: false } -->
-</div>
+[Ramen](../../recipes/soups/ramen.md) adds MSG to chicken stock, whose chicken
+brings the inosinate.
 
 ## See also
 
-- [Kokumi](kokumi.md) -- a second receptor that makes umami fuller without a
-    taste of its own.
-- [Extraction](extraction.md) -- water is the solvent for taste compounds.
+- [Extraction](../mechanics/extraction.md) -- water is the solvent for taste
+    compounds.
 
 [^kurihara]: Kurihara, Kenzo.
     ["Umami the Fifth Basic Taste: History of Studies on Receptor Mechanisms and Role as a Food Flavor."](https://doi.org/10.1155/2015/189402)

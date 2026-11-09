@@ -52,9 +52,7 @@ tags_allowed = [
   "occasion/weekday-dinner",
   "occasion/work-lunch",
   "technique/aeration",
-  "technique/astringency",
   "technique/caramelization",
-  "technique/chemesthesis",
   "technique/denaturation",
   "technique/diffusion",
   "technique/emulsification",
@@ -62,10 +60,8 @@ tags_allowed = [
   "technique/fermentation",
   "technique/gelatinization",
   "technique/gluten-development",
-  "technique/kokumi",
   "technique/maillard-reaction",
   "technique/pectin-breakdown",
-  "technique/umami-synergy",
 ]
 tags_hierarchy = true
 

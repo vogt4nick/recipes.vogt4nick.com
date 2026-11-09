@@ -2,7 +2,6 @@
 tags:
   - cuisine/mediterranean
   - occasion/weekday-dinner
-  - technique/chemesthesis
   - technique/emulsification
 ---
 

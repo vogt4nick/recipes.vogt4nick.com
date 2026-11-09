@@ -1,8 +1,3 @@
----
-tags:
-  - technique/kokumi
----
-
 === "Ingredients"
 
     - 500 g Chicken Flesh, roasted
