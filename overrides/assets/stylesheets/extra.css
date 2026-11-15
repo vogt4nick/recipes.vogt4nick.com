@@ -67,10 +67,6 @@
     text-decoration: underline;
 }
 
-.md-typeset a {
-    color: var(--md-typeset-a-color);
-}
-
 .md-typeset p,
 .md-typeset ul,
 .md-typeset ol,
@@ -574,10 +570,6 @@
     letter-spacing: 0.05em;
 }
 
-.md-main__inner {
-    margin-top: 0.8rem;
-}
-
 .md-content__inner {
     padding-top: 0.2rem;
 }
@@ -704,6 +696,7 @@
    content lands in the same place on every page, centered in the window. */
 .md-main__inner {
     justify-content: center;
+    margin-top: 0.8rem;
 }
 
 /* Pages without a section nav (e.g. Menus) reserve the same left column, so
