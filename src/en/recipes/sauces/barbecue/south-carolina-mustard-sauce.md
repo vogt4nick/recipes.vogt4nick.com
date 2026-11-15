@@ -31,6 +31,6 @@
 
 !!! tip "Thin with vinegar, 1 t at a time, if too thick to squeeze."
 
-[^barbecuebible]: [Hale, Daniel.](https://barbecuebible.com/2026/05/19/carolina-barbecue-sauce/)
+[^barbecuebible]: [Hale, Daniel.](https://barbecuebible.com/2022/03/25/meet-the-team-at-barbecue-bible/)
     ["Three Carolina Barbecue Sauces for Pulled Pork."](https://barbecuebible.com/2026/05/19/carolina-barbecue-sauce/)
     [_Barbecue Bible._](https://barbecuebible.com/) 19 May 2026.
