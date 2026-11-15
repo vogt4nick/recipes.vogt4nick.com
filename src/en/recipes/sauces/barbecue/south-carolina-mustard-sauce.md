@@ -9,8 +9,8 @@
     - 75 g Brown Sugar, packed
     - 80 g Distilled White Vinegar
     - 55 g Water
-    - 1/2 T Hot Sauce
     - 1/4 t Salt
+    - Hot Sauce
 
     !!! info "Yields about 250 g."
 
