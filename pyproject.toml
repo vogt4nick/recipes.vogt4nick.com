@@ -11,3 +11,4 @@ exclude-newer = "14 days"
 
 [tool.uv.exclude-newer-package]
 zensical = false
+zensical-ui = false
