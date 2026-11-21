@@ -1,231 +1,252 @@
 # Writing Recipes
 
-Write new recipes in the exact format, voice, and style used throughout the
-repository.
+This guide covers English recipes under `src/en/recipes/`. Austrian recipes
+under `src/at/` follow their own older conventions (`Zutaten`, `Zubereitung`,
+prose directions); for those, copy the format of a sibling file.
 
-## Requirement Severity
+The key words MUST, MUST NOT, SHOULD, SHOULD NOT and MAY follow
+[RFC 2119](https://www.rfc-editor.org/rfc/rfc2119). Only MUST and MUST NOT are
+hard requirements. A SHOULD can be broken for a good reason.
 
-The requirements below use [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119)
-key words to clarify severity; i.e.
+## Workflow
 
-1. **MUST** This word means that the definition is an absolute requirement of
-    the recipe.
-2. **MUST NOT** This phrase means that the definition is an absolute prohibition
-    of the recipe.
-3. **SHOULD** This word means that there may exist valid reasons in particular
-    circumstances to ignore a particular item, but the full recipe must be
-    understood and carefully weighed before choosing a different course.
-4. **SHOULD NOT** This phrase means that there may exist valid reasons in
-    particular circumstances when the particular behavior is acceptable or even
-    useful, but the full implications should be understood and the case
-    carefully weighed before implementing any behavior described with this
-    label.
-5. **MAY** This word, or the adjective "OPTIONAL", mean that an item is truly
-    optional. You may choose to include the item because a particular recipe
-    requires it or because you feel that it enhances the recipe while someone
-    else may omit the same item.
+1. **Read the whole source.** If the page won't load, ask the user to paste the
+    recipe text. Never rebuild a recipe from search snippets or memory.
+2. **Pick a location.** Put the file in the category folder that fits the dish
+    and look at two or three siblings there before writing. Navigation is
+    sorted by title automatically, so no nav file needs editing.
+3. **Copy the [template](#template)** and fill it in.
+4. **Look up ingredient names.** Before naming an ingredient, search existing
+    recipes for the name already in use, e.g.
+    `grep -rhoE 'Garlic[A-Za-z ]*' src/en/recipes | sort | uniq -c | sort -rn`.
+5. **Run `prek run --all-files`** and fix every failure. mdformat rewraps lines
+    to 80 columns and renumbers lists, so don't hand-wrap. The strict Zensical
+    build catches broken links and tags that aren't allowed.
+6. **Go through the [checklist](#checklist).**
 
-## Requirements
+## Fidelity to the source
 
-- The filename MUST be kebab-case e.g. `mushroom-risotto.md`
-- The file
-    - MAY have yaml frontmatter
-        ```yaml
-        ---
-        title: Millet pulao
-        tags:
-            - vegan
-        ---
-        ```
-    - MAY have an h1 header Use when the title differs from what is automatically
-        rendered by converting kebab-case to Sentence case
-        ```markdown
-        # Blueberry pie
-        ```
-    - MUST have an ingredients block
-        ```markdown
-        === "Ingredients"
-            * 100 g Dry White Couscous
-            * 250 g Water
-            * 1/4 t Salt
-        ```
-    - SHOULD have a directions block
-        ```markdown
-        === "Directions"
-            1. **Preheat oven** to 350ºF (177ºC).
-            2. **Mix dry mix.** Whisk dry mix and spices until combined.
-        ```
-    - MAY use post-tab admonitions to advise storage, technique, equipment, etc
-        Such admonitions are defined outside the ingredients and direction blocks
-        ```markdown
-        !!! info "Yields 4 servings"
-        ```
-    - SHOULD have citations
-        ```markdown
-        [^mitzewich]:
-            Mitzewich, John. ["French Toast - The Fancy Brunch Restaurant Style."](https://foodwishes.blogspot.com/2007/09/french-toast-fancy-brunch-restaurant.html) _Food Wishes._ 17 September 2007.
+The user checks every draft against its source and deletes anything that was
+added or guessed.
 
-        ```
-- Every admonition
-    - SHOULD use the type that matches its purpose, because the site prints the
-        type as a label before the title e.g. `!!! tip "Chill dough."` renders as
-        `[TIP] Chill dough.`
-    - MUST NOT repeat the type in the title
-        - Good: `!!! tip "Chill dough."`
-        - Bad: `!!! tip "Tip: Chill dough."`
-    - When a `quote`, SHOULD use the title for attribution e.g.
-        `!!! quote "Julia Child in _Mastering the Art of French Cooking_"`, which
-        renders below the quoted passage as an em-dash attribution line
-- When present, the file's yaml frontmatter
-    - MAY define only `tags`
-    - MAY define `tags` and `title`
-    - MUST NOT define only `title`. Use the h1 header instead
-- When present, the file's h1 header MUST be sentence case e.g. "Roasted
-    potatoes" e.g. "Tortilla Española" because Española is a proper noun
-- The ingredients block
-    - MUST begin with '=== "Ingredients"'
-    - MUST include an unordered list of ingredients
-    - MAY use an `!!! info` post-tab admonition to denote yield after the
-        ingredients e.g. `!!! info "Yields 4 servings"`
-    - MAY include optional ingredients e.g. `1/4 t Cinnamon (optional)`
-- Every ingredient
-    - SHOULD be prefixed by a measurement e.g. `100 g Green Peas`
-    - MAY have no measurement, deferring to the cook's discretion e.g. `Salt`
-    - MUST be named in its whole, unprocessed form; processing belongs in the
-        preparation
-        - Good: `Black Peppercorn, ground`
-        - Bad: `Black Pepper, ground`
-    - MUST be formatted in Title Case
-    - MAY be followed by ingredient preparations e.g. 1 Onion, minced
-    - MAY x-link to another recipe e.g.
-        `1000 g [Vegetable Stock](../../soups/stocks/vegetable-stock.md)` e.g.
-        `4 [Yellow Onions, halved, thinly sliced, caramelized](../../vegetables/caramelized-onions.md)`
-        When x-linking, include all ingredient preparations inside the link text
-- Every ingredient preparation
-    - MUST be formatted in lower case
-    - MUST be separated from the ingredient by a trailing comma e.g. 1 Onion,
-        minced
-    - MAY include multiple preparations separated by commas
-        - Good: `3 Potatoes, parboiled, chopped`
-        - Bad: `3 Potatoes, parboiled and chopped`
-    - SHOULD use "minced", "chopped" or "roughly chopped" when referring to cuts
-        - Good: `3 Potatoes, roughly chopped`
-        - Good: `1 Onion, minced`
-        - Bad: `1 Onion, diced`
-    - MAY use a more specific description when precision matters for the recipe
-        e.g. `150 g Haloumi or Paneer, chopped into ~7 mm thick slices`
-- Every ingredient measurement
-    - MUST use one of the following units: g (grams), t (teaspoons), T
-        (tablespoons)
-    - MUST NOT use size qualifiers (e.g. large, medium, small) as a measurement
-        - Bad: `1 large Onion, diced`
-        - Good: `1 Onion, diced`
-        - Good: `150 g Onion, diced`
-    - SHOULD be denoted by a whole number or fraction and a unit e.g. 1/2 t Black
-        Peppercorn e.g. 1 t Salt e.g. 2 T Flour e.g. 240 g Water
-    - MAY be denoted only by a number e.g. 1 Celery Stalk e.g. 2 Onions
-- Every optional ingredient MUST be suffixed with `(optional)`
-- The directions block
-    - MUST begin with '=== "Directions"'
-    - MUST include an ordered list of directions
-    - MAY use a `!!! tip` post-tab admonition
-        ```markdown
-        !!! tip "Chill dough 30 minutes before baking if the kitchen is hot and the dough is loose and greasy."
-        ```
-    - MAY use a `!!! warning` post-tab admonition
-        ```markdown
-        ??? warning "Do not drain in a fine mesh colander."
-            We want to keep the dry, starchy outsides of the potatoes. These will crisp and help the texture. A fine colander will grate these off.
-        ```
-- Every direction
-    - MUST use imperative voice (see [voice and tone](#voice-and-tone))
-        - Good: `Boil water.`
-        - Good: `Bring water to the boil.`
-        - Bad: `The water should be boiling.`
-        - Bad: `You should boil the water when you're ready.`
-    - MUST begin with a command formatted in bold
-        ```markdown
-        1. **Preheat oven** to 200ºC (400ºF).
-        ```
-    - SHOULD avoid definite articles
-        - Good: `Cook vegetables.`
-        - Bad: `Cook the vegetables.`
-    - SHOULD have a description following the command
-        - Good: `1. **Mix ingredients.**`
-        - Good: `1. **Preheat oven** to 200ºC (400ºF).`
-        - Good:
-            `1. **Season.** Mix bread and garlic oil to coat evenly. Add seasonings. Mix evenly.`
-    - MAY begin with an imperative sentence fragment
-        ```markdown
-        1. **Infuse garlic oil.** Mix oil and garlic. Rest at least 1 hour at room temperature. Strain garlic.
-        ```
-    - MUST be imperative.
-- Every direction advising temperatures MUST express ºC first with ºF in
-    parentheses e.g. `177ºC (350ºF)`
-- Every direction advising timing
-    - MAY express times as a range e.g. `5-7 minutes`, `25-30 minutes`
-    - MUST express time before the outcome indicator
-        - Good: `**Sweat** onions 5-7 minutes until soft and translucent.`
-        - Bad: `**Sweat** onions until soft and translucent, about 5-7 minutes.`
-    - SHOULD advise how one knows when to stop
-        - Good: `**Sweat** onions 5-7 minutes until soft and translucent.`
-        - Bad: `**Saute** onions 5-7 minutes.`
-        - Passive steps with a fixed duration are exempt: e.g.
-            `**Soak lentils** 30 minutes in salted water.`
-    - MUST NOT editorialize or use subjective quality language
-        - Good: `**Roast** 25-30 minutes until edges are browned.`
-        - Bad: `**Roast** 25-30 minutes until beautifully caramelized.`
-        - Bad: `**Roast** 25-30 minutes until perfectly golden.`
-    - MUST NOT include encouragement, praise, or commentary on the result
-        - Good: `**Rest** dough 1 hour.`
-        - Bad: `**Rest** dough 1 hour -- this is the key to a great texture!`
+- MUST NOT invent quantities, yields, temperatures, times or dates the source
+    doesn't give. Leave the yield out if the source doesn't state one. If the
+    publication date can't be found, ask the user for it.
+- MUST NOT add preparations the source doesn't give (e.g. "torn by hand").
+- MUST NOT add substitutions, serving suggestions or tips the source doesn't
+    give.
+- MUST convert measurements to the site's [units](#measurements).
+- SHOULD order directions the way a cook works through them, even when the
+    source orders them differently, e.g. starting the pasta water before
+    rendering the guanciale.
 
-## Voice and Tone
+## Template
 
-- **Direct and technical**: precise measurements, temperatures, and times
-- **No narrative**: no personal stories, no "my grandmother used to..."
-- **Imperative**: "Whisk until smooth", not "You should whisk until smooth"
-- **Anticipatory**: include a tip when a step is tricky or has a common failure
-    mode
-- **No filler**: if a step is simple, the description is simple
+```markdown
+---
+tags:
+  - cuisine/mediterranean
+  - occasion/weekday-dinner
+---
 
-## Standard Ingredient Names
+# Pasta e ceci
 
-The ingredients below must follow their standard naming convention to avoid
-ambiguity between recipes.
+=== "Ingredients"
 
-### Spices
+    - 320 g Dry Ditalini
+    - 2 T Olive Oil
+    - 2 Garlic Cloves, minced
+    - 1 Fresh Rosemary Sprig
+    - 400 g Cooked Chickpeas
+    - 1000 g [Vegetable Stock](../soups/stocks/vegetable-stock.md)
+    - For Serving
+        - 30 g Parmigiano-Reggiano, finely grated
+        - Black Peppercorn, ground
+        - Salt
 
-- **Black Peppercorn**; a.k.a. Black Pepper, Pepper
-    - Good: `1/2 t Black Peppercorn, ground`
-    - Bad: `1/2 t Black Pepper`
-    - Bad: `1/2 t Pepper`
-- **Paprika**
-- **Garlic Powder**
-- **Onion Powder**
+    !!! info "Yields 4 servings"
 
-### Seeds
+=== "Directions"
 
-Seeds are often easily prepared from whole.
+    1. **Sweat garlic.** Warm oil over medium-low heat. Add garlic and rosemary.
+        Cook 1-2 minutes until fragrant.
+    2. **Simmer chickpeas.** Add chickpeas and stock. Simmer 10 minutes. Remove
+        rosemary.
+    3. **Cook pasta** in pot 10-12 minutes until al dente, stirring often.
+    4. **Serve** with parmigiano and pepper.
 
-- **Cumin Seed**; a.k.a. Cumin
-    - Good: `1 t Cumin Seed`
-    - Good: `1 t Cumin Seed, ground`
-    - Bad: `1 t Cumin`
-- **Coriander Seed**
-- **Dried Cayenne Pepper**; a.k.a. Cayenne, Cayenne Pepper
-    - Good: `1/4 t Dried Cayenne Pepper, ground`
-    - Bad: `1/4 t Cayenne`
+    ??? tip "Mash a third of the chickpeas before adding pasta."
 
-### Herbs
+        The broken chickpeas thicken the broth.
 
-- Herbs
-    - MUST be named as fresh or dried
-        - Good: `Dried Coriander Leaves`
-        - Good: `Fresh Coriander Leaves`
-        - Bad: `Coriander`
-    - MUST name what part of the plant
-        - Good: `Dried Coriander Leaves`
-        - Good: `Fresh Coriander Leaves and Stems`
-        - Good: `Fresh Coriander Roots`
-        - Bad: `Fresh Coriander`
+[^hazan]: {{ cite.hazan_italian_cooking }} 112.
+```
+
+A file has these parts, in this order: frontmatter, h1, the tabs, any
+admonitions about the whole recipe, the citation.
+
+## File
+
+- The filename MUST be kebab-case and SHOULD be the short dish name, e.g.
+    `carbonara.md`, not the source URL's slug.
+- A recipe whose variants live in its own folder MUST be that folder's
+    `index.md`, e.g. `grains/rice/japanese-rice/index.md` beside `onigiri.md`.
+- Frontmatter MAY define `tags`. Every tag MUST appear in `tags_allowed` in
+    `zensical.toml`. Any other tag fails the build.
+- Frontmatter MAY define `title` alongside `tags`, but MUST NOT define `title`
+    alone; use an h1 instead.
+- The h1 MAY be added when the title generated from the filename would be wrong,
+    e.g. a proper noun ("Tortilla Española", "Eastern North Carolina vinegar
+    sauce"), a hyphenated word ("tomato-vinegar"), or an `index.md`. It MUST be
+    sentence case.
+
+## Tabs
+
+- A recipe MUST have an `=== "Ingredients"` tab and SHOULD follow it with an
+    `=== "Directions"` tab.
+- A recipe MAY add other tabs, e.g. a variant's ingredients
+    (`=== "Japanese Ingredients"`), `=== "Nutrition"` or
+    `=== "Baker's Percentage"`.
+- Tab content MUST be indented 4 spaces.
+
+## Ingredients
+
+- Ingredients MUST be an unordered list using `-`.
+- Ingredients SHOULD be listed in the order they're used.
+- Each ingredient is written as `measurement Name, preparation, preparation`,
+    e.g. `150 g Guanciale, rind removed, chopped into ~1 cm thick strips`.
+- Related ingredients that go into the pot together MAY be grouped under a label
+    with the items nested beneath it. Existing labels include `Seasonings`,
+    `Spices`, `Sauce`, `Dressing`, `Filling`, `Garnish` and `For Serving`.
+- An ingredient MAY link to another recipe with a relative path to its `.md`
+    file. The preparations MUST be inside the link text, e.g.
+    `4 [Yellow Onions, halved, caramelized](../vegetables/caramelized-onions.md)`.
+
+### Measurements
+
+- A measurement MUST use `g`, `t` (teaspoon) or `T` (tablespoon), or be a bare
+    count, e.g. `2 Onions`, `1 Bay Leaf`, `3 Garlic Cloves`.
+- A measurement MUST NOT be a size such as large, medium or small. Write
+    `1 Onion` or `150 g Onion`, not `1 large Onion`.
+- Amounts SHOULD be whole numbers or fractions, e.g. `1/2 t`, `240 g`.
+- An ingredient MAY have no measurement when the amount is to taste, e.g.
+    `Salt`.
+
+### Names
+
+- The name MUST be Title Case.
+- The name MUST be the whole, unprocessed ingredient; processing goes in the
+    preparation. Write `Black Peppercorn, ground`, not `Black Pepper`.
+- Dry pasta and grains SHOULD be prefixed `Dry`, e.g. `Dry Spaghetti`,
+    `Dry Basmati Rice`.
+- Herbs MUST say fresh or dried and which part of the plant, e.g.
+    `Fresh Coriander Leaves and Stems`, `Dried Thyme Leaves`, never `Coriander`.
+- Spices MUST use these names: `Black Peppercorn` (not Pepper or Black Pepper),
+    `Cumin Seed` (not Cumin), `Coriander Seed`, `Dried Cayenne Pepper` (not
+    Cayenne), `Paprika`, `Garlic Powder`, `Onion Powder`.
+- Alternatives MAY be joined with "or", e.g. `Ketchup or Tomato Sauce`.
+- An optional ingredient MUST end with `(optional)`.
+
+### Preparations
+
+- Preparations MUST be lower case and follow the name after a comma.
+- Several preparations MUST be separated by commas, not "and". Write
+    `3 Potatoes, parboiled, chopped`, not `parboiled and chopped`.
+- Cuts SHOULD be "minced", "chopped" or "roughly chopped", not "diced". A more
+    exact cut MAY be given when it matters, e.g. `chopped into ~7 mm slices`.
+
+## Directions
+
+- Directions MUST be an ordered list. A recipe with a single step MAY write it
+    as one unnumbered line, e.g. `**Mix ingredients** until combined.`
+- Each step MUST open with a bolded imperative command. The command is either a
+    fragment followed by a period (`**Render guanciale.** Cook guanciale...`) or
+    the start of the sentence (`**Preheat oven** to 200ºC (400ºF).`).
+- Steps MUST be imperative. Write `Boil water.`, not
+    `The water should be boiling.` or `You'll want to boil the water.`
+- Steps SHOULD be terse and SHOULD drop "the". Write `Boil water.`, not
+    `Bring a large pot of salted water to the boil.`
+- Steps MUST NOT editorialize, praise or encourage. Write
+    `until edges are browned`, not `until beautifully caramelized` or
+    `this is the secret to great texture!`
+
+### Temperatures
+
+- Temperatures MUST give ºC first and ºF in parentheses, e.g. `177ºC (350ºF)`.
+- The degree mark MUST be `º` (U+00BA), which the site already uses, not `°`.
+
+### Times
+
+- A time MAY be a range joined with a hyphen, e.g. `5-7 minutes`.
+- A time MUST come before its doneness cue. Write
+    `Sweat onions 5-7 minutes until translucent.`, not
+    `Sweat onions until translucent, about 5-7 minutes.`
+- A timed step SHOULD say how to tell it's done. Passive steps of fixed length
+    are exempt, e.g. `**Soak lentils** 30 minutes.`
+- Times of an hour or more SHOULD be written `2 hours`, or `1h 30m` when minutes
+    are included.
+
+## Admonitions
+
+- An admonition SHOULD go inside the tab it concerns, indented with that tab's
+    content: yield and storage in Ingredients, technique in Directions. It MAY
+    go after the tabs, unindented, when it concerns the whole recipe.
+- Use `!!!` when the cook must see it, and `???` (collapsed) when it has a body
+    the cook can skip.
+- A body MUST be separated from the title line by a blank line and indented 4
+    more spaces than the title line.
+- The type SHOULD match the purpose, because the site prints the type before the
+    title:
+    - `info` for yield and storage, e.g. `!!! info "Yields 4 servings"`.
+    - `tip` for a step that's easy to get wrong.
+    - `question` for a substitution the source gives.
+    - `caution` or `warning` for a step that ruins the dish if done wrong.
+    - `note` for background.
+    - `quote` for a quoted passage, with the attribution as the title, e.g.
+        `!!! quote "Julia Child in _Mastering the Art of French Cooking_"`.
+- The title MUST NOT repeat the type. Write `!!! tip "Chill dough."`, not
+    `!!! tip "Tip: Chill dough."`
+- Admonitions SHOULD be rare. Add one only for a tip in the source that no step
+    already covers. Don't add "serve immediately", restatements of a step, or
+    substitutions the source doesn't give.
+
+## Citations
+
+- A recipe SHOULD cite its source as a footnote at the end of the file. The
+    footnote isn't referenced from the text; the build keeps it anyway.
+- The footnote key SHOULD be the author's surname or the site name in lower
+    case, e.g. `[^mitzewich]`, `[^giallozafferano]`. Numbered keys like `[^1]`
+    are legacy.
+- A web page with a named author:
+    ```markdown
+    [^mitzewich]: Mitzewich, John.
+        ["French Toast - The Fancy Brunch Restaurant Style."](https://foodwishes.blogspot.com/2007/09/french-toast-fancy-brunch-restaurant.html)
+        _Food Wishes._ 17 September 2007.
+    ```
+- A web page with no named author leads with the linked site name:
+    ```markdown
+    [^giallozafferano]: [_GialloZafferano._](https://ricette.giallozafferano.it/)
+        ["Spaghetti alla Carbonara."](https://ricette.giallozafferano.it/Spaghetti-alla-Carbonara.html)
+        3 December 2006.
+    ```
+- A book MUST be cited with its key from `[project.extra.cite]` in
+    `zensical.toml`, followed by page numbers or a chapter, e.g.
+    `[^bittman]: {{ cite.bittman_how_to_cook_everything }} "Lentils, Six Ways."`
+    A book that isn't listed yet MUST be added there first.
+
+## Checklist
+
+Before finishing, confirm each of these:
+
+- No quantity, yield, time, temperature, date, preparation or tip that isn't in
+    the source.
+- Tags are all in `tags_allowed`.
+- Every measurement is `g`, `t`, `T` or a count; no cups, ounces or sizes.
+- Every ingredient name was checked against existing recipes, is Title Case, and
+    names the unprocessed ingredient.
+- Every step opens with a bold imperative and drops "the".
+- Every temperature is `ºC (ºF)` with `º`.
+- Every time comes before its doneness cue.
+- Every admonition earns its place.
+- The citation footnote has a date, or the user has been asked for one.
+- `prek run --all-files` passes.
