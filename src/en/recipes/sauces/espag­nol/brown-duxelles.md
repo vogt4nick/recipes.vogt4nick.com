@@ -1,8 +1,3 @@
----
-tags:
-  - technique/emulsification
----
-
 === "Ingredients"
 
     - Sautéed Mushrooms

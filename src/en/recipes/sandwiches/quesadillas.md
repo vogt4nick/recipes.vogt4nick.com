@@ -2,7 +2,6 @@
 tags:
   - cuisine/latin-american
   - occasion/weekday-dinner
-  - technique/maillard-reaction
 ---
 
 === "Ingredients"

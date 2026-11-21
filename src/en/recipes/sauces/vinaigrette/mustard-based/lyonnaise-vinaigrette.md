@@ -1,8 +1,3 @@
----
-tags:
-  - technique/emulsification
----
-
 === "Ingredients"
 
     - 15 g Shallots, minced

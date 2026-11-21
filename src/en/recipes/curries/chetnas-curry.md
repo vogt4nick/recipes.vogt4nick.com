@@ -2,7 +2,6 @@
 tags:
   - cuisine/indian
   - occasion/weekday-dinner
-  - technique/extraction
 ---
 
 # Chetna's curry

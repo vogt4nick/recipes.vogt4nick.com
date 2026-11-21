@@ -1,7 +1,6 @@
 ---
 tags:
   - occasion/meal-prep
-  - technique/maillard-reaction
 ---
 
 === "Ingredients"

@@ -1,8 +1,3 @@
----
-tags:
-  - technique/maillard-reaction
----
-
 === "Ingredients"
 
     - 25 g Unsalted Butter

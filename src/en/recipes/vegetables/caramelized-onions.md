@@ -1,9 +1,3 @@
----
-tags:
-  - technique/extraction
-  - technique/maillard-reaction
----
-
 === "Ingredients"
 
     - 30 g Neutral Oil or Lard

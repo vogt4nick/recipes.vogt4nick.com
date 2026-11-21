@@ -51,17 +51,6 @@ tags_allowed = [
   "occasion/potluck",
   "occasion/weekday-dinner",
   "occasion/work-lunch",
-  "technique/aeration",
-  "technique/caramelization",
-  "technique/denaturation",
-  "technique/diffusion",
-  "technique/emulsification",
-  "technique/extraction",
-  "technique/fermentation",
-  "technique/gelatinization",
-  "technique/gluten-development",
-  "technique/maillard-reaction",
-  "technique/pectin-breakdown",
 ]
 tags_hierarchy = true
 

@@ -1,8 +1,3 @@
----
-tags:
-  - technique/aeration
----
-
 === "Ingredients"
 
     - Batter

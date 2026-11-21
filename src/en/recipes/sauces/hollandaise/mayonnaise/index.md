@@ -1,7 +1,5 @@
 ---
 title: Mayonnaise
-tags:
-  - technique/emulsification
 ---
 
 === "Ingredients"

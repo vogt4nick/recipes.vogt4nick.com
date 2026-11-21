@@ -1,8 +1,3 @@
----
-tags:
-  - technique/maillard-reaction
----
-
 === "Ingredients"
 
     - Onions, peeled, quartered

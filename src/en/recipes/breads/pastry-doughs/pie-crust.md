@@ -1,8 +1,3 @@
----
-tags:
-  - technique/gluten-development
----
-
 === "Julia's Ingredients"
 
     - 200 g White Wheat Flour

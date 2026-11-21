@@ -2,8 +2,6 @@
 tags:
   - cuisine/mediterranean
   - occasion/weekday-dinner
-  - technique/extraction
-  - technique/emulsification
 ---
 
 === "Ingredients"

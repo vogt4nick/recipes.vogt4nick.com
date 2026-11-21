@@ -1,8 +1,3 @@
----
-tags:
-  - technique/maillard-reaction
----
-
 === "Ingredients"
 
     - Zucchinis, chopped into thumb-sized pieces

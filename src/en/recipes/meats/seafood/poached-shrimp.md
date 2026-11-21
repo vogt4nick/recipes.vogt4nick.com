@@ -1,8 +1,3 @@
----
-tags:
-  - technique/denaturation
----
-
 === "Ingredients"
 
     - 500 g Raw Shrimp

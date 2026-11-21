@@ -1,8 +1,3 @@
----
-tags:
-  - technique/gelatinization
----
-
 # Erdäpfelkas (potato cheese)
 
 === "Ingredients"

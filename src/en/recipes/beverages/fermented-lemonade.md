@@ -1,8 +1,3 @@
----
-tags:
-  - technique/fermentation
----
-
 === "Ingredients"
 
     - 110 g White Granulated Sugar

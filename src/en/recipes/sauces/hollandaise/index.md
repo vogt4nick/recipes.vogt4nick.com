@@ -1,7 +1,5 @@
 ---
 title: Hollandaise
-tags:
-  - technique/emulsification
 ---
 
 === "Ingredients"

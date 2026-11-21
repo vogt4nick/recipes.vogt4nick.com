@@ -1,8 +1,5 @@
 ---
 title: Pan sauce
-tags:
-  - technique/extraction
-  - technique/gelatinization
 ---
 
 === "Ingredients"

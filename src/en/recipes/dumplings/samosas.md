@@ -1,7 +1,6 @@
 ---
 tags:
   - cuisine/indian
-  - technique/maillard-reaction
 ---
 
 === "Ingredients"

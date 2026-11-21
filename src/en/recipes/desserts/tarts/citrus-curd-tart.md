@@ -1,8 +1,3 @@
----
-tags:
-  - technique/aeration
----
-
 === "Ingredients"
 
     - 150 g Granulated Sugar

@@ -1,8 +1,3 @@
----
-tags:
-  - technique/diffusion
----
-
 === "Ingredients"
 
     - 100 g Fresh Beetroot, peeled, thinly sliced

@@ -1,8 +1,3 @@
----
-tags:
-  - technique/emulsification
----
-
 === "Ingredients"
 
     - 180 g [Mayonnaise](../../hollandaise/mayonnaise/index.md)

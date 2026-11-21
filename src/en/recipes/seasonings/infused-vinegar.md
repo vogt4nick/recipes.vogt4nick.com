@@ -1,8 +1,3 @@
----
-tags:
-  - technique/extraction
----
-
 === "Ingredients"
 
     - 240 g Vinegar

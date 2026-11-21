@@ -1,8 +1,3 @@
----
-tags:
-  - technique/fermentation
----
-
 === "Ingredients"
 
     - 25 g Fermented Rye Malt (Roggenbackmalz)

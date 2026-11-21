@@ -1,8 +1,3 @@
----
-tags:
-  - technique/extraction
----
-
 === "Ingredients"
 
     - 60 g Olive Oil

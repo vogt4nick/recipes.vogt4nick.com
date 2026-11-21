@@ -1,8 +1,3 @@
----
-tags:
-  - technique/maillard-reaction
----
-
 === "Ingredients"
 
     - Asparagus, woody ends trimmed

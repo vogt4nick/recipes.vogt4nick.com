@@ -1,8 +1,3 @@
----
-tags:
-  - technique/diffusion
----
-
 === "Ingredients"
 
     - 300 g Medium-Grain Salt

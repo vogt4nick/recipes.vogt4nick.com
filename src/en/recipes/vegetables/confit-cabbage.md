@@ -1,9 +1,3 @@
----
-tags:
-  - technique/pectin-breakdown
-  - technique/maillard-reaction
----
-
 === "Ingredients"
 
     - 1/4 Cabbage, sliced into wedges

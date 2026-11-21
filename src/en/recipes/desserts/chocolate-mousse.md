@@ -1,8 +1,3 @@
----
-tags:
-  - technique/aeration
----
-
 === "Ingredients"
 
     - 100 g Dark Chocolate (62% cacao)

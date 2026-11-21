@@ -1,8 +1,3 @@
----
-tags:
-  - technique/maillard-reaction
----
-
 === "Ingredients"
 
     - 1 T Olive Oil

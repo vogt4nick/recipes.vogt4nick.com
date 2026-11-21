@@ -1,8 +1,3 @@
----
-tags:
-  - technique/extraction
----
-
 === "Ingredients"
 
     - 220 g Vegetable oil

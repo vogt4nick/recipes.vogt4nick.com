@@ -1,7 +1,6 @@
 ---
 tags:
   - cuisine/american
-  - technique/extraction
 ---
 
 === "Ingredients"

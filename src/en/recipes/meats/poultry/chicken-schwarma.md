@@ -2,7 +2,6 @@
 tags:
   - cuisine/levantine
   - occasion/weekday-dinner
-  - technique/diffusion
 ---
 
 === "Ingredients"

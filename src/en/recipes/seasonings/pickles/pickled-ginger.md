@@ -1,8 +1,3 @@
----
-tags:
-  - technique/diffusion
----
-
 === "Ingredients"
 
     - 100 g Fresh Ginger Root, peeled, thinly sliced

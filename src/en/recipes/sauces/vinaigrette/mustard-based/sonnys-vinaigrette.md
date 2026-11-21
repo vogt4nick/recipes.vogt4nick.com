@@ -1,7 +1,5 @@
 ---
 title: Sonny's vinaigrette
-tags:
-  - technique/emulsification
 ---
 
 === "Ingredients"

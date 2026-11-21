@@ -1,8 +1,3 @@
----
-tags:
-  - technique/gelatinization
----
-
 === "Ingredients"
 
     - 30 g Unsalted Butter

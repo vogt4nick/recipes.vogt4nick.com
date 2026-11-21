@@ -1,8 +1,3 @@
----
-tags:
-  - technique/diffusion
----
-
 === "Ingredients"
 
     - 500 g Fruit, crushed, chopped, etc.

@@ -1,9 +1,6 @@
 ---
 tags:
   - cuisine/continental
-  - technique/diffusion
-  - technique/denaturation
-  - technique/maillard-reaction
 ---
 
 === "Ingredients"

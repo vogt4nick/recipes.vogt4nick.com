@@ -2,8 +2,6 @@
 tags:
   - cuisine/continental
   - cuisine/austrian
-  - technique/gelatinization
-  - technique/maillard-reaction
 ---
 
 # Bayerische Semmelknödel (Bavarian-style bread dumplings)

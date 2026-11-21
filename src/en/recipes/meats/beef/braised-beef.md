@@ -1,11 +1,3 @@
----
-tags:
-  - technique/extraction
-  - technique/denaturation
-  - technique/maillard-reaction
-  - technique/gelatinization
----
-
 === "Ingredients"
 
     - Neutral Oil

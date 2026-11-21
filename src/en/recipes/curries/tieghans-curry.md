@@ -1,8 +1,3 @@
----
-tags:
-  - technique/maillard-reaction
----
-
 # Tieghan's curry
 
 === "Ingredients"

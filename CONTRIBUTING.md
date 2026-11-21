@@ -88,9 +88,6 @@ most. Levers stay on the mechanic and perception pages.
 
 ### Linking recipes
 
-- Tag each recipe with `technique/<mechanic-slug>` for each mechanic it relies
-    on. A mechanic page's Recipes list is built from these tags. Perceptions,
-    methods, and agents aren't tagged.
 - On perception and method pages, name recipes in prose, saying how each one
     uses the effect or method.
 

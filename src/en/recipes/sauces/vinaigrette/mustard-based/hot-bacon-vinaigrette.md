@@ -1,9 +1,3 @@
----
-tags:
-  - technique/emulsification
-  - technique/gelatinization
----
-
 === "Ingredients"
 
     - 220 g Bacon, roughly chopped

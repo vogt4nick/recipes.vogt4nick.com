@@ -1,9 +1,3 @@
----
-tags:
-  - technique/maillard-reaction
-  - technique/diffusion
----
-
 === "Ingredients"
 
     - 400 g Water

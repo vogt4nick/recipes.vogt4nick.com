@@ -1,9 +1,5 @@
 ---
 title: BBRRR chicken
-tags:
-  - technique/maillard-reaction
-  - technique/diffusion
-  - technique/denaturation
 ---
 
 === "Ingredients"

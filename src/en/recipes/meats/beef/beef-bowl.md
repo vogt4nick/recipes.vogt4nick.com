@@ -1,9 +1,3 @@
----
-tags:
-  - technique/extraction
-  - technique/maillard-reaction
----
-
 === "Ingredients"
 
     - 600 g 80/20 Ground Beef

@@ -1,7 +1,6 @@
 ---
 tags:
   - cuisine/continental
-  - technique/maillard-reaction
 ---
 
 === "Ingredients"

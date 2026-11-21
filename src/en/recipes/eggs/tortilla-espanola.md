@@ -1,7 +1,6 @@
 ---
 tags:
   - cuisine/mediterranean
-  - technique/aeration
 ---
 
 # Tortilla Española

@@ -1,7 +1,5 @@
 ---
 title: Bechamel Sauce
-tags:
-  - technique/gelatinization
 ---
 
 === "Ingredients"

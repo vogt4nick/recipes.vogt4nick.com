@@ -1,7 +1,5 @@
 ---
 title: Basmati rice
-tags:
-  - technique/diffusion
 ---
 
 === "Ingredients"

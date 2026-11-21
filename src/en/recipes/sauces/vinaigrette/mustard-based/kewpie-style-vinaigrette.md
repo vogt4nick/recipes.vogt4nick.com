@@ -1,7 +1,5 @@
 ---
 title: Kewpie-style vinaigrette
-tags:
-  - technique/emulsification
 ---
 
 === "Ingredients"

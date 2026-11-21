@@ -2,7 +2,6 @@
 tags:
   - cuisine/american
   - cuisine/southern
-  - technique/maillard-reaction
 ---
 
 === "Ingredients"

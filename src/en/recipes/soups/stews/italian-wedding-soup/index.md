@@ -1,7 +1,6 @@
 ---
 tags:
   - cuisine/mediterranean
-  - technique/maillard-reaction
 ---
 
 # Italian wedding soup

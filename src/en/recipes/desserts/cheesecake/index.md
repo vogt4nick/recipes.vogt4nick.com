@@ -1,7 +1,5 @@
 ---
 title: Cheesecake
-tags:
-  - technique/aeration
 ---
 
 === "Ingredients"

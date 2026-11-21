@@ -1,9 +1,3 @@
----
-tags:
-  - technique/denaturation
-  - technique/maillard-reaction
----
-
 === "Ingredients"
 
     - Salmon Fillets, boned

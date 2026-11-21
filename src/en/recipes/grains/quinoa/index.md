@@ -1,7 +1,5 @@
 ---
 title: Quinoa
-tags:
-  - technique/diffusion
 ---
 
 === "Ingredients"

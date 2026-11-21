@@ -4,7 +4,6 @@ tags:
   - cuisine/midwest
   - occasion/meal-prep
   - occasion/work-lunch
-  - technique/maillard-reaction
 ---
 
 === "Ingredients"

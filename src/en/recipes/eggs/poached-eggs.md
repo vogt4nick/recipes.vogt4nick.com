@@ -1,8 +1,3 @@
----
-tags:
-  - technique/denaturation
----
-
 === "Ingredients"
 
     - Eggs
